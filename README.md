@@ -3,7 +3,8 @@ This is a place of bug hunters, where one can contribute writeups on Bug-Hunting
 
 1) OWASP Top 10 Vulnerabilities.
 2) Bug-Bounty Tools.
-2) Chained Vulnerabilities and Exploitation.
-3) Creative Vulnerabilities.
+3) Chained Vulnerabilities and Exploitation.
+4) News Updates on Hacking.
+5) Creative Vulnerabilities.
 
-Evberyday, new writeups.Have Fun....!!!!!
+Evberyday, new updates...So keep exploring..Have Fun....!!!!!
