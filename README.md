@@ -1,4 +1,4 @@
-# Bug-bounty Writeups : For All, by All
+# Bug-bounty Writeups : For All, by All (still collecting and updating)
 This is a place of bug hunters, where one can contribute writeups on Bug-Hunting. It includes :
 
 1) OWASP Top 10 Vulnerabilities.
