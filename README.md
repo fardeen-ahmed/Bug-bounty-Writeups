@@ -13,9 +13,9 @@ Evberyday, new updates...So keep exploring..Have Fun....!!!!!
 ## OWASP Top-10 Vulnerabilities :-
 
 ## Bug-Bounty Tools :-
+<a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :-Electron JS Browser To Find XSS Vulnerabilities Automatically</a>
 
 ## Bug-Hunting Witeups :-
-
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">- Hijacking accounts with host manipulation using collaborator</a>
 
 ## Cyber News and Updates (2021-2022) :-
