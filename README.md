@@ -23,6 +23,8 @@ Evberyday, new updates...So keep exploring..Have Fun....!!!!!
 
 <a href="https://research.nccgroup.com/2020/12/08/tool-release-httpsignatures-a-burp-suite-extension-implementing-http-signatures/">-HTTPSignatures: A Burp Suite Extension Implementing HTTP Signatures</a>
 
+<a href="https://portswigger.net/blog/burp-suite-roadmap-for-2021">-Burp Suite roadmap for 2021</a>
+
 ## Bug-Hunting Witeups :-
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
 
@@ -48,5 +50,9 @@ Evberyday, new updates...So keep exploring..Have Fun....!!!!!
 <a href="https://darrenmartyn.ie/2021/01/24/visualdoor-sonicwall-ssl-vpn-exploit/">-VisualDoor: SonicWall SSL-VPN Exploit</a>
 
 ## Creative Vulnerabilities :-
+
+<a href="https://susanwagle123.medium.com/idor-revealing-images-cdn-links-6589e19bdbaf">IDOR Revealing Images CDN Links </a>
+
+<a href="https://bugbountyhunter.medium.com/how-nepali-woman-finds-bug-in-facebook-gets-awarded-3000-37f5209c6dec">How Nepali Woman Finds bug in Facebook, Gets Awarded $3000 </a>
 
 ## Career Updates
