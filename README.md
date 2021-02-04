@@ -28,6 +28,8 @@ Evberyday, new updates...So keep exploring..Have Fun....!!!!!
 ## Bug-Hunting Witeups :-
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
 
+<a href="https://dun930nmaster.medium.com/finding-my-first-bug-http-request-smuggling-5fdc89581fe2">Finding My First Bug: HTTP Request Smuggling</a>
+
 <a href="https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7">-Disclose the FB profile of Facebook employees who create official announcement messages (Bug Bounty)</a>
 
 <a href="https://medium.com/tag/bug-bounty/latest">Exploiting CSRF chaining with IDOR</a>
