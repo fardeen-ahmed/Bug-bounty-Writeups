@@ -28,7 +28,7 @@ Evberyday, new updates...So keep exploring..Have Fun....!!!!!
 
 <a href="https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7">-Disclose the FB profile of Facebook employees who create official announcement messages (Bug Bounty)</a>
 
-<a href="https://medium.com/tag/bug-bounty/latest"->Exploiting CSRF chaining with IDOR</a>
+<a href="https://medium.com/tag/bug-bounty/latest">Exploiting CSRF chaining with IDOR</a>
 
 <a href="https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab">-Bypassing the Protections — MFA Bypass Techniques for the Win</a>
 
