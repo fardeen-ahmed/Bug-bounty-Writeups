@@ -1,4 +1,4 @@
-<h1> <align="center">CyberSecurity Section 👨‍💻 : For All, by All (regular updates)</h1>
+<h1> <text align="center">CyberSecurity Section 👨‍💻 : For All, by All (regular updates)</h1>
 This is a place of all the Offensive Cybersecurity people, where one can contribute writeups on Bug-Hunting. It includes :
 
 <h3> 1) OWASP Top 10 Vulnerabilities. (Crash Course) </h3>
