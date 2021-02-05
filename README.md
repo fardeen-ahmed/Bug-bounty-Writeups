@@ -1,14 +1,14 @@
-# CyberSecurity Section : For All, by All (regular updates)
+# CyberSecurity Section 👨‍💻 : For All, by All 😎 (regular updates)
 This is a place of all the Offensive Cybersecurity people, where one can contribute writeups on Bug-Hunting. It includes :
 
-1) OWASP Top 10 Vulnerabilities. (Crash Course)
-2) Bug-Bounty Tools.
-3) Bug-Hunting Witeups.
-4) Bugs for beginners, Intermediate and Advance Exploitation.
-4) Cyber News and Updates (2021-2022)
-5) Career Updates in CyberSecurity.
+<h1> 1) OWASP Top 10 Vulnerabilities. (Crash Course) </h1>
+<h1> 2) Bug-Bounty Tools. </h1>
+<h1> 3) Bug-Hunting Witeups. </h1>
+<h1> 4) Bugs for beginners, Intermediate and Advance Exploitation. </h1>
+<h1> 5) Cyber News and Updates (2021-2022) </h1>
+<h1> 6) Career Updates in CyberSecurity. </h1>
 
-Evberyday, new updates...So keep exploring..Have Fun....!!!!!
+Everyday, new updates...So keep exploring..growing..& Have Fun....!!!!!
 
 ## OWASP Top-10 Vulnerabilities (Updating soon...)
 
