@@ -1,7 +1,7 @@
 # CyberSecurity Section : For All, by All (regular updates)
 This is a place of all the Offensive Cybersecurity people, where one can contribute writeups on Bug-Hunting. It includes :
 
-1) OWASP Top 10 Vulnerabilities.
+1) OWASP Top 10 Vulnerabilities. (Crash Course)
 2) Bug-Bounty Tools.
 3) Bug-Hunting Witeups.
 4) Bugs for beginners, Intermediate and Advance Exploitation.
@@ -10,7 +10,7 @@ This is a place of all the Offensive Cybersecurity people, where one can contrib
 
 Evberyday, new updates...So keep exploring..Have Fun....!!!!!
 
-## OWASP Top-10 Vulnerabilities :-
+## OWASP Top-10 Vulnerabilities (Updating soon...)
 
 ## Bug-Bounty Tools :-
 <a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :-Electron JS Browser To Find XSS Vulnerabilities Automatically</a>
@@ -69,4 +69,4 @@ Evberyday, new updates...So keep exploring..Have Fun....!!!!!
 
 <a href="https://medium.com/mobis3c/insecure-data-storage-clear-text-storage-of-sensitive-information-hard-coded-strings-fb7b056c0d0">Insecure Data Storage: Clear Text Storage of Sensitive Information</a>
 
-## Career Updates
+## Career Updates (Updating Soon...)
