@@ -1,4 +1,4 @@
-# CyberSecurity Section 👨‍💻 : For All, by All 😎 (regular updates)
+# CyberSecurity Section 👨‍💻 : For All, by All (regular updates)
 This is a place of all the Offensive Cybersecurity people, where one can contribute writeups on Bug-Hunting. It includes :
 
 <h3> 1) OWASP Top 10 Vulnerabilities. (Crash Course) </h3>
@@ -15,7 +15,7 @@ This is a place of all the Offensive Cybersecurity people, where one can contrib
 ## Bug-Bounty Tools :-
 <a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :-Electron JS Browser To Find XSS Vulnerabilities Automatically</a>
 
-<a href="https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/">-Reverse engineering Flutter for Android + Doldrums (Doldrums is a reverse engineering tool for Flutter apps)<a href ="https://github.com/rscloura/Doldrums">_Doldrum Tool_</a></a>
+<a href="https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/">-Reverse engineering Flutter for Android + Doldrums (Doldrums is a reverse engineering tool for Flutter apps)<a href ="https://github.com/rscloura/Doldrums">Tool Link = _Doldrum Tool_</a></a>
 
 <a href="https://www.hackingarticles.in/android-penetration-testing-frida/">-Android Penetration Testing: Frida </a>
 
