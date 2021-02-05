@@ -10,9 +10,9 @@ This is a place of all the Offensive Cybersecurity people, where one can contrib
 
 <h4> Everyday, new updates...So keep exploring..growing..& Have Fun....!!!!! </h4>
 
-## OWASP Top-10 Vulnerabilities (Updating soon...)
+<h2> OWASP Top-10 Vulnerabilities (Updating soon...) </h2>
 
-## Bug-Bounty Tools :-
+<h2> Bug-Bounty Tools :- </h2>
 <a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :-Electron JS Browser To Find XSS Vulnerabilities Automatically</a>
 
 <a href="https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/">-Reverse engineering Flutter for Android + Doldrums (Doldrums is a reverse engineering tool for Flutter apps)<a href ="https://github.com/rscloura/Doldrums">Tool Link = _Doldrum Tool_</a></a>
@@ -25,7 +25,7 @@ This is a place of all the Offensive Cybersecurity people, where one can contrib
 
 <a href="https://portswigger.net/blog/burp-suite-roadmap-for-2021">-Burp Suite roadmap for 2021</a>
 
-## Bug-Hunting Witeups :-
+<h2> Bug-Hunting Witeups :- </h2>
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
 
 <a href="https://dun930nmaster.medium.com/finding-my-first-bug-http-request-smuggling-5fdc89581fe2">Finding My First Bug: HTTP Request Smuggling</a>
@@ -46,7 +46,7 @@ This is a place of all the Offensive Cybersecurity people, where one can contrib
 
 <a href="https://v3d.medium.com/full-account-takeover-via-password-reset-flaw-my-first-blog-10d6e11df2e0">Full Account Takeover via Password Reset Flaw</a>
 
-## Cyber News and Updates (2021-2022) :-
+<h2> Cyber News and Updates (2021-2022) :- </h2>
 <a href="https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook">-Launching Internal & Non-Exported Deeplinks On Facebook</a>
 
 <a href="https://www.nowsecure.com/blog/2021/01/27/reverse-engineering-imessage-leveraging-the-hardware-to-protect-the-software/">-Reverse Engineering iMessage: Leveraging the Hardware to Protect the Software</a>
@@ -61,7 +61,7 @@ This is a place of all the Offensive Cybersecurity people, where one can contrib
 
 <a href="https://portswigger.net/daily-swig/vue-to-a-kill-xss-vulnerability-in-vue-js-revealed">-XSS vulnerability in Vue.js revealed</a>
 
-## Creative Vulnerabilities :-
+<h2> Creative Vulnerabilities :- </h2>
 
 <a href="https://susanwagle123.medium.com/idor-revealing-images-cdn-links-6589e19bdbaf">IDOR Revealing Images CDN Links </a>
 
@@ -69,4 +69,4 @@ This is a place of all the Offensive Cybersecurity people, where one can contrib
 
 <a href="https://medium.com/mobis3c/insecure-data-storage-clear-text-storage-of-sensitive-information-hard-coded-strings-fb7b056c0d0">Insecure Data Storage: Clear Text Storage of Sensitive Information</a>
 
-## Career Updates (Updating Soon...)
+<h2> Career Updates (Updating Soon...) </h2>
