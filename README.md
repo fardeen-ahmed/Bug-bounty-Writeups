@@ -24,7 +24,7 @@ This is a place of all the Offensive Cybersecurity people, where one can contrib
 
 <a href="https://github.com/aquasecurity/trivy">-A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI</a>
 
-<a href="https://research.nccgroup.com/2020/12/08/tool-release-httpsignatures-a-burp-suite-extension-implementing-http-signatures/">-HTTPSignatures: A Burp Suite Extension Implementing HTTP Signatures</a>
+<a href="https://research.nccgroup.com/2020/12/08/tool-release-httpsignatures-a-burp-suite-extension-implementing-http-signatures/">-HTTP Signatures: A Burp Suite Extension Implementing HTTP Signatures</a>
 
 <a href="https://portswigger.net/blog/burp-suite-roadmap-for-2021">-Burp Suite roadmap for 2021</a>
 
