@@ -44,17 +44,29 @@ Evberyday, new updates...So keep exploring..Have Fun....!!!!!
 
 <a href="https://www.intezer.com/blog/research/how-we-hacked-azure-functions-and-escaped-docker/">-How We Hacked Azure Functions and Escaped Docker </a>
 
+<a href="https://v3d.medium.com/full-account-takeover-via-password-reset-flaw-my-first-blog-10d6e11df2e0">Full Account Takeover via Password Reset Flaw</a>
+
 ## Cyber News and Updates (2021-2022) :-
 <a href="https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook">-Launching Internal & Non-Exported Deeplinks On Facebook</a>
 
 <a href="https://www.nowsecure.com/blog/2021/01/27/reverse-engineering-imessage-leveraging-the-hardware-to-protect-the-software/">-Reverse Engineering iMessage: Leveraging the Hardware to Protect the Software</a>
 
+<a href="https://blog.intigriti.com/2021/02/03/bug-bytes-108-browser-to-automate-xss-finding-bug-bounty-collaborators-ending-the-samesite-confusion/"> Browser to automate XSS, Finding bug bounty collaborators & Ending the SameSite confusion </a>
+
+<a href="https://www.hackerone.com/blog/announcing-hacker-hill">Announcing The Hacker of The Hill</a>
+
 <a href="https://darrenmartyn.ie/2021/01/24/visualdoor-sonicwall-ssl-vpn-exploit/">-VisualDoor: SonicWall SSL-VPN Exploit</a>
+
+<a href="https://portswigger.net/daily-swig/playing-fetch-new-xs-leak-exploits-browser-redirects-to-break-user-privacy">-New XS-Leak exploits browser redirects to break user privacy</a>
+
+<a href="https://portswigger.net/daily-swig/vue-to-a-kill-xss-vulnerability-in-vue-js-revealed">-XSS vulnerability in Vue.js revealed</a>
 
 ## Creative Vulnerabilities :-
 
 <a href="https://susanwagle123.medium.com/idor-revealing-images-cdn-links-6589e19bdbaf">IDOR Revealing Images CDN Links </a>
 
 <a href="https://bugbountyhunter.medium.com/how-nepali-woman-finds-bug-in-facebook-gets-awarded-3000-37f5209c6dec">How Nepali Woman Finds bug in Facebook, Gets Awarded $3000 </a>
+
+<a href="https://medium.com/mobis3c/insecure-data-storage-clear-text-storage-of-sensitive-information-hard-coded-strings-fb7b056c0d0">Insecure Data Storage: Clear Text Storage of Sensitive Information</a>
 
 ## Career Updates
