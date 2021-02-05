@@ -8,7 +8,7 @@ This is a place of all the Offensive Cybersecurity people, where one can contrib
 <h3> 5) Cyber News and Updates (2021-2022) </h3>
 <h3> 6) Career Updates in CyberSecurity. </h3>
 
-<h4> Everyday, new updates...So keep exploring..growing..& Have Fun....!!!!! </h4>
+<h4> Everyday, new updates...So keep exploring..growing..& Have Fun....!!!!! </h4><br><br>
 
 <h2> OWASP Top-10 Vulnerabilities (Updating soon...) </h2>
 
