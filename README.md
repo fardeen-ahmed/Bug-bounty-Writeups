@@ -12,7 +12,7 @@
 <h3> 6) Creative Vulnerabilities </h3>
 <h3> 7) Interviews with White Hat </h3>
 <h3> 8) Career Updates in CyberSecurity. </h3>
-<br><br><br>
+<br><br>
 
 <h2> OWASP Top-10 Vulnerabilities (Updating soon...) </h2>
 
