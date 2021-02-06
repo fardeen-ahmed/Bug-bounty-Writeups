@@ -28,9 +28,11 @@ This is a place of all the Offensive Cybersecurity people, where one can contrib
 
 <a href="https://research.nccgroup.com/2020/12/08/tool-release-httpsignatures-a-burp-suite-extension-implementing-http-signatures/">-HTTP Signatures: A Burp Suite Extension Implementing HTTP Signatures</a>
 
-<a href="https://github.com/projectdiscovery/cloudlist">Cloudlist is a tool for listing Assets from multiple Cloud Providers</a>
+<a href="https://github.com/projectdiscovery/cloudlist">-Cloudlist is a tool for listing Assets from multiple Cloud Providers</a>
 
 <a href="https://portswigger.net/blog/burp-suite-roadmap-for-2021">-Burp Suite roadmap for 2021</a>
+
+<a href="https://github.com/rotemreiss/uddup">-Urls de-duplication tool for better recon.</a>
 
 <h2> Bug-Hunting Witeups :- </h2>
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
@@ -39,7 +41,7 @@ This is a place of all the Offensive Cybersecurity people, where one can contrib
 
 <a href="https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7">-Disclose the FB profile of Facebook employees who create official announcement messages (Bug Bounty)</a>
 
-<a href="https://medium.com/tag/bug-bounty/latest">Exploiting CSRF chaining with IDOR</a>
+<a href="https://medium.com/tag/bug-bounty/latest">-Exploiting CSRF chaining with IDOR</a>
 
 <a href="https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab">-Bypassing the Protections — MFA Bypass Techniques for the Win</a>
 
@@ -76,13 +78,13 @@ This is a place of all the Offensive Cybersecurity people, where one can contrib
 
 <a href="https://medium.com/mobis3c/insecure-data-storage-clear-text-storage-of-sensitive-information-hard-coded-strings-fb7b056c0d0">-Insecure Data Storage: Clear Text Storage of Sensitive Information</a>
 
-<a href="https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40">Escalating SSRF to RCE</a>
+<a href="https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40">-Escalating SSRF to RCE</a>
 
 <a href="https://gist.github.com/FanqXu/36c5e0070fd8e0b6646993b4e386a6b1">CVE-2021-25646 Apache Druid RCE POC</a>
 
 <h2> Interviews with White Hat </h2>
 
-<a href="https://www.hackerone.com/blog/hacker-spotlight-interview-hazimaslam">HACKER SPOTLIGHT: INTERVIEW WITH HAZIMASLAM</a>
+<a href="https://www.hackerone.com/blog/hacker-spotlight-interview-hazimaslam">-HACKER SPOTLIGHT: INTERVIEW WITH HAZIMASLAM</a>
 
 
 <h2> Career Updates (Updating Soon...) </h2>
