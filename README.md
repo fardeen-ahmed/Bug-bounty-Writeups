@@ -36,6 +36,8 @@
 <h2> Bug-Hunting Witeups :- </h2>
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
 
+<a href="https://www.darkreading.com/vulnerabilities---threats/googles-payout-to-bug-hunters-hits-new-high/d/d-id/1340076 ">Google's Payout to Bug Hunters Hits New High</a>
+
 <a href="https://dun930nmaster.medium.com/finding-my-first-bug-http-request-smuggling-5fdc89581fe2">-Finding My First Bug: HTTP Request Smuggling</a>
 
 <a href="https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7">-Disclose the FB profile of Facebook employees who create official announcement messages (Bug Bounty)</a>
@@ -57,6 +59,14 @@
 <h2> Cyber News and Updates (2021-2022) :- </h2>
 <a href="https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook">-Launching Internal & Non-Exported Deeplinks On Facebook</a>
 
+<a href="https://thehackernews.com/2021/02/top-5-bug-bounty-programs-to-watch-in.html">Top 5 Bug Bounty Programs to Watch in 2021</a>
+
+<a href="https://blog.intigriti.com/2021/02/03/bug-bytes-108-browser-to-automate-xss-finding-bug-bounty-collaborators-ending-the-samesite-confusion/">Browser to automate XSS, Finding bug bounty collaborators & Ending the SameSite confusion</a>
+
+<a href="https://netsec.expert/posts/xss-in-2021/">Cheatsheet: XSS that works in 202</a>
+
+<a href="https://reconshell.com/cve-2021-2109-weblogic-server-remote-code-execution-vulnerability-analysis/">CVE-2021-2109 Weblogic Server Remote Code Execution vulnerability analysis</a>
+
 <a href="https://www.nowsecure.com/blog/2021/01/27/reverse-engineering-imessage-leveraging-the-hardware-to-protect-the-software/">-Reverse Engineering iMessage: Leveraging the Hardware to Protect the Software</a>
 
 <a href="https://blog.intigriti.com/2021/02/03/bug-bytes-108-browser-to-automate-xss-finding-bug-bounty-collaborators-ending-the-samesite-confusion/">-Browser to automate XSS, Finding bug bounty collaborators & Ending the SameSite confusion </a>
@@ -75,11 +85,19 @@
 
 <a href="https://bugbountyhunter.medium.com/how-nepali-woman-finds-bug-in-facebook-gets-awarded-3000-37f5209c6dec">-How Nepali Woman Finds bug in Facebook, Gets Awarded $3000 </a>
 
+<a href=https://www-bleepingcomputer-com.cdn.ampproject.org/v/s/www.bleepingcomputer.com/news/security/new-phishing-attack-uses-morse-code-to-hide-malicious-urls/amp/?amp_js_v=a6&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#aoh=16127320383040&csi=0&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnew-phishing-attack-uses-morse-code-to-hide-malicious-urls%2F"">New phishing attack uses Morse code to hide malicious URLs</a>
+
+<a href="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610">Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies</a>
+
+<a href="https://blog.silentsignal.eu/2021/02/08/abusing-jwt-public-keys-without-the-public-key/">Abusing JWT public keys without the public key</a>
+
 <a href="https://medium.com/mobis3c/insecure-data-storage-clear-text-storage-of-sensitive-information-hard-coded-strings-fb7b056c0d0">-Insecure Data Storage: Clear Text Storage of Sensitive Information</a>
 
 <a href="https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40">-Escalating SSRF to RCE</a>
 
 <a href="https://gist.github.com/FanqXu/36c5e0070fd8e0b6646993b4e386a6b1">CVE-2021-25646 Apache Druid RCE POC</a>
+
+<a href="https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a">Blind XSS in Google Analytics Admin Panel — $3133.70</a>
 
 <h2> Interviews with White Hat </h2>
 
