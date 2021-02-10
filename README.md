@@ -95,7 +95,7 @@
 
 <a href="https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40">-Escalating SSRF to RCE</a>
 
-<a href="https://gist.github.com/FanqXu/36c5e0070fd8e0b6646993b4e386a6b1">CVE-2021-25646 Apache Druid RCE POC</a>
+<a href="https://gist.github.com/FanqXu/36c5e0070fd8e0b6646993b4e386a6b1">-CVE-2021-25646 Apache Druid RCE POC</a>
 
 <a href="https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a">-Blind XSS in Google Analytics Admin Panel — $3133.70</a>
 
