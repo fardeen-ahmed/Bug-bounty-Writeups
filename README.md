@@ -85,7 +85,7 @@
 
 <a href="https://bugbountyhunter.medium.com/how-nepali-woman-finds-bug-in-facebook-gets-awarded-3000-37f5209c6dec">-How Nepali Woman Finds bug in Facebook, Gets Awarded $3000 </a>
 
-<a href=https://www-bleepingcomputer-com.cdn.ampproject.org/v/s/www.bleepingcomputer.com/news/security/new-phishing-attack-uses-morse-code-to-hide-malicious-urls/amp/?amp_js_v=a6&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#aoh=16127320383040&csi=0&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnew-phishing-attack-uses-morse-code-to-hide-malicious-urls%2F"">New phishing attack uses Morse code to hide malicious URLs</a>
+<a href="https://www-bleepingcomputer-com.cdn.ampproject.org/v/s/www.bleepingcomputer.com/news/security/new-phishing-attack-uses-morse-code-to-hide-malicious-urls/amp/?amp_js_v=a6&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#aoh=16127320383040&csi=0&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnew-phishing-attack-uses-morse-code-to-hide-malicious-urls%2F">New phishing attack uses Morse code to hide malicious URLs</a>
 
 <a href="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610">Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies</a>
 
