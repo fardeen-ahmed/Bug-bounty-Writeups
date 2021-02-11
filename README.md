@@ -33,7 +33,7 @@
 
 <a href="https://github.com/rotemreiss/uddup">-Urls de-duplication tool for better recon.</a>
 
-<h2> Bug-Hunting Witeups :- </h2>
+<h2> Bug-Hunting Writeups :- </h2>
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
 
 <a href="https://www.darkreading.com/vulnerabilities---threats/googles-payout-to-bug-hunters-hits-new-high/d/d-id/1340076 ">Google's Payout to Bug Hunters Hits New High</a>
@@ -41,6 +41,8 @@
 <a href="https://dun930nmaster.medium.com/finding-my-first-bug-http-request-smuggling-5fdc89581fe2">-Finding My First Bug: HTTP Request Smuggling</a>
 
 <a href="https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7">-Disclose the FB profile of Facebook employees who create official announcement messages (Bug Bounty)</a>
+
+<a href="https://rakeshelamaran.medium.com/oauth-misconfig-leads-to-account-takeover-7a360e6d9cac">-Oauth Misconfig — Leads to Account Takeover</a>
 
 <a href="https://medium.com/tag/bug-bounty/latest">-Exploiting CSRF chaining with IDOR</a>
 
@@ -59,7 +61,7 @@
 <h2> Cyber News and Updates (2021-2022) :- </h2>
 <a href="https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook">-Launching Internal & Non-Exported Deeplinks On Facebook</a>
 
-<a href="https://thehackernews.com/2021/02/top-5-bug-bounty-programs-to-watch-in.html">Top 5 Bug Bounty Programs to Watch in 2021</a>
+<a href="https://thehackernews.com/2021/02/top-5-bug-bounty-programs-to-watch-in.html">-Top 5 Bug Bounty Programs to Watch in 2021</a>
 
 <a href="https://blog.intigriti.com/2021/02/03/bug-bytes-108-browser-to-automate-xss-finding-bug-bounty-collaborators-ending-the-samesite-confusion/">-Browser to automate XSS, Finding bug bounty collaborators & Ending the SameSite confusion</a>
 
@@ -88,6 +90,8 @@
 <a href="https://www-bleepingcomputer-com.cdn.ampproject.org/v/s/www.bleepingcomputer.com/news/security/new-phishing-attack-uses-morse-code-to-hide-malicious-urls/amp/?amp_js_v=a6&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#aoh=16127320383040&csi=0&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnew-phishing-attack-uses-morse-code-to-hide-malicious-urls%2F">-New phishing attack uses Morse code to hide malicious URLs</a>
 
 <a href="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610">-Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies</a>
+
+<a href="https://medium.com/bugbountywriteup/a-tale-of-2nd-xxx-bounty-ability-to-gain-persistence-on-facebook-events-as-an-unremovable-9408338ccf8f">-A Tale of 2nd $xxx Bounty from Facebook</a>
 
 <a href="https://blog.silentsignal.eu/2021/02/08/abusing-jwt-public-keys-without-the-public-key/">-Abusing JWT public keys without the public key</a>
 
