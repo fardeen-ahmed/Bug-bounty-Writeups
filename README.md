@@ -37,6 +37,8 @@
 <h2> Bug-Hunting Writeups :- </h2>
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
 
+<a href="https://godiego.tech/posts/STO/">-Subdomain Takeover in Azure: making a PoC</a>
+
 <a href="https://www.darkreading.com/vulnerabilities---threats/googles-payout-to-bug-hunters-hits-new-high/d/d-id/1340076 ">Google's Payout to Bug Hunters Hits New High</a>
 
 <a href="https://dun930nmaster.medium.com/finding-my-first-bug-http-request-smuggling-5fdc89581fe2">-Finding My First Bug: HTTP Request Smuggling</a>
@@ -87,6 +89,8 @@
 <a href="https://susanwagle123.medium.com/idor-revealing-images-cdn-links-6589e19bdbaf">-IDOR Revealing Images CDN Links </a>
 
 <a href="https://bugbountyhunter.medium.com/how-nepali-woman-finds-bug-in-facebook-gets-awarded-3000-37f5209c6dec">-How Nepali Woman Finds bug in Facebook, Gets Awarded $3000 </a>
+
+<a href="https://blog.intigriti.com/2021/02/10/bug-bytes-109-hacking-big-tech-companies-with-dependency-confusion-using-crypto-to-forge-jwts-xss-that-works-in-2021/">-Hacking big tech companies with Dependency Confusion, Using crypto to forge JWTs & XSS that works in 2021</a>
 
 <a href="https://www-bleepingcomputer-com.cdn.ampproject.org/v/s/www.bleepingcomputer.com/news/security/new-phishing-attack-uses-morse-code-to-hide-malicious-urls/amp/?amp_js_v=a6&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#aoh=16127320383040&csi=0&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnew-phishing-attack-uses-morse-code-to-hide-malicious-urls%2F">-New phishing attack uses Morse code to hide malicious URLs</a>
 
