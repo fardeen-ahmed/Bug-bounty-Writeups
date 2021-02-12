@@ -16,6 +16,13 @@
 
 <h2> OWASP Top-10 Vulnerabilities (Updating soon...) </h2>
 
+<h3> 1) Injection </h3>
+```
+Ranked 1st in OWASP Top 10 Vulnerability list, this attack is when attacker injects 'Malicious inputs' in parameters (search box/bar, login parameter etc.), and when these parameters reflects back those results which are injected by attacker, and not specirfied by the organization what they programmed there website/web-applications into, then this type of attack is called Injection attack
+
+Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, command Injection, encoded injection attacks and many more.
+
+```
 <h2> Bug-Bounty Tools :- </h2>
 <a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :-Electron JS Browser To Find XSS Vulnerabilities Automatically</a>
 
