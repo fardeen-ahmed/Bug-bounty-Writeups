@@ -30,6 +30,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/">-Reverse engineering Flutter for Android + Doldrums (Doldrums is a reverse engineering tool for Flutter apps)<a href ="https://github.com/rscloura/Doldrums">Tool Link = _Doldrum Tool_</a></a>
 
+<a href="https://github.com/hahwul/gee">-Gee is tool of stdin to each files and stdout. It is similar to the tee command, but there are more functions for convenience. In addition, it was written as go</a>
+
 <a href="https://www.hackingarticles.in/android-penetration-testing-frida/">-Android Penetration Testing: Frida </a>
 
 <a href="https://github.com/aquasecurity/trivy">-A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI</a>
@@ -56,6 +58,10 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://rakeshelamaran.medium.com/oauth-misconfig-leads-to-account-takeover-7a360e6d9cac">-Oauth Misconfig — Leads to Account Takeover</a>
 
 <a href="https://medium.com/tag/bug-bounty/latest">-Exploiting CSRF chaining with IDOR</a>
+
+<a href="https://ltsirkov.medium.com/gitlab-just-another-ssrf-issue-483bc040392b">-Just another SSRF issue</a>
+
+<a href="https://medium.com/@ltsirkov/gitlab-server-side-request-forgery-in-project-import-page-6fdb9ef423e4">-Server Side Request Forgery in “Project Import” page.</a>
 
 <a href="https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab">-Bypassing the Protections — MFA Bypass Techniques for the Win</a>
 
@@ -100,11 +106,17 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://blog.intigriti.com/2021/02/10/bug-bytes-109-hacking-big-tech-companies-with-dependency-confusion-using-crypto-to-forge-jwts-xss-that-works-in-2021/">-Hacking big tech companies with Dependency Confusion, Using crypto to forge JWTs & XSS that works in 2021</a>
 
+<a href="https://www.aon.com/cyber-solutions/aon_cyber_labs/finding-more-idors-tips-and-tricks/">-Finding More IDORs – Tips And Tricks</a>
+
 <a href="https://www-bleepingcomputer-com.cdn.ampproject.org/v/s/www.bleepingcomputer.com/news/security/new-phishing-attack-uses-morse-code-to-hide-malicious-urls/amp/?amp_js_v=a6&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#aoh=16127320383040&csi=0&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnew-phishing-attack-uses-morse-code-to-hide-malicious-urls%2F">-New phishing attack uses Morse code to hide malicious URLs</a>
 
 <a href="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610">-Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies</a>
 
+<a href="https://lohigowda.medium.com/how-i-found-blind-xss-on-flipkart-6b22199f3496">-How I Found Blind XSS On Flipkart</a>
+
 <a href="https://medium.com/bugbountywriteup/a-tale-of-2nd-xxx-bounty-ability-to-gain-persistence-on-facebook-events-as-an-unremovable-9408338ccf8f">-A Tale of 2nd $xxx Bounty from Facebook</a>
+
+<a href="https://neroli.medium.com/oauth-misconfiguration-leads-to-full-account-takeover-22b032cb6732">-OAuth Misconfiguration Leads to Full Account takeover</a>
 
 <a href="https://blog.silentsignal.eu/2021/02/08/abusing-jwt-public-keys-without-the-public-key/">-Abusing JWT public keys without the public key</a>
 
@@ -119,6 +131,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <h2> Interviews with White Hat </h2>
 
 <a href="https://www.hackerone.com/blog/hacker-spotlight-interview-hazimaslam">-HACKER SPOTLIGHT: INTERVIEW WITH HAZIMASLAM</a>
+
+<a href="https://www.hackerone.com/blog/hacker-spotlight-interview-notnaffy">-HACKER SPOTLIGHT: INTERVIEW WITH NOTNAFFY</a>
 
 
 <h2> Career Updates (Updating Soon...) </h2>
