@@ -122,6 +122,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://medium.com/mobis3c/insecure-data-storage-clear-text-storage-of-sensitive-information-hard-coded-strings-fb7b056c0d0">-Insecure Data Storage: Clear Text Storage of Sensitive Information</a>
 
+<a href="https://blog.intigriti.com/2021/02/12/security-snacks-18-googles-open-source-vulnerabilities-a-us-towns-water-supply-hack-%EF%BB%BFwindows-chrome-security-concerns/">-Google’s Open Source Vulnerabilities, A US town’s water supply hack & ﻿Windows/Chrome security concerns</a>
+
 <a href="https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40">-Escalating SSRF to RCE</a>
 
 <a href="https://gist.github.com/FanqXu/36c5e0070fd8e0b6646993b4e386a6b1">-CVE-2021-25646 Apache Druid RCE POC</a>
