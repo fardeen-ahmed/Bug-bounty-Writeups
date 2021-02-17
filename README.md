@@ -27,6 +27,7 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <h2> Bug-Bounty Tools :- </h2>
 <a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :-Electron JS Browser To Find XSS Vulnerabilities Automatically</a>
 
+<A href="https://github.com/mdsecresearch/BurpSuiteSharpener">-Extension should add a number of UI and functional features to Burp Suite to make working with it easier</a>
 
 <a href="https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/">-Reverse engineering Flutter for Android + Doldrums (Doldrums is a reverse engineering tool for Flutter apps)<a href ="https://github.com/rscloura/Doldrums">Tool Link = _Doldrum Tool_</a></a>
 
@@ -35,6 +36,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://www.hackingarticles.in/android-penetration-testing-frida/">-Android Penetration Testing: Frida </a>
 
 <a href="https://github.com/aquasecurity/trivy">-A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI</a>
+
+<a href="https://danielmiessler.com/study/ffuf/">-A ffuf Primer</a>
 
 <a href="https://research.nccgroup.com/2020/12/08/tool-release-httpsignatures-a-burp-suite-extension-implementing-http-signatures/">-HTTP Signatures: A Burp Suite Extension Implementing HTTP Signatures</a>
 
@@ -106,9 +109,23 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://blog.intigriti.com/2021/02/10/bug-bytes-109-hacking-big-tech-companies-with-dependency-confusion-using-crypto-to-forge-jwts-xss-that-works-in-2021/">-Hacking big tech companies with Dependency Confusion, Using crypto to forge JWTs & XSS that works in 2021</a>
 
+<a href="https://mokhansec.medium.com/idor-via-websockets-allow-me-to-takeover-any-users-account-23460dacdeab">-IDOR via Websockets allow me to takeover any users account</a>
+
+<a href="https://vbharad.medium.com/stored-xss-in-icloud-com-5000-998b8c4b2075">-Stored XSS in icloud.com — $5000</a>
+
 <a href="https://www.aon.com/cyber-solutions/aon_cyber_labs/finding-more-idors-tips-and-tricks/">-Finding More IDORs – Tips And Tricks</a>
 
 <a href="https://www-bleepingcomputer-com.cdn.ampproject.org/v/s/www.bleepingcomputer.com/news/security/new-phishing-attack-uses-morse-code-to-hide-malicious-urls/amp/?amp_js_v=a6&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#aoh=16127320383040&csi=0&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnew-phishing-attack-uses-morse-code-to-hide-malicious-urls%2F">-New phishing attack uses Morse code to hide malicious URLs</a>
+
+<a href="https://mokhansec.medium.com/full-account-takeover-worth-1000-think-out-of-the-box-808f0bdd8ac7">-Full account takeover worth $1000 Think out of the box</a>
+
+<h2> Quick writeups </h2>
+
+<a href="http://ysamm.com/?p=606">-Access employees files in internal CDNs/ Access users modified/deleted content.($12500)</a>
+
+<a href="http://ysamm.com/?p=597">-View orders and financial reports lists for any page shop ($500)</a>
+
+<a href="http://ysamm.com/?p=603">-URLs in img tag aren’t safely embedded. ($500)</a>
 
 <a href="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610">-Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies</a>
 
