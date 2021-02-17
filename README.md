@@ -114,6 +114,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://susanwagle123.medium.com/idor-revealing-images-cdn-links-6589e19bdbaf">-IDOR Revealing Images CDN Links </a>
 
+<a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
+
 <a href="https://bugbountyhunter.medium.com/how-nepali-woman-finds-bug-in-facebook-gets-awarded-3000-37f5209c6dec">-How Nepali Woman Finds bug in Facebook, Gets Awarded $3000 </a>
 
 <a href="https://blog.intigriti.com/2021/02/10/bug-bytes-109-hacking-big-tech-companies-with-dependency-confusion-using-crypto-to-forge-jwts-xss-that-works-in-2021/">-Hacking big tech companies with Dependency Confusion, Using crypto to forge JWTs & XSS that works in 2021</a>
