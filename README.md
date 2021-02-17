@@ -6,12 +6,13 @@
 
 <h3> 1) OWASP Top 10 Vulnerabilities. (Crash Course) </h3>
 <h3> 2) Bug-Bounty Tools. </h3>
-<h3> 3) Bug-Hunting Witeups. </h3>
-<h3> 4) Bugs for beginners, Intermediate and Advance Exploitation. </h3>
-<h3> 5) Cyber News and Updates (2021-2022) </h3>
-<h3> 6) Creative Vulnerabilities </h3>
-<h3> 7) Interviews with White Hat </h3>
-<h3> 8) Career Updates in CyberSecurity. </h3>
+<h3> 3) Quick Writeup for fast hunting </h3>
+<h3> 4) Bug-Hunting Witeups. </h3>
+<h3> 5) Bugs for beginners, Intermediate and Advance Exploitation. </h3>
+<h3> 6) Cyber News and Updates (2021-2022) </h3>
+<h3> 7) Creative Vulnerabilities </h3>
+<h3> 8) Interviews with White Hat </h3>
+<h3> 9) Career Updates in CyberSecurity. </h3>
 <h1><text-align:"center"> {{{{{------------Start your journey now...!!!!!----------}}}}}</h1><br><br>
 
 <h2> OWASP Top-10 Vulnerabilities (Updating soon...) </h2>
@@ -46,6 +47,14 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://portswigger.net/blog/burp-suite-roadmap-for-2021">-Burp Suite roadmap for 2021</a>
 
 <a href="https://github.com/rotemreiss/uddup">-Urls de-duplication tool for better recon.</a>
+
+<h2> Quick writeups for fast hunting </h2>
+
+<a href="http://ysamm.com/?p=606">-Access employees files in internal CDNs/ Access users modified/deleted content.($12500)</a>
+
+<a href="http://ysamm.com/?p=597">-View orders and financial reports lists for any page shop ($500)</a>
+
+<a href="http://ysamm.com/?p=603">-URLs in img tag aren’t safely embedded. ($500)</a>
 
 <h2> Bug-Hunting Writeups :- </h2>
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
@@ -118,14 +127,6 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://www-bleepingcomputer-com.cdn.ampproject.org/v/s/www.bleepingcomputer.com/news/security/new-phishing-attack-uses-morse-code-to-hide-malicious-urls/amp/?amp_js_v=a6&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#aoh=16127320383040&csi=0&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fnew-phishing-attack-uses-morse-code-to-hide-malicious-urls%2F">-New phishing attack uses Morse code to hide malicious URLs</a>
 
 <a href="https://mokhansec.medium.com/full-account-takeover-worth-1000-think-out-of-the-box-808f0bdd8ac7">-Full account takeover worth $1000 Think out of the box</a>
-
-<h2> Quick writeups </h2>
-
-<a href="http://ysamm.com/?p=606">-Access employees files in internal CDNs/ Access users modified/deleted content.($12500)</a>
-
-<a href="http://ysamm.com/?p=597">-View orders and financial reports lists for any page shop ($500)</a>
-
-<a href="http://ysamm.com/?p=603">-URLs in img tag aren’t safely embedded. ($500)</a>
 
 <a href="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610">-Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies</a>
 
