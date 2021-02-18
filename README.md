@@ -56,6 +56,16 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="http://ysamm.com/?p=603">-URLs in img tag aren’t safely embedded. ($500)</a>
 
+<a href="http://ysamm.com/?p=629">-Enumerate internal cached URLs which lead to data exposure</a>
+
+<A href="http://ysamm.com/?p=627">-Leaking Facebook user information to external websites ($2000)</a>
+
+<a href="http://ysamm.com/?p=620">-Make recruiting referrals on behalf of employees ($3000)</a>
+
+<a href="http://ysamm.com/?p=625">-Open redirect in Instagram.com ($500)</a>
+
+<A href="http://ysamm.com/?p=621">-Access private information about SparkAR effect owners who has a publicly viewable portfolio ($1500)</a>
+
 <h2> Bug-Hunting Writeups :- </h2>
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
 
