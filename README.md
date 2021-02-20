@@ -106,6 +106,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://netsec.expert/posts/xss-in-2021/">-Cheatsheet: XSS that works in 202</a>
 
+<a href="https://blog.intigriti.com/2021/02/17/bug-bytes-110-scope-based-recon-finding-more-idors-how-to-hack-sharepoint/">-Scope based recon, Finding more IDORs & How to hack Sharepoint</a>
+
 <a href="https://reconshell.com/cve-2021-2109-weblogic-server-remote-code-execution-vulnerability-analysis/">-CVE-2021-2109 Weblogic Server Remote Code Execution vulnerability analysis</a>
 
 <a href="https://www.nowsecure.com/blog/2021/01/27/reverse-engineering-imessage-leveraging-the-hardware-to-protect-the-software/">-Reverse Engineering iMessage: Leveraging the Hardware to Protect the Software</a>
@@ -129,6 +131,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://bugbountyhunter.medium.com/how-nepali-woman-finds-bug-in-facebook-gets-awarded-3000-37f5209c6dec">-How Nepali Woman Finds bug in Facebook, Gets Awarded $3000 </a>
 
 <a href="https://blog.intigriti.com/2021/02/10/bug-bytes-109-hacking-big-tech-companies-with-dependency-confusion-using-crypto-to-forge-jwts-xss-that-works-in-2021/">-Hacking big tech companies with Dependency Confusion, Using crypto to forge JWTs & XSS that works in 2021</a>
+
+<a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
 
 <a href="https://mokhansec.medium.com/idor-via-websockets-allow-me-to-takeover-any-users-account-23460dacdeab">-IDOR via Websockets allow me to takeover any users account</a>
 
