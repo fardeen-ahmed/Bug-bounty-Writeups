@@ -73,6 +73,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://www.darkreading.com/vulnerabilities---threats/googles-payout-to-bug-hunters-hits-new-high/d/d-id/1340076 ">Google's Payout to Bug Hunters Hits New High</a>
 
+<a href="https://youtu.be/RtJXgGb3uJ0">-Stored XSS in Wordpress.com</a>
+
 <a href="https://dun930nmaster.medium.com/finding-my-first-bug-http-request-smuggling-5fdc89581fe2">-Finding My First Bug: HTTP Request Smuggling</a>
 
 <a href="https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7">-Disclose the FB profile of Facebook employees who create official announcement messages (Bug Bounty)</a>
@@ -156,7 +158,11 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://medium.com/mobis3c/insecure-data-storage-clear-text-storage-of-sensitive-information-hard-coded-strings-fb7b056c0d0">-Insecure Data Storage: Clear Text Storage of Sensitive Information</a>
 
+<a href="https://jayateerthag.medium.com/grafana-admin-panel-bypass-in-google-acquisition-virustotal-c5ecc9d7b8ae">-Grafana Admin Panel bypass in Google Acquisition</a>
+
 <a href="https://blog.intigriti.com/2021/02/12/security-snacks-18-googles-open-source-vulnerabilities-a-us-towns-water-supply-hack-%EF%BB%BFwindows-chrome-security-concerns/">-Google’s Open Source Vulnerabilities, A US town’s water supply hack & ﻿Windows/Chrome security concerns</a>
+
+<A href="https://medium.com/@y.shahinzadeh/rce-on-a-laravel-private-program-2fb16cfb9f5c">-RCE on a Laravel Private Program</a>
 
 <a href="https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40">-Escalating SSRF to RCE</a>
 
@@ -169,6 +175,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://www.hackerone.com/blog/hacker-spotlight-interview-hazimaslam">-HACKER SPOTLIGHT: INTERVIEW WITH HAZIMASLAM</a>
 
 <a href="https://www.hackerone.com/blog/hacker-spotlight-interview-notnaffy">-HACKER SPOTLIGHT: INTERVIEW WITH NOTNAFFY</a>
+
+<a href="https://www.hackerone.com/blog/hacker-spotlight-interview-dkd">-Hacker Spotlight: Interview with dkd</a>
 
 
 <h2> Career Updates (Updating Soon...) </h2>
