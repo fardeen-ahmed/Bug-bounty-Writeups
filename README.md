@@ -34,6 +34,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://github.com/hahwul/gee">-Gee is tool of stdin to each files and stdout. It is similar to the tee command, but there are more functions for convenience. In addition, it was written as go</a>
 
+<a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">-Top 10 Tips for Burp Suite</a>
+
 <a href="https://www.hackingarticles.in/android-penetration-testing-frida/">-Android Penetration Testing: Frida </a>
 
 <a href="https://github.com/aquasecurity/trivy">-A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI</a>
@@ -92,6 +94,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://medium.com/@kunalkhubchandani/how-i-was-rewarded-a-1000-bounty-after-abusing-file-upload-functionality-to-stored-xss-945a40ac6f94">-How I was rewarded a $1000 bounty after abusing File Upload functionality to Stored XSS Vulnerability leading to credential theft of a vistor in a website.</a>
 
 <a href="https://medium.com/bugbountywriteup/business-logic-error-methodology-easy-way-poc-s-8195d8dee95b">-Business Logic Error Methodology (easy way) + PoC-s</a>
+
+<a href="https://ashutoshmishra00x0.medium.com/account-takeover-via-response-manipulation-worth-1800-ffb242cc55c9">-Account Takeover via Response Manipulation worth 1800$</a>
 
 <a href="https://blog.intigriti.com/2021/01/27/bug-bytes-107-go-for-http-smuggling-open-source-frameworks-vs-cache-poisoning-practicing-rce-in-nodejs-apps/">-Go for HTTP smuggling, Open source frameworks vs Cache poisoning & Practicing RCE in NodeJS apps </a>
 
