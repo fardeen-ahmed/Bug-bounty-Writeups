@@ -87,6 +87,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://ltsirkov.medium.com/gitlab-just-another-ssrf-issue-483bc040392b">-Just another SSRF issue</a>
 
+<a href="https://youtu.be/Ft3H-3J67UE">-How to intercept traffic from Android apps with Objection and Burp</a>
+
 <a href="https://medium.com/@ltsirkov/gitlab-server-side-request-forgery-in-project-import-page-6fdb9ef423e4">-Server Side Request Forgery in “Project Import” page.</a>
 
 <a href="https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab">-Bypassing the Protections — MFA Bypass Techniques for the Win</a>
@@ -171,6 +173,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40">-Escalating SSRF to RCE</a>
 
 <a href="https://gist.github.com/FanqXu/36c5e0070fd8e0b6646993b4e386a6b1">-CVE-2021-25646 Apache Druid RCE POC</a>
+
+<a href="https://johnjhacking.com/blog/cve-2021-23827/">-Sakura Samurai discover cleartext pictures in Keybase Desktop Client; Windows, macOS, Linux</a>
 
 <a href="https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a">-Blind XSS in Google Analytics Admin Panel — $3133.70</a>
 
