@@ -34,11 +34,15 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://github.com/hahwul/gee">-Gee is tool of stdin to each files and stdout. It is similar to the tee command, but there are more functions for convenience. In addition, it was written as go</a>
 
+<a href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2020">-Top 10 web hacking techniques of 2020 | PortSwigger Research</a>
+
 <a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">-Top 10 Tips for Burp Suite</a>
 
 <a href="https://www.hackingarticles.in/android-penetration-testing-frida/">-Android Penetration Testing: Frida </a>
 
 <a href="https://github.com/aquasecurity/trivy">-A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI</a>
+
+<a href="https://hogarth45.medium.com/using-intruder-to-authorization-headers-161fd873824a">-Using Intruder to Brute Force Authorization Header</a>
 
 <a href="https://danielmiessler.com/study/ffuf/">-A ffuf Primer</a>
 
@@ -76,6 +80,12 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://www.darkreading.com/vulnerabilities---threats/googles-payout-to-bug-hunters-hits-new-high/d/d-id/1340076 ">Google's Payout to Bug Hunters Hits New High</a>
 
 <a href="https://youtu.be/RtJXgGb3uJ0">-Stored XSS in Wordpress.com</a>
+
+<a href="https://twitter.com/OAcybersecurity#bugbounty">-FORD Session token URL lead to Reflected XSS</a>
+
+<a href="https://youtu.be/5guMYiQrnUo">-Shopify Account Takeover $22,500 Bug Bounty</a>
+
+<a href="https://www.bugcrowd.com/blog/how-to-find-xxe-bugs/">-How to Find XXE Bugs: Severe, Missed and Misunderstood</a>
 
 <a href="https://dun930nmaster.medium.com/finding-my-first-bug-http-request-smuggling-5fdc89581fe2">-Finding My First Bug: HTTP Request Smuggling</a>
 
@@ -143,6 +153,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
 
 <a href="https://mokhansec.medium.com/idor-via-websockets-allow-me-to-takeover-any-users-account-23460dacdeab">-IDOR via Websockets allow me to takeover any users account</a>
+
+<a href="https://blog.orange.tw/2021/02/a-journey-combining-web-and-binary-exploitation.html">-A Journey Combining Web Hacking and Binary Exploitation in Real World!</a>
 
 <a href="https://vbharad.medium.com/stored-xss-in-icloud-com-5000-998b8c4b2075">-Stored XSS in icloud.com — $5000</a>
 
