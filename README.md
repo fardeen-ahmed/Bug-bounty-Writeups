@@ -81,6 +81,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://youtu.be/RtJXgGb3uJ0">-Stored XSS in Wordpress.com</a>
 
+<a href="https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities">-An Exploration of JSON Interoperability Vulnerabilities</a>
+
 <a href="https://twitter.com/OAcybersecurity#bugbounty">-FORD Session token URL lead to Reflected XSS</a>
 
 <a href="https://youtu.be/5guMYiQrnUo">-Shopify Account Takeover $22,500 Bug Bounty</a>
@@ -187,6 +189,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://gist.github.com/FanqXu/36c5e0070fd8e0b6646993b4e386a6b1">-CVE-2021-25646 Apache Druid RCE POC</a>
 
 <a href="https://johnjhacking.com/blog/cve-2021-23827/">-Sakura Samurai discover cleartext pictures in Keybase Desktop Client; Windows, macOS, Linux</a>
+
+<a href="https://galnagli.com/Cache_Poisoning/">-Poisoning your Cache for 1000$ - Approach to Exploitation Walkthrough</a>
 
 <a href="https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a">-Blind XSS in Google Analytics Admin Panel — $3133.70</a>
 
