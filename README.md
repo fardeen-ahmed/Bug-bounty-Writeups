@@ -126,6 +126,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://netsec.expert/posts/xss-in-2021/">-Cheatsheet: XSS that works in 202</a>
 
+<A href="https://saajanbhujel11.medium.com/password-reset-token-leak-via-x-forwarded-host-4ed3e33dca31">-Password Reset Token Leak via X-Forwarded-Host</a>
+
 <a href="https://blog.intigriti.com/2021/02/17/bug-bytes-110-scope-based-recon-finding-more-idors-how-to-hack-sharepoint/">-Scope based recon, Finding more IDORs & How to hack Sharepoint</a>
 
 <a href="https://reconshell.com/cve-2021-2109-weblogic-server-remote-code-execution-vulnerability-analysis/">-CVE-2021-2109 Weblogic Server Remote Code Execution vulnerability analysis</a>
@@ -147,6 +149,10 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://susanwagle123.medium.com/idor-revealing-images-cdn-links-6589e19bdbaf">-IDOR Revealing Images CDN Links </a>
 
 <a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
+
+<a href="https://n0ur5sec.medium.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26">-Somebody Call The Plumber, GraphQL is Leaking Again</a>
+
+<A href="https://speakerdeck.com/aditya45/hunting-headers-for-ssrf">-Hunting Headers for SSRF</a>
 
 <a href="https://bugbountyhunter.medium.com/how-nepali-woman-finds-bug-in-facebook-gets-awarded-3000-37f5209c6dec">-How Nepali Woman Finds bug in Facebook, Gets Awarded $3000 </a>
 
@@ -200,7 +206,9 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://www.hackerone.com/blog/hacker-spotlight-interview-notnaffy">-HACKER SPOTLIGHT: INTERVIEW WITH NOTNAFFY</a>
 
-<a href="https://www.hackerone.com/blog/hacker-spotlight-interview-dkd">-Hacker Spotlight: Interview with dkd</a>
+<a href="https://www.hackerone.com/blog/hacker-spotlight-interview-dkd">-HACKER SPOTLIGHT: INTERVIEW WITH DKD</a>
+
+<a href="https://www.hackerone.com/blog/hacker-spotlight-interview-geekboy">-HACKER SPOTLIGHT: INTERVIEW WITH GEEKBOY</a>
 
 
 <h2> Career Updates (Updating Soon...) </h2>
