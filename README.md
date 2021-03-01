@@ -46,6 +46,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://danielmiessler.com/study/ffuf/">-A ffuf Primer</a>
 
+<a href="https://remonsec.medium.com/passive-recon-with-spyse-part-i-bfa5408e52dd">-Passive Recon with Spyse (Part-I)</a>
+
 <a href="https://research.nccgroup.com/2020/12/08/tool-release-httpsignatures-a-burp-suite-extension-implementing-http-signatures/">-HTTP Signatures: A Burp Suite Extension Implementing HTTP Signatures</a>
 
 <a href="https://github.com/projectdiscovery/cloudlist">-Cloudlist is a tool for listing Assets from multiple Cloud Providers</a>
@@ -153,6 +155,10 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://n0ur5sec.medium.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26">-Somebody Call The Plumber, GraphQL is Leaking Again</a>
 
 <A href="https://speakerdeck.com/aditya45/hunting-headers-for-ssrf">-Hunting Headers for SSRF</a>
+
+<a href="https://eiken.dev/blog/2021/02/how-to-break-your-jar-in-2021-decompilation-guide-for-jars-and-apks/">-How to Break Your JAR in 2021 - Decompilation Guide for JARs and APKs</a>
+
+<a href="https://gevakun.medium.com/join-facebook-group-with-unpublish-page-cb649a20fb0e">-Join Facebook Group With Unpublish Page</a>
 
 <a href="https://bugbountyhunter.medium.com/how-nepali-woman-finds-bug-in-facebook-gets-awarded-3000-37f5209c6dec">-How Nepali Woman Finds bug in Facebook, Gets Awarded $3000 </a>
 
