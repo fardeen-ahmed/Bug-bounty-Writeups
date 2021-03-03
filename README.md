@@ -30,6 +30,10 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <A href="https://github.com/mdsecresearch/BurpSuiteSharpener">-Extension should add a number of UI and functional features to Burp Suite to make working with it easier</a>
 
+<a href="https://github.com/benso-io/posta">-Posta. Cross-document Messaging security research tool</a>
+
+<a href="https://github.com/MayankPandey01/BrokenLinkHijacker">-BrokenLinkHijacker(BLH) is a Fast Broken Link Hijacker Tool written in Python</a>
+
 <a href="https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/">-Reverse engineering Flutter for Android + Doldrums (Doldrums is a reverse engineering tool for Flutter apps)<a href ="https://github.com/rscloura/Doldrums">Tool Link = _Doldrum Tool_</a></a>
 
 <a href="https://github.com/hahwul/gee">-Gee is tool of stdin to each files and stdout. It is similar to the tee command, but there are more functions for convenience. In addition, it was written as go</a>
@@ -117,6 +121,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://www.intezer.com/blog/research/how-we-hacked-azure-functions-and-escaped-docker/">-How We Hacked Azure Functions and Escaped Docker </a>
 
+<a href="https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account">-How I Might Have Hacked Any Microsoft Account</a>
+
 <a href="https://v3d.medium.com/full-account-takeover-via-password-reset-flaw-my-first-blog-10d6e11df2e0">-Full Account Takeover via Password Reset Flaw</a>
 
 <h2> Cyber News and Updates (2021-2022) :- </h2>
@@ -153,6 +159,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
 
 <a href="https://n0ur5sec.medium.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26">-Somebody Call The Plumber, GraphQL is Leaking Again</a>
+
+<a href="https://thezerohack.com/hack-any-instagram">-How I Could Have Hacked Any Instagram Account </a>
 
 <A href="https://speakerdeck.com/aditya45/hunting-headers-for-ssrf">-Hunting Headers for SSRF</a>
 
@@ -215,6 +223,10 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://www.hackerone.com/blog/hacker-spotlight-interview-dkd">-HACKER SPOTLIGHT: INTERVIEW WITH DKD</a>
 
 <a href="https://www.hackerone.com/blog/hacker-spotlight-interview-geekboy">-HACKER SPOTLIGHT: INTERVIEW WITH GEEKBOY</a>
+
+<h2> Hacker Events </h2>
+
+<a href="https://www.hackerone.com/blog/commerce-giant-shopify-kicks-2021-hackerone-virtual-live-hacking-event-h1-2102">-Commerce Giant Shopify Kicks Off 2021 with HackerOne (Virtual) Live Hacking Event: h1-2102 </a>
 
 
 <h2> Career Updates (Updating Soon...) </h2>
