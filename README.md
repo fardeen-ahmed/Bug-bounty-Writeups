@@ -200,6 +200,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://jayateerthag.medium.com/grafana-admin-panel-bypass-in-google-acquisition-virustotal-c5ecc9d7b8ae">-Grafana Admin Panel bypass in Google Acquisition</a>
 
+<a href="https://www.youtube.com/watch?v=p5fPRFqoDWE">-Facebook Bypass inactive #add_friend  after declined request invitation </a>
+
 <a href="https://blog.intigriti.com/2021/02/12/security-snacks-18-googles-open-source-vulnerabilities-a-us-towns-water-supply-hack-%EF%BB%BFwindows-chrome-security-concerns/">-Google’s Open Source Vulnerabilities, A US town’s water supply hack & ﻿Windows/Chrome security concerns</a>
 
 <A href="https://medium.com/@y.shahinzadeh/rce-on-a-laravel-private-program-2fb16cfb9f5c">-RCE on a Laravel Private Program</a>
