@@ -162,7 +162,7 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
 
-<a href="https://twitter.com/seecure963/status/1367145532674613249">-Yay, I was awarded a $100,000 bounty on https://twitter.com/Hacker0x01! Initial bounty was $16k and later on they decided to add another $84k!! </a>
+<a href="https://twitter.com/seecure963/status/1367145532674613249">-Yay, I was awarded a $100,000 bounty on https://twitter.com/Hacker0x01 Initial bounty was $16k and later on they decided to add another $84k!! </a>
 
 <a href="http://Write-Up.u.medium.com/ssrf-to-fetch-aws-credentials-with-full-access-to-various-services-18cd08194e91">-SSRF to fetch AWS credentials with full access to multiple services</a>
 
