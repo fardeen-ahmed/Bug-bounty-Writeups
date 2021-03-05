@@ -78,6 +78,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <A href="http://ysamm.com/?p=621">-Access private information about SparkAR effect owners who has a publicly viewable portfolio ($1500)</a>
 
+<a href="https://medium.com/@randyarios/low-hanging-fruits-on-facebook-group-room-b8d17c7ea886">-Low hanging fruits on Facebook Group Room</a>
+
 <h2> Bug-Hunting Writeups :- </h2>
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
 
@@ -161,6 +163,10 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://twitter.com/seecure963/status/1367145532674613249">-Yay, I was awarded a $100,000 bounty on https://twitter.com/Hacker0x01! Initial bounty was $16k and later on they decided to add another $84k!! </a>
 
 <a href="http://Write-Up.u.medium.com/ssrf-to-fetch-aws-credentials-with-full-access-to-various-services-18cd08194e91">-SSRF to fetch AWS credentials with full access to multiple services</a>
+
+<a href="https://portswigger.net/daily-swig/vulnerabilities-in-smarty-php-template-engine-renders-cms-platforms-open-to-abuse">-Vulnerabilities in Smarty PHP template engine renders popular CMS platforms open to abuse</a>
+
+<a href="https://portswigger.net/daily-swig/research-how-json-parsers-can-create-security-risks-when-it-comes-to-interoperability">-Research: How JSON parsers can create security risks when it comes to interoperability</a>
 
 <a href="https://n0ur5sec.medium.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26">-Somebody Call The Plumber, GraphQL is Leaking Again</a>
 
