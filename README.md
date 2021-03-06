@@ -42,6 +42,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">-Top 10 Tips for Burp Suite</a>
 
+<a href="https://blog.deesee.xyz/fuzzing/security/2021/02/26/ssrf-bypassing-hostname-restrictions-fuzzing.html">-SSRF: Bypassing hostname restrictions with fuzzing</a>
+
 <a href="https://www.hackingarticles.in/android-penetration-testing-frida/">-Android Penetration Testing: Frida </a>
 
 <a href="https://github.com/aquasecurity/trivy">-A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI</a>
@@ -79,6 +81,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <A href="http://ysamm.com/?p=621">-Access private information about SparkAR effect owners who has a publicly viewable portfolio ($1500)</a>
 
 <a href="https://medium.com/@randyarios/low-hanging-fruits-on-facebook-group-room-b8d17c7ea886">-Low hanging fruits on Facebook Group Room</a>
+
+a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22">-The easiest $2500 I got it from bug bounty program</a>
 
 <h2> Bug-Hunting Writeups :- </h2>
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
@@ -163,6 +167,12 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 <a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
 
 <a href="https://twitter.com/seecure963/status/1367145532674613249">-Yay, I was awarded a $100,000 bounty on https://twitter.com/Hacker0x01 Initial bounty was $16k and later on they decided to add another $84k!! </a>
+
+<a href="https://thehackernews.com/2021/03/bug-in-apples-find-my-feature-couldve.html">-Bug in Apple's Find My Feature Could've Exposed Users' Location Histories</a>
+
+<a href="https://portswigger.net/daily-swig/vulnerabilities-in-smarty-php-template-engine-renders-cms-platforms-open-to-abuse">-Vulnerabilities in Smarty PHP template engine renders popular CMS platforms open to abuse</a>
+
+<a href="https://portswigger.net/daily-swig/research-how-json-parsers-can-create-security-risks-when-it-comes-to-interoperability">-Research: How JSON parsers can create security risks when it comes to interoperability</a>
 
 <a href="http://Write-Up.u.medium.com/ssrf-to-fetch-aws-credentials-with-full-access-to-various-services-18cd08194e91">-SSRF to fetch AWS credentials with full access to multiple services</a>
 
