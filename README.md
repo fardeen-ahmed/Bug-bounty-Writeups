@@ -246,6 +246,8 @@ a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-pro
 
 <a href="https://www.hackerone.com/blog/hacker-spotlight-interview-notnaffy">-HACKER SPOTLIGHT: INTERVIEW WITH NOTNAFFY</a>
 
+<a href="https://www.hackerone.com/blog/hacker-spotlight-interview-dawgyg">-HACKER SPOTLIGHT: INTERVIEW WITH DAWGYG</a>
+
 <a href="https://www.hackerone.com/blog/hacker-spotlight-interview-dkd">-HACKER SPOTLIGHT: INTERVIEW WITH DKD</a>
 
 <a href="https://www.hackerone.com/blog/hacker-spotlight-interview-geekboy">-HACKER SPOTLIGHT: INTERVIEW WITH GEEKBOY</a>
