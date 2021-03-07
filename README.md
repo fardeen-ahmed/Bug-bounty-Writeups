@@ -152,6 +152,8 @@ a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-pro
 
 <a href="https://blog.intigriti.com/2021/02/03/bug-bytes-108-browser-to-automate-xss-finding-bug-bounty-collaborators-ending-the-samesite-confusion/">-Browser to automate XSS, Finding bug bounty collaborators & Ending the SameSite confusion </a>
 
+<a href="https://ashketchum.medium.com/stored-xss-in-google-ads-android-application-3133-70-373f6c361ff3">-Stored XSS in Google Ads Android Application— $3133.70</a>
+
 <a href="https://www.hackerone.com/blog/announcing-hacker-hill">-Announcing The Hacker of The Hill</a>
 
 <a href="https://darrenmartyn.ie/2021/01/24/visualdoor-sonicwall-ssl-vpn-exploit/">-VisualDoor: SonicWall SSL-VPN Exploit</a>
@@ -234,6 +236,8 @@ a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-pro
 
 <a href="https://gist.github.com/FanqXu/36c5e0070fd8e0b6646993b4e386a6b1">-CVE-2021-25646 Apache Druid RCE POC</a>
 
+<a href="https://blog.defmax.io/rce-via-war-upload-in-tomcat-using-path-traversal-e0f11898016e">-RCE via war upload in Tomcat using path traversal</a>
+
 <a href="https://johnjhacking.com/blog/cve-2021-23827/">-Sakura Samurai discover cleartext pictures in Keybase Desktop Client; Windows, macOS, Linux</a>
 
 <a href="https://galnagli.com/Cache_Poisoning/">-Poisoning your Cache for 1000$ - Approach to Exploitation Walkthrough</a>
@@ -251,6 +255,8 @@ a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-pro
 <a href="https://www.hackerone.com/blog/hacker-spotlight-interview-dkd">-HACKER SPOTLIGHT: INTERVIEW WITH DKD</a>
 
 <a href="https://www.hackerone.com/blog/hacker-spotlight-interview-geekboy">-HACKER SPOTLIGHT: INTERVIEW WITH GEEKBOY</a>
+
+<A href="https://www.hackerone.com/blog/hacker-spotlight-interview-bugdiscloseguys">-HACKER SPOTLIGHT: INTERVIEW WITH BUGDISCLOSEGUYS</a>
 
 <h2> Hacker Events </h2>
 
