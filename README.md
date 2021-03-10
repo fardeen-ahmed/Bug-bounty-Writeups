@@ -89,6 +89,8 @@ a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-pro
 
 <a href="https://godiego.tech/posts/STO/">-Subdomain Takeover in Azure: making a PoC</a>
 
+<a href="https://www.youtube.com/watch?v=FzT3Z7tgDSQ">-$5,000 YouTube IDOR - Bug Bounty Reports Explained </a>
+
 <a href="https://www.darkreading.com/vulnerabilities---threats/googles-payout-to-bug-hunters-hits-new-high/d/d-id/1340076 ">Google's Payout to Bug Hunters Hits New High</a>
 
 <a href="https://youtu.be/RtJXgGb3uJ0">-Stored XSS in Wordpress.com</a>
@@ -139,6 +141,8 @@ a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-pro
 <a href="https://thehackernews.com/2021/02/top-5-bug-bounty-programs-to-watch-in.html">-Top 5 Bug Bounty Programs to Watch in 2021</a>
 
 <a href="https://blog.intigriti.com/2021/02/03/bug-bytes-108-browser-to-automate-xss-finding-bug-bounty-collaborators-ending-the-samesite-confusion/">-Browser to automate XSS, Finding bug bounty collaborators & Ending the SameSite confusion</a>
+
+<a href="https://blog.melbadry9.xyz/ddns-ec2-ips-current-state">-Dangling DNS: Amazon EC2 IPs (Current State)</a>
 
 <a href="https://netsec.expert/posts/xss-in-2021/">-Cheatsheet: XSS that works in 202</a>
 
@@ -214,7 +218,11 @@ a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-pro
 
 <a href="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610">-Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies</a>
 
+<a href="https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/">-GOOGLE VRP N/A: SSRF BYPASS WITH QUADZERO IN GOOGLE CLOUD MONITORING</a>
+
 <a href="https://lohigowda.medium.com/how-i-found-blind-xss-on-flipkart-6b22199f3496">-How I Found Blind XSS On Flipkart</a>
+
+<a href="https://infosecwriteups.com/exploiting-http-request-smuggling-te-cl-xss-to-website-takeover-c0fc634a661b">-Exploiting HTTP Request Smuggling (TE.CL)— XSS to website takeover</a>
 
 <a href="https://medium.com/bugbountywriteup/a-tale-of-2nd-xxx-bounty-ability-to-gain-persistence-on-facebook-events-as-an-unremovable-9408338ccf8f">-A Tale of 2nd $xxx Bounty from Facebook</a>
 
