@@ -9,6 +9,7 @@
 <h3> 3) Quick Writeup for fast hunting </h3>
 <h3> 4) Bug-Hunting Witeups. </h3>
 <h3> 5) Bugs for beginners, Intermediate and Advance Exploitation. </h3>
+<h3> 6) Labs for Hacking <h3>
 <h3> 6) Cyber News and Updates (2021-2022) </h3>
 <h3> 7) Creative Vulnerabilities </h3>
 <h3> 8) Interviews with White Hat </h3>
@@ -142,6 +143,8 @@ a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-pro
 
 <a href="https://blog.intigriti.com/2021/02/03/bug-bytes-108-browser-to-automate-xss-finding-bug-bounty-collaborators-ending-the-samesite-confusion/">-Browser to automate XSS, Finding bug bounty collaborators & Ending the SameSite confusion</a>
 
+<a href="https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application">-Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security</a>
+
 <a href="https://blog.melbadry9.xyz/ddns-ec2-ips-current-state">-Dangling DNS: Amazon EC2 IPs (Current State)</a>
 
 <a href="https://netsec.expert/posts/xss-in-2021/">-Cheatsheet: XSS that works in 202</a>
@@ -236,6 +239,8 @@ a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-pro
 
 <a href="https://www.youtube.com/watch?v=p5fPRFqoDWE">-Facebook Bypass inactive #add_friend  after declined request invitation </a>
 
+<a href="https://infosecwriteups.com/chain-of-low-level-bugs-and-misconfigurations-leads-to-account-takeover-de248fc4e481">-Chain of Low Level Bugs and Misconfigurations Leads to Account Takeover</a>
+
 <a href="https://blog.intigriti.com/2021/02/12/security-snacks-18-googles-open-source-vulnerabilities-a-us-towns-water-supply-hack-%EF%BB%BFwindows-chrome-security-concerns/">-Google’s Open Source Vulnerabilities, A US town’s water supply hack & ﻿Windows/Chrome security concerns</a>
 
 <A href="https://medium.com/@y.shahinzadeh/rce-on-a-laravel-private-program-2fb16cfb9f5c">-RCE on a Laravel Private Program</a>
@@ -266,9 +271,13 @@ a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-pro
 
 <A href="https://www.hackerone.com/blog/hacker-spotlight-interview-bugdiscloseguys">-HACKER SPOTLIGHT: INTERVIEW WITH BUGDISCLOSEGUYS</a>
 
+<a href="https://www.hackerone.com/blog/discovering-three-personas-within-hacker-community">-Discovering Three Personas within the Hacker Community</a>
+
 <h2> Hacker Events </h2>
 
 <a href="https://www.hackerone.com/blog/commerce-giant-shopify-kicks-2021-hackerone-virtual-live-hacking-event-h1-2102">-Commerce Giant Shopify Kicks Off 2021 with HackerOne (Virtual) Live Hacking Event: h1-2102 </a>
+
+<a href="https://www.fuzzcon.eu/">-FuzzCON The European Online Conference About Fuzzing March 24, 2021 | 100% ONLINE</a>
 
 
 <h2> Career Updates (Updating Soon...) </h2>
