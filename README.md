@@ -25,6 +25,8 @@ Ranked 1st in OWASP Top 10 Vulnerability list, this attack is when attacker inje
 
 Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, command Injection, encoded injection attacks and many more.
 
+Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtual Box/VMWare
+
 ```
 <h2> Bug-Bounty Tools :- </h2>
 <a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :-Electron JS Browser To Find XSS Vulnerabilities Automatically</a>
