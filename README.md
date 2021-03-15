@@ -79,6 +79,8 @@ Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, comma
 
 <a href="http://ysamm.com/?p=625">-Open redirect in Instagram.com ($500)</a>
 
+<a href="https://bhansalipratish.medium.com/how-i-found-my-first-bug-idor-9c4e52584454">-How I found my first bug (IDOR)</a>
+
 <A href="http://ysamm.com/?p=621">-Access private information about SparkAR effect owners who has a publicly viewable portfolio ($1500)</a>
 
 <a href="https://medium.com/@randyarios/low-hanging-fruits-on-facebook-group-room-b8d17c7ea886">-Low hanging fruits on Facebook Group Room</a>
@@ -189,6 +191,8 @@ a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-pro
 
 <a href="https://portswigger.net/daily-swig/research-how-json-parsers-can-create-security-risks-when-it-comes-to-interoperability">-Research: How JSON parsers can create security risks when it comes to interoperability</a>
 
+<a href="https://blog.intigriti.com/2021/03/10/bug-bytes-113-ms-exchange-pre-auth-rce-burp-crawler-demystified-sso-security-thesis/">-MS Exchange pre-auth RCE, Burp Crawler demystified & SSO security thesis</a>
+
 <a href="https://n0ur5sec.medium.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26">-Somebody Call The Plumber, GraphQL is Leaking Again</a>
 
 <a href="https://thezerohack.com/hack-any-instagram">-How I Could Have Hacked Any Instagram Account </a>
@@ -271,6 +275,8 @@ a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-pro
 
 <A href="https://www.hackerone.com/blog/hacker-spotlight-interview-bugdiscloseguys">-HACKER SPOTLIGHT: INTERVIEW WITH BUGDISCLOSEGUYS</a>
 
+<a href="https://www.hackerone.com/blog/hacker-spotlight-interview-samux">-HACKER SPOTLIGHT: INTERVIEW WITH SAMUX</a>
+
 <a href="https://www.hackerone.com/blog/discovering-three-personas-within-hacker-community">-Discovering Three Personas within the Hacker Community</a>
 
 <h2> Hacker Events </h2>
@@ -278,6 +284,8 @@ a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-pro
 <a href="https://www.hackerone.com/blog/commerce-giant-shopify-kicks-2021-hackerone-virtual-live-hacking-event-h1-2102">-Commerce Giant Shopify Kicks Off 2021 with HackerOne (Virtual) Live Hacking Event: h1-2102 </a>
 
 <a href="https://www.fuzzcon.eu/">-FuzzCON The European Online Conference About Fuzzing March 24, 2021 | 100% ONLINE</a>
+
+<a href="https://twitter.com/itsecurityguard/status/1371162418915766274">-Amassive Leap in Host Discovery</a>
 
 
 <h2> Career Updates (Updating Soon...) </h2>
