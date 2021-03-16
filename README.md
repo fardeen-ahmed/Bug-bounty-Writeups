@@ -81,6 +81,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="http://ysamm.com/?p=625">-Open redirect in Instagram.com ($500)</a>
 
+<a href="https://anugrahsr.github.io/posts/10-Password-reset-flaws/">-10 Password Reset Flaws</a>
+
 <a href="https://bhansalipratish.medium.com/how-i-found-my-first-bug-idor-9c4e52584454">-How I found my first bug (IDOR)</a>
 
 <A href="http://ysamm.com/?p=621">-Access private information about SparkAR effect owners who has a publicly viewable portfolio ($1500)</a>
@@ -148,6 +150,8 @@ a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-pro
 <a href="https://blog.intigriti.com/2021/02/03/bug-bytes-108-browser-to-automate-xss-finding-bug-bounty-collaborators-ending-the-samesite-confusion/">-Browser to automate XSS, Finding bug bounty collaborators & Ending the SameSite confusion</a>
 
 <a href="https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application">-Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security</a>
+
+<A href="https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e">-Facebook Group Members Disclosure</a>
 
 <a href="https://blog.melbadry9.xyz/ddns-ec2-ips-current-state">-Dangling DNS: Amazon EC2 IPs (Current State)</a>
 
@@ -288,6 +292,8 @@ a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-pro
 <a href="https://www.fuzzcon.eu/">-FuzzCON The European Online Conference About Fuzzing March 24, 2021 | 100% ONLINE</a>
 
 <a href="https://twitter.com/itsecurityguard/status/1371162418915766274">-Amassive Leap in Host Discovery</a>
+
+<a href="https://twitter.com/campuscodi/status/1371379390261698561">-"Hacking the cloud" is a encyclopedia of attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure</a>
 
 
 <h2> Career Updates (Updating Soon...) </h2>
