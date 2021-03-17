@@ -41,6 +41,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://github.com/hahwul/gee">-Gee is tool of stdin to each files and stdout. It is similar to the tee command, but there are more functions for convenience. In addition, it was written as go</a>
 
+<a href="https://github.com/dwisiswant0/go-dork">-Go Dork. The fastest dork scanner written in Go</a>
+
 <a href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2020">-Top 10 web hacking techniques of 2020 | PortSwigger Research</a>
 
 <a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">-Top 10 Tips for Burp Suite</a>
@@ -90,6 +92,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://medium.com/@randyarios/low-hanging-fruits-on-facebook-group-room-b8d17c7ea886">-Low hanging fruits on Facebook Group Room</a>
 
 <a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22">-The easiest $2500 I got it from bug bounty program</a>
+
+<a href="https://medium.com/@sajan.dhakate/exploiting-json-web-token-jwt-73d172b5bc02">-EXPLOITING JSON WEB TOKEN [JWT]</a>
 
 <h2> Bug-Hunting Writeups :- </h2>
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
@@ -184,6 +188,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
 
 <a href="https://twitter.com/seecure963/status/1367145532674613249">-Yay, I was awarded a $100,000 bounty on https://twitter.com/Hacker0x01 Initial bounty was $16k and later on they decided to add another $84k!! </a>
+
+<a href="https://infosecwriteups.com/i-hacked-an-important-state-owned-agency-and-got-paid-for-it-83f83aa02158">-I Hacked An Important State-owned Agency And Got Paid For It </a>
 
 <a href="https://thehackernews.com/2021/03/bug-in-apples-find-my-feature-couldve.html">-Bug in Apple's Find My Feature Could've Exposed Users' Location Histories</a>
 
@@ -294,6 +300,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://twitter.com/itsecurityguard/status/1371162418915766274">-Amassive Leap in Host Discovery</a>
 
 <a href="https://twitter.com/campuscodi/status/1371379390261698561">-"Hacking the cloud" is a encyclopedia of attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure</a>
+
+<a href="https://about.gitlab.com/blog/2021/03/16/how-we-apply-gitlab-values-to-our-bug-bounty-council-process/">-Inside the Bug Bounty Council at GitLab</a>
 
 
 <h2> Career Updates (Updating Soon...) </h2>
