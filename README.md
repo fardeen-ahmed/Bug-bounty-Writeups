@@ -10,10 +10,10 @@
 <h3> 4) Bug-Hunting Witeups. </h3>
 <h3> 5) Bugs for beginners, Intermediate and Advance Exploitation. </h3>
 <h3> 6) Labs for Hacking <h3>
-<h3> 6) Cyber News and Updates (2021-2022) </h3>
-<h3> 7) Creative Vulnerabilities </h3>
-<h3> 8) Interviews with White Hat </h3>
-<h3> 9) Career Updates in CyberSecurity. </h3>
+<h3> 7) Cyber News and Updates (2021-2022) </h3>
+<h3> 8) Creative Vulnerabilities </h3>
+<h3> 9) Interviews with White Hat </h3>
+<h3> 10) Career Updates in CyberSecurity. </h3>
 <h1><text-align:"center"> {{{{{------------Start your journey now...!!!!!----------}}}}}</h1><br><br>
 
 <h2> OWASP Top-10 Vulnerabilities (Updating soon...) </h2>
@@ -110,6 +110,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://godiego.tech/posts/STO/">-Subdomain Takeover in Azure: making a PoC</a>
 
+<a href="https://payatu.com/blog/abhilashnigam/ios-pentesing-guide-from-a-n00bs-perspective.1">-IOS Pentesting Guide From A N00bs Perspective</a>
+
 <a href="https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105">-TikTok for Android 1-Click RCE</a>
 
 <a href="https://www.youtube.com/watch?v=Fzx7OWZId6U">-Account Takeover using OAuth Misconfiguration | Badoo Bug Bounty $300</a>
@@ -169,6 +171,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://thehackernews.com/2021/02/top-5-bug-bounty-programs-to-watch-in.html">-Top 5 Bug Bounty Programs to Watch in 2021</a>
 
+<a href="https://palant.info/2021/03/15/duckduckgo-privacy-essentials-vulnerabilities-insecure-communication-and-universal-xss/">-DuckDuckGo Privacy Essentials vulnerabilities: Insecure communication and Universal XSS</a>
+
 <a href="https://blog.intigriti.com/2021/02/03/bug-bytes-108-browser-to-automate-xss-finding-bug-bounty-collaborators-ending-the-samesite-confusion/">-Browser to automate XSS, Finding bug bounty collaborators & Ending the SameSite confusion</a>
 
 <a href="https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application">-Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security</a>
@@ -210,6 +214,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://hackerone.com/reports/1074047">-Misconfigured oauth leads to Pre account takeover</a>
 
 <a href="https://twitter.com/seecure963/status/1367145532674613249">-Yay, I was awarded a $100,000 bounty on https://twitter.com/Hacker0x01 Initial bounty was $16k and later on they decided to add another $84k!! </a>
+
+<a href="https://hackerone.com/reports/1024899">-File read on MCS servers via supplying a QCOW2 image with external backing file</a>
 
 <a href="https://infosecwriteups.com/i-hacked-an-important-state-owned-agency-and-got-paid-for-it-83f83aa02158">-I Hacked An Important State-owned Agency And Got Paid For It </a>
 
