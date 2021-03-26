@@ -179,6 +179,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://palant.info/2021/03/15/duckduckgo-privacy-essentials-vulnerabilities-insecure-communication-and-universal-xss/">-DuckDuckGo Privacy Essentials vulnerabilities: Insecure communication and Universal XSS</a>
 
+<a href="https://blog.intigriti.com/2021/03/24/bug-bytes-115-hacking-facebook-googles-networks-h2c-smuggling-revisited-networking-fundamentals/">-Bug Bytes #115 – Hacking Facebook & Google’s networks, H2C smuggling revisited & Networking fundamentals</a>
+
 <a href="https://blog.intigriti.com/2021/02/03/bug-bytes-108-browser-to-automate-xss-finding-bug-bounty-collaborators-ending-the-samesite-confusion/">-Browser to automate XSS, Finding bug bounty collaborators & Ending the SameSite confusion</a>
 
 <a href="https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application">-Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security</a>
@@ -220,6 +222,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
 
 <a href="https://hackerone.com/reports/1074047">-Misconfigured oauth leads to Pre account takeover</a>
+
+<a href="https://portswigger.net/research/hidden-oauth-attack-vectors">-Hidden OAuth attack vectors</a>
 
 <a href="https://hackerone.com/reports/1112679">-Dangling cloud instance at vpn.inverselink.com</a>
 
