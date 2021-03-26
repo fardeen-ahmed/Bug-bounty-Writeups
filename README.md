@@ -160,6 +160,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://ashutoshmishra00x0.medium.com/account-takeover-via-response-manipulation-worth-1800-ffb242cc55c9">-Account Takeover via Response Manipulation worth 1800$</a>
 
+<a href="https://www.ehpus.com/post/multiple-authorization-bypass-issues-in-google-s-richmedia-studio">-Multiple Authorization bypass issues in Google's Richmedia Studio</a>
+
 <a href="https://blog.intigriti.com/2021/01/27/bug-bytes-107-go-for-http-smuggling-open-source-frameworks-vs-cache-poisoning-practicing-rce-in-nodejs-apps/">-Go for HTTP smuggling, Open source frameworks vs Cache poisoning & Practicing RCE in NodeJS apps </a>
 
 <a href="https://www.intezer.com/blog/research/how-we-hacked-azure-functions-and-escaped-docker/">-How We Hacked Azure Functions and Escaped Docker </a>
@@ -172,6 +174,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook">-Launching Internal & Non-Exported Deeplinks On Facebook</a>
 
 <a href="https://thehackernews.com/2021/02/top-5-bug-bounty-programs-to-watch-in.html">-Top 5 Bug Bounty Programs to Watch in 2021</a>
+
+<a href="https://blog.intigriti.com/2021/03/17/bug-bytes-114-binary-fuzzing-for-web-vulnerabilities-leaky-page-nahamcon2021/">-Bug Bytes #114 – Binary fuzzing for Web vulnerabilities, Leaky page & NahamCon2021</a>
 
 <a href="https://palant.info/2021/03/15/duckduckgo-privacy-essentials-vulnerabilities-insecure-communication-and-universal-xss/">-DuckDuckGo Privacy Essentials vulnerabilities: Insecure communication and Universal XSS</a>
 
