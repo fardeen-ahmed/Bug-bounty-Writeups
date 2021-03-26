@@ -59,6 +59,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://remonsec.medium.com/passive-recon-with-spyse-part-i-bfa5408e52dd">-Passive Recon with Spyse (Part-I)</a>
 
+<a href="https://github.com/redcode-labs/UnChain">-A tool to find redirection chains in multiple URLs</a>
+
 <a href="https://research.nccgroup.com/2020/12/08/tool-release-httpsignatures-a-burp-suite-extension-implementing-http-signatures/">-HTTP Signatures: A Burp Suite Extension Implementing HTTP Signatures</a>
 
 <a href="https://github.com/projectdiscovery/cloudlist">-Cloudlist is a tool for listing Assets from multiple Cloud Providers</a>
@@ -78,6 +80,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="http://ysamm.com/?p=603">-URLs in img tag aren’t safely embedded. ($500)</a>
 
 <a href="http://ysamm.com/?p=629">-Enumerate internal cached URLs which lead to data exposure</a>
+
+<a href="https://hackerone.com/reports/1065500">-Multiple bugs leads to RCE on TikTok for Android</a>
 
 <A href="http://ysamm.com/?p=627">-Leaking Facebook user information to external websites ($2000)</a>
 
@@ -161,7 +165,7 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://blog.melbadry9.xyz/ddns-ec2-ips-current-state">-Dangling DNS: Amazon EC2 IPs (Current State)</a>
 
-<a href="https://netsec.expert/posts/xss-in-2021/">-Cheatsheet: XSS that works in 202</a>
+<a href="https://netsec.expert/posts/xss-in-2021/">-Cheatsheet: XSS that works in 2021</a>
 
 <A href="https://saajanbhujel11.medium.com/password-reset-token-leak-via-x-forwarded-host-4ed3e33dca31">-Password Reset Token Leak via X-Forwarded-Host</a>
 
@@ -252,6 +256,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://blog.silentsignal.eu/2021/02/08/abusing-jwt-public-keys-without-the-public-key/">-Abusing JWT public keys without the public key</a>
 
 <a href="https://medium.com/mobis3c/insecure-data-storage-clear-text-storage-of-sensitive-information-hard-coded-strings-fb7b056c0d0">-Insecure Data Storage: Clear Text Storage of Sensitive Information</a>
+
+<a href="https://secureitmania.medium.com/an-unknown-linux-secret-that-turned-ssrf-to-os-command-injection-6fe2f4edc202">-An unknown Linux secret that turned SSRF to OS Command injection</a>
 
 <a href="https://jayateerthag.medium.com/grafana-admin-panel-bypass-in-google-acquisition-virustotal-c5ecc9d7b8ae">-Grafana Admin Panel bypass in Google Acquisition</a>
 
