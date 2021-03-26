@@ -120,6 +120,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://youtu.be/RtJXgGb3uJ0">-Stored XSS in Wordpress.com</a>
 
+<a href="https://blog.sonarsource.com/mybb-remote-code-execution-chain">-MyBB Remote Code Execution Chain</a>
+
 <a href="https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities">-An Exploration of JSON Interoperability Vulnerabilities</a>
 
 <a href="https://maordayanofficial.medium.com/stored-xss-at-trello-com-ef2e3d1ed24b">-Stored XSS at Trello</a>
@@ -127,6 +129,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://twitter.com/OAcybersecurity#bugbounty">-FORD Session token URL lead to Reflected XSS</a>
 
 <a href="https://youtu.be/5guMYiQrnUo">-Shopify Account Takeover $22,500 Bug Bounty</a>
+
+<a href="https://alaa0x2.medium.com/how-i-hacked-facebook-part-two-ffab96d57b19">-How I hacked Facebook: Part Two</a>
 
 <a href="https://www.bugcrowd.com/blog/how-to-find-xxe-bugs/">-How to Find XXE Bugs: Severe, Missed and Misunderstood</a>
 
@@ -202,6 +206,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html">-RCE in Google Cloud Deployment Manager</a>
 
 <a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
+
+<a href="https://hackerone.com/reports/1074047">-Misconfigured oauth leads to Pre account takeover</a>
 
 <a href="https://twitter.com/seecure963/status/1367145532674613249">-Yay, I was awarded a $100,000 bounty on https://twitter.com/Hacker0x01 Initial bounty was $16k and later on they decided to add another $84k!! </a>
 
@@ -312,6 +318,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <h2> Hacker Events </h2>
 
 <a href="https://www.hackerone.com/blog/commerce-giant-shopify-kicks-2021-hackerone-virtual-live-hacking-event-h1-2102">-Commerce Giant Shopify Kicks Off 2021 with HackerOne (Virtual) Live Hacking Event: h1-2102 </a>
+
+<a href="https://securitytrails.com/blog/bug-bounty-hunting-month">-It’s Here: Bug Bounty Hunting Month Has Arrived</a>
 
 <a href="https://www.fuzzcon.eu/">-FuzzCON The European Online Conference About Fuzzing March 24, 2021 | 100% ONLINE</a>
 
