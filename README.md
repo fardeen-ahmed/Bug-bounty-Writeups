@@ -89,6 +89,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <A href="http://ysamm.com/?p=627">-Leaking Facebook user information to external websites ($2000)</a>
 
+<a href="https://bilalabdulmuqeet.medium.com/brute-forcing-otp-via-bypassing-rate-limit-c5ee6b25c2a8">-OTP brute-force via rate limit bypass</a>
+
 <a href="http://ysamm.com/?p=620">-Make recruiting referrals on behalf of employees ($3000)</a>
 
 <a href="http://ysamm.com/?p=625">-Open redirect in Instagram.com ($500)</a>
@@ -209,9 +211,13 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html">-RCE in Google Cloud Deployment Manager</a>
 
+<a href="https://helmay.medium.com/bug-bounty-idor-sensitive-data-exposure-ios-application-ba80c93887a9">-IDOR — Sensitive Data Exposure (IOS Application)</a>
+
 <a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
 
 <a href="https://hackerone.com/reports/1074047">-Misconfigured oauth leads to Pre account takeover</a>
+
+<a href="https://hackerone.com/reports/1112679">-Dangling cloud instance at vpn.inverselink.com</a>
 
 <a href="https://twitter.com/seecure963/status/1367145532674613249">-Yay, I was awarded a $100,000 bounty on https://twitter.com/Hacker0x01 Initial bounty was $16k and later on they decided to add another $84k!! </a>
 
@@ -236,6 +242,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://n0ur5sec.medium.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26">-Somebody Call The Plumber, GraphQL is Leaking Again</a>
 
 <a href="https://thezerohack.com/hack-any-instagram">-How I Could Have Hacked Any Instagram Account </a>
+
+<a href="https://www.youtube.com/watch?v=l9swTtaRDNs">-Google Chrome Bug Bounty: $5,000 - File System Access API - vulnerabilities</a>
 
 <a href="https://www.aon.com/cyber-solutions/aon_cyber_labs/finding-more-idors-tips-and-tricks/">-Finding more IDORs – Tips and Tricks</a>
 
