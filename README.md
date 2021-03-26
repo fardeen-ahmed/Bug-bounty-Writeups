@@ -14,7 +14,7 @@
 <h3> 8) Creative Vulnerabilities </h3>
 <h3> 9) Interviews with White Hat </h3>
 <h3> 10) Career Updates in CyberSecurity. </h3>
-<h1><text-align:"center"> {{{{{------------Start your journey now...!!!!!----------}}}}}</h1><br><br>
+
 
 <h2> OWASP Top-10 Vulnerabilities (Updating soon...) </h2>
 
