@@ -35,6 +35,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://github.com/benso-io/posta">-Posta. Cross-document Messaging security research tool</a>
 
+<a href="https://burpsuite.guide/blog/how-good-is-burps-api-scanning/">-How good is Burp's API Scanning?</a>
+
 <a href="https://github.com/MayankPandey01/BrokenLinkHijacker">-BrokenLinkHijacker(BLH) is a Fast Broken Link Hijacker Tool written in Python</a>
 
 <a href="https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/">-Reverse engineering Flutter for Android + Doldrums (Doldrums is a reverse engineering tool for Flutter apps)<a href ="https://github.com/rscloura/Doldrums">Tool Link = _Doldrum Tool_</a></a>
@@ -185,6 +187,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://palant.info/2021/03/15/duckduckgo-privacy-essentials-vulnerabilities-insecure-communication-and-universal-xss/">-DuckDuckGo Privacy Essentials vulnerabilities: Insecure communication and Universal XSS</a>
 
+<A href="https://blog.intigriti.com/2021/03/31/bug-bytes-116-new-oauth-attacks-hacking-shopify-with-a-single-dot-netmask-ssrf/">-New OAuth attacks, Hacking Shopify with a single dot & Netmask SSRF</a>
+
 <a href="https://blog.intigriti.com/2021/03/24/bug-bytes-115-hacking-facebook-googles-networks-h2c-smuggling-revisited-networking-fundamentals/">-Bug Bytes #115 – Hacking Facebook & Google’s networks, H2C smuggling revisited & Networking fundamentals</a>
 
 <a href="https://www.exandroid.dev/2021/03/21/capture-all-android-network-traffic/">-Capture all android network traffic</a>
@@ -236,6 +240,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://hackerone.com/reports/1112679">-Dangling cloud instance at vpn.inverselink.com</a>
 
 <a href="https://twitter.com/seecure963/status/1367145532674613249">-Yay, I was awarded a $100,000 bounty on https://twitter.com/Hacker0x01 Initial bounty was $16k and later on they decided to add another $84k!! </a>
+
+<a href="https://infosecwriteups.com/exploiting-misconfigured-oauth-to-takeover-accounts-225a367bca43">-Exploiting misconfigured OAuth to takeover accounts</a>
 
 <a href="https://hackerone.com/reports/1024899">-File read on MCS servers via supplying a QCOW2 image with external backing file</a>
 
