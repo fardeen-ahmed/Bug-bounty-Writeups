@@ -229,7 +229,13 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html">-RCE in Google Cloud Deployment Manager</a>
 
+<a href="https://hackerone.com/reports/1103582">-HackerOne Jira integration plugin Leaked JWT to unauthorized jira users</a>
+
+<a href="https://infosecwriteups.com/exploiting-misconfigured-oauth-to-takeover-accounts-225a367bca43">-Exploiting misconfigured OAuth to takeover accounts</a>
+
 <a href="https://helmay.medium.com/bug-bounty-idor-sensitive-data-exposure-ios-application-ba80c93887a9">-IDOR — Sensitive Data Exposure (IOS Application)</a>
+
+<a href="https://portswigger.net/daily-swig/vulnerabilities-in-single-sign-on-services-could-be-abused-to-bypass-authentication-controls">-Vulnerabilities in Single Sign-On services could be abused to bypass authentication controls</a>
 
 <a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
 
