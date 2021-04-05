@@ -203,6 +203,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://netsec.expert/posts/xss-in-2021/">-Cheatsheet: XSS that works in 2021</a>
 
+<a href="https://stevebiotech.medium.com/android-application-exploitation-of-a-digital-bank-5809360838ac">-ANDROID APPLICATION EXPLOITATION OF A DIGITAL BANK</a>
+
 <A href="https://saajanbhujel11.medium.com/password-reset-token-leak-via-x-forwarded-host-4ed3e33dca31">-Password Reset Token Leak via X-Forwarded-Host</a>
 
 <a href="https://blog.intigriti.com/2021/02/17/bug-bytes-110-scope-based-recon-finding-more-idors-how-to-hack-sharepoint/">-Scope based recon, Finding more IDORs & How to hack Sharepoint</a>
