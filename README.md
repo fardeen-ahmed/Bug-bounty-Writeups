@@ -325,6 +325,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://blog.silentsignal.eu/2021/02/08/abusing-jwt-public-keys-without-the-public-key/">-Abusing JWT public keys without the public key</a>
 
+<a href="https://robertchen.cc/blog/2021/04/03/github-pages-xss">-Breaking GitHub Private Pages for $35k</a>
+
 <a href="https://medium.com/mobis3c/insecure-data-storage-clear-text-storage-of-sensitive-information-hard-coded-strings-fb7b056c0d0">-Insecure Data Storage: Clear Text Storage of Sensitive Information</a>
 
 <a href="https://secureitmania.medium.com/an-unknown-linux-secret-that-turned-ssrf-to-os-command-injection-6fe2f4edc202">-An unknown Linux secret that turned SSRF to OS Command injection</a>
