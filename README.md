@@ -299,6 +299,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://mokhansec.medium.com/full-account-takeover-worth-1000-think-out-of-the-box-808f0bdd8ac7">-Full account takeover worth $1000 Think out of the box</a>
 
+<a href="https://infosecwriteups.com/understanding-identifying-insecure-deserialization-vulnerabilities-f7fac5414bb3">-Understanding & Identifying Insecure Deserialization Vulnerabilities</a>
+
 <a href="https://shrirangdiwakar.medium.com/encrypted-payload-decrypted-execution-600-stored-xss-3e517cea8f13">-Encrypted Payload -> Decrypted Execution ($600) : Stored XSS</a>
 
 <a href="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610">-Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies</a>
