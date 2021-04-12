@@ -239,6 +239,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html">-RCE in Google Cloud Deployment Manager</a>
 
+<a href="https://mikey96.medium.com/what-if-you-could-deposit-money-into-your-betting-account-for-free-24f6690aff46">-What if you could deposit money into your Betting account for free? Oh wait where has this 25k came from</a>
+
 <a href="https://hackerone.com/reports/1103582">-HackerOne Jira integration plugin Leaked JWT to unauthorized jira users</a>
 
 <a href="https://www.hackerone.com/blog/rise-idor">-THE RISE OF IDOR</a>
