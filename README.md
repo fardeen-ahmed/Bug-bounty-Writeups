@@ -389,6 +389,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.hackerone.com/blog/hacker-spotlight-interview-edduu">-HACKER SPOTLIGHT: INTERVIEW WITH edduu</a>
 
+<a href="https://www.hackerone.com/blog/hacker-spotlight-ama-niemandsec">-Hacker Spotlight AMA: niemand_sec</a>
+
 <a href="https://www.hackerone.com/blog/discovering-three-personas-within-hacker-community">-Discovering Three Personas within the Hacker Community</a>
 
 <a href="https://cobalt.io/blog/pentester-spotlight-martina-matari">-Pentester Spotlight: Martina Matarí</a>
