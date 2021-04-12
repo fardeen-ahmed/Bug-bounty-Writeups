@@ -387,6 +387,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.hackerone.com/blog/discovering-three-personas-within-hacker-community">-Discovering Three Personas within the Hacker Community</a>
 
+<a href="https://cobalt.io/blog/pentester-spotlight-martina-matari">-Pentester Spotlight: Martina Matarí</a>
+
 <h2> Hacker Events </h2>
 
 <a href="https://www.hackerone.com/blog/commerce-giant-shopify-kicks-2021-hackerone-virtual-live-hacking-event-h1-2102">-Commerce Giant Shopify Kicks Off 2021 with HackerOne (Virtual) Live Hacking Event: h1-2102 </a>
