@@ -289,6 +289,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.aon.com/cyber-solutions/aon_cyber_labs/finding-more-idors-tips-and-tricks/">-Finding more IDORs – Tips and Tricks</a>
 
+<a href="https://www.youtube.com/watch?v=u2VwUjDNTec">-RocketChat Account takeover via XSS | Live Xss Attack</a>
+
 <A href="https://speakerdeck.com/aditya45/hunting-headers-for-ssrf">-Hunting Headers for SSRF</a>
 
 <a href="https://eiken.dev/blog/2021/02/how-to-break-your-jar-in-2021-decompilation-guide-for-jars-and-apks/">-How to Break Your JAR in 2021 - Decompilation Guide for JARs and APKs</a>
