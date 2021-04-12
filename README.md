@@ -181,7 +181,11 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <h2> Cyber News and Updates (2021-2022) :- </h2>
 <a href="https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook">-Launching Internal & Non-Exported Deeplinks On Facebook</a>
 
+<a href="https://blog.intigriti.com/2021/04/06/benefits-launching-successful-bug-bounty-program/">-4 Key Benefits Of Launching A Successful Bug Bounty Program</a>
+
 <a href="https://thehackernews.com/2021/02/top-5-bug-bounty-programs-to-watch-in.html">-Top 5 Bug Bounty Programs to Watch in 2021</a>
+
+<a href="https://blog.intigriti.com/2021/04/07/bug-bytes-117-writeups-a-gogo-google-blind-ssrf-challenge-infosec-drama/">-Writeups à gogo, Google blind SSRF challenge & InfoSec drama </a>
 
 <a href="https://blog.intigriti.com/2021/03/17/bug-bytes-114-binary-fuzzing-for-web-vulnerabilities-leaky-page-nahamcon2021/">-Bug Bytes #114 – Binary fuzzing for Web vulnerabilities, Leaky page & NahamCon2021</a>
 
