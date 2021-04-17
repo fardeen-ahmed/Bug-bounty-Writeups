@@ -257,6 +257,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://hackerone.com/reports/1103582">-HackerOne Jira integration plugin Leaked JWT to unauthorized jira users</a>
 
+<a href="https://positive.security/blog/url-open-rce">-Allow arbitrary URLs, expect arbitrary code execution</a>
+
 <a href="https://www.hackerone.com/blog/rise-idor">-THE RISE OF IDOR</a>
 
 <a href="https://infosecwriteups.com/exploiting-misconfigured-oauth-to-takeover-accounts-225a367bca43">-Exploiting misconfigured OAuth to takeover accounts</a>
