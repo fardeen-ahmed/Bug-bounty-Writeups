@@ -189,6 +189,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://thehackernews.com/2021/02/top-5-bug-bounty-programs-to-watch-in.html">-Top 5 Bug Bounty Programs to Watch in 2021</a>
 
+<a href="https://blog.cobalt.io/pentest-workflow-leveraging-community-powered-tools-979b54df5e52">-Pentest Workflow — Leveraging Community-Powered Tools</a>
+
 <a href="https://blog.intigriti.com/2021/04/07/bug-bytes-117-writeups-a-gogo-google-blind-ssrf-challenge-infosec-drama/">-Writeups à gogo, Google blind SSRF challenge & InfoSec drama </a>
 
 <a href="https://census-labs.com/news/2021/04/14/whatsapp-mitd-remote-exploitation-CVE-2021-24027/">-Remote exploitation of a man-in-the-disk vulnerability in WhatsApp (CVE-2021-24027)</a>
