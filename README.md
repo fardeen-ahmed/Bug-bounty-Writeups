@@ -213,6 +213,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://netsec.expert/posts/xss-in-2021/">-Cheatsheet: XSS that works in 2021</a>
 
+<a hred="https://swarm.ptsecurity.com/rce-cockpit-cms/">-From 0 to RCE: Cockpit CMS</a>
+
 <a href="https://stevebiotech.medium.com/android-application-exploitation-of-a-digital-bank-5809360838ac">-ANDROID APPLICATION EXPLOITATION OF A DIGITAL BANK</a>
 
 <A href="https://saajanbhujel11.medium.com/password-reset-token-leak-via-x-forwarded-host-4ed3e33dca31">-Password Reset Token Leak via X-Forwarded-Host</a>
@@ -394,6 +396,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://www.hackerone.com/blog/hacker-spotlight-interview-edduu">-HACKER SPOTLIGHT: INTERVIEW WITH edduu</a>
 
 <a href="https://www.hackerone.com/blog/hacker-spotlight-ama-niemandsec">-Hacker Spotlight AMA: niemand_sec</a>
+
+<a href="https://blog.intigriti.com/2021/04/12/get-to-know-qimpz-one-of-intigritis-top-hackers/">-Get to know iQimpz, one of Intigriti’s top hackers</a>
 
 <a href="https://www.hackerone.com/blog/discovering-three-personas-within-hacker-community">-Discovering Three Personas within the Hacker Community</a>
 
