@@ -191,6 +191,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://blog.intigriti.com/2021/04/07/bug-bytes-117-writeups-a-gogo-google-blind-ssrf-challenge-infosec-drama/">-Writeups à gogo, Google blind SSRF challenge & InfoSec drama </a>
 
+<a href="https://census-labs.com/news/2021/04/14/whatsapp-mitd-remote-exploitation-CVE-2021-24027/">-Remote exploitation of a man-in-the-disk vulnerability in WhatsApp (CVE-2021-24027)</a>
+
 <a href="https://blog.intigriti.com/2021/03/17/bug-bytes-114-binary-fuzzing-for-web-vulnerabilities-leaky-page-nahamcon2021/">-Bug Bytes #114 – Binary fuzzing for Web vulnerabilities, Leaky page & NahamCon2021</a>
 
 <a href="https://palant.info/2021/03/15/duckduckgo-privacy-essentials-vulnerabilities-insecure-communication-and-universal-xss/">-DuckDuckGo Privacy Essentials vulnerabilities: Insecure communication and Universal XSS</a>
