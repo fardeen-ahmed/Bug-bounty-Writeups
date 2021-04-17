@@ -359,6 +359,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://medium.com/bugbountywriteup/a-tale-of-2nd-xxx-bounty-ability-to-gain-persistence-on-facebook-events-as-an-unremovable-9408338ccf8f">-A Tale of 2nd $xxx Bounty from Facebook</a>
 
+<a href="https://medium.com/@pharish4948/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1">-How I earned $3200 in 4hours through Stored XSS</a>
+
 <a href="https://neroli.medium.com/oauth-misconfiguration-leads-to-full-account-takeover-22b032cb6732">-OAuth Misconfiguration Leads to Full Account takeover</a>
 
 <a href="https://blog.silentsignal.eu/2021/02/08/abusing-jwt-public-keys-without-the-public-key/">-Abusing JWT public keys without the public key</a>
