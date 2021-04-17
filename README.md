@@ -201,6 +201,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.exandroid.dev/2021/03/21/capture-all-android-network-traffic/">-Capture all android network traffic</a>
 
+<a href="https://thexssrat.medium.com/analysing-javascript-files-for-bug-bounty-hunters-71e2727abebe">-Analysing JavaScript Files For Bug Bounty Hunters</a>
+
 <a href="https://blog.intigriti.com/2021/02/03/bug-bytes-108-browser-to-automate-xss-finding-bug-bounty-collaborators-ending-the-samesite-confusion/">-Browser to automate XSS, Finding bug bounty collaborators & Ending the SameSite confusion</a>
 
 <a href="https://blog.assetnote.io/2021/04/05/contextual-content-discovery/">-Contextual Content Discovery: You've forgotten about the API endpoints  </a>
