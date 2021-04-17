@@ -411,6 +411,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://securitytrails.com/blog/bug-bounty-hunting-month">-It’s Here: Bug Bounty Hunting Month Has Arrived</a>
 
+<a href=https://medium.com/grab/reflecting-on-the-five-years-of-bug-bounty-at-grab-adf1df55eb80"">-Reflecting on the Five Years of Bug Bounty at Grab</a>
+
 <a href="https://www.fuzzcon.eu/">-FuzzCON The European Online Conference About Fuzzing March 24, 2021 | 100% ONLINE</a>
 
 <a href="https://twitter.com/itsecurityguard/status/1371162418915766274">-Amassive Leap in Host Discovery</a>
