@@ -363,6 +363,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
 
+<a href="https://www.youtube.com/watch?v=2kDxZt1OUcs">-Github Open Redirect to Reflected XSS Poc 4000$</a>
+
 <a href="https://mokhansec.medium.com/idor-via-websockets-allow-me-to-takeover-any-users-account-23460dacdeab">-IDOR via Websockets allow me to takeover any users account</a>
 
 <a href="https://blog.orange.tw/2021/02/a-journey-combining-web-and-binary-exploitation.html">-A Journey Combining Web Hacking and Binary Exploitation in Real World!</a>
