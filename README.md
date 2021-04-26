@@ -423,6 +423,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://blog.defmax.io/rce-via-war-upload-in-tomcat-using-path-traversal-e0f11898016e">-RCE via war upload in Tomcat using path traversal</a>
 
+<a href="https://ahmdhalabi.medium.com/rce-via-internal-access-to-adminer-database-management-critical-d3dc2a1d392a">-RCE via Internal Access to Adminer Database Management</a>
+
 <a href="https://johnjhacking.com/blog/cve-2021-23827/">-Sakura Samurai discover cleartext pictures in Keybase Desktop Client; Windows, macOS, Linux</a>
 
 <a href="https://galnagli.com/Cache_Poisoning/">-Poisoning your Cache for 1000$ - Approach to Exploitation Walkthrough</a>
