@@ -134,6 +134,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.youtube.com/watch?v=FzT3Z7tgDSQ">-$5,000 YouTube IDOR - Bug Bounty Reports Explained </a>
 
+<a href="https://sensepost.com/blog/2021/duo-two-factor-authentication-bypass/">-Duo Two-factor Authentication Bypass</a>
+
 <a href="https://www.darkreading.com/vulnerabilities---threats/googles-payout-to-bug-hunters-hits-new-high/d/d-id/1340076 ">Google's Payout to Bug Hunters Hits New High</a>
 
 <a href="https://youtu.be/RtJXgGb3uJ0">-Stored XSS in Wordpress.com</a>
