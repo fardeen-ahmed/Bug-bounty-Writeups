@@ -423,6 +423,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.hackerone.com/blog/hacker-spotlight-interview-edduu">-HACKER SPOTLIGHT: INTERVIEW WITH edduu</a>
 
+<a href="https://www.hackerone.com/blog/hacker-spotlight-ama-noneoftheabove">-HACKER SPOTLIGHT AMA: none_of_the_above</a>
+
 <a href="https://www.hackerone.com/blog/hacker-spotlight-ama-niemandsec">-Hacker Spotlight AMA: niemand_sec</a>
 
 <a href="https://blog.intigriti.com/2021/04/12/get-to-know-qimpz-one-of-intigritis-top-hackers/">-Get to know iQimpz, one of Intigriti’s top hackers</a>
