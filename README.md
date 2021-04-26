@@ -136,6 +136,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://youtu.be/RtJXgGb3uJ0">-Stored XSS in Wordpress.com</a>
 
+<a href="https://hackerone.com/reports/1125425">-RCE via unsafe inline Kramdown options when rendering certain Wiki pages</a>
+
 <a href="https://blog.sonarsource.com/mybb-remote-code-execution-chain">-MyBB Remote Code Execution Chain</a>
 
 <a href="https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities">-An Exploration of JSON Interoperability Vulnerabilities</a>
