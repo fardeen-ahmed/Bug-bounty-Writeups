@@ -277,6 +277,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://hackerone.com/reports/1074047">-Misconfigured oauth leads to Pre account takeover</a>
 
+<a href="https://medium.com/@edmundaa222/poc-remove-any-facebooks-live-video-14-000-bounty-70c8135b7b4c">-Remove any Facebook’s live video ($14,000 bounty)</a>
+
 <a href="https://www.youtube.com/watch?v=plwv_2pDApk">-IDOR leads to how much like and dislike that was hidden</a>
 
 <a href="https://portswigger.net/research/hidden-oauth-attack-vectors">-Hidden OAuth attack vectors</a>
