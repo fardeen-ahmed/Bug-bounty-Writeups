@@ -215,6 +215,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://blog.intigriti.com/2021/03/24/bug-bytes-115-hacking-facebook-googles-networks-h2c-smuggling-revisited-networking-fundamentals/">-Bug Bytes #115 – Hacking Facebook & Google’s networks, H2C smuggling revisited & Networking fundamentals</a>
 
+<a href="https://busk3r.medium.com/hacking-graphql-for-fun-and-profit-part-1-understanding-graphql-basics-72bb3dd22efa">-Hacking GraphQL for Fun and Profit — Part 1 — Understanding GraphQL Basics</a>
+
 <a href="https://www.exandroid.dev/2021/03/21/capture-all-android-network-traffic/">-Capture all android network traffic</a>
 
 <a href="https://thexssrat.medium.com/analysing-javascript-files-for-bug-bounty-hunters-71e2727abebe">-Analysing JavaScript Files For Bug Bounty Hunters</a>
