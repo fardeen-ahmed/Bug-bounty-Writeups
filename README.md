@@ -341,6 +341,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://thezerohack.com/hack-any-instagram">-How I Could Have Hacked Any Instagram Account </a>
 
+<a href="https://youtu.be/YnKcRN6SBKI">-Shopify Account Takeover $22500 Bug Bounty</a>
+
 <a href="https://www.youtube.com/watch?v=l9swTtaRDNs">-Google Chrome Bug Bounty: $5,000 - File System Access API - vulnerabilities</a>
 
 <a href="https://www.aon.com/cyber-solutions/aon_cyber_labs/finding-more-idors-tips-and-tricks/">-Finding more IDORs – Tips and Tricks</a>
