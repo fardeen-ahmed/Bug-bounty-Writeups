@@ -122,6 +122,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://godiego.tech/posts/STO/">-Subdomain Takeover in Azure: making a PoC</a>
 
+<a href="https://y000o.medium.com/fun-sql-injection-mod-security-bypass-644b54b0c445">-Fun sql injection — mod_security bypass/a>
+
 <a href="https://payatu.com/blog/abhilashnigam/ios-pentesing-guide-from-a-n00bs-perspective.1">-IOS Pentesting Guide From A N00bs Perspective</a>
 
 <a href="https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105">-TikTok for Android 1-Click RCE</a>
