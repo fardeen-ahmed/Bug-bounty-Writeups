@@ -257,6 +257,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://portswigger.net/daily-swig/playing-fetch-new-xs-leak-exploits-browser-redirects-to-break-user-privacy">-New XS-Leak exploits browser redirects to break user privacy</a>
 
+<a href="https://blog.intigriti.com/2021/04/21/bug-bytes-119-autographql-whatsapp-mitd-desktop-apps-mishandling-bad-uris/">-AutoGraphQL, WhatsApp MitD & Desktop apps mishandling bad URIs</a>
+
 <a href="https://portswigger.net/daily-swig/vue-to-a-kill-xss-vulnerability-in-vue-js-revealed">-XSS vulnerability in Vue.js revealed</a>
 
 <h2> Creative Vulnerabilities :- </h2>
