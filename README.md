@@ -35,6 +35,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://github.com/benso-io/posta">-Posta. Cross-document Messaging security research tool</a>
 
+<a href="https://googleprojectzero.blogspot.com/2021/04/designing-sockfuzzer-network-syscall.html">-Designing sockfuzzer, a network syscall fuzzer for XNU</a>
+
 <a href="https://github.com/KathanP19/protoscan">-Prototype Pollution Scanner made in Golang</a>
 
 <a href="https://burpsuite.guide/blog/how-good-is-burps-api-scanning/">-How good is Burp's API Scanning?</a>
