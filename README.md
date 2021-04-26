@@ -79,7 +79,9 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://github.com/rotemreiss/uddup">-Urls de-duplication tool for better recon.</a>
 
-<a href="https://hx01.me/Abusing_Data_Protection_Laws_For_D0xing_and_Account_Takeovers.pdf">-Hx01 Abusing Data Protection Laws For D0xing & Account Takeovers  </a>
+<a href="https://hx01.me/Abusing_Data_Protection_Laws_For_D0xing_and_Account_Takeovers.pdf">-Hx01 Abusing Data Protection Laws For D0xing & Account Takeovers</a>
+
+<a href="https://blog.yeswehack.com/yeswerhackers/tutorial/how-to-learn-write-burp-suite-extension-kotlin-setting-up/">-Learn how to write a Burp Suite extension in Kotlin – Setting up</a>
 
 <h2> Quick writeups for fast hunting </h2>
 
