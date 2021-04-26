@@ -303,6 +303,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://portswigger.net/daily-swig/vulnerabilities-in-smarty-php-template-engine-renders-cms-platforms-open-to-abuse">-Vulnerabilities in Smarty PHP template engine renders popular CMS platforms open to abuse</a>
 
+<a href="https://secret.club/2021/04/20/source-engine-rce-invite.html">-Source engine remote code execution via game invites</a>
+
 <a href="https://hackerone.com/reports/976603">-Ability to DOS any organization's SSO and open up the door to account takeovers </a>
 
 <a href="https://portswigger.net/daily-swig/research-how-json-parsers-can-create-security-risks-when-it-comes-to-interoperability">-Research: How JSON parsers can create security risks when it comes to interoperability</a>
