@@ -259,6 +259,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://mikey96.medium.com/what-if-you-could-deposit-money-into-your-betting-account-for-free-24f6690aff46">-What if you could deposit money into your Betting account for free? Oh wait where has this 25k came from</a>
 
+<a href="https://mahmoudsamaha.medium.com/misconfiguration-in-change-password-functionality-leads-to-account-takeover-1314b5507abf">-Misconfiguration in Change-password Functionality Leads to Account Takeover</a>
+
 <a href="https://hackerone.com/reports/1103582">-HackerOne Jira integration plugin Leaked JWT to unauthorized jira users</a>
 
 <a href="https://positive.security/blog/url-open-rce">-Allow arbitrary URLs, expect arbitrary code execution</a>
