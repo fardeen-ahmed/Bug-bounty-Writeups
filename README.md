@@ -152,6 +152,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://dun930nmaster.medium.com/finding-my-first-bug-http-request-smuggling-5fdc89581fe2">-Finding My First Bug: HTTP Request Smuggling</a>
 
+<a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
+
 <a href="https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7">-Disclose the FB profile of Facebook employees who create official announcement messages (Bug Bounty)</a>
 
 <a href="https://rakeshelamaran.medium.com/oauth-misconfig-leads-to-account-takeover-7a360e6d9cac">-Oauth Misconfig — Leads to Account Takeover</a>
