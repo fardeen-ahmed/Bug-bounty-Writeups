@@ -453,6 +453,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://cobalt.io/blog/pentester-spotlight-martina-matari">-Pentester Spotlight: Martina Matarí</a>
 
+<a href="https://www.hackerone.com/resources/wistia-webinars/building-vdp-for-success">-Building VDP for Success - EMEA</a>
+
 <h2> Hacker Events </h2>
 
 <a href="https://www.hackerone.com/blog/commerce-giant-shopify-kicks-2021-hackerone-virtual-live-hacking-event-h1-2102">-Commerce Giant Shopify Kicks Off 2021 with HackerOne (Virtual) Live Hacking Event: h1-2102 </a>
