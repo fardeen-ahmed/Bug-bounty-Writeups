@@ -41,6 +41,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://burpsuite.guide/blog/how-good-is-burps-api-scanning/">-How good is Burp's API Scanning?</a>
 
+<a href="https://thexssrat.medium.com/csrf-tesguide-for-bug-bounty-hunters-d14db3462695">-CSRF Testing Guide For Bug Bounty Hunters</a>
+
 <a href="https://github.com/MayankPandey01/BrokenLinkHijacker">-BrokenLinkHijacker(BLH) is a Fast Broken Link Hijacker Tool written in Python</a>
 
 <a href="https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/">-Reverse engineering Flutter for Android + Doldrums (Doldrums is a reverse engineering tool for Flutter apps)<a href ="https://github.com/rscloura/Doldrums">Tool Link = _Doldrum Tool_</a></a>
