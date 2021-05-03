@@ -307,6 +307,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
 
+<a href="https://dewcode.medium.com/how-did-i-earn-by-breaking-the-back-end-logic-of-the-server-fd94882cbdf6">-How did I earn €€€€ by breaking the back-end logic of the server</a>
+
 <a href="https://hackerone.com/reports/1074047">-Misconfigured oauth leads to Pre account takeover</a>
 
 <a href="https://medium.com/@edmundaa222/poc-remove-any-facebooks-live-video-14-000-bounty-70c8135b7b4c">-Remove any Facebook’s live video ($14,000 bounty)</a>
