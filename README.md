@@ -41,6 +41,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://github.com/KathanP19/protoscan">-Prototype Pollution Scanner made in Golang</a>
 
+<a href="https://github.com/d3mondev/puredns">-PureDNS : Subdomain bruteforcing tool that improves massdns to accurately handle wildcard subdomains and DNS poisoning. </a>
+
 <a href="https://burpsuite.guide/blog/how-good-is-burps-api-scanning/">-How good is Burp's API Scanning?</a>
 
 <a href="https://thexssrat.medium.com/csrf-tesguide-for-bug-bounty-hunters-d14db3462695">-CSRF Testing Guide For Bug Bounty Hunters</a>
