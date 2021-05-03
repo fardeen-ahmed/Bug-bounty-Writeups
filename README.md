@@ -395,6 +395,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/">-GOOGLE VRP N/A: SSRF BYPASS WITH QUADZERO IN GOOGLE CLOUD MONITORING</a>
 
+<a href="https://philippeharewood.com/download-facebook-internal-mobile-builds/">-Download Facebook internal mobile builds</a>
+
 <a href="https://msrc-blog.microsoft.com/2021/03/24/introducing-bounty-awards-for-teams-desktop-client-security-research/">-Introducing Bounty Awards for Teams Desktop Client Security Research</a>
 
 <a href="https://lohigowda.medium.com/how-i-found-blind-xss-on-flipkart-6b22199f3496">-How I Found Blind XSS On Flipkart</a>
@@ -474,6 +476,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <h2> Hacker Events </h2>
 
 <a href="https://www.hackerone.com/blog/commerce-giant-shopify-kicks-2021-hackerone-virtual-live-hacking-event-h1-2102">-Commerce Giant Shopify Kicks Off 2021 with HackerOne (Virtual) Live Hacking Event: h1-2102 </a>
+
+<a href="https://blog.intigriti.com/2021/04/28/bug-bytes-120-macos-pwned-homebrew-rce-the-worlds-shortest-backdoor/">-MacOS pwned, Homebrew RCE & The world's shortest backdoor - Intigriti</a>
 
 <a href="https://securitytrails.com/blog/bug-bounty-hunting-month">-It’s Here: Bug Bounty Hunting Month Has Arrived</a>
 
