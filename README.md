@@ -481,6 +481,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://blog.intigriti.com/2021/04/28/bug-bytes-120-macos-pwned-homebrew-rce-the-worlds-shortest-backdoor/">-MacOS pwned, Homebrew RCE & The world's shortest backdoor - Intigriti</a>
 
+<a href="https://portswigger.net/daily-swig/wordpress-xxe-injection-vulnerability-could-allow-attackers-to-remotely-steal-host-files">-WordPress XXE injection vulnerability could allow attackers to remotely steal host files</a>
+
 <a href="https://securitytrails.com/blog/bug-bounty-hunting-month">-It’s Here: Bug Bounty Hunting Month Has Arrived</a>
 
 <a href="https://easterxss.terjanq.me/writeup.html">-Easter XSS by terjanq</a>
