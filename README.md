@@ -409,6 +409,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://lohigowda.medium.com/how-i-found-blind-xss-on-flipkart-6b22199f3496">-How I Found Blind XSS On Flipkart</a>
 
+<a href="https://www.immersivelabs.com/resources/blog/wagtail-xss-localstorage-account-hijack/">-Wagtail XSS + LocalStorage = Account Hijack</a>
+
 <a href="https://infosecwriteups.com/exploiting-http-request-smuggling-te-cl-xss-to-website-takeover-c0fc634a661b">-Exploiting HTTP Request Smuggling (TE.CL)— XSS to website takeover</a>
 
 <a href="https://medium.com/bugbountywriteup/a-tale-of-2nd-xxx-bounty-ability-to-gain-persistence-on-facebook-events-as-an-unremovable-9408338ccf8f">-A Tale of 2nd $xxx Bounty from Facebook</a>
