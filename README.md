@@ -287,6 +287,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://infosecwriteups.com/pwning-your-assignments-stored-xss-via-graphql-endpoint-6dd36c8a19d5">-Pwning your assignments: Stored XSS via GraphQL endpoint</a>
 
+<a href="https://www.youtube.com/watch?v=P-NpZFYWt1U">-Account takeover using OAuth Misconfiguration | Badoo $300 Bug Bounty</a>
+
 <a href="https://mikey96.medium.com/what-if-you-could-deposit-money-into-your-betting-account-for-free-24f6690aff46">-What if you could deposit money into your Betting account for free? Oh wait where has this 25k came from</a>
 
 <a href="https://mahmoudsamaha.medium.com/misconfiguration-in-change-password-functionality-leads-to-account-takeover-1314b5507abf">-Misconfiguration in Change-password Functionality Leads to Account Takeover</a>
@@ -474,6 +476,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://www.hackerone.com/blog/commerce-giant-shopify-kicks-2021-hackerone-virtual-live-hacking-event-h1-2102">-Commerce Giant Shopify Kicks Off 2021 with HackerOne (Virtual) Live Hacking Event: h1-2102 </a>
 
 <a href="https://securitytrails.com/blog/bug-bounty-hunting-month">-It’s Here: Bug Bounty Hunting Month Has Arrived</a>
+
+<a href="https://easterxss.terjanq.me/writeup.html">-Easter XSS by terjanq</a>
 
 <a href=https://medium.com/grab/reflecting-on-the-five-years-of-bug-bounty-at-grab-adf1df55eb80"">-Reflecting on the Five Years of Bug Bounty at Grab</a>
 
