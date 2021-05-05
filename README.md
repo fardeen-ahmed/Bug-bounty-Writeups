@@ -123,6 +123,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://anugrahsr.github.io/posts/10-Password-reset-flaws/">-10 Password Reset Flaws</a>
 
+<a href="https://blog.appsecco.com/exploiting-weak-configurations-in-google-identity-platform-cbddbd0e71e3">-Exploiting weak configurations in Google Cloud Identity Platform</a>
+
 <a href="https://bhansalipratish.medium.com/how-i-found-my-first-bug-idor-9c4e52584454">-How I found my first bug (IDOR)</a>
 
 <A href="http://ysamm.com/?p=621">-Access private information about SparkAR effect owners who has a publicly viewable portfolio ($1500)</a>
