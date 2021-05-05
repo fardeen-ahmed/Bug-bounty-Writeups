@@ -427,6 +427,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://medium.com/mobis3c/insecure-data-storage-clear-text-storage-of-sensitive-information-hard-coded-strings-fb7b056c0d0">-Insecure Data Storage: Clear Text Storage of Sensitive Information</a>
 
+<a href="https://portswigger.net/daily-swig/stored-xss-vulnerability-patched-in-open-source-firewall-pfsense">-Stored XSS vulnerability patched in open source firewall pfSense</a>
+
 <a href="https://secureitmania.medium.com/an-unknown-linux-secret-that-turned-ssrf-to-os-command-injection-6fe2f4edc202">-An unknown Linux secret that turned SSRF to OS Command injection</a>
 
 <a href="https://jayateerthag.medium.com/grafana-admin-panel-bypass-in-google-acquisition-virustotal-c5ecc9d7b8ae">-Grafana Admin Panel bypass in Google Acquisition</a>
