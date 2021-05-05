@@ -503,7 +503,7 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://easterxss.terjanq.me/writeup.html">-Easter XSS by terjanq</a>
 
-<a href=https://medium.com/grab/reflecting-on-the-five-years-of-bug-bounty-at-grab-adf1df55eb80"">-Reflecting on the Five Years of Bug Bounty at Grab</a>
+<a href="https://medium.com/grab/reflecting-on-the-five-years-of-bug-bounty-at-grab-adf1df55eb80">-Reflecting on the Five Years of Bug Bounty at Grab</a>
 
 <a href="https://www.fuzzcon.eu/">-FuzzCON The European Online Conference About Fuzzing March 24, 2021 | 100% ONLINE</a>
 
