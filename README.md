@@ -475,6 +475,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.hackerone.com/blog/hacker-spotlight-ama-noneoftheabove">-HACKER SPOTLIGHT AMA: none_of_the_above</a>
 
+<a href="https://www.hackerone.com/blog/hacker-spotlight-ama-wolf101">-HACKER SPOTLIGHT AMA: Wolf101</a>
+
 <a href="https://www.hackerone.com/blog/hacker-spotlight-ama-debsec">-HACKER SPOTLIGHT AMA: DEBSEC</a>
 
 <a href="https://www.hackerone.com/blog/hacker-spotlight-ama-niemandsec">-Hacker Spotlight AMA: niemand_sec</a>
