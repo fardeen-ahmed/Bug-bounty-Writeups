@@ -204,6 +204,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://blog.intigriti.com/2021/01/27/bug-bytes-107-go-for-http-smuggling-open-source-frameworks-vs-cache-poisoning-practicing-rce-in-nodejs-apps/">-Go for HTTP smuggling, Open source frameworks vs Cache poisoning & Practicing RCE in NodeJS apps </a>
 
+<a href="https://blog.yeswehack.com/yeswerhackers/how-exploit-graphql-endpoint-bug-bounty/">-How to exploit GraphQL endpoint: introspection, query, mutations & tools</a>
+
 <a href="https://microsoftedge.github.io/edgevr/posts/eliminating-xss-with-trusted-types/">-Eliminating XSS from WebUI with Trusted Types</a>
 
 <a href="https://www.intezer.com/blog/research/how-we-hacked-azure-functions-and-escaped-docker/">-How We Hacked Azure Functions and Escaped Docker </a>
