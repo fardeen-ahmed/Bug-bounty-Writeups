@@ -369,7 +369,7 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.youtube.com/watch?v=u2VwUjDNTec">-RocketChat Account takeover via XSS | Live Xss Attack</a>
 
-<A href="https://speakerdeck.com/aditya45/hunting-headers-for-ssrf">-Hunting Headers for SSRF</a>
+<a href="https://speakerdeck.com/aditya45/hunting-headers-for-ssrf">-Hunting Headers for SSRF</a>
 
 <a href="https://eiken.dev/blog/2021/02/how-to-break-your-jar-in-2021-decompilation-guide-for-jars-and-apks/">-How to Break Your JAR in 2021 - Decompilation Guide for JARs and APKs</a>
 
@@ -496,6 +496,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <h2> Hacker Events </h2>
 
 <a href="https://www.hackerone.com/blog/commerce-giant-shopify-kicks-2021-hackerone-virtual-live-hacking-event-h1-2102">-Commerce Giant Shopify Kicks Off 2021 with HackerOne (Virtual) Live Hacking Event: h1-2102 </a>
+
+<a href="https://www.youtube.com/watch?v=krSj81thN0w">-CANSECWEST 2021: Tbone Drone vs Tesla - Ralf-Philippe Weinmann & Benedikt Schmotzle, Comsecuris</a>
 
 <a href="https://blog.intigriti.com/2021/04/28/bug-bytes-120-macos-pwned-homebrew-rce-the-worlds-shortest-backdoor/">-MacOS pwned, Homebrew RCE & The world's shortest backdoor - Intigriti</a>
 
