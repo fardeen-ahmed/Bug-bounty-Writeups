@@ -196,6 +196,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://medium.com/bugbountywriteup/business-logic-error-methodology-easy-way-poc-s-8195d8dee95b">-Business Logic Error Methodology (easy way) + PoC-s</a>
 
+<a href="https://hackerone.com/reports/807772">-OOB reads in network message handlers leads to RCE</a>
+
 <a href="https://ashutoshmishra00x0.medium.com/account-takeover-via-response-manipulation-worth-1800-ffb242cc55c9">-Account Takeover via Response Manipulation worth 1800$</a>
 
 <a href="https://www.ehpus.com/post/multiple-authorization-bypass-issues-in-google-s-richmedia-studio">-Multiple Authorization bypass issues in Google's Richmedia Studio</a>
