@@ -367,6 +367,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://blog.intigriti.com/2021/03/10/bug-bytes-113-ms-exchange-pre-auth-rce-burp-crawler-demystified-sso-security-thesis/">-MS Exchange pre-auth RCE, Burp Crawler demystified & SSO security thesis</a>
 
+<a href="https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html">-How I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit </a>
+
 <a href="https://n0ur5sec.medium.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26">-Somebody Call The Plumber, GraphQL is Leaking Again</a>
 
 <a href="https://thezerohack.com/hack-any-instagram">-How I Could Have Hacked Any Instagram Account </a>
