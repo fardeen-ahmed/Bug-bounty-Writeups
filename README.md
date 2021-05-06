@@ -285,6 +285,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.hackerone.com/blog/announcing-hacker-hill">-Announcing The Hacker of The Hill</a>
 
+<a href="https://ysamm.com/?p=684">-Account takeover of Instagram accounts due to unrestricted permissions of third-party application’s generated tokens</a>
+
 <a href="https://bugs.xdavidhu.me/google/2021/04/05/i-built-a-tv-that-plays-all-of-your-private-youtube-videos/">-I Built a TV That Plays All of Your Private YouTube Videos</a>
 
 <a href="https://darrenmartyn.ie/2021/01/24/visualdoor-sonicwall-ssl-vpn-exploit/">-VisualDoor: SonicWall SSL-VPN Exploit</a>
