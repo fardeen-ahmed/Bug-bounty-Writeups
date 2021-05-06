@@ -41,6 +41,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://github.com/KathanP19/protoscan">-Prototype Pollution Scanner made in Golang</a>
 
+<a href="https://blog.securelayer7.net/static-analysis-of-android-application-tools-used-securelayer7/">-OWASP Top 10: Static Analysis of Android Application & Tools Used</a>
+
 <a href="https://iosiro.com/blog/baserunner-exploiting-firebase-datastores">-Introducing Baserunner: a tool for exploring and exploiting Firebase datastores</a>
 
 <a href="https://thexssrat.medium.com/what-the-fuzz-the-truth-behind-content-discovery-77cd0c0756e7">-What the fuzz?! — The truth behind content discovery</a>
