@@ -387,6 +387,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://speakerdeck.com/aditya45/hunting-headers-for-ssrf">-Hunting Headers for SSRF</a>
 
+<a href="https://ysamm.com/?p=691">-Identify a Facebook user by his phone number despite privacy settings set</a>
+
 <a href="https://eiken.dev/blog/2021/02/how-to-break-your-jar-in-2021-decompilation-guide-for-jars-and-apks/">-How to Break Your JAR in 2021 - Decompilation Guide for JARs and APKs</a>
 
 <a href="https://gevakun.medium.com/join-facebook-group-with-unpublish-page-cb649a20fb0e">-Join Facebook Group With Unpublish Page</a>
