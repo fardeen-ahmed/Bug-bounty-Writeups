@@ -277,6 +277,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://reconshell.com/cve-2021-2109-weblogic-server-remote-code-execution-vulnerability-analysis/">-CVE-2021-2109 Weblogic Server Remote Code Execution vulnerability analysis</a>
 
+<a href="https://hackerone.com/reports/544096">-Material path truncation leads to Remote Code Execution</a>
+
 <a href="https://blog.intigriti.com/2021/04/14/bug-bytes-118-kiterunner-server-side-xss-abusing-payment-systems-for-free-money/">-Kiterunner, Server-side XSS & Abusing payment systems for free money</a>
 
 <a href="https://www.nowsecure.com/blog/2021/01/27/reverse-engineering-imessage-leveraging-the-hardware-to-protect-the-software/">-Reverse Engineering iMessage: Leveraging the Hardware to Protect the Software</a>
