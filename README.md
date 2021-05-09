@@ -351,6 +351,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://hackerone.com/reports/1112679">-Dangling cloud instance at vpn.inverselink.com</a>
 
+<a href="https://www.cyberis.co.uk/blog/domain-hijacking.html">-Domain Hijacking Via Logic Error - Gandi And Route 53 Vulnerability</a>
+
 <a href="https://twitter.com/seecure963/status/1367145532674613249">-Yay, I was awarded a $100,000 bounty on https://twitter.com/Hacker0x01 Initial bounty was $16k and later on they decided to add another $84k!! </a>
 
 <a href="https://infosecwriteups.com/exploiting-misconfigured-oauth-to-takeover-accounts-225a367bca43">-Exploiting misconfigured OAuth to takeover accounts</a>
