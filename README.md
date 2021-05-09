@@ -222,6 +222,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account">-How I Might Have Hacked Any Microsoft Account</a>
 
+<a href="https://takashi-suzuki.medium.com/apple-bug-bounty-xss-2021-78c2f4fc4106">-Apple Bug bounty writeups XSS 2021</a>
+
 <a href="https://v3d.medium.com/full-account-takeover-via-password-reset-flaw-my-first-blog-10d6e11df2e0">-Full Account Takeover via Password Reset Flaw</a>
 
 <h2> Cyber News and Updates (2021-2022) :- </h2>
