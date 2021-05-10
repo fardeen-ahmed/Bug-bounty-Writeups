@@ -323,6 +323,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://mahmoudsamaha.medium.com/misconfiguration-in-change-password-functionality-leads-to-account-takeover-1314b5507abf">-Misconfiguration in Change-password Functionality Leads to Account Takeover</a>
 
+<a href="https://hackerone.com/reports/816156">-Team members can trigger arbitrary code execution in Slack Desktop Apps via HTML Notifications </a>
+
 <a href="https://hackerone.com/reports/1103582">-HackerOne Jira integration plugin Leaked JWT to unauthorized jira users</a>
 
 <a href="https://positive.security/blog/url-open-rce">-Allow arbitrary URLs, expect arbitrary code execution</a>
