@@ -515,6 +515,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.hackerone.com/blog/hacker-spotlight-interview-edduu">-HACKER SPOTLIGHT: INTERVIEW WITH edduu</a>
 
+<a href="https://blog.intigriti.com/2021/05/07/bug-business-14-get-to-know-sumgr0-the-king-of-subdomain-takeovers/">-Meet the hacker, Get to know sumgr0, The King of subdomain takeovers</a>
+
 <a href="https://www.hackerone.com/blog/hacker-spotlight-ama-noneoftheabove">-HACKER SPOTLIGHT AMA: none_of_the_above</a>
 
 <a href="https://www.hackerone.com/blog/hacker-spotlight-ama-wolf101">-HACKER SPOTLIGHT AMA: Wolf101</a>
