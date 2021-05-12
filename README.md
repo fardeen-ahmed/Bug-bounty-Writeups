@@ -222,6 +222,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://microsoftedge.github.io/edgevr/posts/eliminating-xss-with-trusted-types/">-Eliminating XSS from WebUI with Trusted Types</a>
 
+<a href="https://infosecwriteups.com/understanding-and-exploiting-http-for-bug-bounty-46286fcdd870">-Understanding and exploiting HTTP for bug bounty</a>
+
 <a href="https://www.intezer.com/blog/research/how-we-hacked-azure-functions-and-escaped-docker/">-How We Hacked Azure Functions and Escaped Docker </a>
 
 <a href="https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account">-How I Might Have Hacked Any Microsoft Account</a>
