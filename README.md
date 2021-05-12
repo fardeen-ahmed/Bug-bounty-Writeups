@@ -180,6 +180,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://youtu.be/5guMYiQrnUo">-Shopify Account Takeover $22,500 Bug Bounty</a>
 
+<a href="https://blog.intigriti.com/2021/05/05/bug-bytes-121-free-burp-collaborator-alternative-hacking-chrome-extensions-28k-facebook-oauth-account-takeover/">-Free Burp Collaborator alternative, Hacking Chrome extensions & $28k Facebook Oauth account takeover</a>
+
 <a href="https://alaa0x2.medium.com/how-i-hacked-facebook-part-two-ffab96d57b19">-How I hacked Facebook: Part Two</a>
 
 <a href="https://www.bugcrowd.com/blog/how-to-find-xxe-bugs/">-How to Find XXE Bugs: Severe, Missed and Misunderstood</a>
