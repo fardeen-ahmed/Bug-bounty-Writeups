@@ -431,6 +431,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.aon.com/cyber-solutions/aon_cyber_labs/finding-more-idors-tips-and-tricks/">-Finding More IDORs – Tips And Tricks</a>
 
+<a href="https://blog.s1r1us.ninja/CTF/site-isolation">-A tale of solving all the recent XSS challenges using chrome 1-day</a>
+
 <a href="https://www.zdnet.com/article/dod-expands-its-bug-hunting-programme-to-networks-iot-and-more/">-DOD expands its bug hunting programm to networks, IoT and more</a>
 
 <a href="https://notifybugme.medium.com/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba">-Chaining an Blind SSRF bug to Get an RCE </a>
