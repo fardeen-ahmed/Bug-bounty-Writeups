@@ -557,7 +557,9 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://twitter.com/itsecurityguard/status/1371162418915766274">-Amassive Leap in Host Discovery</a>
 
-<a href="https://blog.intigriti.com/2021/03/17/bug-bytes-114-binary-fuzzing-for-web-vulnerabilities-leaky-page-nahamcon2021/">-Bug Bytes #114 – Binary fuzzing for Web vulnerabilities, Leaky page & NahamCon2021</a>
+<a href="https://blog.intigriti.com/2021/03/17/bug-bytes-114-binary-fuzzing-for-web-vulnerabilities-leaky-page-nahamcon2021/">–Binary fuzzing for Web vulnerabilities, Leaky page & NahamCon2021</a>
+
+<a href="https://blog.intigriti.com/2021/05/13/meet-the-hacker-0xkasper-ctf-player-student-and-hunter/">-Meet the hacker: 0xkasper, CTF player, Student, and hunter.</a>
 
 <a href="https://twitter.com/campuscodi/status/1371379390261698561">-"Hacking the cloud" is a encyclopedia of attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure</a>
 
