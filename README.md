@@ -243,6 +243,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://leethax0.rs/2021/04/ElectricChrome/">-ELECTRIC CHROME - CVE-2020-6418 on Tesla Model 3 </a>
 
+<a href="https://blog.intigriti.com/2021/05/12/bug-bytes-122-redos-demystified-payloadallthethings-inside-burp-an-18k-instagram-oauth-misconfiguration/">-ReDoS demystified, PayloadAllTheThings inside Burp & An $18k Instagram OAuth misconfiguration</a>
+
 <a href="https://blog.cobalt.io/pentest-workflow-leveraging-community-powered-tools-979b54df5e52">-Pentest Workflow — Leveraging Community-Powered Tools</a>
 
 <a href="https://blog.intigriti.com/2021/04/07/bug-bytes-117-writeups-a-gogo-google-blind-ssrf-challenge-infosec-drama/">-Writeups à gogo, Google blind SSRF challenge & InfoSec drama </a>
