@@ -329,6 +329,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html">-RCE in Google Cloud Deployment Manager</a>
 
+<a href="https://hackerone.com/reports/1154542">-RCE when removing metadata with ExifTool</a>
+
 <a href="https://infosecwriteups.com/pwning-your-assignments-stored-xss-via-graphql-endpoint-6dd36c8a19d5">-Pwning your assignments: Stored XSS via GraphQL endpoint</a>
 
 <a href="https://www.youtube.com/watch?v=P-NpZFYWt1U">-Account takeover using OAuth Misconfiguration | Badoo $300 Bug Bounty</a>
