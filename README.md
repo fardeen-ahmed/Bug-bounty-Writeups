@@ -127,6 +127,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <A href="http://ysamm.com/?p=627">-Leaking Facebook user information to external websites ($2000)</a>
 
+<a href="https://blog.doyensec.com/2021/05/20/graphql-csrf.html">-That single GraphQL issue that you keep missing</a>
+  
 <a href="https://bilalabdulmuqeet.medium.com/brute-forcing-otp-via-bypassing-rate-limit-c5ee6b25c2a8">-OTP brute-force via rate limit bypass</a>
 
 <a href="http://ysamm.com/?p=620">-Make recruiting referrals on behalf of employees ($3000)</a>
