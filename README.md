@@ -154,6 +154,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://godiego.tech/posts/STO/">-Subdomain Takeover in Azure: making a PoC</a>
   
+<a href="https://medium.com/mii-cybersec/burp-suite-extensions-rarely-utilized-but-quite-useful-8d57c5a3a06b">-Burp Suite Extensions: Rarely Utilized but Quite Useful</a>
+  
 <a href="https://xcheater.medium.com/all-about-password-reset-vulnerabilities-3bba86ffedc7">-All about Password Reset vulnerabilities</a>
 
 <a href="https://medium.com/@Mrcyberwarrior/exploiting-activity-in-medium-android-app-e2e6f3553eef">-Trigger custom URL in Medium Android app</a>
