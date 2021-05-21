@@ -110,6 +110,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <h2> Quick writeups for fast hunting </h2>
 
 <a href="http://ysamm.com/?p=606">-Access employees files in internal CDNs/ Access users modified/deleted content.($12500)</a>
+  
+<a href="https://medium.com/csg-govtech/lifes-a-peach-fuzzer-how-to-build-and-use-gitlab-s-open-source-protocol-fuzzer-fd78c9caf05e">-Life’s a Peach (Fuzzer) How to Build and Use GitLab’s Open-Source Protocol Fuzzer</a>
 
 <a href="https://hackerone.com/reports/928255">-Ability To Delete User(s) Account Without User Interaction</a>
 
