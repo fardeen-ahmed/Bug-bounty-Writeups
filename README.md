@@ -100,6 +100,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://portswigger.net/blog/browser-powered-scanning-in-burp-suite">-Browser powered scanning in Burp Suite</a>
 
 <a href="https://github.com/rotemreiss/uddup">-Urls de-duplication tool for better recon.</a>
+  
+<a href="https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530">-Just Gopher It: Escalating a Blind SSRF to RCE for $15k</a>
 
 <a href="https://hx01.me/Abusing_Data_Protection_Laws_For_D0xing_and_Account_Takeovers.pdf">-Hx01 Abusing Data Protection Laws For D0xing & Account Takeovers</a>
 
