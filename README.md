@@ -153,6 +153,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
 
 <a href="https://godiego.tech/posts/STO/">-Subdomain Takeover in Azure: making a PoC</a>
+  
+<a href="https://xcheater.medium.com/all-about-password-reset-vulnerabilities-3bba86ffedc7">-All about Password Reset vulnerabilities</a>
 
 <a href="https://medium.com/@Mrcyberwarrior/exploiting-activity-in-medium-android-app-e2e6f3553eef">-Trigger custom URL in Medium Android app</a>
 
