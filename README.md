@@ -244,6 +244,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://takashi-suzuki.medium.com/apple-bug-bounty-xss-2021-78c2f4fc4106">-Apple Bug bounty writeups XSS 2021</a>
 
+<a href="https://blog.sonarsource.com/nosql-injections-in-rocket-chat/">-NoSQL Injections in Rocket.Chat 3.12.1: How A Small Leak Grounds A Rocket</a>  
+
 <a href="https://v3d.medium.com/full-account-takeover-via-password-reset-flaw-my-first-blog-10d6e11df2e0">-Full Account Takeover via Password Reset Flaw</a>
 
 <h2> Cyber News and Updates (2021-2022) :- </h2>
