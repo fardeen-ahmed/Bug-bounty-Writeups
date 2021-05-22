@@ -120,6 +120,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://hackerone.com/reports/1091303">-Low privilege user can read POS PINs via graphql and elevate his privilege</a>
 
 <a href="http://ysamm.com/?p=603">-URLs in img tag aren’t safely embedded. ($500)</a>
+  
+<a href="https://hackerone.com/reports/1196124">-Regular Expression Injection</a>
 
 <a href="http://ysamm.com/?p=629">-Enumerate internal cached URLs which lead to data exposure</a>
 
