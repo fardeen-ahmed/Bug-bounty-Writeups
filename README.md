@@ -153,6 +153,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://bhansalipratish.medium.com/how-i-found-my-first-bug-idor-9c4e52584454">-How I found my first bug (IDOR)</a>
   
+<a href="https://newrouge.medium.com/web-cache-poisoning-a-tale-of-chaining-unkeyed-inputs-6e3cb026bd23">-Web Cache Poisoning: A Tale of chaining unkeyed inputs</a>
+  
 <a href="https://blog.wpsec.com/wordpress-xxe-in-media-library-cve-2021-29447/">-WordPress XXE Vulnerability in Media Library – CVE-2021-29447 </a>
 
 <A href="http://ysamm.com/?p=621">-Access private information about SparkAR effect owners who has a publicly viewable portfolio ($1500)</a>
