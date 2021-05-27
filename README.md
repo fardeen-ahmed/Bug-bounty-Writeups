@@ -276,6 +276,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://thehackernews.com/2021/02/top-5-bug-bounty-programs-to-watch-in.html">-Top 5 Bug Bounty Programs to Watch in 2021</a>
 
 <a href="https://leethax0.rs/2021/04/ElectricChrome/">-ELECTRIC CHROME - CVE-2020-6418 on Tesla Model 3 </a>
+  
+<a href="https://youtu.be/5rSJpv0ZuZg">-Building a Bug Bounty Program from Scratch</a>
 
 <a href="https://blog.intigriti.com/2021/05/12/bug-bytes-122-redos-demystified-payloadallthethings-inside-burp-an-18k-instagram-oauth-misconfiguration/">-ReDoS demystified, PayloadAllTheThings inside Burp & An $18k Instagram OAuth misconfiguration</a>
 
