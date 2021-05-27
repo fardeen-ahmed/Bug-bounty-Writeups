@@ -188,6 +188,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
   
 <a href="https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312">-Disclose leads form details of any Facebook Business Account or Facebook Page</a>
   
+<a href="https://cirius.medium.com/how-i-hacked-a-target-again-and-again-6db2e462221f">-How I hacked a Target again and again</a>
+  
 <a href="https://www.youtube.com/watch?v=Fzx7OWZId6U">-Account Takeover using OAuth Misconfiguration | Badoo Bug Bounty $300</a>
 
 <a href="https://www.youtube.com/watch?v=FzT3Z7tgDSQ">-$5,000 YouTube IDOR - Bug Bounty Reports Explained </a>
