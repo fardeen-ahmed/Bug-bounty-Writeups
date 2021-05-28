@@ -233,6 +233,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://rakeshelamaran.medium.com/oauth-misconfig-leads-to-account-takeover-7a360e6d9cac">-Oauth Misconfig — Leads to Account Takeover</a>
 
 <a href="https://medium.com/tag/bug-bounty/latest">-Exploiting CSRF chaining with IDOR</a>
+  
+<a href="https://thexssrat.medium.com/bug-bounty-methodology-v3-0-hunt-like-a-rat-9e030fc54363">-Bug Bounty Methodology V3.0: Hunt like a rat</a>
 
 <a href="https://ltsirkov.medium.com/gitlab-just-another-ssrf-issue-483bc040392b">-Just another SSRF issue</a>
 
