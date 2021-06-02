@@ -225,6 +225,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://blog.intigriti.com/2021/05/05/bug-bytes-121-free-burp-collaborator-alternative-hacking-chrome-extensions-28k-facebook-oauth-account-takeover/">-Free Burp Collaborator alternative, Hacking Chrome extensions & $28k Facebook Oauth account takeover</a>
 
 <a href="https://alaa0x2.medium.com/how-i-hacked-facebook-part-two-ffab96d57b19">-How I hacked Facebook: Part Two</a>
+  
+<a href="https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e">-Escalating SSRF to Accessing all user PII information by aws metadata</a>
 
 <a href="https://www.bugcrowd.com/blog/how-to-find-xxe-bugs/">-How to Find XXE Bugs: Severe, Missed and Misunderstood</a>
 
