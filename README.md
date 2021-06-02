@@ -221,6 +221,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://twitter.com/OAcybersecurity#bugbounty">-FORD Session token URL lead to Reflected XSS</a>
 
 <a href="https://youtu.be/5guMYiQrnUo">-Shopify Account Takeover $22,500 Bug Bounty</a>
+  
+<a href="https://swordbytes.com/blog/security-advisory-overwolf-1-click-remote-code-execution-cve-2021-33501/">-Overwolf 1-Click Remote Code Execution - CVE-2021-33501</a>
 
 <a href="https://blog.intigriti.com/2021/05/05/bug-bytes-121-free-burp-collaborator-alternative-hacking-chrome-extensions-28k-facebook-oauth-account-takeover/">-Free Burp Collaborator alternative, Hacking Chrome extensions & $28k Facebook Oauth account takeover</a>
 
