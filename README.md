@@ -136,6 +136,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://hackerone.com/reports/1065500">-Multiple bugs leads to RCE on TikTok for Android</a>
 
 <A href="http://ysamm.com/?p=627">-Leaking Facebook user information to external websites ($2000)</a>
+  
+<a href="https://vaibhavgaikwad1712.medium.com/2fa-bypass-using-response-manipulation-29d6c2583936">-2fa Bypass Using Response Manipulation</a>
 
 <a href="https://blog.doyensec.com/2021/05/20/graphql-csrf.html">-That single GraphQL issue that you keep missing</a>
   
