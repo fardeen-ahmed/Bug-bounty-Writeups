@@ -268,7 +268,9 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://mvinni.medium.com/workplace-by-facebook-unauthorized-access-to-companies-environment-27-5k-a593a57092f1">-Workplace by Facebook, Unauthorized access to companies environment ($27,5k)</a>
   
-<a href="https://straightblast.medium.com/my-poc-walkthrough-for-cve-2021-21974-a266bcad14b9">-My RCE PoC walkthrough for (CVE-2021–21974) VMware ESXi OpenSLP heap-overflow vulnerability</a>
+<a href="https://straightblast.medium.com/my-poc-walkthrough-for-cve-2021-21974-a266bcad14b9">-My RCE PoC walkthrough for (CVE-2021–21974) VMware ESXi OpenSLP heap-overflow vulnerability </a>
+  
+<a href="https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/">-Exploiting a zero-day WebAssembly Vulnerability (CVE-2021-30734) in Apple Safari/a>
 
 <a href="https://blog.yeswehack.com/yeswerhackers/how-exploit-graphql-endpoint-bug-bounty/">-How to exploit GraphQL endpoint: introspection, query, mutations & tools</a>
 
