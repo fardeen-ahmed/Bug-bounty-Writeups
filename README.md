@@ -129,6 +129,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
   
 <a href="https://hackerone.com/reports/1196124">-Regular Expression Injection</a>
 
+<a href="https://z3r0tru5t.medium.com/open-redirect-to-account-takeover-f1405cbdf2d">-Open Redirect to Account Takeover</a>  
+  
 <a href="http://ysamm.com/?p=629">-Enumerate internal cached URLs which lead to data exposure</a>
 
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
@@ -404,6 +406,7 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://mikey96.medium.com/what-if-you-could-deposit-money-into-your-betting-account-for-free-24f6690aff46">-What if you could deposit money into your Betting account for free? Oh wait where has this 25k came from</a>
 
 <a href="https://mahmoudsamaha.medium.com/misconfiguration-in-change-password-functionality-leads-to-account-takeover-1314b5507abf">-Misconfiguration in Change-password Functionality Leads to Account Takeover</a>
+  
 
 <a href="https://hackerone.com/reports/816156">-Team members can trigger arbitrary code execution in Slack Desktop Apps via HTML Notifications </a>
 
