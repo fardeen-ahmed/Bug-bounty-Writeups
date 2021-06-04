@@ -396,6 +396,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://infosecwriteups.com/pwning-your-assignments-stored-xss-via-graphql-endpoint-6dd36c8a19d5">-Pwning your assignments: Stored XSS via GraphQL endpoint</a>
 
 <a href="https://www.youtube.com/watch?v=P-NpZFYWt1U">-Account takeover using OAuth Misconfiguration | Badoo $300 Bug Bounty</a>
+  
+<a href="https://hackerone.com/reports/1115864">-Persistent Arbitrary code execution in Mattermost Android app</a>
 
 <a href="https://mikey96.medium.com/what-if-you-could-deposit-money-into-your-betting-account-for-free-24f6690aff46">-What if you could deposit money into your Betting account for free? Oh wait where has this 25k came from</a>
 
