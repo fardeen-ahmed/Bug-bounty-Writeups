@@ -497,6 +497,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://vbharad.medium.com/stored-xss-in-icloud-com-5000-998b8c4b2075">-Stored XSS in icloud.com — $5000</a>
 
+<a href="https://blog.wpsec.com/wordpress-phpmailer-vulnerability-analysis/">-WordPress PHPMailer vulnerability analysis</a>
+  
 <a href="https://www.aon.com/cyber-solutions/aon_cyber_labs/finding-more-idors-tips-and-tricks/">-Finding More IDORs – Tips And Tricks</a>
 
 <a href="https://blog.s1r1us.ninja/CTF/site-isolation">-A tale of solving all the recent XSS challenges using chrome 1-day</a>
