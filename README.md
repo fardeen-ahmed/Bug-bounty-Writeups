@@ -249,6 +249,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://ltsirkov.medium.com/gitlab-just-another-ssrf-issue-483bc040392b">-Just another SSRF issue</a>
 
 <a href="https://youtu.be/Ft3H-3J67UE">-How to intercept traffic from Android apps with Objection and Burp</a>
+  
+<a href="https://shahjerry33.medium.com/server-side-request-forgery-a-forged-document-6359ef25058d">-Server Side Request Forgery - A Forged Document</a>
 
 <a href="https://medium.com/@ltsirkov/gitlab-server-side-request-forgery-in-project-import-page-6fdb9ef423e4">-Server Side Request Forgery in “Project Import” page.</a>
 
