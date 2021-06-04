@@ -267,6 +267,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://www.ehpus.com/post/multiple-authorization-bypass-issues-in-google-s-richmedia-studio">-Multiple Authorization bypass issues in Google's Richmedia Studio</a>
 
 <a href="https://blog.intigriti.com/2021/01/27/bug-bytes-107-go-for-http-smuggling-open-source-frameworks-vs-cache-poisoning-practicing-rce-in-nodejs-apps/">-Go for HTTP smuggling, Open source frameworks vs Cache poisoning & Practicing RCE in NodeJS apps </a>
+  
+<a href="https://github.com/detectify/page-fetch">-Fetch web pages using headless Chrome, storing all fetched resources including JavaScript files. Run arbitrary JavaScript on many web pages and see the returned values  </a>
 
 <a href="https://mvinni.medium.com/workplace-by-facebook-unauthorized-access-to-companies-environment-27-5k-a593a57092f1">-Workplace by Facebook, Unauthorized access to companies environment ($27,5k)</a>
   
