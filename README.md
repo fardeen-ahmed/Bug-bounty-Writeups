@@ -397,6 +397,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://hackerone.com/reports/1154542">-RCE when removing metadata with ExifTool</a>
   
+<a href="https://greg-gibson.medium.com/executing-csrf-with-phone-validation-103c525dd310">-Executing CSRF With Phone Validation</a>
+  
 <a href="https://blog.1password.com/bug-bounty-updates/">-Raising the stakes: Doubling the rewards on our bug bounty program</a>
 
 <a href="https://infosecwriteups.com/pwning-your-assignments-stored-xss-via-graphql-endpoint-6dd36c8a19d5">-Pwning your assignments: Stored XSS via GraphQL endpoint</a>
