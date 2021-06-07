@@ -32,6 +32,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <A href="https://github.com/mdsecresearch/BurpSuiteSharpener">-Extension should add a number of UI and functional features to Burp Suite to make working with it easier</a>
 
 <a href="https://github.com/benso-io/posta">-Posta. Cross-document Messaging security research tool</a>
+
+<a href="https://being-uncommon.medium.com/rustscan-the-modern-port-scanner-d6d3084e9c82">-RUSTSCAN — THE MODERN PORT SCANNER</a>
   
 <a href="https://github.com/swisskyrepo/GraphQLmap">-GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes</a>
   
@@ -392,6 +394,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://infosecboy18.medium.com/parameter-pollution-in-social-sharing-buttons-dfd05b18b523">-Parameter Pollution in social sharing Buttons </a>
 
 <a href="https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html">-RCE in Google Cloud Deployment Manager</a>
+  
+<a href="https://notifybugme.medium.com/how-github-recon-help-me-to-find-nine-full-ssrf-vulnerability-with-aws-metadata-access-531d931413a5">-How Github recon help me to find NINE FULL SSRF Vulnerability with AWS metadata access</a>
   
 <a href="https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md">-Finding 0day to hack Apple</a>
 
