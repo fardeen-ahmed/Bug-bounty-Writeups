@@ -403,6 +403,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.youtube.com/watch?v=P-NpZFYWt1U">-Account takeover using OAuth Misconfiguration | Badoo $300 Bug Bounty</a>
   
+<a href="https://frichetten.com/blog/xss_in_aws_console/">-XSS in the AWS Console</a>
+  
 <a href="https://hackerone.com/reports/1115864">-Persistent Arbitrary code execution in Mattermost Android app</a>
 
 <a href="https://mikey96.medium.com/what-if-you-could-deposit-money-into-your-betting-account-for-free-24f6690aff46">-What if you could deposit money into your Betting account for free? Oh wait where has this 25k came from</a>
