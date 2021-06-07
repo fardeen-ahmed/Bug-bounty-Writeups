@@ -392,6 +392,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://infosecboy18.medium.com/parameter-pollution-in-social-sharing-buttons-dfd05b18b523">-Parameter Pollution in social sharing Buttons </a>
 
 <a href="https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html">-RCE in Google Cloud Deployment Manager</a>
+  
+<a href="https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md">-Finding 0day to hack Apple</a>
 
 <a href="https://hackerone.com/reports/1154542">-RCE when removing metadata with ExifTool</a>
   
