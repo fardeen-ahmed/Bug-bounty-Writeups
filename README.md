@@ -8,12 +8,10 @@
 <h3> 2) Bug-Bounty Tools. </h3>
 <h3> 3) Quick Writeup for fast hunting </h3>
 <h3> 4) Bug-Hunting Witeups. </h3>
-<h3> 5) Bugs for beginners, Intermediate and Advance Exploitation. </h3>
-<h3> 6) Labs for Hacking <h3>
-<h3> 7) Cyber News and Updates (2021-2022) </h3>
-<h3> 8) Creative Vulnerabilities </h3>
-<h3> 9) Interviews with White Hat </h3>
-<h3> 10) Career Updates in CyberSecurity. </h3>
+<h3> 5) Cyber News and Updates (2021-2022) </h3>
+<h3> 6) Creative Vulnerabilities </h3>
+<h3> 7) Interviews with White Hat </h3>
+<h3> 8) Career Updates in CyberSecurity. </h3>
 
 
 <h2> OWASP Top-10 Vulnerabilities (Updating soon...) </h2>
@@ -277,6 +275,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://straightblast.medium.com/my-poc-walkthrough-for-cve-2021-21974-a266bcad14b9">-My RCE PoC walkthrough for (CVE-2021–21974) VMware ESXi OpenSLP heap-overflow vulnerability </a>
   
 <a href="https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/">-Exploiting a zero-day WebAssembly Vulnerability (CVE-2021-30734) in Apple Safari/a>
+  
+<a href="https://www.iswin.org/2021/06/02/Vcenter-Server-CVE-2021-21985-RCE-PAYLOAD/">-Vcenter Server CVE-2021-21985</a>
 
 <a href="https://blog.yeswehack.com/yeswerhackers/how-exploit-graphql-endpoint-bug-bounty/">-How to exploit GraphQL endpoint: introspection, query, mutations & tools</a>
 
