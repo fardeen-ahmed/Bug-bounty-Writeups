@@ -120,6 +120,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://medium.com/csg-govtech/lifes-a-peach-fuzzer-how-to-build-and-use-gitlab-s-open-source-protocol-fuzzer-fd78c9caf05e">-Life’s a Peach (Fuzzer) How to Build and Use GitLab’s Open-Source Protocol Fuzzer</a>
 
 <a href="https://hackerone.com/reports/928255">-Ability To Delete User(s) Account Without User Interaction</a>
+
+<a href="https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/">-How to exploit insecure WebResourceResponse configurations + an example vulnerability in Amazon apps</a>
   
 <a href="https://sinsinology.medium.com/bug-bounty-short-tips-as-image-b4075523e4ef">-Bug Bounty Short Tips as image</a>
 
