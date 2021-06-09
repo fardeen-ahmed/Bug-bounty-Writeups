@@ -397,6 +397,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html">-RCE in Google Cloud Deployment Manager</a>
   
+<a hef="https://www.fortbridge.co.uk/advisories/joomla-password-reset-vulnerability-and-stored-xss-for-full-compromise/">-JOOMLA PASSWORD RESET VULNERABILITY AND A STORED XSS FOR FULL COMPROMISE</a>
+  
 <a href="https://notifybugme.medium.com/how-github-recon-help-me-to-find-nine-full-ssrf-vulnerability-with-aws-metadata-access-531d931413a5">-How Github recon help me to find NINE FULL SSRF Vulnerability with AWS metadata access</a>
   
 <a href="https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md">-Finding 0day to hack Apple</a>
