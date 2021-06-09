@@ -125,6 +125,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="http://ysamm.com/?p=597">-View orders and financial reports lists for any page shop ($500)</a>
 
+<a href="https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962">-Story of my first cash bounty on hackerone</a>
+
 <a href="https://hackerone.com/reports/1091303">-Low privilege user can read POS PINs via graphql and elevate his privilege</a>
 
 <a href="http://ysamm.com/?p=603">-URLs in img tag aren’t safely embedded. ($500)</a>
