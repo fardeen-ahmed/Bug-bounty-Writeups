@@ -101,6 +101,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://portswigger.net/blog/burp-suite-roadmap-for-2021">-Burp Suite roadmap for 2021</a>
 
+<a href="https://github.com/codingo/bbr">-bbr is an open source tool to aid in command line driven generation of bug bounty reports based on user provided templates.</a>
+
 <a href="https://portswigger.net/blog/browser-powered-scanning-in-burp-suite">-Browser powered scanning in Burp Suite</a>
 
 <a href="https://github.com/rotemreiss/uddup">-Urls de-duplication tool for better recon.</a>
