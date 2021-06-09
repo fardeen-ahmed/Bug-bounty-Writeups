@@ -154,6 +154,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="http://ysamm.com/?p=625">-Open redirect in Instagram.com ($500)</a>
   
 <a href="https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c">-CORS misconfig that worths USD200</a>
+
+<a href="https://blog.cobalt.io/getting-started-with-android-application-security-6f20b76d795b">-Getting started with Android Application Security</a>
   
 <a href="https://thevillagehacker.medium.com/time-based-sql-injection-to-dumping-the-database-da0e5bcaa9df">-Time-Based SQL Injection to Dumping the Database</a>
 
