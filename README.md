@@ -241,6 +241,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e">-Escalating SSRF to Accessing all user PII information by aws metadata</a>
 
 <a href="https://www.bugcrowd.com/blog/how-to-find-xxe-bugs/">-How to Find XXE Bugs: Severe, Missed and Misunderstood</a>
+  
+<a href="https://labs.detectify.com/2021/06/08/what-is-a-prototype-pollution-vulnerability-and-how-does-page-fetch-help/">-What is a Prototype Pollution vulnerability and how does page-fetch help</a>
 
 <a href="https://dun930nmaster.medium.com/finding-my-first-bug-http-request-smuggling-5fdc89581fe2">-Finding My First Bug: HTTP Request Smuggling</a>
 
