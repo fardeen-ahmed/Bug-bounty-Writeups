@@ -407,6 +407,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://susanwagle123.medium.com/idor-revealing-images-cdn-links-6589e19bdbaf">-IDOR Revealing Images CDN Links </a>
   
+<a href="https://www.hackerone.com/blog/60-days-insights-dods-defense-industrial-base-vulnerability-disclosure-program-pilot-1">-60 days of insights from the DoD’s Defense Industrial Base Vulnerability Disclosure Program Pilot</a>
+  
 <a href="https://ph-hitachi.medium.com/how-i-got-my-first-bug-bounty-in-intersting-target-lfi-to-sxss-58fa5c4f5882">-How i got my First Bug Bounty in Intersting Target (LFI to SXSS)</a>
 
 <a href="https://infosecboy18.medium.com/parameter-pollution-in-social-sharing-buttons-dfd05b18b523">-Parameter Pollution in social sharing Buttons </a>
