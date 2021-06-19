@@ -476,6 +476,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
 
 <a href="https://dewcode.medium.com/how-did-i-earn-by-breaking-the-back-end-logic-of-the-server-fd94882cbdf6">-How did I earn €€€€ by breaking the back-end logic of the server</a>
+  
+<a href="https://youst.in/posts/bypassing-2fa-using-openid-misconfiguration/">-Bypassing 2FA using OpenID Misconfiguration</a>
 
 <a href="https://hackerone.com/reports/1074047">-Misconfigured oauth leads to Pre account takeover</a>
 
