@@ -266,6 +266,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://youtu.be/Ft3H-3J67UE">-How to intercept traffic from Android apps with Objection and Burp</a>
   
+<a href="https://flattsecurity.hatenablog.com/entry/2020/11/02/124807">-Technical descriptions of 0days found - EC-CUBE, SoyCMS, BaserCMS</a>
+  
 <a href="https://shahjerry33.medium.com/server-side-request-forgery-a-forged-document-6359ef25058d">-Server Side Request Forgery - A Forged Document</a>
 
 <a href="https://medium.com/@ltsirkov/gitlab-server-side-request-forgery-in-project-import-page-6fdb9ef423e4">-Server Side Request Forgery in “Project Import” page.</a>
