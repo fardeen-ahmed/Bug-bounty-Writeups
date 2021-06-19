@@ -85,6 +85,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://hogarth45.medium.com/using-intruder-to-authorization-headers-161fd873824a">-Using Intruder to Brute Force Authorization Header</a>
 
+<a href="https://github.com/Josue87/gotator">-Gotator is a tool to generate DNS wordlists through permutations.</a>
+
 <a href="https://danielmiessler.com/study/ffuf/">-A ffuf Primer</a>
 
 <a href="https://github.com/WeAreCloudar/s3-account-search">-S3 Account Search</a>
