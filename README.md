@@ -93,6 +93,9 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://github.com/redcode-labs/UnChain">-A tool to find redirection chains in multiple URLs</a>
 
+<a href="https://github.com/tomnomnom/gron">-Make JSON greppable!
+gron transforms JSON into discrete assignments to make it easier to grep for what you want and see the absolute 'path' to it.</a>
+
 <a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">-Top 10 Tips for Burp Suite</a>
 
 <a href="https://www.pentagrid.ch/en/blog/burp-suite-hackvertor-custom-tags-email-sms-tan-multi-factor-authentication/">-Burp Suite - solving E-mail and SMS TAN multi-factor authentication with Hackvertor custom tags</a>
