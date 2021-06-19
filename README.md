@@ -422,6 +422,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://notifybugme.medium.com/how-github-recon-help-me-to-find-nine-full-ssrf-vulnerability-with-aws-metadata-access-531d931413a5">-How Github recon help me to find NINE FULL SSRF Vulnerability with AWS metadata access</a>
   
 <a href="https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md">-Finding 0day to hack Apple</a>
+  
+<a href="https://lalka-test.medium.com/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d">-Privilege escalation on https://dialogflow.cloud.google.com</a>
 
 <a href="https://hackerone.com/reports/1154542">-RCE when removing metadata with ExifTool</a>
   
