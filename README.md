@@ -405,6 +405,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://darrenmartyn.ie/2021/01/24/visualdoor-sonicwall-ssl-vpn-exploit/">-VisualDoor: SonicWall SSL-VPN Exploit</a>
 
 <a href="https://portswigger.net/daily-swig/playing-fetch-new-xs-leak-exploits-browser-redirects-to-break-user-privacy">-New XS-Leak exploits browser redirects to break user privacy</a>
+  
+<a href="https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/">-Google fixes a persistent code execution in their app</a>
 
 <a href="https://blog.intigriti.com/2021/04/21/bug-bytes-119-autographql-whatsapp-mitd-desktop-apps-mishandling-bad-uris/">-AutoGraphQL, WhatsApp MitD & Desktop apps mishandling bad URIs</a>
 
