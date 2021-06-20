@@ -420,6 +420,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://www.hackerone.com/blog/60-days-insights-dods-defense-industrial-base-vulnerability-disclosure-program-pilot-1">-60 days of insights from the DoD’s Defense Industrial Base Vulnerability Disclosure Program Pilot</a>
   
+<a href="https://geekboyranjeet.medium.com/breaking-application-logic-to-rce-3292a69e006b">-Breaking Application Logic To RCE</a>
+  
 <a href="https://otmastimi.medium.com/users-location-diclosure-in-the-nearby-friends-feature-fabd24be05cb">-User’s location diclosure in the “Nearby Friends” feature. $15,500 Bounty</a>
   
 <a href="https://basu-banakar.medium.com/story-of-google-hall-of-fame-and-private-program-bounty-worth-53559a95c468">-Story of Google Hall of Fame and Private program bounty worth $$$$</a>
