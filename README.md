@@ -270,6 +270,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://thexssrat.medium.com/bug-bounty-methodology-v3-0-hunt-like-a-rat-9e030fc54363">-Bug Bounty Methodology V3.0: Hunt like a rat</a>
 
 <a href="https://ltsirkov.medium.com/gitlab-just-another-ssrf-issue-483bc040392b">-Just another SSRF issue</a>
+  
+<a href="https://blog.chichou.me/2021/06/20/quick-analysis-wifid/">-Quick Analysis for the SSID Format String Bug</a>
 
 <a href="https://youtu.be/Ft3H-3J67UE">-How to intercept traffic from Android apps with Objection and Burp</a>
   
