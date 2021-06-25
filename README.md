@@ -89,6 +89,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://danielmiessler.com/study/ffuf/">-A ffuf Primer</a>
 
+<a href="https://github.com/sh1yo/x8">-x8 Hidden parameters discovery suite</a>
+
 <a href="https://github.com/WeAreCloudar/s3-account-search">-S3 Account Search</a>
 
 <a href="https://remonsec.medium.com/passive-recon-with-spyse-part-i-bfa5408e52dd">-Passive Recon with Spyse (Part-I)</a>
