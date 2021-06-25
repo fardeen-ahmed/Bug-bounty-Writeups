@@ -246,6 +246,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://swordbytes.com/blog/security-advisory-overwolf-1-click-remote-code-execution-cve-2021-33501/">-Overwolf 1-Click Remote Code Execution - CVE-2021-33501</a>
 
 <a href="https://blog.intigriti.com/2021/05/05/bug-bytes-121-free-burp-collaborator-alternative-hacking-chrome-extensions-28k-facebook-oauth-account-takeover/">-Free Burp Collaborator alternative, Hacking Chrome extensions & $28k Facebook Oauth account takeover</a>
+  
+  <a href="https://tuhin1729.medium.com/3-vulnerabilities-worth-e2851059dfc2">-3 Vulnerabilities Worth $$$ By Tuhin Bose</a>
 
 <a href="https://alaa0x2.medium.com/how-i-hacked-facebook-part-two-ffab96d57b19">-How I hacked Facebook: Part Two</a>
   
