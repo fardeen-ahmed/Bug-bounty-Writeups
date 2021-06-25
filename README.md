@@ -547,6 +547,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://gevakun.medium.com/join-facebook-group-with-unpublish-page-cb649a20fb0e">-Join Facebook Group With Unpublish Page</a>
   
+<a href="https://thezerohack.com/apple-vulnerability-bug-bounty">-How I Found A Vulnerability To Hack iCloud Accounts and How Apple Reacted To It</a>
+  
 <a href="https://www.synack.com/blog/1-million-one-journey-the-story-of-%D3%A7zgur-alp/">-$1 Million, One Journey: The Story of Ӧzgü</a>
 
 <a href="https://bugbountyhunter.medium.com/how-nepali-woman-finds-bug-in-facebook-gets-awarded-3000-37f5209c6dec">-How Nepali Woman Finds bug in Facebook, Gets Awarded $3000 </a>
