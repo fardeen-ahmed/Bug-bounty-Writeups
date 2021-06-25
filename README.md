@@ -476,6 +476,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://positive.security/blog/url-open-rce">-Allow arbitrary URLs, expect arbitrary code execution</a>
 
 <a href="https://www.hackerone.com/blog/rise-idor">-THE RISE OF IDOR</a>
+  
+<a href="https://shahjerry33.medium.com/pii-leakage-revealing-secrets-8b617071bd1c">-PII Leakage - Revealing Secrets</a>
 
 <a href="https://infosecwriteups.com/exploiting-misconfigured-oauth-to-takeover-accounts-225a367bca43">-Exploiting misconfigured OAuth to takeover accounts</a>
 
