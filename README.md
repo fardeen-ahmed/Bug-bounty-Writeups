@@ -280,6 +280,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://shahjerry33.medium.com/server-side-request-forgery-a-forged-document-6359ef25058d">-Server Side Request Forgery - A Forged Document</a>
 
 <a href="https://medium.com/@ltsirkov/gitlab-server-side-request-forgery-in-project-import-page-6fdb9ef423e4">-Server Side Request Forgery in “Project Import” page.</a>
+  
+<a href="https://infosecwriteups.com/how-i-was-able-to-bypass-the-admin-panel-without-the-credentials-d65f90e0e1e4">-How I was able to bypass the admin panel without the credentials.</a>
 
 <a href="https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab">-Bypassing the Protections — MFA Bypass Techniques for the Win</a>
 
