@@ -55,6 +55,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.revshells.com/">-Online - Reverse Shell Generator</a>
 
+<a href="https://portswigger.net/daily-swig/latest-web-hacking-tools-q3-2021">-Latest web hacking tools – Q3 2021</a>
+
 <a href="https://iosiro.com/blog/baserunner-exploiting-firebase-datastores">-Introducing Baserunner: a tool for exploring and exploiting Firebase datastores</a>
 
 <a href="https://thexssrat.medium.com/what-the-fuzz-the-truth-behind-content-discovery-77cd0c0756e7">-What the fuzz?! — The truth behind content discovery</a>
