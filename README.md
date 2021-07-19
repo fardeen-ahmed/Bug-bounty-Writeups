@@ -291,6 +291,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://youtu.be/RtJXgGb3uJ0">-Stored XSS in Wordpress.com</a>
   
+<a href="https://medium.com/@kalvik/account-takeover-a-bonus-vulnerability-3c2dc4e607ea">-Account Takeover + A Bonus Vulnerability</a>
+  
 <a href="https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/">-Remote code execution in cdnjs of Cloudflare</a>
 
 <a href="https://hackerone.com/reports/1125425">-RCE via unsafe inline Kramdown options when rendering certain Wiki pages</a>
