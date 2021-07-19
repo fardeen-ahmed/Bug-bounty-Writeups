@@ -40,6 +40,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://github.com/swisskyrepo/GraphQLmap">-GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes</a>
   
 <a href="https://akshita-infosec.medium.com/burp-macros-what-why-how-151df8901641">-Burp Macros: What, Why & How?</a>
+
+<a href="https://portswigger.net/blog/introducing-dom-invader">Introducing DOM Invader: DOM XSS just got a whole lot easier to find</a>
   
 <a href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo">-Experience Burp Suite Enterprise Edition in a new live demo</a>
 
