@@ -278,6 +278,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://www.youtube.com/watch?v=FzT3Z7tgDSQ">-$5,000 YouTube IDOR - Bug Bounty Reports Explained </a>
 
 <a href="https://inakcf.medium.com/2fa-bypass-via-forced-browsing-9e511dfdb8df">-2FA Bypass via Forced Browsing</a>
+  
+<a href="https://onelharrison.medium.com/bug-hunt-1-orphaned-amazon-s3-event-notifications-for-aws-lambda-functions-28cd5a2c8a73">-Orphaned Amazon S3 event notifications for AWS Lambda functions</a>
 
 <a href="https://sensepost.com/blog/2021/duo-two-factor-authentication-bypass/">-Duo Two-factor Authentication Bypass</a>
   
