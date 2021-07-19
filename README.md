@@ -241,6 +241,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105">-TikTok for Android 1-Click RCE</a>
   
+<a href="https://infosecwriteups.com/critical-bug-bounty-reports-part-1-6fd9aef4b486">-Critical Bug Bounty Reports: Part 1</a>
+  
 <a href="https://twitter.com/cyph3r_asr/status/1413438299545296902">-10 Vulnerable Android Applications for beginners to learn Android  hacking</a>
   
 <a href="https://gonzx.medium.com/how-i-was-able-to-takeover-any-account-on-foxit-com-7a08efa0144f">How I was able to Takeover Accounts on Foxit.com</a>
