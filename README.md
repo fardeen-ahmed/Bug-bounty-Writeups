@@ -218,6 +218,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://research.checkpoint.com/2021/a-supply-chain-breach-taking-over-an-atlassian-account/">-A supply-chain breach: Taking over an Atlassian account</a>
 
 <a href="https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105">-TikTok for Android 1-Click RCE</a>
+  
+<a href="https://gonzx.medium.com/how-i-was-able-to-takeover-any-account-on-foxit-com-7a08efa0144f">How I was able to Takeover Accounts on Foxit.com</a>
 
 <a href="https://amalmurali47.medium.com/an-image-speaks-a-thousand-rces-the-tale-of-reversing-an-exiftool-cve-585f4f040850">-An Image Speaks a Thousand RCEs: The Tale of Reversing an ExifTool CVE</a>
   
