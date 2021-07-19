@@ -199,6 +199,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://hackerone.com/reports/977697">-Stored-XSS in merge requests</a>
 
 <a href="https://bhansalipratish.medium.com/how-i-found-my-first-bug-idor-9c4e52584454">-How I found my first bug (IDOR)</a>
+
+<a href="https://hackerone.com/reports/1092230">-FogBugz import attachment full SSRF requiring vulnerability </a>
   
 <a href="https://newrouge.medium.com/web-cache-poisoning-a-tale-of-chaining-unkeyed-inputs-6e3cb026bd23">-Web Cache Poisoning: A Tale of chaining unkeyed inputs</a>
   
