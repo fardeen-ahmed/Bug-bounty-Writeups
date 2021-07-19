@@ -425,6 +425,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://bugs.xdavidhu.me/google/2021/04/05/i-built-a-tv-that-plays-all-of-your-private-youtube-videos/">-I Built a TV That Plays All of Your Private YouTube Videos</a>
 
 <a href="https://darrenmartyn.ie/2021/01/24/visualdoor-sonicwall-ssl-vpn-exploit/">-VisualDoor: SonicWall SSL-VPN Exploit</a>
+  
+<a href="https://thevillagehacker.medium.com/api-security-misconfiguration-leads-to-tons-of-pii-data-leakage-fc57f1b9228">API Security Misconfiguration Leads to tons of PII data Leakage</a>
 
 <a href="https://portswigger.net/daily-swig/playing-fetch-new-xs-leak-exploits-browser-redirects-to-break-user-privacy">-New XS-Leak exploits browser redirects to break user privacy</a>
   
