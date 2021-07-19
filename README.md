@@ -227,6 +227,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://0xdekster.medium.com/second-order-race-condition-be8aaf774783">-Second Order Race Condition</a>
   
+<a href="https://hackerone.com/reports/1044285">-Removing parts of URL from jQuery request exposes links for download of Paid Digital Assets of the most recent Order placed by anyone on the store! </a>
+  
 <a href="https://mayank-01.medium.com/hacking-microservices-for-fun-and-bounty-5cc302769e94">-Hacking Microservices For Fun and Bounty</a>
   
 <a href="https://research.checkpoint.com/2021/a-supply-chain-breach-taking-over-an-atlassian-account/">-A supply-chain breach: Taking over an Atlassian account</a>
