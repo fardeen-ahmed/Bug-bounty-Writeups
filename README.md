@@ -237,6 +237,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://xcheater.medium.com/all-about-password-reset-vulnerabilities-3bba86ffedc7">-All about Password Reset vulnerabilities</a>
 
+<a href="https://thehackernews.com/2021/07/chinas-new-law-requires-researchers-to.html">-China's New Law Requires Researchers to Report All Zero-Day Bugs to Government</a>
+
 <a href="https://medium.com/@Mrcyberwarrior/exploiting-activity-in-medium-android-app-e2e6f3553eef">-Trigger custom URL in Medium Android app</a>
 
 <a href="https://hackerone.com/reports/1167753">-Add new managed stores without permission</a>
