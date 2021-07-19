@@ -184,6 +184,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://tuhin1729.medium.com/story-of-my-hacking-dutch-government-46b7a3c8b75a">-Story of my hacking Dutch Government</a>
 
+<a href="https://portswigger.net/daily-swig/gitlab-triages-bug-bounty-reported-flaws-with-latest-release">-GitLab triages bug bounty-reported flaws with latest release</a>
+
 <a href="https://blog.appsecco.com/exploiting-weak-configurations-in-google-identity-platform-cbddbd0e71e3">-Exploiting weak configurations in Google Cloud Identity Platform</a>
 
 <a href="https://bhansalipratish.medium.com/how-i-found-my-first-bug-idor-9c4e52584454">-How I found my first bug (IDOR)</a>
