@@ -658,6 +658,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://shrirangdiwakar.medium.com/encrypted-payload-decrypted-execution-600-stored-xss-3e517cea8f13">-Encrypted Payload -> Decrypted Execution ($600) : Stored XSS</a>
 
 <a href="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610">-Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies</a>
+  
+<a href="https://www.zdnet.com/article/facebook-announces-time-bonus-payouts-for-bug-hunters/">-Facebook announces time bonus payouts for bug hunters</a>
 
 <a href="https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/">-GOOGLE VRP N/A: SSRF BYPASS WITH QUADZERO IN GOOGLE CLOUD MONITORING</a>
 
