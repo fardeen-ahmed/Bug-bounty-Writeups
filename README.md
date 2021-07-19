@@ -427,6 +427,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://ysamm.com/?p=667">-Facebook account takeover due to unsafe redirects after the OAuth flow</a>
 
 <a href="https://blog.intigriti.com/2021/03/24/bug-bytes-115-hacking-facebook-googles-networks-h2c-smuggling-revisited-networking-fundamentals/">-Bug Bytes #115 – Hacking Facebook & Google’s networks, H2C smuggling revisited & Networking fundamentals</a>
+  
+<a href="https://www.wordfence.com/blog/2021/07/critical-sql-injection-vulnerability-patched-in-woocommerce/">-Critical SQL Injection Vulnerability Patched in WooCommerce</a>
 
 <a href="https://busk3r.medium.com/hacking-graphql-for-fun-and-profit-part-1-understanding-graphql-basics-72bb3dd22efa">-Hacking GraphQL for Fun and Profit — Part 1 — Understanding GraphQL Basics</a>
 
