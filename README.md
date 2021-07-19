@@ -190,6 +190,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://anugrahsr.github.io/posts/10-Password-reset-flaws/">-10 Password Reset Flaws</a>
 
+<a href="https://jasminderpalsingh.info/stored-xss-in-google-doubleclick-studio-google-research-grant/">-Stored XSS in Google Doubleclick Studio</a>
+
 <a href="https://tuhin1729.medium.com/story-of-my-hacking-dutch-government-46b7a3c8b75a">-Story of my hacking Dutch Government</a>
 
 <a href="https://portswigger.net/daily-swig/gitlab-triages-bug-bounty-reported-flaws-with-latest-release">-GitLab triages bug bounty-reported flaws with latest release</a>
