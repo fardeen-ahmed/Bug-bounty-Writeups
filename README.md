@@ -258,6 +258,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://sensepost.com/blog/2021/duo-two-factor-authentication-bypass/">-Duo Two-factor Authentication Bypass</a>
   
 <a href="https://www.verizonmedia.com/insights/promotion-public-004">SQL Injection Bugs on All Verizon Media Assets</a>
+  
+<a href="https://blog.niksthehacker.com/account-takeovers-believe-the-unbelievable-bb98a0c251a4">-Account Takeovers — Believe the Unbelievable</a>
 
 <a href="https://www.darkreading.com/vulnerabilities---threats/googles-payout-to-bug-hunters-hits-new-high/d/d-id/1340076 ">Google's Payout to Bug Hunters Hits New High</a>
 
