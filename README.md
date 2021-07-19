@@ -163,6 +163,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="http://ysamm.com/?p=620">-Make recruiting referrals on behalf of employees ($3000)</a>
 
 <a href="http://ysamm.com/?p=625">-Open redirect in Instagram.com ($500)</a>
+
+<a href="https://vovohelo.medium.com/how-i-found-my-first-chrome-bug-cve-2021-21210-248a21272248">-How I found my first Chrome bug</a>
   
 <a href="https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c">-CORS misconfig that worths USD200</a>
 
