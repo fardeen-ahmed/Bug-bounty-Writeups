@@ -333,6 +333,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://ltsirkov.medium.com/gitlab-just-another-ssrf-issue-483bc040392b">-Just another SSRF issue</a>
   
+<a href="https://medium.com/@muhammadsholikhin/facebook-vulnerability-1500-for-removing-document-cover-9ffd0173877b">-Facebook Vulnerability: $1500 for Removing Document Cover</a>
+  
 <a href="https://sapt.medium.com/breaking-reset-password-logic-to-get-account-takeover-without-user-interaction-f241fefe12e7">-Breaking Reset Password Logic To Get Account Takeover Without User Interaction</a>
   
 <a href="https://blog.chichou.me/2021/06/20/quick-analysis-wifid/">-Quick Analysis for the SSID Format String Bug</a>
