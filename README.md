@@ -97,6 +97,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://github.com/sh1yo/x8">-x8 Hidden parameters discovery suite</a>
 
+<a href="https://kathanp19.medium.com/params-discovering-hidden-treasure-in-webapps-b4a78509290f">-Params — Discovering Hidden Treasure in WebApps</a>
+
 <a href="https://github.com/WeAreCloudar/s3-account-search">-S3 Account Search</a>
 
 <a href="https://remonsec.medium.com/passive-recon-with-spyse-part-i-bfa5408e52dd">-Passive Recon with Spyse (Part-I)</a>
