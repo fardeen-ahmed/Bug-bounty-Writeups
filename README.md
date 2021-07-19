@@ -109,6 +109,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://github.com/redcode-labs/UnChain">-A tool to find redirection chains in multiple URLs</a>
 
+<a href="https://github.com/Ge0rg3/requests-ip-rotator">-A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.</a>
+
 <a href="https://github.com/tomnomnom/gron">-Make JSON greppable!
 gron transforms JSON into discrete assignments to make it easier to grep for what you want and see the absolute 'path' to it.</a>
 
