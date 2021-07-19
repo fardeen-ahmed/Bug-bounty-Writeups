@@ -286,6 +286,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://www.darkreading.com/vulnerabilities---threats/googles-payout-to-bug-hunters-hits-new-high/d/d-id/1340076 ">Google's Payout to Bug Hunters Hits New High</a>
 
 <a href="https://youtu.be/RtJXgGb3uJ0">-Stored XSS in Wordpress.com</a>
+  
+<a href="https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/">-Remote code execution in cdnjs of Cloudflare</a>
 
 <a href="https://hackerone.com/reports/1125425">-RCE via unsafe inline Kramdown options when rendering certain Wiki pages</a>
 
