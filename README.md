@@ -352,6 +352,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/">-Exploiting a zero-day WebAssembly Vulnerability (CVE-2021-30734) in Apple Safari/a>
   
 <a href="https://www.iswin.org/2021/06/02/Vcenter-Server-CVE-2021-21985-RCE-PAYLOAD/">-Vcenter Server CVE-2021-21985</a>
+  
+<a href="https://medium.com/@vkmrocks1000/pre-denial-of-service-set-up-2fa-on-unverified-account-8399af52ea2d">-Pre-Denial Of Service (set-up 2FA on unverified account)</a>
 
 <a href="https://blog.yeswehack.com/yeswerhackers/how-exploit-graphql-endpoint-bug-bounty/">-How to exploit GraphQL endpoint: introspection, query, mutations & tools</a>
 
