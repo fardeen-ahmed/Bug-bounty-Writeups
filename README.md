@@ -227,6 +227,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://hackerone.com/reports/1167753">-Add new managed stores without permission</a>
 
+<a href="https://4bdoz.medium.com/trick-to-bypass-rate-limit-of-password-reset-functionality-a9923d3d7c4b">-Trick to bypass rate limit of password reset functionality</a>
+
 <a href="https://y000o.medium.com/fun-sql-injection-mod-security-bypass-644b54b0c445">-Fun sql injection — mod_security bypass/a>
 
 <a href="https://payatu.com/blog/abhilashnigam/ios-pentesing-guide-from-a-n00bs-perspective.1">-IOS Pentesting Guide From A N00bs Perspective</a>
