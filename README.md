@@ -411,6 +411,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <h2> Cyber News and Updates (2021-2022) :- </h2>
 <a href="https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook">-Launching Internal & Non-Exported Deeplinks On Facebook</a>
+  
+<a href="https://shubs.io/a-hackers-perspective-on-bug-bounty-triage/">-A hackers perspective on bug bounty triage</a>
 
 <a href="https://blog.intigriti.com/2021/04/06/benefits-launching-successful-bug-bounty-program/">-4 Key Benefits Of Launching A Successful Bug Bounty Program</a>
 
