@@ -73,6 +73,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://github.com/MayankPandey01/BrokenLinkHijacker">-BrokenLinkHijacker(BLH) is a Fast Broken Link Hijacker Tool written in Python</a>
 
+<a href="https://github.com/Hacker0x01/awesome-hacker-api-tools">-A collection of hacker tools using HackerOne's API</a>
+
 <a href="https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/">-Reverse engineering Flutter for Android + Doldrums (Doldrums is a reverse engineering tool for Flutter apps)<a href ="https://github.com/rscloura/Doldrums">Tool Link = _Doldrum Tool_</a></a>
 
 <a href="https://github.com/hahwul/gee">-Gee is tool of stdin to each files and stdout. It is similar to the tee command, but there are more functions for convenience. In addition, it was written as go</a>
