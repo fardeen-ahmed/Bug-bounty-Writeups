@@ -214,6 +214,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://blog.wpsec.com/wordpress-xxe-in-media-library-cve-2021-29447/">-WordPress XXE Vulnerability in Media Library – CVE-2021-29447 </a>
 
+<a href="https://orwaatyat.medium.com/how-i-found-multiple-bugs-on-facebook-in-1-month-and-a-part-for-my-methodology-tools-58a677a9040c">-How I Found Multiple Bugs On FaceBook In 1 Month And a Part For My Methodology & Tools</a>
+
 <A href="http://ysamm.com/?p=621">-Access private information about SparkAR effect owners who has a publicly viewable portfolio ($1500)</a>
 
 <a href="https://hoyahaxa.blogspot.com/2021/04/ssrf-in-coldfusioncfml-tags-and.html">-SSRF in ColdFusion/CFML Tags and Functions</a>
