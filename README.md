@@ -277,6 +277,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://hackerone.com/reports/1177356">-pam_ussh does not properly validate the SSH certificate authority</a>
   
+<a href="https://hackerone.com/reports/1087489">-Github access token exposure</a>
+  
 <a href="https://gonzx.medium.com/how-i-was-able-to-takeover-any-account-on-foxit-com-7a08efa0144f">How I was able to Takeover Accounts on Foxit.com</a>
 
 <a href="https://amalmurali47.medium.com/an-image-speaks-a-thousand-rces-the-tale-of-reversing-an-exiftool-cve-585f4f040850">-An Image Speaks a Thousand RCEs: The Tale of Reversing an ExifTool CVE</a>
