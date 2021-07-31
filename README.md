@@ -251,6 +251,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://medium.com/@Mrcyberwarrior/exploiting-activity-in-medium-android-app-e2e6f3553eef">-Trigger custom URL in Medium Android app</a>
 
+<a href="https://blog.niksthehacker.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1">-XXE in Public Transport Ticketing Mobile APP</a>
+
 <a href="https://hackerone.com/reports/1167753">-Add new managed stores without permission</a>
 
 <a href="https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60">-RCE via WebDav - Power Of PUT</a>
