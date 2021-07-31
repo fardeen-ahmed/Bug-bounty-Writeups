@@ -238,6 +238,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://adityashende17.medium.com/idor-to-information-disclosure-admin-account-takeover-6aa96798c70b">-IDOR to information disclosure + Admin Account Takeover</a>  
   
 <a href="https://pwn.vg/articles/2021-05/ssrf-in-pdf-renderer-using-svg">-SSRF in PDF Renderer using SVG</a>
+
+<a href="https://securitytrails.com/blog/how-i-lost-the-securitytrails-reconmaster-contest">-How I Lost the SecurityTrails #ReconMaster Contest, and How You Can Win: Edge-Case Recon Ideas</a>
   
 <a href="https://hackerone.com/reports/584603">-RCE on CS:GO client using unsanitized entity ID in EntityMsg message</a>
   
