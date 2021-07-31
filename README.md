@@ -438,6 +438,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://leethax0.rs/2021/04/ElectricChrome/">-ELECTRIC CHROME - CVE-2020-6418 on Tesla Model 3 </a>
   
+<a href="https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b">-Facebook Vulnerability: Expose Group Member</a>
+  
 <a href="https://grumpinout.medium.com/solution-and-explanation-of-tips-for-intigritis-0521-xss-challenge-by-grumpinout-7544bad98e59">-Solution and explanation of tips for Intigriti’s 0521 XSS challenge</a>
 
 <a href="https://www.kali.org/blog/kali-linux-2021-2-release/">-Kali Linux 2021.2 Release (Kaboxer, Kali-Tweaks, Bleeding-Edge & Privileged Ports)</a></a>
