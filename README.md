@@ -91,6 +91,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">-Top 10 Tips for Burp Suite</a>
 
+<a href="https://joonas.fi/2021/08/saml-is-insecure-by-design/">-SAML is insecure by design</a>
+
 <a href="https://blog.deesee.xyz/fuzzing/security/2021/02/26/ssrf-bypassing-hostname-restrictions-fuzzing.html">-SSRF: Bypassing hostname restrictions with fuzzing</a>
 
 <a href="https://www.hackingarticles.in/android-penetration-testing-frida/">-Android Penetration Testing: Frida </a>
