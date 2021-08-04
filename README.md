@@ -395,6 +395,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://hackerone.com/reports/807772">-OOB reads in network message handlers leads to RCE</a>
   
+<a href="https://blog.azuki.vip/csrf/">-how to boost your popularity on okcupid using CSRF and a JSON type confusion</a>
+  
 <a href="https://justm0rph3u5.medium.com/pentesting-ios-starting-with-ios-emulator-corellium-re-signing-ipa-9ce3cbd19721">-Starting With iOS Emulator Corellium & Re-signing IPA</a>
 
 <a href="https://ashutoshmishra00x0.medium.com/account-takeover-via-response-manipulation-worth-1800-ffb242cc55c9">-Account Takeover via Response Manipulation worth 1800$</a>
