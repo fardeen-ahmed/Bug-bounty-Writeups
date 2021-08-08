@@ -196,6 +196,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://hackerone.com/reports/170552">-Slack integration setup lacks CSRF protection</a>
 
+<a href="https://youtu.be/xOoWHKOphK0">-$50k bug bounty on Shopify explained (GitHub access token leaked via electron application)</a>
+
 <a href="https://vovohelo.medium.com/how-i-found-my-first-chrome-bug-cve-2021-21210-248a21272248">-How I found my first Chrome bug</a>
   
 <a href="https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c">-CORS misconfig that worths USD200</a>
