@@ -65,6 +65,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://github.com/bcoles/jira_scan">-Jira Scan is  a simple remote scanner for Atlassian Jira</a>
 
+<a href="https://spaceraccoon.github.io/webpack-exploder/">-Webpack Exploder : Unpack the source code of React and other Webpacked Javascript apps! Check out Expanding the Attack Surface</a>
+
 <a href="https://github.com/DigeeX/raider">-Raider - Web authentication testing framework</a>
 
 <a href="https://n00b.sh/posts/aes-killer-mobile-app-demo/">-Decrypting Mobile App Traffic using AES Killer and Frida</a>
