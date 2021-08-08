@@ -275,6 +275,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60">-RCE via WebDav - Power Of PUT</a>
 
+<a href="https://valsamaras.medium.com/size-matters-cve-2021-0485-cfa0a291f903">-Size Matters — CVE-2021–0485 (High)</a>
+
 <a href="https://4bdoz.medium.com/trick-to-bypass-rate-limit-of-password-reset-functionality-a9923d3d7c4b">-Trick to bypass rate limit of password reset functionality</a>
 
 <a href="https://y000o.medium.com/fun-sql-injection-mod-security-bypass-644b54b0c445">-Fun sql injection — mod_security bypass/a>
