@@ -242,6 +242,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
 
 <a href="https://godiego.tech/posts/STO/">-Subdomain Takeover in Azure: making a PoC</a>
+
+<a href="https://portswigger.net/daily-swig/security-researcher-finds-dangerous-bug-in-chromium-nabs-15-000-bounty">-Security researcher finds dangerous bug in Chromium, nabs $15,000 bounty</a>
   
 <a href="https://adityashende17.medium.com/idor-to-information-disclosure-admin-account-takeover-6aa96798c70b">-IDOR to information disclosure + Admin Account Takeover</a>  
   
