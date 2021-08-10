@@ -47,6 +47,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
 
+<a href="https://caido.io/">-Caido - Lightweight Web Security Auditing Toolkit</a>
+
 <a href="https://googleprojectzero.blogspot.com/2021/04/designing-sockfuzzer-network-syscall.html">-Designing sockfuzzer, a network syscall fuzzer for XNU</a>
 
 <a href="https://github.com/KathanP19/protoscan">-Prototype Pollution Scanner made in Golang</a>
