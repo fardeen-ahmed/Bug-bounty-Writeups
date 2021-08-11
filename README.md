@@ -38,6 +38,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 <a href="https://being-uncommon.medium.com/rustscan-the-modern-port-scanner-d6d3084e9c82">-RUSTSCAN — THE MODERN PORT SCANNER</a>
   
 <a href="https://github.com/swisskyrepo/GraphQLmap">-GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes</a>
+
+<a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">-How to Hack APIs in 2021</a>
   
 <a href="https://akshita-infosec.medium.com/burp-macros-what-why-how-151df8901641">-Burp Macros: What, Why & How?</a>
 
