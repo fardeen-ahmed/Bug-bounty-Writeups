@@ -179,6 +179,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://hackerone.com/reports/1091303">-Low privilege user can read POS PINs via graphql and elevate his privilege</a>
 
 <a href="http://ysamm.com/?p=603">-URLs in img tag aren’t safely embedded. ($500)</a>
+
+<a href="https://hackerone.com/reports/1145428">-Chain of vulnerabilities in Uber for Business Vouchers program allows for attacker to perform arbitrary charges to victim's U4B payment account</a>
   
 <a href="https://hackerone.com/reports/1196124">-Regular Expression Injection</a>
 
@@ -191,6 +193,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://hackerone.com/reports/1065500">-Multiple bugs leads to RCE on TikTok for Android</a>
 
 <A href="http://ysamm.com/?p=627">-Leaking Facebook user information to external websites ($2000)</a>
+
+<a href="https://hackerone.com/reports/1295844">-Modify in-flight data to payment provider Smart2Pay</a>
   
 <a href="https://vaibhavgaikwad1712.medium.com/2fa-bypass-using-response-manipulation-29d6c2583936">-2fa Bypass Using Response Manipulation</a>
 
