@@ -157,6 +157,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://vijetareigns.medium.com/forced-browsing-to-access-admin-panel-214a7defa2a5">-Forced Browsing to Access Admin Panel</a>
 
 <a href="https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0">-How I found a bug in Apple within just in 5min</a>
+
+<a href="https://medium.com/@gonzalocarrascosec/fuzzing-idor-admin-takeover-5343bb8f436e">-Fuzzing + IDOR = Admin TakeOver</a>
   
 <a href="https://medium.com/csg-govtech/lifes-a-peach-fuzzer-how-to-build-and-use-gitlab-s-open-source-protocol-fuzzer-fd78c9caf05e">-Life’s a Peach (Fuzzer) How to Build and Use GitLab’s Open-Source Protocol Fuzzer</a>
 
