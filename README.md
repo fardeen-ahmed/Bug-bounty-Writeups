@@ -337,6 +337,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://cirius.medium.com/how-i-hacked-a-target-again-and-again-6db2e462221f">-How I hacked a Target again and again</a>
   
+<a href="https://www.whitesourcesoftware.com/resources/blog/prototype-pollution-vulnerabilities/">-The Complete Guide to Prototype Pollution Vulnerabilities </a>
+  
 <a href="https://www.youtube.com/watch?v=Fzx7OWZId6U">-Account Takeover using OAuth Misconfiguration | Badoo Bug Bounty $300</a>
   
 <a href="https://aidilarf.medium.com/how-do-i-earn-1300-00-from-bug-hunting-51f7897a512f">-How Do I Earn $1300.00 From Bug Hunting?</a>
