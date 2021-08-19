@@ -692,6 +692,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://secret.club/2021/04/20/source-engine-rce-invite.html">-Source engine remote code execution via game invites</a>
 
 <a href="https://hackerone.com/reports/976603">-Ability to DOS any organization's SSO and open up the door to account takeovers </a>
+  
+<a href="https://medium.com/@anirudhsrinivas533/how-i-found-a-credential-exposure-bug-on-bbc-513368c28cc8">-How I Found a Credential Exposure Bug on BBC.</a>
 
 <a href="https://portswigger.net/daily-swig/research-how-json-parsers-can-create-security-risks-when-it-comes-to-interoperability">-Research: How JSON parsers can create security risks when it comes to interoperability</a>
 
