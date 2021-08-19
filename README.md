@@ -269,6 +269,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://godiego.tech/posts/STO/">-Subdomain Takeover in Azure: making a PoC</a>
 
+<a href="https://medium.com/tenable-techblog/stored-xss-to-rce-chain-as-system-in-manageengine-servicedesk-plus-493c10f3e444">-Stored XSS to RCE Chain as SYSTEM in ManageEngine ServiceDesk Plus</a>
+
 <a href="https://hackerone.com/reports/1273292">-Internal Gitlab Ticket Disclosure via External Slack Channels</a>
 
 <a href="https://portswigger.net/daily-swig/security-researcher-finds-dangerous-bug-in-chromium-nabs-15-000-bounty">-Security researcher finds dangerous bug in Chromium, nabs $15,000 bounty</a>
