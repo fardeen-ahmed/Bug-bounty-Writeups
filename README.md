@@ -224,6 +224,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c">-CORS misconfig that worths USD200</a>
 
+<a href="https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/">-The second part of discovered vulnerabilities in pre-installed apps on Samsung devices</a>
+
 <a href="https://blog.cobalt.io/getting-started-with-android-application-security-6f20b76d795b">-Getting started with Android Application Security</a>
   
 <a href="https://thevillagehacker.medium.com/time-based-sql-injection-to-dumping-the-database-da0e5bcaa9df">-Time-Based SQL Injection to Dumping the Database</a>
