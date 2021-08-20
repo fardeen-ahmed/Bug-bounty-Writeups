@@ -149,6 +149,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://portswigger.net/blog/browser-powered-scanning-in-burp-suite">-Browser powered scanning in Burp Suite</a>
 
 <a href="https://github.com/rotemreiss/uddup">-Urls de-duplication tool for better recon.</a>
+
+<a href="https://hackerone.com/reports/1196958">-Clipboard DOM-based XSS</a>
   
 <a href="https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530">-Just Gopher It: Escalating a Blind SSRF to RCE for $15k</a>
 
