@@ -362,6 +362,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://aidilarf.medium.com/how-do-i-earn-1300-00-from-bug-hunting-51f7897a512f">-How Do I Earn $1300.00 From Bug Hunting?</a>
 
 <a href="https://www.youtube.com/watch?v=FzT3Z7tgDSQ">-$5,000 YouTube IDOR - Bug Bounty Reports Explained </a>
+  
+<A href="https://hackerone.com/reports/1276992">-Disclosure handle private program with external link</a>
 
 <a href="https://inakcf.medium.com/2fa-bypass-via-forced-browsing-9e511dfdb8df">-2FA Bypass via Forced Browsing</a>
   
