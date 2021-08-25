@@ -720,6 +720,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://n0ur5sec.medium.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26">-Somebody Call The Plumber, GraphQL is Leaking Again</a>
 
 <a href="https://thezerohack.com/hack-any-instagram">-How I Could Have Hacked Any Instagram Account </a>
+  
+<a href="https://irsl.medium.com/the-nomulus-rift-935a3c4d9300">-The Nomulus rift</a>
 
 <a href="https://youtu.be/YnKcRN6SBKI">-Shopify Account Takeover $22500 Bug Bounty</a>
 
