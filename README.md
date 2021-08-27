@@ -192,6 +192,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://hackerone.com/reports/1196124">-Regular Expression Injection</a>
 
+<a href="https://youtu.be/xOoWHKOphK0">-$50k bug bounty on Shopify explained (GitHub access token leaked via electron application)</a>
+
 <a href="https://z3r0tru5t.medium.com/open-redirect-to-account-takeover-f1405cbdf2d">-Open Redirect to Account Takeover</a>  
   
 <a href="http://ysamm.com/?p=629">-Enumerate internal cached URLs which lead to data exposure</a>
