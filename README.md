@@ -791,6 +791,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://lohigowda.medium.com/how-i-found-blind-xss-on-flipkart-6b22199f3496">-How I Found Blind XSS On Flipkart</a>
   
+<a hrref="https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/">-Access to CrowdTangle Deletion Framework API</a>
+  
 <a href="https://pwn.vg/articles/2021-06/local-file-read-via-error-based-xxe">-Full Local File Read via Error Based XXE using XLIFF File</a>
 
 <a href="https://www.immersivelabs.com/resources/blog/wagtail-xss-localstorage-account-hijack/">-Wagtail XSS + LocalStorage = Account Hijack</a>
