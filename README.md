@@ -668,6 +668,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://helmay.medium.com/bug-bounty-idor-sensitive-data-exposure-ios-application-ba80c93887a9">-IDOR — Sensitive Data Exposure (IOS Application)</a>
 
 <a href="https://portswigger.net/daily-swig/vulnerabilities-in-single-sign-on-services-could-be-abused-to-bypass-authentication-controls">-Vulnerabilities in Single Sign-On services could be abused to bypass authentication controls</a>
+  
+<a href="https://sector7.computest.nl/post/2021-08-zoom/">-Zoom RCE from Pwn2Own 2021</a>
 
 <a href="https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/">-Hunting for bugs in Telegram's animated stickers remote attack surface</a>
 
