@@ -763,6 +763,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://blog.wpsec.com/wordpress-phpmailer-vulnerability-analysis/">-WordPress PHPMailer vulnerability analysis</a>
   
+<a href="https://vijetareigns.medium.com/forced-browsing-to-access-admin-panel-214a7defa2a5">-Forced Browsing to Access Admin Panel</a>
+  
 <a href="https://www.aon.com/cyber-solutions/aon_cyber_labs/finding-more-idors-tips-and-tricks/">-Finding More IDORs – Tips And Tricks</a>
 
 <a href="https://blog.s1r1us.ninja/CTF/site-isolation">-A tale of solving all the recent XSS challenges using chrome 1-day</a>
