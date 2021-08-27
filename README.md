@@ -498,6 +498,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://blog.sonarsource.com/nosql-injections-in-rocket-chat/">-NoSQL Injections in Rocket.Chat 3.12.1: How A Small Leak Grounds A Rocket</a>  
   
 <a href="https://blog.assetnote.io/2021/06/27/uber-account-takeover-voicemail/"><-Taking over Uber accounts through voicemail/a>
+  
+<a href="https://robertheaton.com/bumble-vulnerability/">-Vulnerability in Bumble dating app reveals any user's exact location</a>
 
 <a href="https://v3d.medium.com/full-account-takeover-via-password-reset-flaw-my-first-blog-10d6e11df2e0">-Full Account Takeover via Password Reset Flaw</a>
 
