@@ -95,6 +95,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://github.com/dwisiswant0/go-dork">-Go Dork. The fastest dork scanner written in Go</a>
 
+<a href="https://github.com/mosajjal/dnsmonster">-Passive DNS Capture/Monitoring Framework</a>
+
 <a href="https://manasharsh.medium.com/how-gopher-works-in-escalating-ssrfs-ce6e5459b630">How Gopher works in escalating SSRFs</a>
 
 <a href="https://github.com/dwisiswant0/ppfuzz?tag=v1.0.0">-Prototype Pollution Fuzzer</a>
