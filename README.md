@@ -148,6 +148,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://portswigger.net/blog/browser-powered-scanning-in-burp-suite">-Browser powered scanning in Burp Suite</a>
 
+<a href="https://chaosdb.wiz.io/">-Critical Vulnerability in Microsoft Azure Cosmos DB</a>
+
 <a href="https://github.com/rotemreiss/uddup">-Urls de-duplication tool for better recon.</a>
 
 <a href="https://hackerone.com/reports/1196958">-Clipboard DOM-based XSS</a>
