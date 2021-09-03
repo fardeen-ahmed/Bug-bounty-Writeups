@@ -589,6 +589,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://reconshell.com/cve-2021-2109-weblogic-server-remote-code-execution-vulnerability-analysis/">-CVE-2021-2109 Weblogic Server Remote Code Execution vulnerability analysis</a>
 
 <a href="https://hackerone.com/reports/544096">-Material path truncation leads to Remote Code Execution</a>
+  
+<a href="https://www.securityweek.com/facebook-pays-out-40000-account-takeover-exploit-chain">-Facebook Pays Out $40,000 for Account Takeover Exploit Chain</a>
 
 <a href="https://blog.intigriti.com/2021/04/14/bug-bytes-118-kiterunner-server-side-xss-abusing-payment-systems-for-free-money/">-Kiterunner, Server-side XSS & Abusing payment systems for free money</a>
 
