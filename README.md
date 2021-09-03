@@ -369,6 +369,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://www.youtube.com/watch?v=Fzx7OWZId6U">-Account Takeover using OAuth Misconfiguration | Badoo Bug Bounty $300</a>
   
+<a href="https://www.zapstiko.com/misconfigured-reset-password-that-leads-to-account-takeover/">-Misconfigured Reset password that leads to Account Takeover</a>
+  
 <a href="https://aidilarf.medium.com/how-do-i-earn-1300-00-from-bug-hunting-51f7897a512f">-How Do I Earn $1300.00 From Bug Hunting?</a>
 
 <a href="https://www.youtube.com/watch?v=FzT3Z7tgDSQ">-$5,000 YouTube IDOR - Bug Bounty Reports Explained </a>
