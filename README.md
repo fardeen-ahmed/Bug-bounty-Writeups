@@ -799,6 +799,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610">-Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies</a>
   
+<a href="https://securityaffairs.co/wordpress/121737/security/google-chrome-93.html">-Google paid over $130K in bounty rewards for the issues addressed with the release of Chrome 93</a>
+  
 <a href="https://www.zdnet.com/article/facebook-announces-time-bonus-payouts-for-bug-hunters/">-Facebook announces time bonus payouts for bug hunters</a>
 
 <a href="https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/">-GOOGLE VRP N/A: SSRF BYPASS WITH QUADZERO IN GOOGLE CLOUD MONITORING</a>
