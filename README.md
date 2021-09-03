@@ -178,6 +178,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://hackerone.com/reports/928255">-Ability To Delete User(s) Account Without User Interaction</a>
 
+<a href="https://blog.assetnote.io/2021/08/29/exploiting-graphql/">-Exploiting GraphQL</a>
+
 <a href="https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/">-How to exploit insecure WebResourceResponse configurations + an example vulnerability in Amazon apps</a>
   
 <a href="https://sinsinology.medium.com/bug-bounty-short-tips-as-image-b4075523e4ef">-Bug Bounty Short Tips as image</a>
