@@ -107,6 +107,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://joonas.fi/2021/08/saml-is-insecure-by-design/">-SAML is insecure by design</a>
 
+<a href="https://hackerone.com/reports/921780">-Improper Authentication - any user can login as other user with otp/logout & otp/login</a>
+
 <a href="https://blog.deesee.xyz/fuzzing/security/2021/02/26/ssrf-bypassing-hostname-restrictions-fuzzing.html">-SSRF: Bypassing hostname restrictions with fuzzing</a>
 
 <a href="https://www.hackingarticles.in/android-penetration-testing-frida/">-Android Penetration Testing: Frida </a>
