@@ -415,6 +415,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://youtu.be/5guMYiQrnUo">-Shopify Account Takeover $22,500 Bug Bounty</a>
   
+<a href="https://infosecwriteups.com/cross-site-websocket-hijacking-cswsh-ce2a6b0747fc">-Cross-Site WebSocket Hijacking (CSWSH)</a>
+  
 <a href="https://medium.com/@sebastien.kaul/gaining-access-to-gcp-of-google-stadia-500-bounty-22f76ecc8e60">-Gaining Access To GCP Of Google Stadia</a>
   
 <a href="https://swordbytes.com/blog/security-advisory-overwolf-1-click-remote-code-execution-cve-2021-33501/">-Overwolf 1-Click Remote Code Execution - CVE-2021-33501</a>
