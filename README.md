@@ -548,6 +548,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://www.kali.org/blog/kali-linux-2021-2-release/">-Kali Linux 2021.2 Release (Kaboxer, Kali-Tweaks, Bleeding-Edge & Privileged Ports)</a></a>
   
+<a href="https://hackerone.com/reports/1257428">-Create free Shopify application credits</a>
+  
 <a href="https://youtu.be/5rSJpv0ZuZg">-Building a Bug Bounty Program from Scratch</a>
 
 <a href="https://blog.intigriti.com/2021/05/12/bug-bytes-122-redos-demystified-payloadallthethings-inside-burp-an-18k-instagram-oauth-misconfiguration/">-ReDoS demystified, PayloadAllTheThings inside Burp & An $18k Instagram OAuth misconfiguration</a>
