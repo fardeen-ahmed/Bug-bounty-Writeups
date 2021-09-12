@@ -573,6 +573,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://ysamm.com/?p=667">-Facebook account takeover due to unsafe redirects after the OAuth flow</a>
   
 <a href="https://rikeshbaniyaaa.medium.com/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9">-Facebook email disclosure and account takeover</a>
+  
+<a href="https://asterfiester.medium.com/3133-70-google-dialogflow-idor-vulnerability-7a72771678dd">-$3133.70 Google Dialogflow IDOR Vulnerability</a>
 
 <a href="https://blog.intigriti.com/2021/03/24/bug-bytes-115-hacking-facebook-googles-networks-h2c-smuggling-revisited-networking-fundamentals/">-Bug Bytes #115 – Hacking Facebook & Google’s networks, H2C smuggling revisited & Networking fundamentals</a>
   
