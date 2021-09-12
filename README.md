@@ -684,6 +684,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://dhiyaneshgeek.github.io/web/security/2021/05/08/demystifying-insecure-deserialisation-on-JSF-application/">-Demystifying Insecure Deserialisation on JSF Application</a>
 
 <a href="https://positive.security/blog/url-open-rce">-Allow arbitrary URLs, expect arbitrary code execution</a>
+  
+<a href="https://www.youtube.com/watch?v=4D-6nWIRZLU">-Adding infinite funds to your Steam wallet - $7,500 bug bounty report</a>
 
 <a href="https://www.hackerone.com/blog/rise-idor">-THE RISE OF IDOR</a>
   
