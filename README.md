@@ -280,6 +280,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://hoyahaxa.blogspot.com/2021/04/ssrf-in-coldfusioncfml-tags-and.html">-SSRF in ColdFusion/CFML Tags and Functions</a>
 
+<a href="https://apapedulimu.click/story-of-idor-on-google-product/">-2 CSRF 1 IDOR on Google Marketing Platform</a>
+
 <a href="https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50">-RCE 0 day for GhostScript-9.50</a>
 
 <a href="https://medium.com/@randyarios/low-hanging-fruits-on-facebook-group-room-b8d17c7ea886">-Low hanging fruits on Facebook Group Room</a>
