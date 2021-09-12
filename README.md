@@ -343,6 +343,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431">-How I found my first IDOR in HackerOne</a>
   
+<a href="https://asterfiester.medium.com/5000-google-idor-vulnerability-writeup-c7b45926abe9">-$5000 Google IDOR Vulnerability Writeup</a>
+  
 <a href="https://hackerone.com/reports/1087061">-Stored-XSS on wiki pages</a>
   
 <a href="https://palisade.consulting/blog/link-hijacking-binances-shortlinks-through-appsflyer">-Link hijacking Binance’s shortlinks through AppsFlyer</a>
