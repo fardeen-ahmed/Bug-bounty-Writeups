@@ -312,6 +312,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://securitytrails.com/blog/how-i-lost-the-securitytrails-reconmaster-contest">-How I Lost the SecurityTrails #ReconMaster Contest, and How You Can Win: Edge-Case Recon Ideas</a>
   
 <a href="https://hackerone.com/reports/584603">-RCE on CS:GO client using unsanitized entity ID in EntityMsg message</a>
+
+<a href="https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read/">-SSRF in PDF export with PhantomJs </a>
   
 <a href="https://medium.com/mii-cybersec/burp-suite-extensions-rarely-utilized-but-quite-useful-8d57c5a3a06b">-Burp Suite Extensions: Rarely Utilized but Quite Useful</a>
   
