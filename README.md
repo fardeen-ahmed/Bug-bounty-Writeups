@@ -439,6 +439,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://www.bugcrowd.com/blog/how-to-find-xxe-bugs/">-How to Find XXE Bugs: Severe, Missed and Misunderstood</a>
   
+<a href="https://tradahacking.vn/atlassian-confluence-cve-2021-26084-the-other-side-of-bug-bounty-45ed19c814f6">-Atlassian Confluence CVE-2021–26084. The other side of bug report!</a>
+  
 <a href="https://labs.detectify.com/2021/06/08/what-is-a-prototype-pollution-vulnerability-and-how-does-page-fetch-help/">-What is a Prototype Pollution vulnerability and how does page-fetch help</a>
 
 <a href="https://dun930nmaster.medium.com/finding-my-first-bug-http-request-smuggling-5fdc89581fe2">-Finding My First Bug: HTTP Request Smuggling</a>
