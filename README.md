@@ -367,6 +367,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://valsamaras.medium.com/size-matters-cve-2021-0485-cfa0a291f903">-Size Matters — CVE-2021–0485 (High)</a>
 
+<a href="https://github.com/jonathandata1/ios_15_rce">-Remote Code Execution V1 For iOS 15 sent through airdrop after the device was connected to a trusted host</a>
+
 <a href="https://labs.f-secure.com/blog/the-discovery-of-cve-2021-1810/">-The discovery of Gatekeeper bypass CVE-2021-1810</a>
 
 <a href="https://4bdoz.medium.com/trick-to-bypass-rate-limit-of-password-reset-functionality-a9923d3d7c4b">-Trick to bypass rate limit of password reset functionality</a>
