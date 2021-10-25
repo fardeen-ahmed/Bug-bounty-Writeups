@@ -305,6 +305,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://godiego.tech/posts/STO/">-Subdomain Takeover in Azure: making a PoC</a>
 
+<a href="https://www.tenable.com/blog/cve-2021-41773-path-traversal-zero-day-in-apache-http-server-exploited">-CVE-2021-41773: Path Traversal Zero-Day in Apache HTTP Server Exploited</a>
+
 <a href="https://medium.com/tenable-techblog/stored-xss-to-rce-chain-as-system-in-manageengine-servicedesk-plus-493c10f3e444">-Stored XSS to RCE Chain as SYSTEM in ManageEngine ServiceDesk Plus</a>
 
 <a href="https://hackerone.com/reports/1273292">-Internal Gitlab Ticket Disclosure via External Slack Channels</a>
