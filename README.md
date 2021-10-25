@@ -484,6 +484,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://maordayanofficial.medium.com/stored-xss-at-trello-com-ef2e3d1ed24b">-Stored XSS at Trello</a>
 
 <a href="https://twitter.com/OAcybersecurity#bugbounty">-FORD Session token URL lead to Reflected XSS</a>
+  
+<a href="https://rajanagori.medium.com/a-long-story-of-xxe-vulnerability-6a9a33276602">-A Long Story of XXE Vulnerability!!</a>
 
 <a href="https://youtu.be/5guMYiQrnUo">-Shopify Account Takeover $22,500 Bug Bounty</a>
   
