@@ -392,6 +392,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://www.youtube.com/watch?v=FzT3Z7tgDSQ">-$5,000 YouTube IDOR - Bug Bounty Reports Explained </a>
   
 <A href="https://hackerone.com/reports/1276992">-Disclosure handle private program with external link</a>
+  
+<a href="https://sicks3c.medium.com/from-a-user-to-admin-access-9f44ae1dedc0">-From A User To Admin Access</a>
 
 <a href="https://inakcf.medium.com/2fa-bypass-via-forced-browsing-9e511dfdb8df">-2FA Bypass via Forced Browsing</a>
   
