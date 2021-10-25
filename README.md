@@ -229,6 +229,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <A href="http://ysamm.com/?p=627">-Leaking Facebook user information to external websites ($2000)</a>
 
 <a href="https://hackerone.com/reports/1295844">-Modify in-flight data to payment provider Smart2Pay</a>
+
+<a href="https://arxiv.org/pdf/2110.07450.pdf">-Bugs in our Pockets: The Risks of Client-Side Scanning</a>
   
 <a href="https://vaibhavgaikwad1712.medium.com/2fa-bypass-using-response-manipulation-29d6c2583936">-2fa Bypass Using Response Manipulation</a>
 
