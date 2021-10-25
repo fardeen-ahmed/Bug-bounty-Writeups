@@ -526,6 +526,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://sapt.medium.com/breaking-reset-password-logic-to-get-account-takeover-without-user-interaction-f241fefe12e7">-Breaking Reset Password Logic To Get Account Takeover Without User Interaction</a>
   
 <a href="https://blog.chichou.me/2021/06/20/quick-analysis-wifid/">-Quick Analysis for the SSID Format String Bug</a>
+  
+<a href="https://medium.com/immunefi/polygon-double-spend-bug-fix-postmortem-2m-bounty-5a1db09db7f1">-Polygon Double-Spend Bug Fix Postmortem — $2m Bounty</a>
 
 <a href="https://youtu.be/Ft3H-3J67UE">-How to intercept traffic from Android apps with Objection and Burp</a>
   
