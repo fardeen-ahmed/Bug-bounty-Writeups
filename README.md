@@ -272,6 +272,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://portswigger.net/daily-swig/gitlab-triages-bug-bounty-reported-flaws-with-latest-release">-GitLab triages bug bounty-reported flaws with latest release</a>
 
+<a href="https://hackerone.com/reports/1212067">-Stored XSS in markdown via the DesignReferenceFilter</a>
+
 <a href="https://blog.appsecco.com/exploiting-weak-configurations-in-google-identity-platform-cbddbd0e71e3">-Exploiting weak configurations in Google Cloud Identity Platform</a>
 
 <a href="https://hackerone.com/reports/977697">-Stored-XSS in merge requests</a>
