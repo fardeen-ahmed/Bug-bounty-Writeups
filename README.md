@@ -210,6 +210,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="http://ysamm.com/?p=603">-URLs in img tag aren’t safely embedded. ($500)</a>
 
+<a href="https://blog.intigriti.com/2021/10/13/bug-bytes-142-weird-google-bugs-saml-padding-oracle-apache-path-traversal-continued/">-Weird Google bugs, SAML padding Oracle & Apache path traversal continued</a>
+
 <a href="https://hackerone.com/reports/1145428">-Chain of vulnerabilities in Uber for Business Vouchers program allows for attacker to perform arbitrary charges to victim's U4B payment account</a>
   
 <a href="https://hackerone.com/reports/1196124">-Regular Expression Injection</a>
