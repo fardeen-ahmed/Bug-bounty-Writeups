@@ -200,6 +200,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://dhiyaneshgeek.github.io/web/security/2021/09/04/dependency-confusion/">-Dependency Confusion</a>
 
+<a href="https://infosecwriteups.com/hunting-for-prototype-pollution-and-its-vulnerable-code-on-js-libraries-5bab2d6dc746">-Hunting for Prototype Pollution and it’s vulnerable code on JS libraries</a>
+
 <a href="https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962">-Story of my first cash bounty on hackerone</a>
 
 <a href="https://hackerone.com/reports/1091303">-Low privilege user can read POS PINs via graphql and elevate his privilege</a>
