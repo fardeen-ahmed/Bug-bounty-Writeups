@@ -277,6 +277,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://servicenger.com/blog/mobile/android/facebook-messenger-for-android-indirect-thread-deletion/">-Facebook Messenger for Android indirect thread deletion vulnerability</a>
 
 <a href="https://twitter.com/infosec_au/status/1434328794861432834">-Updated the Blind SSRF Glossary for a list of payloads that call back to an SSRF canary for the Confluence OGNL injection RCE</a>
+
+<a href="https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183">-Misconfigured Reset password that leads to Account Takeover (No user Interaction ATO)</>
   
 <a href="https://newrouge.medium.com/web-cache-poisoning-a-tale-of-chaining-unkeyed-inputs-6e3cb026bd23">-Web Cache Poisoning: A Tale of chaining unkeyed inputs</a>
   
