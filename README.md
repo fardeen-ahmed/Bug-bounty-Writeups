@@ -99,6 +99,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://github.com/mosajjal/dnsmonster">-Passive DNS Capture/Monitoring Framework</a>
 
+<a href="https://research.securitum.com/fail2ban-remote-code-execution/">-fail2ban – Remote Code Execution</a>
+
 <a href="https://manasharsh.medium.com/how-gopher-works-in-escalating-ssrfs-ce6e5459b630">How Gopher works in escalating SSRFs</a>
 
 <a href="https://github.com/dwisiswant0/ppfuzz?tag=v1.0.0">-Prototype Pollution Fuzzer</a>
