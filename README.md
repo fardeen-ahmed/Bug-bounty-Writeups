@@ -415,6 +415,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://mayank-01.medium.com/hacking-microservices-for-fun-and-bounty-5cc302769e94">-Hacking Microservices For Fun and Bounty</a>
   
+<a href="https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/">-A Scientific Notation Bug in MySQL left AWS WAF Clients Vulnerable to SQL Injection</a>
+  
 <a href="https://research.checkpoint.com/2021/a-supply-chain-breach-taking-over-an-atlassian-account/">-A supply-chain breach: Taking over an Atlassian account</a>
 
 <a href="https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105">-TikTok for Android 1-Click RCE</a>
