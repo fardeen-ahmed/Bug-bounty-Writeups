@@ -415,6 +415,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105">-TikTok for Android 1-Click RCE</a>
   
+<a href="https://jmrcsnchz.medium.com/how-i-escalated-a-time-based-sql-injection-to-rce-bbf0d68cb398">-How I Escalated a Time-Based SQL Injection to RCE</a>
+  
 <a href="https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41">-How to Hack Apple ID</a>
   
 <a href="https://infosecwriteups.com/critical-bug-bounty-reports-part-1-6fd9aef4b486">-Critical Bug Bounty Reports</a>
