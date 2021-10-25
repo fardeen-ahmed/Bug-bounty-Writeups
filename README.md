@@ -331,6 +331,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://hackerone.com/reports/1273292">-Internal Gitlab Ticket Disclosure via External Slack Channels</a>
 
+<a href="https://portswigger.net/daily-swig/node-js-was-vulnerable-to-a-novel-http-request-smuggling-technique">-Node.js was vulnerable to a novel HTTP request smuggling technique</a>
+
 <a href="https://bountyget.medium.com/rce-on-starbucks-singapore-and-more-for-5600-926c930bb61e">-RCE on Starbucks Singapore and more for $5600</a>
 
 <a href="https://portswigger.net/daily-swig/security-researcher-finds-dangerous-bug-in-chromium-nabs-15-000-bounty">-Security researcher finds dangerous bug in Chromium, nabs $15,000 bounty</a>
