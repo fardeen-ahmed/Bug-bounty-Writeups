@@ -325,6 +325,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://hackerone.com/reports/1122408">-CSRF on /api/graphql allows executing mutations through GET requests</a>
 
+<a href="https://blog.intigriti.com/2021/10/06/bug-bytes-141-sesh-gremlin-attack-rce-via-password-field-pwning-xmlsec-for-info-disclosure-and-bounties/">-Sesh Gremlin attack, RCE via password field & Pwning XMLSec for info disclosure and bounties</a>
+
 <a href="https://securitytrails.com/blog/how-i-lost-the-securitytrails-reconmaster-contest">-How I Lost the SecurityTrails #ReconMaster Contest, and How You Can Win: Edge-Case Recon Ideas</a>
   
 <a href="https://hackerone.com/reports/584603">-RCE on CS:GO client using unsanitized entity ID in EntityMsg message</a>
