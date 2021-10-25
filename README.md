@@ -113,6 +113,8 @@ Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtua
 
 <a href="https://www.hackingarticles.in/android-penetration-testing-frida/">-Android Penetration Testing: Frida </a>
 
+<a href="https://labs.detectify.com/2021/09/30/10-types-web-vulnerabilities-often-missed/">-10 Types of Web Vulnerabilities that are Often Missed</a>
+
 <a href="https://github.com/aquasecurity/trivy">-A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI</a>
 
 <a href="https://hogarth45.medium.com/using-intruder-to-authorization-headers-161fd873824a">-Using Intruder to Brute Force Authorization Header</a>
