@@ -401,6 +401,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://amalmurali47.medium.com/an-image-speaks-a-thousand-rces-the-tale-of-reversing-an-exiftool-cve-585f4f040850">-An Image Speaks a Thousand RCEs: The Tale of Reversing an ExifTool CVE</a>
   
+<a href="https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md">-CVE-2021-26084 Remote Code Execution on Confluence Servers</a>
+  
 <a href="https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312">-Disclose leads form details of any Facebook Business Account or Facebook Page</a>
   
 <a href="https://cirius.medium.com/how-i-hacked-a-target-again-and-again-6db2e462221f">-How I hacked a Target again and again</a>
