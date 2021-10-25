@@ -323,6 +323,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://www.hackerone.com/blog/vulnerability-assessment-i-complete-guide">-Vulnerability Assessment I A Complete Guide</a>
 
+<a href="https://hackerone.com/reports/941178">-SSRF for kube-apiserver cloudprovider scene</a>
+
 <a href="https://hackerone.com/reports/1122408">-CSRF on /api/graphql allows executing mutations through GET requests</a>
 
 <a href="https://blog.intigriti.com/2021/10/06/bug-bytes-141-sesh-gremlin-attack-rce-via-password-field-pwning-xmlsec-for-info-disclosure-and-bounties/">-Sesh Gremlin attack, RCE via password field & Pwning XMLSec for info disclosure and bounties</a>
