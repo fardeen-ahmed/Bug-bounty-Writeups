@@ -208,6 +208,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://hunter-55.medium.com/account-takeover-story-of-2-same-issues-in-a-single-program-but-different-sub-domains-in-10-minutes-840b2701db91">-Account Takeover — Story of 2 same issues in a single program but different sub-domains.</a>
 
+<a href="https://jakearchibald.com/2021/cors/">-How to win at CORS</a>
+
 <a href="http://ysamm.com/?p=603">-URLs in img tag aren’t safely embedded. ($500)</a>
 
 <a href="https://blog.intigriti.com/2021/10/13/bug-bytes-142-weird-google-bugs-saml-padding-oracle-apache-path-traversal-continued/">-Weird Google bugs, SAML padding Oracle & Apache path traversal continued</a>
