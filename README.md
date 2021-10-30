@@ -350,6 +350,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://adityashende17.medium.com/idor-to-information-disclosure-admin-account-takeover-6aa96798c70b">-IDOR to information disclosure + Admin Account Takeover</a>  
 
 <a href="https://encodedguy.medium.com/600-for-idor-file-or-folder-download-243166452dad">-$600 for IDOR (File or Folder Download)</a>
+
+<a href="https://medium.com/@bababounty99/race-condition-resulted-in-using-the-feature-which-was-supposed-to-be-obtained-after-subscription-2bfe968d358c">-Race Condition — Resulted in using the feature which was supposed to be obtained after subscription.</a>
   
 <a href="https://pwn.vg/articles/2021-05/ssrf-in-pdf-renderer-using-svg">-SSRF in PDF Renderer using SVG</a>
 
