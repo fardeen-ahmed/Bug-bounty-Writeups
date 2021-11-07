@@ -1,31 +1,9 @@
-<h1>Offensive CyberSecurity Section 👨‍💻 : For All, by All (regular updates)</h1>
+<h1>Bug-Bounty Writeup Section 👨‍💻 : For All, by All (regular updates)</h1>
 <a href="https://fardeen-ahmed.github.io/">
   <img src="https://github.com/fardeen-ahmed/Bug-bounty-Writeups/blob/main/1.png" alt="None" align="center" height="250" width="1000">
 </a>
 <h4>This is a place of all the Offensive Cybersecurity people. Feel free to contribute in all sections.</h4>
 
-<h3> 1) OWASP Top 10 Vulnerabilities. (Crash Course) </h3>
-<h3> 2) Bug-Bounty Tools. </h3>
-<h3> 3) Quick Writeup for fast hunting </h3>
-<h3> 4) Bug-Hunting Witeups. </h3>
-<h3> 5) Cyber News and Updates (2021-2022) </h3>
-<h3> 6) Creative Vulnerabilities </h3>
-<h3> 7) Interviews with White Hat </h3>
-<h3> 8) Career Updates in CyberSecurity. </h3>
-
-
-<h2> OWASP Top-10 Vulnerabilities (Updating soon...) </h2>
-
-<h3> 1) Injection </h3>
-
-```
-Ranked 1st in OWASP Top 10 Vulnerability list, this attack is when attacker injects 'Malicious inputs' in parameters (search box/bar, login parameter etc.), and when these parameters reflects back those results which are injected by attacker, and not specirfied by the organization what they programmed there website/web-applications into, then this type of attack is called Injection attack
-
-Some of the injection attacks are :- Cross-Site Scripting, HTML Injection, command Injection, encoded injection attacks and many more.
-
-Places to Learn :- Portswigger Academy, tesphp.vulnhub or setting DVWA in Virtual Box/VMWare
-
-```
 <h2> Bug-Bounty Tools :- </h2>
 <a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :-Electron JS Browser To Find XSS Vulnerabilities Automatically</a>
 
