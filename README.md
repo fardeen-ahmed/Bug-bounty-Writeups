@@ -79,6 +79,8 @@
 
 <a href="https://github.com/mosajjal/dnsmonster">-Passive DNS Capture/Monitoring Framework</a>
 
+<a href="https://technicalsurendra.medium.com/command-injection-all-in-one-blog-52591ad750df">-Command Injection — All in one Blog</a>
+
 <a href="https://research.securitum.com/fail2ban-remote-code-execution/">-fail2ban – Remote Code Execution</a>
 
 <a href="https://manasharsh.medium.com/how-gopher-works-in-escalating-ssrfs-ce6e5459b630">How Gopher works in escalating SSRFs</a>
