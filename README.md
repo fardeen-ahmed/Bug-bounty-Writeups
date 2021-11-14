@@ -236,6 +236,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="http://ysamm.com/?p=625">-Open redirect in Instagram.com ($500)</a>
 
+<a href="https://hackerone-hackers.affinity.co/">-Leaked H1's Employees Email addresses,meeting info on private bug bounty program</a>
+
 <a href="https://medium.com/@sicks3c/tale-of-xss-in-angular-c5c057a56156">-Tale of XSS in Angular</a>
 
 <a href="https://hackerone.com/reports/170552">-Slack integration setup lacks CSRF protection</a>
