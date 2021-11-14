@@ -59,6 +59,8 @@
 
 <a href="https://github.com/DigeeX/raider">-Raider - Web authentication testing framework</a>
 
+<a href="https://github.com/gfek/Lepus">-Lepus is a tool for enumerating subdomains, checking for subdomain takeovers and perform port scans - and boy, is it fast!</a>
+
 <a href="https://github.com/iamthefrogy/frogy/">-Frogy : Using the combination of different subdomain enumeration tools and logic this script tries to identify more subdomains and TLDs in recon. </a>
 
 <a href="https://n00b.sh/posts/aes-killer-mobile-app-demo/">-Decrypting Mobile App Traffic using AES Killer and Frida</a>
