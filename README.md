@@ -220,6 +220,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="http://ysamm.com/?p=629">-Enumerate internal cached URLs which lead to data exposure</a>
 
+<a href="https://coffeejunkiee.github.io//Simple-SSRF/">-Simple SSRF Allows Access To Internal Assets</a>
+
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
 
 <a href="https://hackerone.com/reports/1065500">-Multiple bugs leads to RCE on TikTok for Android</a>
