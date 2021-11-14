@@ -723,6 +723,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://blog.intigriti.com/2021/04/14/bug-bytes-118-kiterunner-server-side-xss-abusing-payment-systems-for-free-money/">-Kiterunner, Server-side XSS & Abusing payment systems for free money</a>
 
 <a href="https://www.nowsecure.com/blog/2021/01/27/reverse-engineering-imessage-leveraging-the-hardware-to-protect-the-software/">-Reverse Engineering iMessage: Leveraging the Hardware to Protect the Software</a>
+  
+<a href="https://medium.com/immunefi/harvest-finance-uninitialized-proxies-bug-fix-postmortem-ea5c0f7af96b">-Harvest Finance Uninitialized Proxies Bug Fix Postmortem — $200k Bounty</a>
 
 <a href="https://blog.intigriti.com/2021/02/03/bug-bytes-108-browser-to-automate-xss-finding-bug-bounty-collaborators-ending-the-samesite-confusion/">-Browser to automate XSS, Finding bug bounty collaborators & Ending the SameSite confusion </a>
 
