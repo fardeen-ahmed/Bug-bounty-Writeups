@@ -423,6 +423,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105">-TikTok for Android 1-Click RCE</a>
   
+<a href="https://0xmahmoudjo0.medium.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-9c3bb3780e8f">-How I Found multiple SQL Injection with FFUF and Sqlmap in a few minutes</a>
+  
 <a href="https://snapsec.co/blog/2021/09/25/Attacking-Access-Control-Models-In-Modern-Web-Applications.html">-Attacking Access Control Models In Modern Web Applications</a>
   
 <a href="https://jmrcsnchz.medium.com/how-i-escalated-a-time-based-sql-injection-to-rce-bbf0d68cb398">-How I Escalated a Time-Based SQL Injection to RCE</a>
