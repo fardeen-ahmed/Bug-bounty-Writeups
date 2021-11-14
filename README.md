@@ -389,6 +389,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://xelkomy.medium.com/easy-ssrf-from-wayback-machine-edf946486120">-Easy SSRF from Wayback Machine</a>
 
+<a href="https://www.intruder.io/research/practical-http-header-smuggling">-Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond</a>
+
 <a href="https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/">-How I got access to many PIIs through a source code leak</a>
 
 <a href="https://valsamaras.medium.com/size-matters-cve-2021-0485-cfa0a291f903">-Size Matters — CVE-2021–0485 (High)</a>
