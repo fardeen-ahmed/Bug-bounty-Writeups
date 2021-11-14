@@ -379,6 +379,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://hackerone.com/reports/1167753">-Add new managed stores without permission</a>
 
+<A href="https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017">-400$ Bounty again using Google Dorks</a>
+
 <a href="https://sapt.medium.com/stored-xss-non-privileged-user-to-anyone-using-qr-code-dfeb0bd98a5">-Stored XSS: Non-Privileged User to Anyone Using QR Code</a>
 
 <a href="https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60">-RCE via WebDav - Power Of PUT</a>
