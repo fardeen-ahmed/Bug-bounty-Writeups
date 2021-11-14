@@ -79,6 +79,8 @@
 
 <a href="https://github.com/dwisiswant0/go-dork">-Go Dork. The fastest dork scanner written in Go</a>
 
+<a href="https://blog.grimm-co.com/2021/11/escalating-xss-to-sainthood-with-nagios.html">-Escalating XSS to Sainthood with Nagios</a>
+
 <a href="https://github.com/mosajjal/dnsmonster">-Passive DNS Capture/Monitoring Framework</a>
 
 <a href="https://technicalsurendra.medium.com/command-injection-all-in-one-blog-52591ad750df">-Command Injection — All in one Blog</a>
