@@ -117,6 +117,8 @@
 
 <a href="https://danielmiessler.com/study/ffuf/">-A ffuf Primer</a>
 
+<a href="https://github.com/gh0stkey/CaA">-CaA - BurpSuite Collector and Analyzer </a>
+
 <a href="https://github.com/sh1yo/x8">-x8 Hidden parameters discovery suite</a>
 
 <a href="https://kathanp19.medium.com/params-discovering-hidden-treasure-in-webapps-b4a78509290f">-Params — Discovering Hidden Treasure in WebApps</a>
