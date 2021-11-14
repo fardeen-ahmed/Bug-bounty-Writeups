@@ -443,6 +443,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41">-How to Hack Apple ID</a>
   
+<a href="https://infosecwriteups.com/exploiting-password-reset-poisoning-b748797f0661">-Exploiting Password Reset Poisoning for account takeover and max bounty!</a>
+  
 <a href="https://infosecwriteups.com/critical-bug-bounty-reports-part-1-6fd9aef4b486">-Critical Bug Bounty Reports</a>
   
 <a href="https://twitter.com/cyph3r_asr/status/1413438299545296902">-10 Vulnerable Android Applications for beginners to learn Android  hacking</a>
