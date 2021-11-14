@@ -370,6 +370,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read/">-SSRF in PDF export with PhantomJs </a>
   
 <a href="https://medium.com/mii-cybersec/burp-suite-extensions-rarely-utilized-but-quite-useful-8d57c5a3a06b">-Burp Suite Extensions: Rarely Utilized but Quite Useful</a>
+
+<a href="https://portswigger.net/daily-swig/add-yourself-as-super-admin-researcher-details-easy-to-exploit-bug-that-exposed-gsuite-accounts-to-full-takeover">-‘Add yourself as super admin’ – Researcher details easy-to-exploit bug that exposed GSuite accounts to full takeover</a>
   
 <a href="https://xcheater.medium.com/all-about-password-reset-vulnerabilities-3bba86ffedc7">-All about Password Reset vulnerabilities</a>
 
