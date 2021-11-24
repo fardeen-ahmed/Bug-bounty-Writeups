@@ -316,6 +316,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://blog.wpsec.com/wordpress-xxe-in-media-library-cve-2021-29447/">-WordPress XXE Vulnerability in Media Library – CVE-2021-29447 </a>
 
+<a href="https://www.oliviaohara.com/keybase">-Keybase App Vulnerability: Incomplete Cleanup of Messages In Keybase for Android/iOS - CVE-2021-34421</a>
+
 <a href="https://tiszka.com/blog/CVE_2021_21225.html">-A Bug's Life: CVE-2021-21225</a>
 
 <a href="https://mrkrhy-xyz.medium.com/tagged-user-could-delete-facebook-story-d7f9cdde92aa">-Tagged User Could Delete Facebook Story</a>
