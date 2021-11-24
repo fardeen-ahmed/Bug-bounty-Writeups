@@ -292,6 +292,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://hackerone.com/reports/977697">-Stored-XSS in merge requests</a>
 
+<a href="https://sidxparab.gitbook.io/subdomain-enumeration-guide/">-Subdomain Enumeration Guide 2021 </a>
+
 <a href="https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2">-Full account takeover through referral code</a>
 
 <a href="https://svennergr.github.io/writeups/google/ads_dom_xss/">-Stumbling across a DOM XSS on google.com</a>
