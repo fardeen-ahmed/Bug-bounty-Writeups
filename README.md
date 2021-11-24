@@ -47,6 +47,8 @@
 
 <a href="https://www.revshells.com/">-Online - Reverse Shell Generator</a>
 
+<a href="https://github.com/michelin/ChopChop">-ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders</a>
+
 <a href="https://portswigger.net/daily-swig/latest-web-hacking-tools-q3-2021">-Latest web hacking tools – Q3 2021</a>
 
 <a href="https://iosiro.com/blog/baserunner-exploiting-firebase-datastores">-Introducing Baserunner: a tool for exploring and exploiting Firebase datastores</a>
