@@ -563,6 +563,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7">-Disclose the FB profile of Facebook employees who create official announcement messages (Bug Bounty)</a>
 
+<a href="https://portswigger.net/daily-swig/ckeditor-vulnerabilities-pose-xss-threat-to-drupal-and-other-downstream-applications">-CKEditor vulnerabilities pose XSS threat to Drupal and other downstream applications</a>  
+  
 <a href="https://portswigger.net/daily-swig/stored-xss-vulnerability-patched-in-open-source-firewall-pfsense">-Stored XSS vulnerability patched in open source firewall pfSense</a>
 
 <a href="https://rakeshelamaran.medium.com/oauth-misconfig-leads-to-account-takeover-7a360e6d9cac">-Oauth Misconfig — Leads to Account Takeover</a>
