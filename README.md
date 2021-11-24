@@ -658,6 +658,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://blog.assetnote.io/2021/06/27/uber-account-takeover-voicemail/"><-Taking over Uber accounts through voicemail/a>
   
 <a href="https://robertheaton.com/bumble-vulnerability/">-Vulnerability in Bumble dating app reveals any user's exact location</a>
+  
+<a href="https://byrslf.co/my-5th-valid-vulnerability-for-the-us-federal-government-8a89a58ae824">-My 5th Valid Vulnerability For The US Federal Government</a>
 
 <a href="https://v3d.medium.com/full-account-takeover-via-password-reset-flaw-my-first-blog-10d6e11df2e0">-Full Account Takeover via Password Reset Flaw</a>
 
