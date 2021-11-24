@@ -237,6 +237,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://hackerone.com/reports/1295844">-Modify in-flight data to payment provider Smart2Pay</a>
 
 <a href="https://arxiv.org/pdf/2110.07450.pdf">-Bugs in our Pockets: The Risks of Client-Side Scanning</a>
+
+<a href="https://hosein-vita.medium.com/laravel-8-x-image-upload-bypass-zero-day-852bd806019b">-Laravel 8.x image upload bypass</a>
   
 <a href="https://vaibhavgaikwad1712.medium.com/2fa-bypass-using-response-manipulation-29d6c2583936">-2fa Bypass Using Response Manipulation</a>
 
