@@ -385,6 +385,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://hackerone.com/reports/584603">-RCE on CS:GO client using unsanitized entity ID in EntityMsg message</a>
 
+<a href="https://salmonsec.com/cheatsheet/account_takeover">-Account Takeover Summary</a>
+
 <a href="https://medium.com/@Bhichher/open-redirect-vulnerability-some-common-payloads-fd1dcd73541c">-Open Redirect Vulnerability & Some Common Payloads</a>
 
 <a href="https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read/">-SSRF in PDF export with PhantomJs </a>
