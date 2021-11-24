@@ -629,6 +629,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://straightblast.medium.com/my-poc-walkthrough-for-cve-2021-21974-a266bcad14b9">-My RCE PoC walkthrough for (CVE-2021–21974) VMware ESXi OpenSLP heap-overflow vulnerability </a>
   
+<a href="https://0xmahmoudjo0.medium.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-9c3bb3780e8f">-How I Found multiple SQL Injection with FFUF and Sqlmap in a few minutes</a>
+  
 <a href="https://secreltyhiddenwriteups.blogspot.com/2021/11/becoming-super-admin-in-someone-elses.html">-Becoming A Super Admin In Someone Elses Gsuite Organization And Taking It Over</a>
   
 <a href="https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/">-Exploiting a zero-day WebAssembly Vulnerability (CVE-2021-30734) in Apple Safari/a>
