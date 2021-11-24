@@ -481,6 +481,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312">-Disclose leads form details of any Facebook Business Account or Facebook Page</a>
   
+<a href="https://hackerone.com/reports/1280002">-Stored XSS via Mermaid Prototype Pollution vulnerability</a>
+  
 <a href="https://cirius.medium.com/how-i-hacked-a-target-again-and-again-6db2e462221f">-How I hacked a Target again and again</a>
   
 <a href="https://www.whitesourcesoftware.com/resources/blog/prototype-pollution-vulnerabilities/">-The Complete Guide to Prototype Pollution Vulnerabilities </a>
