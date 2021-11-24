@@ -461,6 +461,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://infosecwriteups.com/critical-bug-bounty-reports-part-1-6fd9aef4b486">-Critical Bug Bounty Reports</a>
   
+<a href="https://jfrog.com/blog/tensorflow-python-code-injection-more-eval-woes/">-TensorFlow Python Code Injection: More eval() Woes</a>
+  
 <a href="https://twitter.com/cyph3r_asr/status/1413438299545296902">-10 Vulnerable Android Applications for beginners to learn Android  hacking</a>
   
 <a href="https://hackerone.com/reports/1177356">-pam_ussh does not properly validate the SSH certificate authority</a>
