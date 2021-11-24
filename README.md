@@ -689,6 +689,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://busk3r.medium.com/hacking-graphql-for-fun-and-profit-part-1-understanding-graphql-basics-72bb3dd22efa">-Hacking GraphQL for Fun and Profit — Part 1 — Understanding GraphQL Basics</a>
 
 <a href="https://busk3r.medium.com/hacking-graphql-for-fun-and-profit-part-2-methodology-and-examples-5992093bcc24">-Hacking GraphQL for Fun and Profit — Part 2— Methodology and Examples</a>
+  
+<a href="https://proviesec.medium.com/broken-link-hijacking-404-google-play-store-xxx-bounty-96e79a8dfd71">-Broken Link Hijacking — 404 Google Play Store— xxx$ Bounty</a>
 
 <a href="https://www.exandroid.dev/2021/03/21/capture-all-android-network-traffic/">-Capture all android network traffic</a>
 
