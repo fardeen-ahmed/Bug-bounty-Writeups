@@ -431,6 +431,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://hackerone.com/reports/1322104">-XSS on tiktok.com</a>
   
+<a href="https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html">-Exploiting OAuth: Journey to Account Takeover </a>
+  
 <a href="https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431">-How I found my first IDOR in HackerOne</a>
   
 <a href="https://asterfiester.medium.com/5000-google-idor-vulnerability-writeup-c7b45926abe9">-$5000 Google IDOR Vulnerability Writeup</a>
