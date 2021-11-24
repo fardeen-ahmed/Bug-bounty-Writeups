@@ -117,6 +117,8 @@
 
 <a href="https://danielmiessler.com/study/ffuf/">-A ffuf Primer</a>
 
+<a href="https://github.com/cyberheartmi9/Frida-Guide/blob/main/Frida%20Guide/Frida%20Guide.md">-How to Write Frida Hook For Android</a>
+
 <a href="https://github.com/gh0stkey/CaA">-CaA - BurpSuite Collector and Analyzer </a>
 
 <a href="https://github.com/sh1yo/x8">-x8 Hidden parameters discovery suite</a>
