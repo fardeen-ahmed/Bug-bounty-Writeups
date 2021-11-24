@@ -25,6 +25,8 @@
 
 <a href="https://portswigger.net/blog/introducing-dom-invader">Introducing DOM Invader: DOM XSS just got a whole lot easier to find</a>
 
+<a href="https://github.com/MayankPandey01/Jira-Lens">-Jira-Lens Fast and customizable vulnerability scanner For JIRA written in Python</a>
+
 <a href="https://sicks3c.medium.com/setup-your-private-burp-collaborator-for-ssrf-xxe-fd6cf01c8ca">-Setup Your Private Burp Collaborator for SSRF/XXE</a>
   
 <a href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo">-Experience Burp Suite Enterprise Edition in a new live demo</a>
