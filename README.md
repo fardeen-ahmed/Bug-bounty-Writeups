@@ -65,6 +65,8 @@
 
 <a href="https://github.com/DigeeX/raider">-Raider - Web authentication testing framework</a>
 
+<a href="https://github.com/glebarez/cero">-Cero : Scrape domain names from SSL certificates of arbitrary hosts</a>
+
 <a href="https://github.com/honoki/bugbounty-openvpn-socks">-Run all your bug bounty VPN profiles in parallel and expose them via multiple local SOCKS proxies.</a>
 
 <a href="https://github.com/gfek/Lepus">-Lepus is a tool for enumerating subdomains, checking for subdomain takeovers and perform port scans - and boy, is it fast!</a>
