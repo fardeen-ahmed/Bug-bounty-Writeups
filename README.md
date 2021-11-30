@@ -41,6 +41,8 @@
 
 <a href="https://github.com/KathanP19/protoscan">-Prototype Pollution Scanner made in Golang</a>
 
+<a href="https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques">-New differential fuzzing tool reveals novel HTTP request smuggling techniques</a>
+
 <a href="https://blog.intigriti.com/2021/10/05/hacker-tools-crlfuzz/">-CRLFuzz – Hacker Tools: Injecting CRLF for bounties </a>
 
 <a href="https://blog.securelayer7.net/static-analysis-of-android-application-tools-used-securelayer7/">-OWASP Top 10: Static Analysis of Android Application & Tools Used</a>
