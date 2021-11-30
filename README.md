@@ -371,6 +371,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://pwn.vg/articles/2021-05/ssrf-in-pdf-renderer-using-svg">-SSRF in PDF Renderer using SVG</a>
 
+<a href="https://medium.com/immunefi/enzyme-finance-price-oracle-manipulation-bug-fix-postmortem-4e1f3d4201b5">-Enzyme Finance Price Oracle Manipulation Bug Fix Postmortem</a>
+
 <a href="https://websecblog.com/vulns/google-threadit/">-5 Different Vulnerabilities in Google’s Threadit</a>
 
 <a href="https://www.hackerone.com/blog/vulnerability-assessment-i-complete-guide">-Vulnerability Assessment I A Complete Guide</a>
