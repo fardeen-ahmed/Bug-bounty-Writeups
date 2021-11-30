@@ -71,6 +71,8 @@
 
 <a href="https://github.com/iamthefrogy/frogy/">-Frogy : Using the combination of different subdomain enumeration tools and logic this script tries to identify more subdomains and TLDs in recon. </a>
 
+<a href="https://www.cyberick.com/post/how-to-find-new-more-domains-of-a-company-recon-stuff">-How to find new/more domains of a company? - Recon Stuff</a>
+
 <a href="https://n00b.sh/posts/aes-killer-mobile-app-demo/">-Decrypting Mobile App Traffic using AES Killer and Frida</a>
 
 <a href="https://burpsuite.guide/blog/how-good-is-burps-api-scanning/">-How good is Burp's API Scanning?</a>
