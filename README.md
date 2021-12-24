@@ -59,6 +59,8 @@
 
 <a href="https://github.com/d3mondev/puredns">-PureDNS : Subdomain bruteforcing tool that improves massdns to accurately handle wildcard subdomains and DNS poisoning. </a>
 
+<a href="https://securitytrails.com/blog/uniscan">-Uniscan: An RFI, LFI, and RCE Vulnerability Scanner</a>
+
 <a href="https://github.com/bcoles/jira_scan">-Jira Scan is  a simple remote scanner for Atlassian Jira</a>
 
 <a href="https://spaceraccoon.github.io/webpack-exploder/">-Webpack Exploder : Unpack the source code of React and other Webpacked Javascript apps! Check out Expanding the Attack Surface</a>
