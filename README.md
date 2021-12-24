@@ -49,6 +49,10 @@
 
 <a href="https://www.revshells.com/">-Online - Reverse Shell Generator</a>
 
+<a href="https://github.com/PalindromeLabs/STEWS">-STEWS is a tool suite for security testing of WebSockets</a>
+
+<a href="https://github.com/xerohackcom/webrecon">-Webrecon : Automated Web Recon Shell Scripts</a>
+
 <a href="https://github.com/michelin/ChopChop">-ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders</a>
 
 <a href="https://portswigger.net/daily-swig/latest-web-hacking-tools-q3-2021">-Latest web hacking tools – Q3 2021</a>
@@ -67,11 +71,27 @@
 
 <a href="https://github.com/DigeeX/raider">-Raider - Web authentication testing framework</a>
 
+<a href="https://github.com/whwlsfb/Log4j2Scan">-Log4j2 RCE Passive Scanner plugin for BurpSuite</a>
+
+<a href="https://portswigger.net/daily-swig/teen-hacker-scoops-4-500-bug-bounty-for-facebook-flaw-that-allowed-attackers-to-unmask-page-admins">-Teen hacker scoops $4,500 bug bounty for Facebook flaw that allowed attackers to unmask page admins</a>
+
+<a href="https://portswigger.net/daily-swig/security-researcher-earns-plaudits-after-discovering-yandex-ssrf-flaw">-Security researcher earns plaudits after discovering Yandex SSRF flaw</a>
+
+<a href="https://medium.com/pentesternepal/how-i-was-able-to-reveal-page-admin-of-almost-any-page-on-facebook-5a8d68253e0c">-How I was able to reveal page admin of almost any page on Facebook</a>
+
+<a href="https://github.com/fullhunt/log4j-scan">-A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228</a>
+
 <a href="https://github.com/glebarez/cero">-Cero : Scrape domain names from SSL certificates of arbitrary hosts</a>
+
+<a href="https://xkurtph.medium.com/shopify-plugin-bypass-using-client-side-injection-thru-api-implementation-vulnerability-710d25105c8f">-Shopify Plugin Bypass using P3 Client-side injection thru API Implementation Vulnerability</a>
+
+<a href="https://ahmdhalabi.medium.com/ultimate-reconnaissance-roadmap-for-bug-bounty-hunters-pentesters-507c9a5374d">-Ultimate Reconnaissance RoadMap for Bug Bounty Hunters & Pentesters</a>
 
 <a href="https://github.com/honoki/bugbounty-openvpn-socks">-Run all your bug bounty VPN profiles in parallel and expose them via multiple local SOCKS proxies.</a>
 
 <a href="https://github.com/gfek/Lepus">-Lepus is a tool for enumerating subdomains, checking for subdomain takeovers and perform port scans - and boy, is it fast!</a>
+
+<a href="https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee">-SVG based Stored XSS</a>
 
 <a href="https://github.com/iamthefrogy/frogy/">-Frogy : Using the combination of different subdomain enumeration tools and logic this script tries to identify more subdomains and TLDs in recon. </a>
 
@@ -87,6 +107,16 @@
 
 <a href="https://github.com/Hacker0x01/awesome-hacker-api-tools">-A collection of hacker tools using HackerOne's API</a>
 
+<a href="https://hackerone.com/reports/414101">-Vulnerabilities in exported activity WebView</a>
+
+<a href="https://medium.com/@Sm9l/bug-bounty-recon-horizontal-correlation-b7c81a32951a">-Bug Bounty Recon: Horizontal Correlation</a>
+
+<a href="https://infosecwriteups.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-2824cd4dfab">-How I Found multiple SQL Injection with FFUF and Sqlmap in a few minutes</a>
+
+<a href="https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html">-A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution </a>
+
+<a href="https://medium.com/@sarafsaransh321/how-i-earned-240-from-a-zero-interface-53d244a231f9">-How I earned 240$ from a Zero Interface</a>
+
 <a href="https://medium.com/@thebugbountyhunter/review-netlas-io-for-bug-bounty-c062a87b544f">-netlas.io - a new search engine for discover, research and monitor any asset. It is so useful for your #bugbounty recon automation.</a>
 
 <a href="https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/">-Reverse engineering Flutter for Android + Doldrums (Doldrums is a reverse engineering tool for Flutter apps)<a href ="https://github.com/rscloura/Doldrums">Tool Link = _Doldrum Tool_</a></a>
@@ -94,6 +124,8 @@
 <a href="https://github.com/hahwul/gee">-Gee is tool of stdin to each files and stdout. It is similar to the tee command, but there are more functions for convenience. In addition, it was written as go</a>
 
 <a href="https://github.com/dwisiswant0/go-dork">-Go Dork. The fastest dork scanner written in Go</a>
+
+<a href="https://github.com/google/clusterfuzzlite">-ClusterFuzzLite - Simple continuous fuzzing that runs in CI</a>
 
 <a href="https://blog.grimm-co.com/2021/11/escalating-xss-to-sainthood-with-nagios.html">-Escalating XSS to Sainthood with Nagios</a>
 
@@ -108,6 +140,8 @@
 <a href="https://github.com/dwisiswant0/ppfuzz?tag=v1.0.0">-Prototype Pollution Fuzzer</a>
 
 <a href="https://github.com/as0ler/r2flutch">-r2flutch - tool to decrypt iOS apps using r2frida</a>
+
+<a href="https://medium.com/@kaorrosi/finding-csrf-vulnerabilities-with-burpsuite-a0a37b87eb85?source">-Finding CSRF Vulnerabilities with BurpSuite</a>
 
 <a href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2020">-Top 10 web hacking techniques of 2020 | PortSwigger Research</a>
 
@@ -202,6 +236,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://hackerone.com/reports/1104874">-Basecamp disclosed on HackerOne: Insecure Bundler configuration</a>
 
+<a href="https://ahmed8magdy.medium.com/file-upload-to-rce-538bb4128062">-File Upload to RCE</a>
+
 <a href="https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way">Finding DOM Polyglot XSS in PayPal the Easy Way </a>
 
 <a href="http://ysamm.com/?p=597">-View orders and financial reports lists for any page shop ($500)</a>
@@ -209,6 +245,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645">-XSS with Markdown — Exploit & Fix on OpenSource</a>
 
 <a href="https://dhiyaneshgeek.github.io/web/security/2021/09/04/dependency-confusion/">-Dependency Confusion</a>
+
+<a href="https://notifybugme.medium.com/exploiting-s3-bucket-with-path-folder-to-access-pii-info-of-a-bank-91d8563cb45">-Exploiting S3 bucket with path folder to Access PII info of A BANK</a>
 
 <a href="https://infosecwriteups.com/hunting-for-prototype-pollution-and-its-vulnerable-code-on-js-libraries-5bab2d6dc746">-Hunting for Prototype Pollution and it’s vulnerable code on JS libraries</a>
 
@@ -373,6 +411,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://hackerone.com/reports/1256375">-Blog posts atom feed of a store with password protection can be accessed by anyone</a>
 
+<a href="https://amit-lt.medium.com/a-story-of-idor-which-leads-to-privacy-violation-78c1b4c710fb">-A Story of IDOR which leads to privacy violation…$$$</a>
+
 <a href="https://encodedguy.medium.com/600-for-idor-file-or-folder-download-243166452dad">-$600 for IDOR (File or Folder Download)</a>
 
 <a href="https://medium.com/@bababounty99/race-condition-resulted-in-using-the-feature-which-was-supposed-to-be-obtained-after-subscription-2bfe968d358c">-Race Condition — Resulted in using the feature which was supposed to be obtained after subscription.</a>
@@ -381,11 +421,23 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://medium.com/immunefi/enzyme-finance-price-oracle-manipulation-bug-fix-postmortem-4e1f3d4201b5">-Enzyme Finance Price Oracle Manipulation Bug Fix Postmortem</a>
 
+<a href="https://flatt.tech/reports/210401_pwn2own/">-Pwn2Own Local Escalation of Privilege Category</a>
+
 <a href="https://websecblog.com/vulns/google-threadit/">-5 Different Vulnerabilities in Google’s Threadit</a>
+
+<a href="https://aravind07.medium.com/bypassing-login-page-in-2-mins-5b773d46f4d">-Bypassing Login Page in 2 Mins</a>
+
+<a href="https://medium.com/@yoshimlutfi/bypass-ssl-pinning-with-ip-forwarding-iptables-568171b52b62">-ByPass SSL Pinning with IP Forwarding | iptables</a>
 
 <a href="https://www.hackerone.com/blog/vulnerability-assessment-i-complete-guide">-Vulnerability Assessment I A Complete Guide</a>
 
 <a href="https://hackerone.com/reports/941178">-SSRF for kube-apiserver cloudprovider scene</a>
+
+<a href="https://proviesec.medium.com/broken-link-hijacking-what-it-is-and-how-to-get-bounties-with-it-ca64db6a3f74">-Broken Link hijacking — What it is and how to get bounties with it!</a>
+
+<a href="https://hackerone.com/reports/1189367">-Full read SSRF in www.evernote.com that can leak aws metadata and local file inclusion</a>
+
+<a href="https://www.varonis.com/blog/box-mfa-bypass-totp/">-Bypassing Box’s Time-based One-Time Password MFA</a>
 
 <a href="https://hackerone.com/reports/1122408">-CSRF on /api/graphql allows executing mutations through GET requests</a>
 
@@ -469,11 +521,17 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/">-A Scientific Notation Bug in MySQL left AWS WAF Clients Vulnerable to SQL Injection</a>
   
+<a href="https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/">-Flickr Account Takeover</a>
+  
+<a href="https://0xelmalky.medium.com/subdomain-takeover-via-flywheel-447a71d77396">-Subdomain Takeover Via Flywheel</a>
+  
 <a href="https://research.checkpoint.com/2021/a-supply-chain-breach-taking-over-an-atlassian-account/">-A supply-chain breach: Taking over an Atlassian account</a>
 
 <a href="https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105">-TikTok for Android 1-Click RCE</a>
   
 <a href="https://0xmahmoudjo0.medium.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-9c3bb3780e8f">-How I Found multiple SQL Injection with FFUF and Sqlmap in a few minutes</a>
+  
+<a href="https://notifybugme.medium.com/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba">-Chaining an Blind SSRF bug to Get an RCE</a>
   
 <a href="https://snapsec.co/blog/2021/09/25/Attacking-Access-Control-Models-In-Modern-Web-Applications.html">-Attacking Access Control Models In Modern Web Applications</a>
   
@@ -503,6 +561,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://hackerone.com/reports/1280002">-Stored XSS via Mermaid Prototype Pollution vulnerability</a>
   
+<a href="https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html">-Exploiting OAuth: Journey to Account Takeover</a>
+  
 <a href="https://cirius.medium.com/how-i-hacked-a-target-again-and-again-6db2e462221f">-How I hacked a Target again and again</a>
   
 <a href="https://www.whitesourcesoftware.com/resources/blog/prototype-pollution-vulnerabilities/">-The Complete Guide to Prototype Pollution Vulnerabilities </a>
@@ -510,6 +570,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://www.youtube.com/watch?v=Fzx7OWZId6U">-Account Takeover using OAuth Misconfiguration | Badoo Bug Bounty $300</a>
   
 <a href="https://www.fortbridge.co.uk/research/independently-secure-together-not-so-much-a-story-of-2-wp-plugins/">-INDEPENDENTLY SECURE, TOGETHER NOT SO MUCH – A STORY OF 2 WP PLUGINS</a>
+  
+<a href="https://hector0x.medium.com/easy-sqli-in-amazon-subsidiary-using-sqlmap-ff469013671b">-Easy SQLi in Amazon subsidiary using Sqlmap</a>
   
 <a href="https://www.zapstiko.com/misconfigured-reset-password-that-leads-to-account-takeover/">-Misconfigured Reset password that leads to Account Takeover</a>
   
@@ -537,6 +599,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://youtu.be/RtJXgGb3uJ0">-Stored XSS in Wordpress.com</a>
   
+<a href="https://masturf.medium.com/how-to-exploit-firebase-realtime-database-using-rest-api-34885160fa55">-How to Exploit Public Firebase Realtime Database using REST API</a>
+  
 <a href="https://medium.com/@kalvik/account-takeover-a-bonus-vulnerability-3c2dc4e607ea">-Account Takeover + A Bonus Vulnerability</a>
   
 <a href="https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/">-Remote code execution in cdnjs of Cloudflare</a>
@@ -555,6 +619,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://rajanagori.medium.com/a-long-story-of-xxe-vulnerability-6a9a33276602">-A Long Story of XXE Vulnerability!!</a>
 
+<a href="https://hackerone.com/reports/1249583">-Authenticated kubernetes principal with restricted permissions can retrieve ingress-nginx serviceaccount token and secrets across all namespaces</a>
+  
 <a href="https://youtu.be/5guMYiQrnUo">-Shopify Account Takeover $22,500 Bug Bounty</a>
   
 <a href="https://infosecwriteups.com/cross-site-websocket-hijacking-cswsh-ce2a6b0747fc">-Cross-Site WebSocket Hijacking (CSWSH)</a>
