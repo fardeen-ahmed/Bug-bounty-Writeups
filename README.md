@@ -388,6 +388,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://apapedulimu.click/story-of-idor-on-google-product/">-2 CSRF 1 IDOR on Google Marketing Platform</a>
 
+<a href="https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/">-Flickr Account Takeover</a>
+
 <a href="https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50">-RCE 0 day for GhostScript-9.50</a>
 
 <a href="https://medium.com/@randyarios/low-hanging-fruits-on-facebook-group-room-b8d17c7ea886">-Low hanging fruits on Facebook Group Room</a>
@@ -402,6 +404,10 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
 
 <a href="https://godiego.tech/posts/STO/">-Subdomain Takeover in Azure: making a PoC</a>
+
+<a href="https://sm4rty.medium.com/hunting-for-bugs-in-file-upload-feature-c3b364fb01ba">-Hunting for Bugs in File Upload Feature</a>
+
+<a href="https://medium.com/@taniyatesting11/bounty-evaluation-github-15-000-us-dollars-rate-limit-d6c07d73c948">-Bounty Evaluation GitHub = $15,000 US Dollars </a>
 
 <a href="https://www.tenable.com/blog/cve-2021-41773-path-traversal-zero-day-in-apache-http-server-exploited">-CVE-2021-41773: Path Traversal Zero-Day in Apache HTTP Server Exploited</a>
 
@@ -433,6 +439,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://flatt.tech/reports/210401_pwn2own/">-Pwn2Own Local Escalation of Privilege Category</a>
 
+<a href="https://blog.melbadry9.xyz/write-ups/fuzzing/creating-sharing-log4shell-poc">-How I built the PoC for the Log4j zero-day security vulnerability</a>
+
 <a href="https://websecblog.com/vulns/google-threadit/">-5 Different Vulnerabilities in Google’s Threadit</a>
 
 <a href="https://aravind07.medium.com/bypassing-login-page-in-2-mins-5b773d46f4d">-Bypassing Login Page in 2 Mins</a>
@@ -441,6 +449,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://www.hackerone.com/blog/vulnerability-assessment-i-complete-guide">-Vulnerability Assessment I A Complete Guide</a>
 
+<a href="https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/">-Turning bad SSRF to good SSRF: Websphere Portal</a>
+
 <a href="https://hackerone.com/reports/941178">-SSRF for kube-apiserver cloudprovider scene</a>
 
 <a href="https://proviesec.medium.com/broken-link-hijacking-what-it-is-and-how-to-get-bounties-with-it-ca64db6a3f74">-Broken Link hijacking — What it is and how to get bounties with it!</a>
@@ -448,6 +458,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://hackerone.com/reports/1189367">-Full read SSRF in www.evernote.com that can leak aws metadata and local file inclusion</a>
 
 <a href="https://www.varonis.com/blog/box-mfa-bypass-totp/">-Bypassing Box’s Time-based One-Time Password MFA</a>
+
+<a href="https://medium.com/immunefi/polygon-lack-of-balance-check-bugfix-postmortem-2-2m-bounty-64ec66c24c7d">-Polygon Lack Of Balance Check Bugfix Postmortem — $2.2m Bounty</a>
 
 <a href="https://hackerone.com/reports/1122408">-CSRF on /api/graphql allows executing mutations through GET requests</a>
 
@@ -480,6 +492,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://blog.niksthehacker.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1">-XXE in Public Transport Ticketing Mobile APP</a>
 
 <a href="https://hackerone.com/reports/1167753">-Add new managed stores without permission</a>
+
+<a href="https://thalium.github.io/blog/posts/deserialization-bug-through-rdp-smart-card-extension/">-Remote Deserialization Bug in Microsoft's RDP Client through Smart Card Extension (CVE-2021-38666) Bounty award: $5,000.</a>
 
 <A href="https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017">-400$ Bounty again using Google Dorks</a>
 
@@ -518,6 +532,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://asterfiester.medium.com/5000-google-idor-vulnerability-writeup-c7b45926abe9">-$5000 Google IDOR Vulnerability Writeup</a>
   
 <a href="https://hackerone.com/reports/1087061">-Stored-XSS on wiki pages</a>
+  
+<a href="https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139">-Weaponizing favicon.ico for BugBounties , OSINT and what not</a>
   
 <a href="https://palisade.consulting/blog/link-hijacking-binances-shortlinks-through-appsflyer">-Link hijacking Binance’s shortlinks through AppsFlyer</a>
   
