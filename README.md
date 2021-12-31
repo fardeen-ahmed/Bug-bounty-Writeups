@@ -314,6 +314,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/">-The second part of discovered vulnerabilities in pre-installed apps on Samsung devices</a>
 
+<a href="https://amakki.me/full-account-takeover-vulnerability-in-minecraft-f56076c8287d">-Full account takeover vulnerability in Minecraft</a>
+
 <a href="https://redhuntlabs.com/blog/5-ways-to-exploit-a-domain-takeover-vulnerability.html">-5 Ways to Exploit a Domain Takeover Vulnerability</a>
 
 <a href="https://sinsinology.medium.com/expect-the-unexpected-discovering-fresh-zeroday-for-bounty-d074f3175847">-Expect The Unexpected: Discovering fresh ZeroDay for Bounty</a>
