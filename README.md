@@ -11,6 +11,8 @@
 
 <a href="https://github.com/tristanlatr/burpa">-Burp Automator - A Burp Suite Automation Tool. It provides a high level CLI and Python interfaces to Burp Suite scanner and can be used to setup Dynamic Application Security Testing (DAST)</a>
 
+<a href="https://medium.com/@kaorrosi/osint-research-with-recon-ng-727661a70ea4">-OSINT Research With Recon-ng</a>
+
 <a href="https://github.com/benso-io/posta">-Posta. Cross-document Messaging security research tool</a>
 
 <a href="https://being-uncommon.medium.com/rustscan-the-modern-port-scanner-d6d3084e9c82">-RUSTSCAN — THE MODERN PORT SCANNER</a>
