@@ -232,6 +232,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://blog.assetnote.io/2021/08/29/exploiting-graphql/">-Exploiting GraphQL</a>
 
+<a href="https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc">-Common Nginx Misconfiguration leads to Path Traversal</a>
+
 <a href="https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/">-How to exploit insecure WebResourceResponse configurations + an example vulnerability in Amazon apps</a>
   
 <a href="https://sinsinology.medium.com/bug-bounty-short-tips-as-image-b4075523e4ef">-Bug Bounty Short Tips as image</a>
@@ -261,6 +263,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://jakearchibald.com/2021/cors/">-How to win at CORS</a>
 
 <a href="http://ysamm.com/?p=603">-URLs in img tag aren’t safely embedded. ($500)</a>
+
+<a href="https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b">-Hacking the Blockchain: An Ultimate Guide</a>
 
 <a href="https://curtbraz.medium.com/a-konami-code-for-vuln-chaining-combos-1a29d0a27c2a">-A Konami Code for Vuln Chaining Combos</a>
 
