@@ -305,6 +305,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://vaibhavgaikwad1712.medium.com/2fa-bypass-using-response-manipulation-29d6c2583936">-2fa Bypass Using Response Manipulation</a>
 
 <a href="https://blog.doyensec.com/2021/05/20/graphql-csrf.html">-That single GraphQL issue that you keep missing</a>
+
+<a href="https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490">-IDOR leads to leak Private Details</a>
   
 <a href="https://bilalabdulmuqeet.medium.com/brute-forcing-otp-via-bypassing-rate-limit-c5ee6b25c2a8">-OTP brute-force via rate limit bypass</a>
 
