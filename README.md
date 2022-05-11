@@ -443,6 +443,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://flatt.tech/reports/210401_pwn2own/">-Pwn2Own Local Escalation of Privilege Category</a>
 
+<a href="https://medium.com/@Sm9l/bug-bounty-recon-vertical-correlation-and-the-secret-to-succeeding-cdd532c777c9">-Bug Bounty Recon: Vertical Correlation (and the secret to succeeding)</a>
+
 <a href="https://blog.melbadry9.xyz/write-ups/fuzzing/creating-sharing-log4shell-poc">-How I built the PoC for the Log4j zero-day security vulnerability</a>
 
 <a href="https://websecblog.com/vulns/google-threadit/">-5 Different Vulnerabilities in Google’s Threadit</a>
