@@ -95,6 +95,8 @@
 
 <a href="https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee">-SVG based Stored XSS</a>
 
+<a href="https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae">-A tale of zero click account takeoverhttps://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae</a>
+
 <a href="https://github.com/iamthefrogy/frogy/">-Frogy : Using the combination of different subdomain enumeration tools and logic this script tries to identify more subdomains and TLDs in recon. </a>
 
 <a href="https://www.cyberick.com/post/how-to-find-new-more-domains-of-a-company-recon-stuff">-How to find new/more domains of a company? - Recon Stuff</a>
