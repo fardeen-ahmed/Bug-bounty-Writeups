@@ -232,6 +232,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://medium.com/csg-govtech/lifes-a-peach-fuzzer-how-to-build-and-use-gitlab-s-open-source-protocol-fuzzer-fd78c9caf05e">-Life’s a Peach (Fuzzer) How to Build and Use GitLab’s Open-Source Protocol Fuzzer</a>
 
+<a href="https://servicenger.com/mobile/facebook-android-webview-vulnerability/">-Facebook android webview vulnerability : Execute arbitrary javascript (xss) and load arbitrary website </a>
+
 <a href="https://hackerone.com/reports/928255">-Ability To Delete User(s) Account Without User Interaction</a>
 
 <a href="https://blog.assetnote.io/2021/08/29/exploiting-graphql/">-Exploiting GraphQL</a>
