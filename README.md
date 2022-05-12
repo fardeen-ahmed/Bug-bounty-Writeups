@@ -356,6 +356,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://portswigger.net/daily-swig/gitlab-triages-bug-bounty-reported-flaws-with-latest-release">-GitLab triages bug bounty-reported flaws with latest release</a>
 
+<a href="https://hackerone.com/reports/1245762">-Account Takeover via SMS Authentication Flow</a>
+
 <a href="https://medium.com/@Hossam.Mesbah/he-is-already-here-privileges-escalation-due-to-invalidating-current-users-148069015716">-He is already here: Privileges escalation due to invalidating current users</a>
 
 <a href="https://hackerone.com/reports/1212067">-Stored XSS in markdown via the DesignReferenceFilter</a>
