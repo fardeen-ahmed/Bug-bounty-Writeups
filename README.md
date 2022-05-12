@@ -471,6 +471,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://websecblog.com/vulns/google-threadit/">-5 Different Vulnerabilities in Google’s Threadit</a>
 
+<a href="https://thehackernews.com/2022/01/researchers-bypass-sms-based-multi.html">-Researchers Bypass SMS-based Multi-Factor Authentication Protecting Box Accounts</a>
+
 <a href="https://aravind07.medium.com/bypassing-login-page-in-2-mins-5b773d46f4d">-Bypassing Login Page in 2 Mins</a>
 
 <a href="https://medium.com/@yoshimlutfi/bypass-ssl-pinning-with-ip-forwarding-iptables-568171b52b62">-ByPass SSL Pinning with IP Forwarding | iptables</a>
