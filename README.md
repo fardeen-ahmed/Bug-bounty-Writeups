@@ -49,6 +49,8 @@
 
 <a href="https://blog.securelayer7.net/static-analysis-of-android-application-tools-used-securelayer7/">-OWASP Top 10: Static Analysis of Android Application & Tools Used</a>
 
+<a href="https://github.com/sa7mon/S3Scanner">-S3Scanner - Scan for open S3 buckets and dump the contents </a>
+
 <a href="https://www.revshells.com/">-Online - Reverse Shell Generator</a>
 
 <a href="https://github.com/PalindromeLabs/STEWS">-STEWS is a tool suite for security testing of WebSockets</a>
