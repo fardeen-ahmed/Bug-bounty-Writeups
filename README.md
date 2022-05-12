@@ -449,6 +449,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://adityashende17.medium.com/idor-to-information-disclosure-admin-account-takeover-6aa96798c70b">-IDOR to information disclosure + Admin Account Takeover</a>  
 
+<a href="https://blog.assetnote.io/2022/01/17/workspace-one-access-ssrf/">-Stealing administrative JWT's through post auth SSRF (CVE-2021-22056)</a>
+
 <a href="https://hackerone.com/reports/1256375">-Blog posts atom feed of a store with password protection can be accessed by anyone</a>
 
 <a href="https://amit-lt.medium.com/a-story-of-idor-which-leads-to-privacy-violation-78c1b4c710fb">-A Story of IDOR which leads to privacy violation…$$$</a>
