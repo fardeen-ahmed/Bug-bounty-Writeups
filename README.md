@@ -700,6 +700,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://portswigger.net/daily-swig/ckeditor-vulnerabilities-pose-xss-threat-to-drupal-and-other-downstream-applications">-CKEditor vulnerabilities pose XSS threat to Drupal and other downstream applications</a>  
   
 <a href="https://portswigger.net/daily-swig/stored-xss-vulnerability-patched-in-open-source-firewall-pfsense">-Stored XSS vulnerability patched in open source firewall pfSense</a>
+  
+<a href="https://swarm.ptsecurity.com/fuzzing-for-xss-via-nested-parsers-condition/">-Fuzzing for XSS via nested parsers condition</a>
 
 <a href="https://rakeshelamaran.medium.com/oauth-misconfig-leads-to-account-takeover-7a360e6d9cac">-Oauth Misconfig — Leads to Account Takeover</a>
 
