@@ -479,6 +479,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://medium.com/immunefi/polygon-lack-of-balance-check-bugfix-postmortem-2-2m-bounty-64ec66c24c7d">-Polygon Lack Of Balance Check Bugfix Postmortem — $2.2m Bounty</a>
 
+<a href="https://m7-arman.medium.com/host-header-injection-lead-to-account-takeover-2f025a645d13">-Host Header Injection Lead To Account Takeover</a>
+
 <a href="https://hackerone.com/reports/1122408">-CSRF on /api/graphql allows executing mutations through GET requests</a>
 
 <a href="https://blog.intigriti.com/2021/10/06/bug-bytes-141-sesh-gremlin-attack-rce-via-password-field-pwning-xmlsec-for-info-disclosure-and-bounties/">-Sesh Gremlin attack, RCE via password field & Pwning XMLSec for info disclosure and bounties</a>
