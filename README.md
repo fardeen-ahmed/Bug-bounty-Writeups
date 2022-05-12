@@ -272,6 +272,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://jakearchibald.com/2021/cors/">-How to win at CORS</a>
 
+<a href="https://medium.com/@botami143/i-found-idor-vulnerability-at-microsoft-subdomain-b89b8777bf8d">-I found IDOR Vulnerability at Microsoft Subdomain</a>
+
 <a href="https://www.hebunilhanli.com/wonderland/mobile-security/android-component-security/">-Android Component Security</a>
 
 <a href="http://ysamm.com/?p=603">-URLs in img tag aren’t safely embedded. ($500)</a>
