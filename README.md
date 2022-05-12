@@ -282,6 +282,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://blog.intigriti.com/2021/10/13/bug-bytes-142-weird-google-bugs-saml-padding-oracle-apache-path-traversal-continued/">-Weird Google bugs, SAML padding Oracle & Apache path traversal continued</a>
 
+<a href="https://portswigger.net/daily-swig/internet-bug-bounty-high-severity-vulnerability-in-apache-http-server-could-lead-to-rce">-Internet Bug Bounty: High severity vulnerability in Apache HTTP Server could lead to RCE</a>
+
 <a href="https://hackerone.com/reports/1145428">-Chain of vulnerabilities in Uber for Business Vouchers program allows for attacker to perform arbitrary charges to victim's U4B payment account</a>
   
 <a href="https://hackerone.com/reports/1196124">-Regular Expression Injection</a>
