@@ -489,6 +489,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/">-Pre-Auth RCE in Moodle Part I - PHP Object Injection in Shibboleth Module</a>
 
+<a href="https://haxolot.com/posts/2022/moodle_pre_auth_shibboleth_rce_part2/">-Pre-Auth RCE in Moodle Part II - Session Hijack in Moodle's Shibboleth</a>
+
 <a href="https://mikekitckchan.medium.com/linux-tricks-for-bug-bounty-hunter-f8f936005151">-Linux Tricks for Bug Bounty Hunter</a>
   
 <a href="https://hackerone.com/reports/584603">-RCE on CS:GO client using unsanitized entity ID in EntityMsg message</a>
