@@ -425,6 +425,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://godiego.tech/posts/STO/">-Subdomain Takeover in Azure: making a PoC</a>
 
+<a href="https://hackerone.com/reports/1102764">-Lack of URL normalization renders Blocked-Previews feature ineffectual</a>
+
 <a href="https://sm4rty.medium.com/hunting-for-bugs-in-file-upload-feature-c3b364fb01ba">-Hunting for Bugs in File Upload Feature</a>
 
 <a href="https://medium.com/@taniyatesting11/bounty-evaluation-github-15-000-us-dollars-rate-limit-d6c07d73c948">-Bounty Evaluation GitHub = $15,000 US Dollars </a>
