@@ -892,6 +892,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://medium.com/immunefi/harvest-finance-uninitialized-proxies-bug-fix-postmortem-ea5c0f7af96b">-Harvest Finance Uninitialized Proxies Bug Fix Postmortem — $200k Bounty</a>
 
+<a href="https://gowtham-naidu.medium.com/p1-vulnerability-how-i-chained-logical-error-to-account-takeover-vulnerability-that-no-one-59aa88a9cae8">-P1 Vulnerability: How I chained Logical-Error to Account-Takeover Vulnerability 😈🧑‍💻that No-One said you before😁</a>
+
 <a href="https://blog.intigriti.com/2021/02/03/bug-bytes-108-browser-to-automate-xss-finding-bug-bounty-collaborators-ending-the-samesite-confusion/">-Browser to automate XSS, Finding bug bounty collaborators & Ending the SameSite confusion </a>
 
 <a href="https://ashketchum.medium.com/stored-xss-in-google-ads-android-application-3133-70-373f6c361ff3">-Stored XSS in Google Ads Android Application— $3133.70</a>
