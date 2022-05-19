@@ -77,6 +77,8 @@
 
 <a href="https://github.com/whwlsfb/Log4j2Scan">-Log4j2 RCE Passive Scanner plugin for BurpSuite</a>
 
+<a href="https://github.com/morphean-sec/secure-smart-contract-design-principles">-Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts.</a>
+
 <a href="https://portswigger.net/daily-swig/teen-hacker-scoops-4-500-bug-bounty-for-facebook-flaw-that-allowed-attackers-to-unmask-page-admins">-Teen hacker scoops $4,500 bug bounty for Facebook flaw that allowed attackers to unmask page admins</a>
 
 <a href="https://portswigger.net/daily-swig/security-researcher-earns-plaudits-after-discovering-yandex-ssrf-flaw">-Security researcher earns plaudits after discovering Yandex SSRF flaw</a>
