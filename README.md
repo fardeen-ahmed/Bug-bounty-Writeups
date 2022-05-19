@@ -260,6 +260,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://ahmed8magdy.medium.com/file-upload-to-rce-538bb4128062">-File Upload to RCE</a>
 
+<a href="https://machevalia.blog/remote-code-execution-in-tgz-file-upload/">-Remote Code Execution in .tgz File Upload</a>
+
 <a href="https://medium.com/@bxmbn/how-i-made-15-000-by-hacking-caching-servers-part-1-5541712a61c3">-How I Made $16,500 Hacking CDN Caching Servers — Part 1</a>
 
 <a href="https://medium.com/@bxmbn/how-i-made-16-500-hacking-cdn-caching-servers-part-2-4995ece4c6e6">-How I Made $16,500 Hacking CDN Caching Servers — Part 2</a>
