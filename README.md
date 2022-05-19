@@ -253,6 +253,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc">-Common Nginx Misconfiguration leads to Path Traversal</a>
 
 <a href="https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/">-How to exploit insecure WebResourceResponse configurations + an example vulnerability in Amazon apps</a>
+
+<a href="https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md">-Hacking Google Drive Integrations</a>
   
 <a href="https://sinsinology.medium.com/bug-bounty-short-tips-as-image-b4075523e4ef">-Bug Bounty Short Tips as image</a>
 
