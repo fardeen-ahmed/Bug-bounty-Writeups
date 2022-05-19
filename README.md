@@ -457,6 +457,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://kuldeep.io/posts/path-traversal-paradise/">-Path Traversal Paradise</a>
 
+<a href="https://lohigowda.medium.com/paytm-broken-link-hijacking-11624e4e9eef">-Paytm - Broken Link Hijacking</a>
+
 <a href="https://bountyget.medium.com/rce-on-starbucks-singapore-and-more-for-5600-926c930bb61e">-RCE on Starbucks Singapore and more for $5600</a>
 
 <a href="https://portswigger.net/daily-swig/security-researcher-finds-dangerous-bug-in-chromium-nabs-15-000-bounty">-Security researcher finds dangerous bug in Chromium, nabs $15,000 bounty</a>
