@@ -224,6 +224,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530">-Just Gopher It: Escalating a Blind SSRF to RCE for $15k</a>
 
+<a href="https://xcheater.medium.com/all-about-csrf-flaw-7d525be39587">-All About CSRF Flaw</a>
+
 <a href="https://hx01.me/Abusing_Data_Protection_Laws_For_D0xing_and_Account_Takeovers.pdf">-Hx01 Abusing Data Protection Laws For D0xing & Account Takeovers</a>
 
 <a href="https://blog.yeswehack.com/yeswerhackers/tutorial/how-to-learn-write-burp-suite-extension-kotlin-setting-up/">-Learn how to write a Burp Suite extension in Kotlin – Setting up</a>
