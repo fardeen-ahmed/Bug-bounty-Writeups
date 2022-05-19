@@ -264,6 +264,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://medium.com/@bxmbn/how-i-made-16-500-hacking-cdn-caching-servers-part-2-4995ece4c6e6">-How I Made $16,500 Hacking CDN Caching Servers — Part 2</a>
 
+<a href="https://medium.com/@bxmbn/how-i-made-16-500-hacking-cdn-caching-servers-part-3-91f9d836e046">-How I Made $16,500 Hacking CDN Caching Servers — Part 3</a>
+
 <a href="https://ian.sh/redash">-Exploiting Redash instances with CVE-2021-41192</a>
 
 <a href="https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way">Finding DOM Polyglot XSS in PayPal the Easy Way </a>
