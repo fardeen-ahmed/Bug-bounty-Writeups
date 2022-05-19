@@ -173,6 +173,8 @@
 
 <a href="https://danielmiessler.com/study/ffuf/">-A ffuf Primer</a>
 
+<a ref="https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c">-How I hacked thousand of subdomains</a>
+
 <a href="https://github.com/cyberheartmi9/Frida-Guide/blob/main/Frida%20Guide/Frida%20Guide.md">-How to Write Frida Hook For Android</a>
 
 <a href="https://github.com/gh0stkey/CaA">-CaA - BurpSuite Collector and Analyzer </a>
