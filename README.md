@@ -53,6 +53,8 @@
 
 <a href="https://www.revshells.com/">-Online - Reverse Shell Generator</a>
 
+<a href="https://github.com/ethicalhackingplayground/TProxer">-A Burp Suite extension made to automate the process of finding reverse proxy path based SSRF</a>
+
 <a href="https://github.com/PalindromeLabs/STEWS">-STEWS is a tool suite for security testing of WebSockets</a>
 
 <a href="https://github.com/xerohackcom/webrecon">-Webrecon : Automated Web Recon Shell Scripts</a>
