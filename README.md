@@ -298,6 +298,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://hackerone.com/reports/1196124">-Regular Expression Injection</a>
 
+<a href="https://medium.com/@LIL__NIX/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e">-The Story of a RCE on a Java Web Application</a>
+
 <a href="https://r0ckinxj3.wordpress.com/2021/10/24/a-7500-google-sites-idor/">-A 7500$ Google sites IDOR</a>
 
 <a href="https://youtu.be/xOoWHKOphK0">-$50k bug bounty on Shopify explained (GitHub access token leaked via electron application)</a>
