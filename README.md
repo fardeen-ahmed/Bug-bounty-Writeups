@@ -595,6 +595,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/">-A Scientific Notation Bug in MySQL left AWS WAF Clients Vulnerable to SQL Injection</a>
   
+<a href="https://www.theverge.com/2022/1/24/22899125/opensea-bug-bored-ape-nfts-smart-contract-listings-cancellation">-An OpenSea bug let attackers snatch Apes from owners at six-figure discounts</a>
+  
 <a href="https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/">-Flickr Account Takeover</a>
   
 <a href="https://0xelmalky.medium.com/subdomain-takeover-via-flywheel-447a71d77396">-Subdomain Takeover Via Flywheel</a>
