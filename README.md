@@ -463,6 +463,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://portswigger.net/daily-swig/node-js-was-vulnerable-to-a-novel-http-request-smuggling-technique">-Node.js was vulnerable to a novel HTTP request smuggling technique</a>
 
+<a href="https://blog.sonarsource.com/wordpress-stored-xss-vulnerability">-WordPress 5.8.2 Stored XSS Vulnerability</a>
+
 <a href="https://kuldeep.io/posts/path-traversal-paradise/">-Path Traversal Paradise</a>
 
 <a href="https://lohigowda.medium.com/paytm-broken-link-hijacking-11624e4e9eef">-Paytm - Broken Link Hijacking</a>
