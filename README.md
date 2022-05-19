@@ -67,6 +67,8 @@
 
 <a href="https://thexssrat.medium.com/what-the-fuzz-the-truth-behind-content-discovery-77cd0c0756e7">-What the fuzz?! — The truth behind content discovery</a>
 
+<a href="https://blog.intigriti.com/2022/02/01/hacker-tools-meg/">-Meg – Hacker Tools: Endpoint scan the masses! </a>
+
 <a href="https://github.com/d3mondev/puredns">-PureDNS : Subdomain bruteforcing tool that improves massdns to accurately handle wildcard subdomains and DNS poisoning. </a>
 
 <a href="https://securitytrails.com/blog/uniscan">-Uniscan: An RFI, LFI, and RCE Vulnerability Scanner</a>
