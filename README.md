@@ -388,6 +388,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://blog.appsecco.com/exploiting-weak-configurations-in-google-identity-platform-cbddbd0e71e3">-Exploiting weak configurations in Google Cloud Identity Platform</a>
 
+<a href="https://medium.com/@TutorialBoy24/a-summary-of-oauth-2-0-attack-methods-36834805c631">-A Summary of OAuth 2.0 Attack Methods</a>
+
 <a href="https://hackerone.com/reports/977697">-Stored-XSS in merge requests</a>
 
 <a href="https://sidxparab.gitbook.io/subdomain-enumeration-guide/">-Subdomain Enumeration Guide 2021 </a>
