@@ -454,6 +454,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://apapedulimu.click/story-of-idor-on-google-product/">-2 CSRF 1 IDOR on Google Marketing Platform</a>
 
+<a href="https://jub0bs.com/posts/2022-02-08-cve-2022-21703-writeup/">-CVE-2022-21703: cross-origin request forgery against Grafana</a>
+
 <a href="https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/">-Flickr Account Takeover</a>
 
 <a href="https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50">-RCE 0 day for GhostScript-9.50</a>
