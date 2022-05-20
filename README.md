@@ -386,6 +386,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://anugrahsr.github.io/posts/10-Password-reset-flaws/">-10 Password Reset Flaws</a>
 
+<a href="https://medium.com/@michaelmeade3/hacking-with-rake-319005da6ad9">-Hacking with Rakefile</a>
+
 <a href="https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7">-Bypassing required reviews using GitHub Actions</a>
 
 <a href="https://medium.com/@sicks3c/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52">-How I Scored 1K Bounty Using Waybackurls</a>
