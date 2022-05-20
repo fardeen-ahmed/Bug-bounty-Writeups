@@ -310,6 +310,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://infosecwriteups.com/how-i-was-able-to-takeover-accounts-in-websites-deal-with-github-as-a-sso-provider-294290358e0c">-How I was able to take over accounts in websites deal with Github as an SSO provider</a>
 
+<a href="https://portswigger.net/daily-swig/email-platform-zimbra-issues-hotfix-for-xss-vulnerability-under-active-exploitation">-Email platform Zimbra issues hotfix for XSS vulnerability under active exploitation</a>
+
 <a href="https://blog.intigriti.com/2021/10/13/bug-bytes-142-weird-google-bugs-saml-padding-oracle-apache-path-traversal-continued/">-Weird Google bugs, SAML padding Oracle & Apache path traversal continued</a>
 
 <a href="https://portswigger.net/daily-swig/internet-bug-bounty-high-severity-vulnerability-in-apache-http-server-could-lead-to-rce">-Internet Bug Bounty: High severity vulnerability in Apache HTTP Server could lead to RCE</a>
