@@ -631,6 +631,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://hackerone.com/reports/1087061">-Stored-XSS on wiki pages</a>
   
+<a href="https://amakki.me/how-i-made-15k-from-remote-code-execution-vulnerability-2e1b14b3902a">-How i made 15k$ from Remote Code Execution Vulnerability</a>
+  
 <a href="https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139">-Weaponizing favicon.ico for BugBounties , OSINT and what not</a>
   
 <a href="https://palisade.consulting/blog/link-hijacking-binances-shortlinks-through-appsflyer">-Link hijacking Binance’s shortlinks through AppsFlyer</a>
