@@ -489,6 +489,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://medium.com/tenable-techblog/stored-xss-to-rce-chain-as-system-in-manageengine-servicedesk-plus-493c10f3e444">-Stored XSS to RCE Chain as SYSTEM in ManageEngine ServiceDesk Plus</a>
 
+<a href="https://hackerone.com/reports/1439026">-Discoverability by phone number/email restriction bypass</a>
+
 <a href="https://hackerone.com/reports/1273292">-Internal Gitlab Ticket Disclosure via External Slack Channels</a>
 
 <a href="https://github.com/lleavesl/CVE-2021-26084">-CVE-2021-26084，Atlassian Confluence OGNL</a>
