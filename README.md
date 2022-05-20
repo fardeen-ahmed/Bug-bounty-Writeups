@@ -545,6 +545,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="https://medium.com/immunefi/polygon-lack-of-balance-check-bugfix-postmortem-2-2m-bounty-64ec66c24c7d">-Polygon Lack Of Balance Check Bugfix Postmortem — $2.2m Bounty</a>
 
+<a href="https://www.wordfence.com/blog/2022/02/critical-vulnerabilities-in-php-everywhere-allow-remote-code-execution/">-Critical Vulnerabilities in PHP Everywhere Allow Remote Code Execution</a>
+
 <a href="https://m7-arman.medium.com/host-header-injection-lead-to-account-takeover-2f025a645d13">-Host Header Injection Lead To Account Takeover</a>
 
 <a href="https://hackerone.com/reports/1122408">-CSRF on /api/graphql allows executing mutations through GET requests</a>
