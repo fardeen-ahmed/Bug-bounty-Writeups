@@ -610,6 +610,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 <a href="https://y000o.medium.com/fun-sql-injection-mod-security-bypass-644b54b0c445">-Fun sql injection — mod_security bypass/a>
   
 <a href="https://dphoeniixx.medium.com/exploiting-request-forgery-on-mobile-applications-e1d196d187b3">-Exploiting Request forgery on Mobile Applications</a>
+  
+<a href="https://medium.com/@kojodaprogrammer/full-account-takeover-ato-a-tale-of-two-bugs-d1b3765ff1de">-Full Account takeover (ATO) — a tale of two bugs</a>
 
 <a href="https://payatu.com/blog/abhilashnigam/ios-pentesing-guide-from-a-n00bs-perspective.1">-IOS Pentesting Guide From A N00bs Perspective</a>
   
