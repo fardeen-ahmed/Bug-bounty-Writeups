@@ -193,6 +193,8 @@
 
 <a href="https://github.com/WeAreCloudar/s3-account-search">-S3 Account Search</a>
 
+<a href="https://github.com/gquere/pwn_jenkins">-Notes about attacking Jenkins servers</a>
+
 <a href="https://remonsec.medium.com/passive-recon-with-spyse-part-i-bfa5408e52dd">-Passive Recon with Spyse (Part-I)</a>
 
 <a href="https://github.com/redcode-labs/UnChain">-A tool to find redirection chains in multiple URLs</a>
