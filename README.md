@@ -282,6 +282,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
 
 <a href="http://ysamm.com/?p=597">-View orders and financial reports lists for any page shop ($500)</a>
 
+<a href="https://thebittimes.com/ios-jailbreak-dev-wins-2m-bounty-for-finding-critical-optimism-bug-tbt11643.html">-iOS jailbreak dev wins $2M bounty for finding critical Optimism bug</a>
+
 <a href="https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645">-XSS with Markdown — Exploit & Fix on OpenSource</a>
 
 <a href="https://dhiyaneshgeek.github.io/web/security/2021/09/04/dependency-confusion/">-Dependency Confusion</a>
