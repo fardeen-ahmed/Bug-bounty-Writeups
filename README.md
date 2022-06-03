@@ -4,7 +4,7 @@
 </a>
 <h4>This is a place of all the Offensive Cybersecurity people. Feel free to contribute in all sections.</h4>
 
-<h2> Bug-Bounty Tools :- </h2>
+<h2> Bug-Bounty Tools (Genral + Updated) :- </h2>
 <a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :-Electron JS Browser To Find XSS Vulnerabilities Automatically</a>
 
 <A href="https://github.com/mdsecresearch/BurpSuiteSharpener">-Extension should add a number of UI and functional features to Burp Suite to make working with it easier</a>
@@ -155,13 +155,15 @@
 
 <a href="https://github.com/as0ler/r2flutch">-r2flutch - tool to decrypt iOS apps using r2frida</a>
 
-<a href="https://medium.com/@kaorrosi/finding-csrf-vulnerabilities-with-burpsuite-a0a37b87eb85?source">-Finding CSRF Vulnerabilities with BurpSuite</a>
+# OWASP Top 10 Web-Application Issues (Updated)
+
+## Broken Access Control
 
 <a href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2020">-Top 10 web hacking techniques of 2020 | PortSwigger Research</a>
 
 <a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">-Top 10 Tips for Burp Suite</a>
 
-<a href="https://joonas.fi/2021/08/saml-is-insecure-by-design/">-SAML is insecure by design</a>
+
 
 <a href="https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/">-Story of a Google Cloud SSRF</a>
 
