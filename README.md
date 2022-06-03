@@ -33,6 +33,9 @@
   
 <a href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo">-Experience Burp Suite Enterprise Edition in a new live demo</a>
 
+<a href="https://github.com/rotemreiss/uddup">-Urls de-duplication tool for better recon.</a>
+
+
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
 
 <a href="https://caido.io/">-Caido - Lightweight Web Security Auditing Toolkit</a>
@@ -178,6 +181,27 @@
 
 <a href="https://ahmdhalabi.medium.com/ultimate-reconnaissance-roadmap-for-bug-bounty-hunters-pentesters-507c9a5374d">-Ultimate Reconnaissance RoadMap for Bug Bounty Hunters & Pentesters</a>
 
+<a href="https://chaosdb.wiz.io/">-Critical Vulnerability in Microsoft Azure Cosmos DB</a>
+
+<a href="https://hackerone.com/reports/1196958">-Clipboard DOM-based XSS</a>
+
+<a href="https://0u.ma/5">-Cache Poisoning via SelfXSS + Path Parameter</a>
+
+<a href="https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254">-XSS via X-Forwarded-Host header</a>
+
+<a href="https://hackerone.com/reports/928255">-Ability To Delete User(s) Account Without User Interaction</a>
+
+<a href="http://ysamm.com/?p=603">-URLs in img tag aren’t safely embedded. ($500)</a>
+
+
+<a href="https://blog.assetnote.io/2021/08/29/exploiting-graphql/">-Exploiting GraphQL</a>
+
+<a href="https://hackerone.com/reports/1091303">-Low privilege user can read POS PINs via graphql and elevate his privilege</a>
+
+
+
+
+
 
 
 
@@ -185,17 +209,58 @@
 
 ## Broken Access Control
 
+<a href="https://hx01.me/Abusing_Data_Protection_Laws_For_D0xing_and_Account_Takeovers.pdf">-Hx01 Abusing Data Protection Laws For D0xing & Account Takeovers</a>
+
+<a href="http://ysamm.com/?p=606">-Access employees files in internal CDNs/ Access users modified/deleted content.($12500)</a>
+
+<a href="https://vijetareigns.medium.com/forced-browsing-to-access-admin-panel-214a7defa2a5">-Forced Browsing to Access Admin Panel</a>
+
+<a href="https://medium.com/@botami143/i-found-idor-vulnerability-at-microsoft-subdomain-b89b8777bf8d">-I found IDOR Vulnerability at Microsoft Subdomain</a>
+
+<a href="https://medium.com/@gonzalocarrascosec/fuzzing-idor-admin-takeover-5343bb8f436e">-Fuzzing + IDOR = Admin TakeOver</a>
+
+
+
+
+
+
 ## Cryptographic Issues / Bugs
 
 ## Injection Issues / Bugs
 
+<a href="https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way">Finding DOM Polyglot XSS in PayPal the Easy Way </a>
+
+<a href="https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645">-XSS with Markdown — Exploit & Fix on OpenSource</a>
+
+
+
 ## Insecure Design 
+
+<a href="https://ahmed8magdy.medium.com/file-upload-to-rce-538bb4128062">-File Upload to RCE</a>
+
+<a href="https://medium.com/@bxmbn/how-i-made-15-000-by-hacking-caching-servers-part-1-5541712a61c3">-How I Made $16,500 Hacking CDN Caching Servers — Part 1</a>
+
+<a href="https://medium.com/@bxmbn/how-i-made-16-500-hacking-cdn-caching-servers-part-2-4995ece4c6e6">-How I Made $16,500 Hacking CDN Caching Servers — Part 2</a>
+
+<a href="https://medium.com/@bxmbn/how-i-made-16-500-hacking-cdn-caching-servers-part-3-91f9d836e046">-How I Made $16,500 Hacking CDN Caching Servers — Part 3</a>
 
 ## Security Misconfiguration
 
 <a ref="https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c">-How I hacked thousand of subdomains</a>
 
 <a href="https://github.com/WeAreCloudar/s3-account-search">-S3 Account Search</a>
+
+<a href="https://xcheater.medium.com/all-about-csrf-flaw-7d525be39587">-All About CSRF Flaw</a>
+
+<a href="https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc">-Common Nginx Misconfiguration leads to Path Traversal</a>
+
+<a href="https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/">-How to exploit insecure WebResourceResponse configurations + an example vulnerability in Amazon apps</a>
+
+<a href="https://hackerone.com/reports/1104874">-Basecamp disclosed on HackerOne: Insecure Bundler configuration</a>
+
+<a href="https://notifybugme.medium.com/exploiting-s3-bucket-with-path-folder-to-access-pii-info-of-a-bank-91d8563cb45">-Exploiting S3 bucket with path folder to Access PII info of A BANK</a>
+
+
 
 
 
@@ -204,6 +269,8 @@
 ## Identification and Authentication Issues / Bugs
 
 <a href="https://hackerone.com/reports/921780">-Improper Authentication - any user can login as other user with otp/logout & otp/login</a>
+
+<a href="https://rammk01.medium.com/bypassed-the-subscription-and-got-the-certification-27c571c2f383">-Bypassed the subscription and got the certification</a>
 
 
 
@@ -218,11 +285,20 @@
 
 <a href="https://blog.deesee.xyz/fuzzing/security/2021/02/26/ssrf-bypassing-hostname-restrictions-fuzzing.html">-SSRF: Bypassing hostname restrictions with fuzzing</a>
 
+<a href="https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530">-Just Gopher It: Escalating a Blind SSRF to RCE for $15k</a>
+
+
 # Android Application Testing (Methods + Tools)
 
 <a href="https://www.hackingarticles.in/android-penetration-testing-frida/">-Android Penetration Testing: Frida </a>
 
 <a href="https://github.com/cyberheartmi9/Frida-Guide/blob/main/Frida%20Guide/Frida%20Guide.md">-How to Write Frida Hook For Android</a>
+
+<a href="https://servicenger.com/mobile/facebook-android-webview-vulnerability/">-Facebook android webview vulnerability : Execute arbitrary javascript (xss) and load arbitrary website </a>
+
+<a href="https://www.hebunilhanli.com/wonderland/mobile-security/android-component-security/">-Android Component Security</a>
+
+
 
 
 # Guide To Penetration Testing tools (Beginner + Intermediate + Advanced tools and techniques)
@@ -236,6 +312,9 @@
 <a href="https://portswigger.net/blog/burp-suite-roadmap-for-2021">-Burp Suite roadmap for 2021</a>
 
 <a href="https://portswigger.net/blog/browser-powered-scanning-in-burp-suite">-Browser powered scanning in Burp Suite</a>
+
+<a href="https://blog.yeswehack.com/yeswerhackers/tutorial/how-to-learn-write-burp-suite-extension-kotlin-setting-up/">-Learn how to write a Burp Suite extension in Kotlin – Setting up</a>
+
 
 
 
@@ -252,6 +331,7 @@
 
 <a href="https://github.com/tomnomnom/gron">-Make JSON greppable! gron transforms JSON into discrete assignments to make it easier to grep for what you want and see the absolute 'path' to it.</a>
 
+<a href="https://medium.com/csg-govtech/lifes-a-peach-fuzzer-how-to-build-and-use-gitlab-s-open-source-protocol-fuzzer-fd78c9caf05e">-Life’s a Peach (Fuzzer) How to Build and Use GitLab’s Open-Source Protocol Fuzzer</a>
 
 
 
