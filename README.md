@@ -223,6 +223,8 @@
 
 <a href="https://r0ckinxj3.wordpress.com/2021/10/24/a-7500-google-sites-idor/">-A 7500$ Google sites IDOR</a>
 
+<a href="https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490">-IDOR leads to leak Private Details</a>
+
 
 
 
@@ -233,6 +235,7 @@
 
 <a href="https://hackerone.com/reports/1196124">-Regular Expression Injection</a>
 
+<a href="https://medium.com/@sicks3c/tale-of-xss-in-angular-c5c057a56156">-Tale of XSS in Angular</a>
 
 <a href="https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way">Finding DOM Polyglot XSS in PayPal the Easy Way </a>
 
@@ -245,6 +248,19 @@
 <a href="https://0u.ma/5">-Cache Poisoning via SelfXSS + Path Parameter</a>
 
 <a href="https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254">-XSS via X-Forwarded-Host header</a>
+
+<a href="https://thevillagehacker.medium.com/time-based-sql-injection-to-dumping-the-database-da0e5bcaa9df">-Time-Based SQL Injection to Dumping the Database</a>
+
+<a href="https://hackerone.com/reports/1212067">-Stored XSS in markdown via the DesignReferenceFilter</a>
+
+<a href="https://hackerone.com/reports/977697">-Stored-XSS in merge requests</a>
+
+
+
+<a href="https://jasminderpalsingh.info/stored-xss-in-google-doubleclick-studio-google-research-grant/">-Stored XSS in Google Doubleclick Studio</a>
+
+<a href="https://0xkasper.com/articles/moodle-sql-injection-broken-access-control">-Moodle: Blind SQL Injection (CVE-2021-36393) and Broken Access Control (CVE-2021-36397)</a>
+
 
 
 
@@ -260,6 +276,9 @@
 <a href="https://medium.com/@bxmbn/how-i-made-16-500-hacking-cdn-caching-servers-part-2-4995ece4c6e6">-How I Made $16,500 Hacking CDN Caching Servers — Part 2</a>
 
 <a href="https://medium.com/@bxmbn/how-i-made-16-500-hacking-cdn-caching-servers-part-3-91f9d836e046">-How I Made $16,500 Hacking CDN Caching Servers — Part 3</a>
+
+<a href="https://hackerone.com/reports/170552">-Slack integration setup lacks CSRF protection</a>
+
 
 ## Security Misconfiguration
 
@@ -281,7 +300,16 @@
 
 <a href="http://ysamm.com/?p=629">-Enumerate internal cached URLs which lead to data exposure</a>
 
+<a href="http://ysamm.com/?p=625">-Open redirect in Instagram.com ($500)</a>
+
+<a href="https://blog.appsecco.com/exploiting-weak-configurations-in-google-identity-platform-cbddbd0e71e3">-Exploiting weak configurations in Google Cloud Identity Platform</a>
+
+
+
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
+
+<a href="https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c">-CORS misconfig that worths USD200</a>
+
 
 
 
@@ -294,9 +322,18 @@
 
 <a href="https://hackerone.com/reports/921780">-Improper Authentication - any user can login as other user with otp/logout & otp/login</a>
 
+<a href="https://medium.com/@TutorialBoy24/a-summary-of-oauth-2-0-attack-methods-36834805c631">-A Summary of OAuth 2.0 Attack Methods</a>
+
+
 <a href="https://rammk01.medium.com/bypassed-the-subscription-and-got-the-certification-27c571c2f383">-Bypassed the subscription and got the certification</a>
 
 <a href="https://vaibhavgaikwad1712.medium.com/2fa-bypass-using-response-manipulation-29d6c2583936">-2fa Bypass Using Response Manipulation</a>
+
+<a href="https://bilalabdulmuqeet.medium.com/brute-forcing-otp-via-bypassing-rate-limit-c5ee6b25c2a8">-OTP brute-force via rate limit bypass</a>
+
+<a href="https://anugrahsr.github.io/posts/10-Password-reset-flaws/">-10 Password Reset Flaws</a>
+
+<a href="https://hackerone.com/reports/1245762">-Account Takeover via SMS Authentication Flow</a>
 
 
 
@@ -319,6 +356,9 @@
 
 
 # Android Application Testing (Methods + Tools)
+
+<a href="https://blog.cobalt.io/getting-started-with-android-application-security-6f20b76d795b">-Getting started with Android Application Security</a>
+
 
 <a href="https://www.hackingarticles.in/android-penetration-testing-frida/">-Android Penetration Testing: Frida </a>
 
