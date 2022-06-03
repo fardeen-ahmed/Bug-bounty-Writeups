@@ -183,11 +183,7 @@
 
 <a href="https://chaosdb.wiz.io/">-Critical Vulnerability in Microsoft Azure Cosmos DB</a>
 
-<a href="https://hackerone.com/reports/1196958">-Clipboard DOM-based XSS</a>
 
-<a href="https://0u.ma/5">-Cache Poisoning via SelfXSS + Path Parameter</a>
-
-<a href="https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254">-XSS via X-Forwarded-Host header</a>
 
 <a href="https://hackerone.com/reports/928255">-Ability To Delete User(s) Account Without User Interaction</a>
 
@@ -197,6 +193,10 @@
 <a href="https://blog.assetnote.io/2021/08/29/exploiting-graphql/">-Exploiting GraphQL</a>
 
 <a href="https://hackerone.com/reports/1091303">-Low privilege user can read POS PINs via graphql and elevate his privilege</a>
+
+<a href="https://blog.doyensec.com/2021/05/20/graphql-csrf.html">-That single GraphQL issue that you keep missing</a>
+
+
 
 
 
@@ -219,6 +219,9 @@
 
 <a href="https://medium.com/@gonzalocarrascosec/fuzzing-idor-admin-takeover-5343bb8f436e">-Fuzzing + IDOR = Admin TakeOver</a>
 
+<a href="https://infosecwriteups.com/how-i-was-able-to-takeover-accounts-in-websites-deal-with-github-as-a-sso-provider-294290358e0c">-How I was able to take over accounts in websites deal with Github as an SSO provider</a>
+
+<a href="https://r0ckinxj3.wordpress.com/2021/10/24/a-7500-google-sites-idor/">-A 7500$ Google sites IDOR</a>
 
 
 
@@ -228,15 +231,29 @@
 
 ## Injection Issues / Bugs
 
+<a href="https://hackerone.com/reports/1196124">-Regular Expression Injection</a>
+
+
 <a href="https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way">Finding DOM Polyglot XSS in PayPal the Easy Way </a>
 
 <a href="https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645">-XSS with Markdown — Exploit & Fix on OpenSource</a>
+
+<a href="https://portswigger.net/daily-swig/email-platform-zimbra-issues-hotfix-for-xss-vulnerability-under-active-exploitation">-Email platform Zimbra issues hotfix for XSS vulnerability under active exploitation</a>
+
+<a href="https://hackerone.com/reports/1196958">-Clipboard DOM-based XSS</a>
+
+<a href="https://0u.ma/5">-Cache Poisoning via SelfXSS + Path Parameter</a>
+
+<a href="https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254">-XSS via X-Forwarded-Host header</a>
 
 
 
 ## Insecure Design 
 
 <a href="https://ahmed8magdy.medium.com/file-upload-to-rce-538bb4128062">-File Upload to RCE</a>
+
+<a href="https://hosein-vita.medium.com/laravel-8-x-image-upload-bypass-zero-day-852bd806019b">-Laravel 8.x image upload bypass</a>
+
 
 <a href="https://medium.com/@bxmbn/how-i-made-15-000-by-hacking-caching-servers-part-1-5541712a61c3">-How I Made $16,500 Hacking CDN Caching Servers — Part 1</a>
 
@@ -260,6 +277,13 @@
 
 <a href="https://notifybugme.medium.com/exploiting-s3-bucket-with-path-folder-to-access-pii-info-of-a-bank-91d8563cb45">-Exploiting S3 bucket with path folder to Access PII info of A BANK</a>
 
+<a href="https://z3r0tru5t.medium.com/open-redirect-to-account-takeover-f1405cbdf2d">-Open Redirect to Account Takeover</a>  
+
+<a href="http://ysamm.com/?p=629">-Enumerate internal cached URLs which lead to data exposure</a>
+
+<a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
+
+
 
 
 
@@ -271,6 +295,9 @@
 <a href="https://hackerone.com/reports/921780">-Improper Authentication - any user can login as other user with otp/logout & otp/login</a>
 
 <a href="https://rammk01.medium.com/bypassed-the-subscription-and-got-the-certification-27c571c2f383">-Bypassed the subscription and got the certification</a>
+
+<a href="https://vaibhavgaikwad1712.medium.com/2fa-bypass-using-response-manipulation-29d6c2583936">-2fa Bypass Using Response Manipulation</a>
+
 
 
 
@@ -286,6 +313,9 @@
 <a href="https://blog.deesee.xyz/fuzzing/security/2021/02/26/ssrf-bypassing-hostname-restrictions-fuzzing.html">-SSRF: Bypassing hostname restrictions with fuzzing</a>
 
 <a href="https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530">-Just Gopher It: Escalating a Blind SSRF to RCE for $15k</a>
+
+<a href="https://coffeejunkiee.github.io//Simple-SSRF/">-Simple SSRF Allows Access To Internal Assets</a>
+
 
 
 # Android Application Testing (Methods + Tools)
