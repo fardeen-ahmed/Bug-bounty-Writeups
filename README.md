@@ -671,6 +671,8 @@ gron transforms JSON into discrete assignments to make it easier to grep for wha
   
 <a href="https://snapsec.co/blog/2021/09/25/Attacking-Access-Control-Models-In-Modern-Web-Applications.html">-Attacking Access Control Models In Modern Web Applications</a>
   
+<a href="https://medium.com/@fatnassifiras45/a-tale-of-0-click-account-takeover-and-2fa-bypass-b369cd70e42f">-A tale of 0-Click Account Takeover and 2FA Bypass</a>
+  
 <a href="https://medium.com/cider-sec/ppe-poisoned-pipeline-execution-34f4e8d0d4e9">-PPE — Poisoned Pipeline Execution Running malicious code in your CI, without access to your CI</a>
   
 <a href="https://youst.in/posts/cache-poisoning-at-scale/">-Cache Poisoning at Scale</a>
