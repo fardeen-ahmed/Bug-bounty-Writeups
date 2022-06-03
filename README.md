@@ -225,6 +225,14 @@
 
 <a href="https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490">-IDOR leads to leak Private Details</a>
 
+<a href="https://bhansalipratish.medium.com/how-i-found-my-first-bug-idor-9c4e52584454">-How I found my first bug (IDOR)</a>
+
+<a href="https://adityashende17.medium.com/idor-to-information-disclosure-admin-account-takeover-6aa96798c70b">-IDOR to information disclosure + Admin Account Takeover</a>  
+
+<a href="https://encodedguy.medium.com/600-for-idor-file-or-folder-download-243166452dad">-$600 for IDOR (File or Folder Download)</a>
+
+<a href="https://amit-lt.medium.com/a-story-of-idor-which-leads-to-privacy-violation-78c1b4c710fb">-A Story of IDOR which leads to privacy violation…$$$</a>
+
 
 
 
@@ -232,6 +240,8 @@
 ## Cryptographic Issues / Bugs
 
 ## Injection Issues / Bugs
+
+<a href="https://m7-arman.medium.com/host-header-injection-lead-to-account-takeover-2f025a645d13">-Host Header Injection Lead To Account Takeover</a>
 
 <a href="https://hackerone.com/reports/1196124">-Regular Expression Injection</a>
 
@@ -255,11 +265,23 @@
 
 <a href="https://hackerone.com/reports/977697">-Stored-XSS in merge requests</a>
 
+<a href="https://svennergr.github.io/writeups/google/ads_dom_xss/">-Stumbling across a DOM XSS on google.com</a>
+
+<a href="https://threatpost.com/xss-bug-seopress-wordpress-plugin/168702/">-XSS Bug in SEOPress WordPress Plugin Allows Site Takeover</a>
+
+<a href="https://medium.com/tenable-techblog/stored-xss-to-rce-chain-as-system-in-manageengine-servicedesk-plus-493c10f3e444">-Stored XSS to RCE Chain as SYSTEM in ManageEngine ServiceDesk Plus</a>
 
 
 <a href="https://jasminderpalsingh.info/stored-xss-in-google-doubleclick-studio-google-research-grant/">-Stored XSS in Google Doubleclick Studio</a>
 
 <a href="https://0xkasper.com/articles/moodle-sql-injection-broken-access-control">-Moodle: Blind SQL Injection (CVE-2021-36393) and Broken Access Control (CVE-2021-36397)</a>
+
+<a href="https://blog.sonarsource.com/wordpress-stored-xss-vulnerability">-WordPress 5.8.2 Stored XSS Vulnerability</a>
+
+<a href="https://sapt.medium.com/stored-xss-non-privileged-user-to-anyone-using-qr-code-dfeb0bd98a5">-Stored XSS: Non-Privileged User to Anyone Using QR Code</a>
+
+
+<a href="https://github.com/lleavesl/CVE-2021-26084">-CVE-2021-26084，Atlassian Confluence OGNL</a>
 
 
 
@@ -267,6 +289,10 @@
 ## Insecure Design 
 
 <a href="https://ahmed8magdy.medium.com/file-upload-to-rce-538bb4128062">-File Upload to RCE</a>
+
+<a href="https://sm4rty.medium.com/hunting-for-bugs-in-file-upload-feature-c3b364fb01ba">-Hunting for Bugs in File Upload Feature</a>
+
+
 
 <a href="https://hosein-vita.medium.com/laravel-8-x-image-upload-bypass-zero-day-852bd806019b">-Laravel 8.x image upload bypass</a>
 
@@ -282,7 +308,7 @@
 
 ## Security Misconfiguration
 
-<a ref="https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c">-How I hacked thousand of subdomains</a>
+<a href="https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c">-How I hacked thousand of subdomains</a>
 
 <a href="https://github.com/WeAreCloudar/s3-account-search">-S3 Account Search</a>
 
@@ -291,6 +317,17 @@
 <a href="https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc">-Common Nginx Misconfiguration leads to Path Traversal</a>
 
 <a href="https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/">-How to exploit insecure WebResourceResponse configurations + an example vulnerability in Amazon apps</a>
+
+<a href="https://jub0bs.com/posts/2022-02-08-cve-2022-21703-writeup/">-CVE-2022-21703: cross-origin request forgery against Grafana</a>
+
+<a href="https://apapedulimu.click/story-of-idor-on-google-product/">-2 CSRF 1 IDOR on Google Marketing Platform</a>
+
+<a href="https://hackerone.com/reports/1102764">-Lack of URL normalization renders Blocked-Previews feature ineffectual</a>
+
+<a href="https://hackerone.com/reports/1122408">-CSRF on /api/graphql allows executing mutations through GET requests</a>
+
+<a href="https://blog.niksthehacker.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1">-XXE in Public Transport Ticketing Mobile APP</a>
+
 
 <a href="https://hackerone.com/reports/1104874">-Basecamp disclosed on HackerOne: Insecure Bundler configuration</a>
 
@@ -302,8 +339,12 @@
 
 <a href="http://ysamm.com/?p=625">-Open redirect in Instagram.com ($500)</a>
 
+<a href="https://medium.com/@Bhichher/open-redirect-vulnerability-some-common-payloads-fd1dcd73541c">-Open Redirect Vulnerability & Some Common Payloads</a>
+
+
 <a href="https://blog.appsecco.com/exploiting-weak-configurations-in-google-identity-platform-cbddbd0e71e3">-Exploiting weak configurations in Google Cloud Identity Platform</a>
 
+<a href="https://blog.wpsec.com/wordpress-xxe-in-media-library-cve-2021-29447/">-WordPress XXE Vulnerability in Media Library – CVE-2021-29447 </a>
 
 
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
@@ -324,7 +365,6 @@
 
 <a href="https://medium.com/@TutorialBoy24/a-summary-of-oauth-2-0-attack-methods-36834805c631">-A Summary of OAuth 2.0 Attack Methods</a>
 
-
 <a href="https://rammk01.medium.com/bypassed-the-subscription-and-got-the-certification-27c571c2f383">-Bypassed the subscription and got the certification</a>
 
 <a href="https://vaibhavgaikwad1712.medium.com/2fa-bypass-using-response-manipulation-29d6c2583936">-2fa Bypass Using Response Manipulation</a>
@@ -335,6 +375,11 @@
 
 <a href="https://hackerone.com/reports/1245762">-Account Takeover via SMS Authentication Flow</a>
 
+<a href="https://aravind07.medium.com/bypassing-login-page-in-2-mins-5b773d46f4d">-Bypassing Login Page in 2 Mins</a>
+
+<a href="https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/">-Pre-Auth RCE in Moodle Part I - PHP Object Injection in Shibboleth Module</a>
+
+<a href="https://haxolot.com/posts/2022/moodle_pre_auth_shibboleth_rce_part2/">-Pre-Auth RCE in Moodle Part II - Session Hijack in Moodle's Shibboleth</a>
 
 
 
@@ -352,6 +397,31 @@
 <a href="https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530">-Just Gopher It: Escalating a Blind SSRF to RCE for $15k</a>
 
 <a href="https://coffeejunkiee.github.io//Simple-SSRF/">-Simple SSRF Allows Access To Internal Assets</a>
+
+<a href="https://hackerone.com/reports/1092230">-FogBugz import attachment full SSRF requiring vulnerability </a>
+
+<a href="https://twitter.com/infosec_au/status/1434328794861432834">-Updated the Blind SSRF Glossary for a list of payloads that call back to an SSRF canary for the Confluence OGNL injection RCE</a>
+
+<a href="https://hoyahaxa.blogspot.com/2021/04/ssrf-in-coldfusioncfml-tags-and.html">-SSRF in ColdFusion/CFML Tags and Functions</a>
+
+<a href="https://blog.assetnote.io/2022/01/17/workspace-one-access-ssrf/">-Stealing administrative JWT's through post auth SSRF (CVE-2021-22056)</a>
+
+<a href="https://pwn.vg/articles/2021-05/ssrf-in-pdf-renderer-using-svg">-SSRF in PDF Renderer using SVG</a>
+
+<a href="https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/">-Turning bad SSRF to good SSRF: Websphere Portal</a>
+
+<a href="https://hackerone.com/reports/941178">-SSRF for kube-apiserver cloudprovider scene</a>
+
+<a href="https://hackerone.com/reports/1189367">-Full read SSRF in www.evernote.com that can leak aws metadata and local file inclusion</a>
+
+<a href="https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read/">-SSRF in PDF export with PhantomJs </a>
+
+<a href="https://portswigger.net/daily-swig/java-rmi-services-often-vulnerable-to-ssrf-attacks-research">-Java RMI services often vulnerable to SSRF attacks – research</a>
+
+<a href="https://xelkomy.medium.com/easy-ssrf-from-wayback-machine-edf946486120">-Easy SSRF from Wayback Machine</a>
+
+
+
 
 
 
@@ -374,6 +444,9 @@
 # Guide To Penetration Testing tools (Beginner + Intermediate + Advanced tools and techniques)
 
 <a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">-Top 10 Tips for Burp Suite</a>
+
+<a href="https://medium.com/mii-cybersec/burp-suite-extensions-rarely-utilized-but-quite-useful-8d57c5a3a06b">-Burp Suite Extensions: Rarely Utilized but Quite Useful</a>
+
 
 <a href="https://www.pentagrid.ch/en/blog/burp-suite-hackvertor-custom-tags-email-sms-tan-multi-factor-authentication/">-Burp Suite - solving E-mail and SMS TAN multi-factor authentication with Hackvertor custom tags</a>
 
