@@ -59,6 +59,10 @@
 
 <a href="https://github.com/xerohackcom/webrecon">-Webrecon : Automated Web Recon Shell Scripts</a>
 
+<a href="https://danielmiessler.com/study/ffuf/">-A ffuf Primer</a>
+
+<a href="https://github.com/Josue87/gotator">-Gotator is a tool to generate DNS wordlists through permutations.</a>
+
 <a href="https://github.com/michelin/ChopChop">-ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders</a>
 
 <a href="https://portswigger.net/daily-swig/latest-web-hacking-tools-q3-2021">-Latest web hacking tools – Q3 2021</a>
@@ -83,6 +87,9 @@
 
 <a href="https://github.com/whwlsfb/Log4j2Scan">-Log4j2 RCE Passive Scanner plugin for BurpSuite</a>
 
+<a href="https://github.com/redcode-labs/UnChain">-A tool to find redirection chains in multiple URLs</a>
+
+
 <a href="https://github.com/morphean-sec/secure-smart-contract-design-principles">-Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts.</a>
 
 <a href="https://portswigger.net/daily-swig/teen-hacker-scoops-4-500-bug-bounty-for-facebook-flaw-that-allowed-attackers-to-unmask-page-admins">-Teen hacker scoops $4,500 bug bounty for Facebook flaw that allowed attackers to unmask page admins</a>
@@ -97,7 +104,7 @@
 
 <a href="https://xkurtph.medium.com/shopify-plugin-bypass-using-client-side-injection-thru-api-implementation-vulnerability-710d25105c8f">-Shopify Plugin Bypass using P3 Client-side injection thru API Implementation Vulnerability</a>
 
-<a href="https://ahmdhalabi.medium.com/ultimate-reconnaissance-roadmap-for-bug-bounty-hunters-pentesters-507c9a5374d">-Ultimate Reconnaissance RoadMap for Bug Bounty Hunters & Pentesters</a>
+<a href="https://github.com/aquasecurity/trivy">-A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI</a>
 
 <a href="https://github.com/honoki/bugbounty-openvpn-socks">-Run all your bug bounty VPN profiles in parallel and expose them via multiple local SOCKS proxies.</a>
 
@@ -137,6 +144,9 @@
 
 <a href="https://github.com/hahwul/gee">-Gee is tool of stdin to each files and stdout. It is similar to the tee command, but there are more functions for convenience. In addition, it was written as go</a>
 
+<a href="https://github.com/codingo/bbr">-bbr is an open source tool to aid in command line driven generation of bug bounty reports based on user provided templates.</a>
+
+
 <a href="https://github.com/dwisiswant0/go-dork">-Go Dork. The fastest dork scanner written in Go</a>
 
 <a href="https://github.com/google/clusterfuzzlite">-ClusterFuzzLite - Simple continuous fuzzing that runs in CI</a>
@@ -153,6 +163,9 @@
 
 <a href="https://github.com/dwisiswant0/ppfuzz?tag=v1.0.0">-Prototype Pollution Fuzzer</a>
 
+<a href="https://github.com/projectdiscovery/cloudlist">-Cloudlist is a tool for listing Assets from multiple Cloud Providers</a>
+
+
 <a href="https://github.com/as0ler/r2flutch">-r2flutch - tool to decrypt iOS apps using r2frida</a>
 
 # General Writeups
@@ -162,6 +175,9 @@
 <a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">-Top 10 Tips for Burp Suite</a>
 
 <a href="https://labs.detectify.com/2021/09/30/10-types-web-vulnerabilities-often-missed/">-10 Types of Web Vulnerabilities that are Often Missed</a>
+
+<a href="https://ahmdhalabi.medium.com/ultimate-reconnaissance-roadmap-for-bug-bounty-hunters-pentesters-507c9a5374d">-Ultimate Reconnaissance RoadMap for Bug Bounty Hunters & Pentesters</a>
+
 
 
 
@@ -177,11 +193,19 @@
 
 ## Security Misconfiguration
 
+<a ref="https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c">-How I hacked thousand of subdomains</a>
+
+<a href="https://github.com/WeAreCloudar/s3-account-search">-S3 Account Search</a>
+
+
+
 ## Vulnerable and Outdated Components
 
 ## Identification and Authentication Issues / Bugs
 
 <a href="https://hackerone.com/reports/921780">-Improper Authentication - any user can login as other user with otp/logout & otp/login</a>
+
+
 
 
 ## Software and Data Integrity Failure
@@ -197,5 +221,38 @@
 # Android Application Testing (Methods + Tools)
 
 <a href="https://www.hackingarticles.in/android-penetration-testing-frida/">-Android Penetration Testing: Frida </a>
+
+<a href="https://github.com/cyberheartmi9/Frida-Guide/blob/main/Frida%20Guide/Frida%20Guide.md">-How to Write Frida Hook For Android</a>
+
+
+# Guide To Penetration Testing tools (Beginner + Intermediate + Advanced tools and techniques)
+
+<a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">-Top 10 Tips for Burp Suite</a>
+
+<a href="https://www.pentagrid.ch/en/blog/burp-suite-hackvertor-custom-tags-email-sms-tan-multi-factor-authentication/">-Burp Suite - solving E-mail and SMS TAN multi-factor authentication with Hackvertor custom tags</a>
+
+<a href="https://research.nccgroup.com/2020/12/08/tool-release-httpsignatures-a-burp-suite-extension-implementing-http-signatures/">-HTTP Signatures: A Burp Suite Extension Implementing HTTP Signatures</a>
+
+<a href="https://portswigger.net/blog/burp-suite-roadmap-for-2021">-Burp Suite roadmap for 2021</a>
+
+<a href="https://portswigger.net/blog/browser-powered-scanning-in-burp-suite">-Browser powered scanning in Burp Suite</a>
+
+
+
+
+<a href="https://hogarth45.medium.com/using-intruder-to-authorization-headers-161fd873824a">-Using Intruder to Brute Force Authorization Header</a>
+
+<a href="https://github.com/gh0stkey/CaA">-CaA - BurpSuite Collector and Analyzer </a>
+
+<a href="https://github.com/sh1yo/x8">-x8 Hidden parameters discovery suite</a>
+
+<a href="https://kathanp19.medium.com/params-discovering-hidden-treasure-in-webapps-b4a78509290f">-Params — Discovering Hidden Treasure in WebApps</a>
+
+<a href="https://github.com/Ge0rg3/requests-ip-rotator">-A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.</a>
+
+<a href="https://github.com/tomnomnom/gron">-Make JSON greppable! gron transforms JSON into discrete assignments to make it easier to grep for what you want and see the absolute 'path' to it.</a>
+
+
+
 
 
