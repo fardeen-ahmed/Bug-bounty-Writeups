@@ -44,6 +44,8 @@
 
 <a href="https://googleprojectzero.blogspot.com/2021/04/designing-sockfuzzer-network-syscall.html">-Designing sockfuzzer, a network syscall fuzzer for XNU</a>
 
+<a href="https://github.com/kosmosec/proto-find">-Proto Find. Let's check if your target is vulnerable for client side prototype pollution</a>
+
 <a href="https://github.com/KathanP19/protoscan">-Prototype Pollution Scanner made in Golang</a>
 
 <a href="https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques">-New differential fuzzing tool reveals novel HTTP request smuggling techniques</a>
@@ -74,6 +76,8 @@
 
 <a href="https://github.com/roottusk/vapi">-vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises.</a>
 
+<a href="https://gitlab.com/shodan-public/nrich">-nrich - A command-line tool to quickly analyze all IPs in a file and see which ones have open ports/ vulnerabilities. Can also be fed data from stdin to be used in a data pipeline.</a>
+
 <a href="https://thexssrat.medium.com/what-the-fuzz-the-truth-behind-content-discovery-77cd0c0756e7">-What the fuzz?! — The truth behind content discovery</a>
 
 <a href="https://blog.intigriti.com/2022/02/01/hacker-tools-meg/">-Meg – Hacker Tools: Endpoint scan the masses! </a>
@@ -87,6 +91,8 @@
 <a href="https://spaceraccoon.github.io/webpack-exploder/">-Webpack Exploder : Unpack the source code of React and other Webpacked Javascript apps! Check out Expanding the Attack Surface</a>
 
 <a href="https://github.com/DigeeX/raider">-Raider - Web authentication testing framework</a>
+
+<a href="https://github.com/gokulapap/Reconator">-Reconator - Automated Recon for Pentesting & Bug Bounty</a>
 
 <a href="https://github.com/whwlsfb/Log4j2Scan">-Log4j2 RCE Passive Scanner plugin for BurpSuite</a>
 
@@ -233,6 +239,8 @@
 
 <a href="https://amit-lt.medium.com/a-story-of-idor-which-leads-to-privacy-violation-78c1b4c710fb">-A Story of IDOR which leads to privacy violation…$$$</a>
 
+<a href="https://junoonbro.medium.com/how-i-earned-9000-with-privilege-escalations-b187d1f8f4fe">-How I earned $9000 with Privilege escalations</a>
+
 
 
 
@@ -276,6 +284,8 @@
 
 <a href="https://0xkasper.com/articles/moodle-sql-injection-broken-access-control">-Moodle: Blind SQL Injection (CVE-2021-36393) and Broken Access Control (CVE-2021-36397)</a>
 
+<a href="https://flattsecurity.medium.com/finding-an-unseen-sql-injection-by-bypassing-escape-functions-in-mysqljs-mysql-90b27f6542b4">-Finding an unseen SQL Injection by bypassing escape functions in mysqljs/mysql</a>
+
 <a href="https://blog.sonarsource.com/wordpress-stored-xss-vulnerability">-WordPress 5.8.2 Stored XSS Vulnerability</a>
 
 <a href="https://sapt.medium.com/stored-xss-non-privileged-user-to-anyone-using-qr-code-dfeb0bd98a5">-Stored XSS: Non-Privileged User to Anyone Using QR Code</a>
@@ -304,6 +314,8 @@
 <a href="https://medium.com/@bxmbn/how-i-made-16-500-hacking-cdn-caching-servers-part-3-91f9d836e046">-How I Made $16,500 Hacking CDN Caching Servers — Part 3</a>
 
 <a href="https://hackerone.com/reports/170552">-Slack integration setup lacks CSRF protection</a>
+
+<a href="https://elinfosec.com/2022/my-first-report-on-hackerone-a-logic-flaw-in-npm/">-My first report on HackerOne: A logic flaw in npm</a>
 
 
 ## Security Misconfiguration
@@ -358,6 +370,7 @@
 
 
 ## Vulnerable and Outdated Components
+<a href="https://blog.sonarsource.com/zabbix-case-study-of-unsafe-session-storage">-Zabbix - A Case Study of Unsafe Session Storage </a>
 
 ## Identification and Authentication Issues / Bugs
 
@@ -438,6 +451,9 @@
 
 <a href="https://www.hebunilhanli.com/wonderland/mobile-security/android-component-security/">-Android Component Security</a>
 
+<a href="https://github.com/gokulapap/Reconator">-Reconator - Automated Recon for Pentesting & Bug Bounty</a>
+
+
 
 
 
@@ -476,6 +492,10 @@
 
 <a href="https://medium.com/csg-govtech/lifes-a-peach-fuzzer-how-to-build-and-use-gitlab-s-open-source-protocol-fuzzer-fd78c9caf05e">-Life’s a Peach (Fuzzer) How to Build and Use GitLab’s Open-Source Protocol Fuzzer</a>
 
+# API Vulnerability Testing 
+<a href="https://monke.ie/api-vulns-casestudy/">-A Case Study of API Vulnerabilities</a>
 
 
+# Cheat-Sheets for Cybersecurity 
+<a href="https://ozguralp.medium.com/bigquery-sql-injection-cheat-sheet-65ad70e11eac">-BigQuery SQL Injection Cheat Sheet</a>
 
