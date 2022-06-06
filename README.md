@@ -9,6 +9,8 @@
 
 <A href="https://github.com/mdsecresearch/BurpSuiteSharpener">-Extension should add a number of UI and functional features to Burp Suite to make working with it easier</a>
 
+<a href="https://github.com/m8r0wn/taser">-Taser : Python3 resource library for creating security related tooling</a>
+
 <a href="https://github.com/tristanlatr/burpa">-Burp Automator - A Burp Suite Automation Tool. It provides a high level CLI and Python interfaces to Burp Suite scanner and can be used to setup Dynamic Application Security Testing (DAST)</a>
 
 <a href="https://medium.com/@kaorrosi/osint-research-with-recon-ng-727661a70ea4">-OSINT Research With Recon-ng</a>
@@ -208,6 +210,8 @@
 
 <a href="https://blog.doyensec.com/2021/05/20/graphql-csrf.html">-That single GraphQL issue that you keep missing</a>
 
+<a href="https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/">-CVE-2021-4191: GitLab GraphQL API User Enumeration (FIXED)</a>
+
 
 
 
@@ -251,6 +255,8 @@
 <a href="https://hackerone.com/reports/1372216">-IDOR in "external status check" API leaks data about any status check on the instance</a>
 
 <a href="https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad">-4300$ Instagram IDOR Bug (2022)</a>
+
+<a href="https://snapsec.co/blog/CORS-Misconfigrations/">-CORS Misconfigurations</a>
 
 
 
@@ -303,6 +309,8 @@
 
 
 <a href="https://github.com/lleavesl/CVE-2021-26084">-CVE-2021-26084，Atlassian Confluence OGNL</a>
+
+<a href="https://hackerone.com/reports/1424094">-Web Cache Poisoning leads to Stored XSS</a>
 
 
 
