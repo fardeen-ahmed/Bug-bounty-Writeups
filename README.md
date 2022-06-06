@@ -58,6 +58,8 @@
 
 <a href="https://www.revshells.com/">-Online - Reverse Shell Generator</a>
 
+<a href="https://github.com/carlospolop/PurplePanda">-PurplePanda : Identify privilege escalation paths within and across different clouds</a>
+
 <a href="https://github.com/ethicalhackingplayground/TProxer">-A Burp Suite extension made to automate the process of finding reverse proxy path based SSRF</a>
 
 <a href="https://github.com/PalindromeLabs/STEWS">-STEWS is a tool suite for security testing of WebSockets</a>
@@ -75,6 +77,8 @@
 <a href="https://iosiro.com/blog/baserunner-exploiting-firebase-datastores">-Introducing Baserunner: a tool for exploring and exploiting Firebase datastores</a>
 
 <a href="https://github.com/roottusk/vapi">-vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises.</a>
+
+<a href="https://blog.intigriti.com/2022/03/01/hacker-tools-turbo-intruder/">-Turbo Intruder – Hacker Tools: Going faster than ever!</a>
 
 <a href="https://gitlab.com/shodan-public/nrich">-nrich - A command-line tool to quickly analyze all IPs in a file and see which ones have open ports/ vulnerabilities. Can also be fed data from stdin to be used in a data pipeline.</a>
 
@@ -158,6 +162,8 @@
 
 <a href="https://github.com/dwisiswant0/go-dork">-Go Dork. The fastest dork scanner written in Go</a>
 
+<a href="https://github.com/s0md3v/uro">-uro - declutters url lists for crawling/pentesting</a>
+
 <a href="https://github.com/google/clusterfuzzlite">-ClusterFuzzLite - Simple continuous fuzzing that runs in CI</a>
 
 <a href="https://blog.grimm-co.com/2021/11/escalating-xss-to-sainthood-with-nagios.html">-Escalating XSS to Sainthood with Nagios</a>
@@ -210,7 +216,6 @@
 
 
 
-
 # OWASP Top 10 Web-Application Issues (Updated)
 
 ## Broken Access Control
@@ -241,7 +246,11 @@
 
 <a href="https://junoonbro.medium.com/how-i-earned-9000-with-privilege-escalations-b187d1f8f4fe">-How I earned $9000 with Privilege escalations</a>
 
+<a href="https://psfauzi.medium.com/how-i-get-1350-from-idor-just-less-1-hours-7496bab1a914">-How I Get $1350 From IDOR Just Less 1 hours</a>
 
+<a href="https://hackerone.com/reports/1372216">-IDOR in "external status check" API leaks data about any status check on the instance</a>
+
+<a href="https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad">-4300$ Instagram IDOR Bug (2022)</a>
 
 
 
@@ -288,6 +297,8 @@
 
 <a href="https://blog.sonarsource.com/wordpress-stored-xss-vulnerability">-WordPress 5.8.2 Stored XSS Vulnerability</a>
 
+<a href="https://octagon.net/blog/2022/03/02/apache-jspwiki-preauth-xss-to-ato/">-CVE-2022-24948: Apache JSPWiki preauth Stored XSS to ATO</a>
+
 <a href="https://sapt.medium.com/stored-xss-non-privileged-user-to-anyone-using-qr-code-dfeb0bd98a5">-Stored XSS: Non-Privileged User to Anyone Using QR Code</a>
 
 
@@ -302,6 +313,8 @@
 
 <a href="https://sm4rty.medium.com/hunting-for-bugs-in-file-upload-feature-c3b364fb01ba">-Hunting for Bugs in File Upload Feature</a>
 
+<a href="https://amakki.me/how-i-made-15k-from-remote-code-execution-vulnerability-2e1b14b3902a">-How i made 15k$ from Remote Code Execution Vulnerability</a>
+
 
 
 <a href="https://hosein-vita.medium.com/laravel-8-x-image-upload-bypass-zero-day-852bd806019b">-Laravel 8.x image upload bypass</a>
@@ -312,6 +325,10 @@
 <a href="https://medium.com/@bxmbn/how-i-made-16-500-hacking-cdn-caching-servers-part-2-4995ece4c6e6">-How I Made $16,500 Hacking CDN Caching Servers — Part 2</a>
 
 <a href="https://medium.com/@bxmbn/how-i-made-16-500-hacking-cdn-caching-servers-part-3-91f9d836e046">-How I Made $16,500 Hacking CDN Caching Servers — Part 3</a>
+
+<a href="https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-i-submitting-i-d-da78142f032d">-Bypassing default visibility for newly-added email in Facebook(Part I - Submitting I.D)</a>
+
+<a href="https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-ii-trusted-contacts-36176eeb103">-Bypassing default visibility for newly-added email in Facebook(Part II - Trusted Contacts)</a>
 
 <a href="https://hackerone.com/reports/170552">-Slack integration setup lacks CSRF protection</a>
 
@@ -372,6 +389,10 @@
 ## Vulnerable and Outdated Components
 <a href="https://blog.sonarsource.com/zabbix-case-study-of-unsafe-session-storage">-Zabbix - A Case Study of Unsafe Session Storage </a>
 
+<a href="https://blog.assetnote.io/2022/02/20/logicflaw-dynamicweb-rce/">-Logic Flaw Leading to RCE in Dynamicweb 9.5.0 - 9.12.7</a>
+
+<a href="https://www.cyberkl.com/cvelist/cvedetail/24">-Writeup for an iOS 15 exploit that can achieve kernel</a>
+
 ## Identification and Authentication Issues / Bugs
 
 <a href="https://hackerone.com/reports/921780">-Improper Authentication - any user can login as other user with otp/logout & otp/login</a>
@@ -398,6 +419,8 @@
 
 
 ## Software and Data Integrity Failure
+
+<a href="https://blog.dixitaditya.com/pwning-a-server-using-markdown">-Pwning a Server using Markdown</a>
 
 ## Security Logging and Monitoring
 
@@ -432,6 +455,8 @@
 <a href="https://portswigger.net/daily-swig/java-rmi-services-often-vulnerable-to-ssrf-attacks-research">-Java RMI services often vulnerable to SSRF attacks – research</a>
 
 <a href="https://xelkomy.medium.com/easy-ssrf-from-wayback-machine-edf946486120">-Easy SSRF from Wayback Machine</a>
+
+<a href="https://medium.com/@raymond-lind/ssrf-lfi-in-uploads-feature-321d83b93ec0">-SSRF & LFI In Uploads Feature</a>
 
 
 
