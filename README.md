@@ -197,6 +197,8 @@
 
 <a href="https://chaosdb.wiz.io/">-Critical Vulnerability in Microsoft Azure Cosmos DB</a>
 
+<a href="https://medium.com/@amnotacat/log4shell-in-google-1337-00-144684269bf8">-Log4shell in google $1337.00 </a>
+
 
 
 <a href="https://hackerone.com/reports/928255">-Ability To Delete User(s) Account Without User Interaction</a>
@@ -256,6 +258,10 @@
 
 <a href="https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad">-4300$ Instagram IDOR Bug (2022)</a>
 
+<a hre="https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-users-account-on-a-major-telecoms-website-2cd5aa43e3d6">-How I was able to takeover any users account on a major telecoms website</a>
+
+<a href="https://aidilarf.medium.com/idor-via-get-request-which-can-sold-all-user-products-2f5bc3ea1650">-IDOR via GET Request which can SOLD all User Products</a>
+
 <a href="https://snapsec.co/blog/CORS-Misconfigrations/">-CORS Misconfigurations</a>
 
 
@@ -288,16 +294,22 @@
 
 <a href="https://hackerone.com/reports/977697">-Stored-XSS in merge requests</a>
 
+<a href="https://apth3hack3r.medium.com/xss-through-base64-encoded-json-4b0d96e5ccd4">-XSS through base64 encoded JSON </a>
+
 <a href="https://svennergr.github.io/writeups/google/ads_dom_xss/">-Stumbling across a DOM XSS on google.com</a>
 
 <a href="https://threatpost.com/xss-bug-seopress-wordpress-plugin/168702/">-XSS Bug in SEOPress WordPress Plugin Allows Site Takeover</a>
 
 <a href="https://medium.com/tenable-techblog/stored-xss-to-rce-chain-as-system-in-manageengine-servicedesk-plus-493c10f3e444">-Stored XSS to RCE Chain as SYSTEM in ManageEngine ServiceDesk Plus</a>
 
+<a href="https://hackerone.com/reports/1504410">-XSS via Mod Log Removed Post</a>
+
 
 <a href="https://jasminderpalsingh.info/stored-xss-in-google-doubleclick-studio-google-research-grant/">-Stored XSS in Google Doubleclick Studio</a>
 
 <a href="https://0xkasper.com/articles/moodle-sql-injection-broken-access-control">-Moodle: Blind SQL Injection (CVE-2021-36393) and Broken Access Control (CVE-2021-36397)</a>
+
+<a href="https://eslam3kl.medium.com/sql-injection-at-spotify-d19e0861ddf0">-SQL Injection at Spotify</a>
 
 <a href="https://flattsecurity.medium.com/finding-an-unseen-sql-injection-by-bypassing-escape-functions-in-mysqljs-mysql-90b27f6542b4">-Finding an unseen SQL Injection by bypassing escape functions in mysqljs/mysql</a>
 
@@ -355,6 +367,8 @@
 
 <a href="https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/">-How to exploit insecure WebResourceResponse configurations + an example vulnerability in Amazon apps</a>
 
+<a href="https://www.hackerone.com/best-practices/preventing-compromised-password-reuse-hackeronecom">-Preventing compromised password reuse on HackerOne.com </a>
+
 <a href="https://jub0bs.com/posts/2022-02-08-cve-2022-21703-writeup/">-CVE-2022-21703: cross-origin request forgery against Grafana</a>
 
 <a href="https://apapedulimu.click/story-of-idor-on-google-product/">-2 CSRF 1 IDOR on Google Marketing Platform</a>
@@ -364,6 +378,10 @@
 <a href="https://hackerone.com/reports/1122408">-CSRF on /api/graphql allows executing mutations through GET requests</a>
 
 <a href="https://blog.niksthehacker.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1">-XXE in Public Transport Ticketing Mobile APP</a>
+
+<a href="https://medium.com/@botami143/i-have-found-microsoft-subdomain-website-database-list-database-username-password-1dab07d0c8ea">-I have Found Microsoft Subdomain Website database list, database username, password </a>
+
+<a href="https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf">-Demographic Misconfiguration on Facebook live </a>
 
 
 <a href="https://hackerone.com/reports/1104874">-Basecamp disclosed on HackerOne: Insecure Bundler configuration</a>
@@ -400,6 +418,7 @@
 <a href="https://blog.assetnote.io/2022/02/20/logicflaw-dynamicweb-rce/">-Logic Flaw Leading to RCE in Dynamicweb 9.5.0 - 9.12.7</a>
 
 <a href="https://www.cyberkl.com/cvelist/cvedetail/24">-Writeup for an iOS 15 exploit that can achieve kernel</a>
+
 
 ## Identification and Authentication Issues / Bugs
 
@@ -467,6 +486,13 @@
 <a href="https://medium.com/@raymond-lind/ssrf-lfi-in-uploads-feature-321d83b93ec0">-SSRF & LFI In Uploads Feature</a>
 
 
+# Chained Issues / Chained Bugs : 
+<a href="https://medium.com/@tushar.tilak.sharma/a-tale-of-open-redirection-to-stored-xss-6ad426ae9d43">-A Tale of Open Redirection to Stored XSS</a>
+
+<a href="https://medium.com/@TutorialBoy24/the-story-of-3-bugs-that-lead-to-unauthorized-rce-pascom-systems-d2dcb0410f3b">-The story of 3 bugs that lead to Unauthorized RCE — Pascom Systems</a>
+
+
+
 
 
 
@@ -485,6 +511,11 @@
 <a href="https://www.hebunilhanli.com/wonderland/mobile-security/android-component-security/">-Android Component Security</a>
 
 <a href="https://github.com/gokulapap/Reconator">-Reconator - Automated Recon for Pentesting & Bug Bounty</a>
+
+
+# IOS Application Testing (Methods + Tools)
+
+<a href="https://martabyte.github.io/ios/hacking/2022/03/13/ios-hacking-en.html">-iOS Hacking - A Beginner's Guide to Hacking iOS Apps [2022 Edition]</a>
 
 
 
