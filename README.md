@@ -495,7 +495,7 @@
 
 <a href="https://hackerone.com/reports/941178">-SSRF for kube-apiserver cloudprovider scene</a>
 
-<a href="https://hackerone.com/reports/1189367">-Full read SSRF in www.evernote.com that can leak aws metadata and local file inclusion</a>
+<a href="https://hackerone.com/reports/1189367">-Full read SSRF that can leak aws metadata and local file inclusion (www.evernote.com )</a>
 
 <a href="https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read/">-SSRF in PDF export with PhantomJs </a>
 
