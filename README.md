@@ -37,6 +37,8 @@
 
 <a href="https://github.com/rotemreiss/uddup">-Urls de-duplication tool for better recon.</a>
 
+<a href="https://github.com/phith0n/zkar">-ZKar is a Java serialization protocol analysis tool implement in Go</a>
+
 
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
 
@@ -89,6 +91,8 @@
 <a href="https://blog.intigriti.com/2022/02/01/hacker-tools-meg/">-Meg – Hacker Tools: Endpoint scan the masses! </a>
 
 <a href="https://github.com/d3mondev/puredns">-PureDNS : Subdomain bruteforcing tool that improves massdns to accurately handle wildcard subdomains and DNS poisoning. </a>
+
+<a href="https://github.com/0xmoot/s3sec">-S3Sec - Check AWS S3 instances for read/write/delete access</a>
 
 <a href="https://securitytrails.com/blog/uniscan">-Uniscan: An RFI, LFI, and RCE Vulnerability Scanner</a>
 
@@ -199,6 +203,12 @@
 
 <a href="https://medium.com/@amnotacat/log4shell-in-google-1337-00-144684269bf8">-Log4shell in google $1337.00 </a>
 
+<a href="https://hackerone.com/reports/1377748">-2 click Remote Code execution in Evernote Android</a>
+
+<a href="https://github.com/chaosec2021/Spring-cloud-function-SpEL-RCE">-Spring cloud function SpEL RCE</a>
+
+<a href="https://blog.sonatype.com/new-0-day-spring-framework-vulnerability-confirmed">-New Spring Framework RCE  Vulnerability Confirmed - What to do?</a>
+
 
 
 <a href="https://hackerone.com/reports/928255">-Ability To Delete User(s) Account Without User Interaction</a>
@@ -280,6 +290,10 @@
 
 <a href="https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645">-XSS with Markdown — Exploit & Fix on OpenSource</a>
 
+<a href="https://portswigger.net/daily-swig/html-parser-bug-triggers-chromium-xss-security-flaw">-HTML parser bug triggers Chromium XSS security flaw</a>
+
+<a href="https://infosecwriteups.com/how-i-was-able-to-find-50-cross-site-scripting-xss-security-vulnerabilities-on-bugcrowd-public-ba33db2b0ab1">-How I was able to find 50+ Cross-site scripting (XSS) Security Vulnerabilities on Bugcrowd Public Program</a>
+
 <a href="https://portswigger.net/daily-swig/email-platform-zimbra-issues-hotfix-for-xss-vulnerability-under-active-exploitation">-Email platform Zimbra issues hotfix for XSS vulnerability under active exploitation</a>
 
 <a href="https://hackerone.com/reports/1196958">-Clipboard DOM-based XSS</a>
@@ -334,6 +348,12 @@
 <a href="https://sm4rty.medium.com/hunting-for-bugs-in-file-upload-feature-c3b364fb01ba">-Hunting for Bugs in File Upload Feature</a>
 
 <a href="https://amakki.me/how-i-made-15k-from-remote-code-execution-vulnerability-2e1b14b3902a">-How i made 15k$ from Remote Code Execution Vulnerability</a>
+
+<a href="https://portswigger.net/daily-swig/http-request-smuggling-bug-patched-in-mitmproxy">-HTTP request smuggling bug patched in mitmproxy</a>
+
+<a href="https://hackerone.com/reports/1372667">-Able to steal bearer token from deep link</a>
+
+<a href="https://medium.com/@shabarkin/unsafe-content-loading-electron-js-76296b6ac028">-Unsafe content loading [Electron JS]</a>
 
 
 
@@ -485,11 +505,21 @@
 
 <a href="https://medium.com/@raymond-lind/ssrf-lfi-in-uploads-feature-321d83b93ec0">-SSRF & LFI In Uploads Feature</a>
 
+<a href="https://blog.neolex.dev/13/">-Critical SSRF on Evernote</a>
+
 
 # Chained Issues / Chained Bugs : 
 <a href="https://medium.com/@tushar.tilak.sharma/a-tale-of-open-redirection-to-stored-xss-6ad426ae9d43">-A Tale of Open Redirection to Stored XSS</a>
 
 <a href="https://medium.com/@TutorialBoy24/the-story-of-3-bugs-that-lead-to-unauthorized-rce-pascom-systems-d2dcb0410f3b">-The story of 3 bugs that lead to Unauthorized RCE — Pascom Systems</a>
+
+<a href="https://medium.com/@haroonhameed_76621/achieving-remote-code-execution-via-unrestricted-file-upload-6050f360c218">-Achieving Remote Code Execution via Unrestricted File Upload</a>
+
+<a href="https://positive.security/blog/dompdf-rce">-From XSS to RCE (dompdf 0day)</a>
+
+<a href="https://hackerone.com/reports/1439593">-Arbitrary file read via the bulk imports UploadsPipeline </a>
+
+<a href="https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-account-on-one-of-europes-largest-media-companies-e8d25e59c08">-How I Was Able To TakeOver Any Account On One Of Europe's Largest Media Companies</a>
 
 
 
@@ -562,4 +592,12 @@
 
 # Cheat-Sheets for Cybersecurity 
 <a href="https://ozguralp.medium.com/bigquery-sql-injection-cheat-sheet-65ad70e11eac">-BigQuery SQL Injection Cheat Sheet</a>
+
+# Extra Practicing Labs (Critical Vulnerabilities) :
+<a href="https://github.com/fengguangbin/spring-rce-war">-Spring RCE vulnerability reproduction environment </a>
+
+<a href="https://github.com/mcdulltii/SpringShell_0-day">-PoC - Spring Core RCE 0-day Vulnerability </a>
+
+
+
 
