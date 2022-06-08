@@ -39,6 +39,8 @@
 
 <a href="https://github.com/phith0n/zkar">-ZKar is a Java serialization protocol analysis tool implement in Go</a>
 
+<a href="https://github.com/s0md3v/Smap">-Smap : a drop-in replacement for Nmap powered by shodan.io</a>
+
 
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
 
@@ -165,6 +167,8 @@
 
 <a href="https://github.com/codingo/bbr">-bbr is an open source tool to aid in command line driven generation of bug bounty reports based on user provided templates.</a>
 
+<a href="https://oweng.medium.com/introducing-packetstreamer-distributed-packet-capture-for-cloud-native-platforms-3e7f9ac57ab1">-Introducing PacketStreamer: distributed packet capture for cloud-native platforms</a>
+
 
 <a href="https://github.com/dwisiswant0/go-dork">-Go Dork. The fastest dork scanner written in Go</a>
 
@@ -209,6 +213,9 @@
 
 <a href="https://blog.sonatype.com/new-0-day-spring-framework-vulnerability-confirmed">-New Spring Framework RCE  Vulnerability Confirmed - What to do?</a>
 
+<a href="https://medium.com/@vivekkashyap0707/my-first-rce-from-n-a-to-triaged-cve-2021-3064-acdd0541c664">-My First RCE from N/A to Triaged (CVE-2021–3064)</a>
+
+<a href="https://bugcrowd.com/disclosures/7b175e9d-8ff0-47e3-bd33-a8b1e51aa499/http-desync-attack-request-smuggling-mass-session-hijacking">-HTTP Desync Attack (Request Smuggling) - Mass Session Hijacking</a>
 
 
 <a href="https://hackerone.com/reports/928255">-Ability To Delete User(s) Account Without User Interaction</a>
@@ -290,6 +297,8 @@
 
 <a href="https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645">-XSS with Markdown — Exploit & Fix on OpenSource</a>
 
+<a href="https://bugcrowd.com/disclosures/aac249ea-fe92-4b43-98e9-dda021c0ff4d/postmessage-xss-in-tesla-payment-page">-postMessage XSS in Tesla Payment page </a>
+
 <a href="https://portswigger.net/daily-swig/html-parser-bug-triggers-chromium-xss-security-flaw">-HTML parser bug triggers Chromium XSS security flaw</a>
 
 <a href="https://infosecwriteups.com/how-i-was-able-to-find-50-cross-site-scripting-xss-security-vulnerabilities-on-bugcrowd-public-ba33db2b0ab1">-How I was able to find 50+ Cross-site scripting (XSS) Security Vulnerabilities on Bugcrowd Public Program</a>
@@ -297,6 +306,8 @@
 <a href="https://portswigger.net/daily-swig/email-platform-zimbra-issues-hotfix-for-xss-vulnerability-under-active-exploitation">-Email platform Zimbra issues hotfix for XSS vulnerability under active exploitation</a>
 
 <a href="https://hackerone.com/reports/1196958">-Clipboard DOM-based XSS</a>
+
+<a href="https://medium.com/@armaanpathan/exploiting-dom-based-xss-via-misconfigured-postmessage-function-bfc794969a0a">-Exploiting DOM Based XSS via Misconfigured postMessage() Function</a>
 
 <a href="https://0u.ma/5">-Cache Poisoning via SelfXSS + Path Parameter</a>
 
