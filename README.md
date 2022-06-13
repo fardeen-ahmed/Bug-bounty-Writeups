@@ -199,6 +199,12 @@
 
 <a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">-Top 10 Tips for Burp Suite</a>
 
+<a href="https://www.tenable.com/blog/cve-2021-41773-path-traversal-zero-day-in-apache-http-server-exploited">-CVE-2021-41773: Path Traversal Zero-Day in Apache HTTP Server Exploited</a>
+
+<a href="https://hackerone.com/reports/1439026">-Discoverability by phone number/email restriction bypass</a>
+
+<a href="https://hackerone.com/reports/1273292">-Internal Gitlab Ticket Disclosure via External Slack Channels</a>
+
 <a href="https://labs.detectify.com/2021/09/30/10-types-web-vulnerabilities-often-missed/">-10 Types of Web Vulnerabilities that are Often Missed</a>
 
 <a href="https://ahmdhalabi.medium.com/ultimate-reconnaissance-roadmap-for-bug-bounty-hunters-pentesters-507c9a5374d">-Ultimate Reconnaissance RoadMap for Bug Bounty Hunters & Pentesters</a>
@@ -252,6 +258,10 @@
 
 
 <a href="https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b">-Hacking the Blockchain: An Ultimate Guide</a>
+
+<a href="https://medium.com/@taniyatesting11/bounty-evaluation-github-15-000-us-dollars-rate-limit-d6c07d73c948">-Bounty Evaluation GitHub = $15,000 US Dollars </a>
+
+
 
 <a href="https://curtbraz.medium.com/a-konami-code-for-vuln-chaining-combos-1a29d0a27c2a">-A Konami Code for Vuln Chaining Combos</a>
 
