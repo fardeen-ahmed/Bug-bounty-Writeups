@@ -211,6 +211,8 @@
 
 <a href="https://jakearchibald.com/2021/cors/">-How to win at CORS</a>
 
+<a href="https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183">-Misconfigured Reset password that leads to Account Takeover (No user Interaction ATO)</>
+
 <a href="http://ysamm.com/?p=597">-View orders and financial reports lists for any page shop ($500)</a>
 
 <a href="https://infosecwriteups.com/hunting-for-prototype-pollution-and-its-vulnerable-code-on-js-libraries-5bab2d6dc746">-Hunting for Prototype Pollution and it’s vulnerable code on JS libraries</a>
@@ -237,6 +239,18 @@
 
 <a href="https://hackerone-hackers.affinity.co/">-Leaked H1's Employees Email addresses,meeting info on private bug bounty program</a>
 
+<a href="https://www.ryanpickren.com/safari-uxss">-Hacking the Apple Webcam (again)</a>
+
+<a href="https://hackerone.com/reports/1404612">-Multiple vulnerability leading to account takeover in TikTok SMB subdomain.</a>
+
+<a href="https://tuhin1729.medium.com/story-of-my-hacking-dutch-government-46b7a3c8b75a">-Story of my hacking Dutch Government</a>
+
+<a href="https://portswigger.net/daily-swig/gitlab-triages-bug-bounty-reported-flaws-with-latest-release">-GitLab triages bug bounty-reported flaws with latest release</a>
+
+<a href="https://medium.com/@Hossam.Mesbah/he-is-already-here-privileges-escalation-due-to-invalidating-current-users-148069015716">-He is already here: Privileges escalation due to invalidating current users</a>
+
+
+
 <a href="https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b">-Hacking the Blockchain: An Ultimate Guide</a>
 
 <a href="https://curtbraz.medium.com/a-konami-code-for-vuln-chaining-combos-1a29d0a27c2a">-A Konami Code for Vuln Chaining Combos</a>
@@ -252,6 +266,26 @@
 <a href="https://medium.com/@vivekkashyap0707/my-first-rce-from-n-a-to-triaged-cve-2021-3064-acdd0541c664">-My First RCE from N/A to Triaged (CVE-2021–3064)</a>
 
 <a href="https://bugcrowd.com/disclosures/7b175e9d-8ff0-47e3-bd33-a8b1e51aa499/http-desync-attack-request-smuggling-mass-session-hijacking">-HTTP Desync Attack (Request Smuggling) - Mass Session Hijacking</a>
+
+<a href="https://orwaatyat.medium.com/how-i-found-multiple-bugs-on-facebook-in-1-month-and-a-part-for-my-methodology-tools-58a677a9040c">-How I Found Multiple Bugs On FaceBook In 1 Month And a Part For My Methodology & Tools</a>
+
+<a href="https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/">-Flickr Account Takeover</a>
+
+<a href="https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50">-RCE 0 day for GhostScript-9.50</a>
+
+<a href="https://medium.com/@randyarios/low-hanging-fruits-on-facebook-group-room-b8d17c7ea886">-Low hanging fruits on Facebook Group Room</a>
+
+<a href="https://hackerone.com/reports/1077136">-Denial of Service via Hyperlinks in Posts</a>
+
+
+
+<a href="https://sidxparab.gitbook.io/subdomain-enumeration-guide/">-Subdomain Enumeration Guide 2021 </a>
+
+<a href="https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2">-Full account takeover through referral code</a>
+
+<a href="https://0xjoyghosh.medium.com/information-gathering-scanning-for-sensitive-information-reloaded-6ff3455e0d4e">-Information Gathering&scanning for sensitive information</a>
+
+
 
 
 
@@ -304,6 +338,10 @@
 
 <a href="https://amit-lt.medium.com/a-story-of-idor-which-leads-to-privacy-violation-78c1b4c710fb">-A Story of IDOR which leads to privacy violation…$$$</a>
 
+
+
+<a href="https://psfauzi.medium.com/how-i-get-1350-from-idor-just-less-1-hours-7496bab1a914">-How I Get $1350 From IDOR Just Less 1 hours</a>
+
 <a href="https://junoonbro.medium.com/how-i-earned-9000-with-privilege-escalations-b187d1f8f4fe">-How I earned $9000 with Privilege escalations</a>
 
 <a href="https://psfauzi.medium.com/how-i-get-1350-from-idor-just-less-1-hours-7496bab1a914">-How I Get $1350 From IDOR Just Less 1 hours</a>
@@ -349,6 +387,8 @@
 <a href="https://medium.com/@armaanpathan/exploiting-dom-based-xss-via-misconfigured-postmessage-function-bfc794969a0a">-Exploiting DOM Based XSS via Misconfigured postMessage() Function</a>
 
 <a href="https://0u.ma/5">-Cache Poisoning via SelfXSS + Path Parameter</a>
+
+<a href="https://godiego.tech/posts/STO/">-Subdomain Takeover in Azure: making a PoC</a>
 
 <a href="https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254">-XSS via X-Forwarded-Host header</a>
 
@@ -518,12 +558,18 @@
 
 <a href="https://haxolot.com/posts/2022/moodle_pre_auth_shibboleth_rce_part2/">-Pre-Auth RCE in Moodle Part II - Session Hijack in Moodle's Shibboleth</a>
 
+<a href="https://newrouge.medium.com/web-cache-poisoning-a-tale-of-chaining-unkeyed-inputs-6e3cb026bd23">-Web Cache Poisoning: A Tale of chaining unkeyed inputs</a>
+
+<a href="https://medium.com/@sajan.dhakate/exploiting-json-web-token-jwt-73d172b5bc02">-EXPLOITING JSON WEB TOKEN [JWT]</a>
+
 
 
 
 ## Software and Data Integrity Failure
 
 <a href="https://blog.dixitaditya.com/pwning-a-server-using-markdown">-Pwning a Server using Markdown</a>
+
+
 
 ## Security Logging and Monitoring
 
@@ -597,6 +643,14 @@
 <a href="https://www.hebunilhanli.com/wonderland/mobile-security/android-component-security/">-Android Component Security</a>
 
 <a href="https://github.com/gokulapap/Reconator">-Reconator - Automated Recon for Pentesting & Bug Bounty</a>
+
+<a href="https://servicenger.com/blog/mobile/android/facebook-messenger-for-android-indirect-thread-deletion/">-Facebook Messenger for Android indirect thread deletion vulnerability</a>
+
+<a href="https://www.oliviaohara.com/keybase">-Keybase App Vulnerability: Incomplete Cleanup of Messages In Keybase for Android/iOS - CVE-2021-34421</a>
+
+
+
+
 
 
 # IOS Application Testing (Methods + Tools)
