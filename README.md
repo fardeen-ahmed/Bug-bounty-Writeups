@@ -190,8 +190,8 @@
 
 <a href="https://github.com/projectdiscovery/cloudlist">-Cloudlist is a tool for listing Assets from multiple Cloud Providers</a>
 
-
 <a href="https://github.com/as0ler/r2flutch">-r2flutch - tool to decrypt iOS apps using r2frida</a>
+
 
 # General Writeups
 
@@ -203,7 +203,43 @@
 
 <a href="https://ahmdhalabi.medium.com/ultimate-reconnaissance-roadmap-for-bug-bounty-hunters-pentesters-507c9a5374d">-Ultimate Reconnaissance RoadMap for Bug Bounty Hunters & Pentesters</a>
 
+<a href="https://hackerone.com/reports/1295844">-Modify in-flight data to payment provider Smart2Pay</a>
+
+<a href="https://arxiv.org/pdf/2110.07450.pdf">-Bugs in our Pockets: The Risks of Client-Side Scanning</a>
+
+<a href="http://ysamm.com/?p=620">-Make recruiting referrals on behalf of employees ($3000)</a>
+
+<a href="https://jakearchibald.com/2021/cors/">-How to win at CORS</a>
+
+<a href="http://ysamm.com/?p=597">-View orders and financial reports lists for any page shop ($500)</a>
+
+<a href="https://infosecwriteups.com/hunting-for-prototype-pollution-and-its-vulnerable-code-on-js-libraries-5bab2d6dc746">-Hunting for Prototype Pollution and it’s vulnerable code on JS libraries</a>
+
+<a href="https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962">-Story of my first cash bounty on hackerone</a>
+
 <a href="https://chaosdb.wiz.io/">-Critical Vulnerability in Microsoft Azure Cosmos DB</a>
+
+<a href="https://sinsinology.medium.com/bug-bounty-short-tips-as-image-b4075523e4ef">-Bug Bounty Short Tips as image</a>
+
+<a href="https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0">-How I found a bug in Apple within just in 5min</a>
+
+<a href="https://vovohelo.medium.com/how-i-found-my-first-chrome-bug-cve-2021-21210-248a21272248">-How I found my first Chrome bug</a>
+
+<a href="https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/">-The second part of discovered vulnerabilities in pre-installed apps on Samsung devices</a>
+
+<a href="https://amakki.me/full-account-takeover-vulnerability-in-minecraft-f56076c8287d">-Full account takeover vulnerability in Minecraft</a>
+
+<a href="https://redhuntlabs.com/blog/5-ways-to-exploit-a-domain-takeover-vulnerability.html">-5 Ways to Exploit a Domain Takeover Vulnerability</a>
+
+<a href="https://sinsinology.medium.com/expect-the-unexpected-discovering-fresh-zeroday-for-bounty-d074f3175847">-Expect The Unexpected: Discovering fresh ZeroDay for Bounty</a>
+
+<a href="https://medium.com/@mrempy/how-i-found-a-critical-p1-bug-in-5-minutes-using-a-cellphone-bug-bounty-303ebec3edd6">-How I found a critical P1 bug in 5 minutes using a cellphone — Bug Bounty</a>
+
+<a href="https://hackerone-hackers.affinity.co/">-Leaked H1's Employees Email addresses,meeting info on private bug bounty program</a>
+
+<a href="https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b">-Hacking the Blockchain: An Ultimate Guide</a>
+
+<a href="https://curtbraz.medium.com/a-konami-code-for-vuln-chaining-combos-1a29d0a27c2a">-A Konami Code for Vuln Chaining Combos</a>
 
 <a href="https://medium.com/@amnotacat/log4shell-in-google-1337-00-144684269bf8">-Log4shell in google $1337.00 </a>
 
@@ -216,6 +252,7 @@
 <a href="https://medium.com/@vivekkashyap0707/my-first-rce-from-n-a-to-triaged-cve-2021-3064-acdd0541c664">-My First RCE from N/A to Triaged (CVE-2021–3064)</a>
 
 <a href="https://bugcrowd.com/disclosures/7b175e9d-8ff0-47e3-bd33-a8b1e51aa499/http-desync-attack-request-smuggling-mass-session-hijacking">-HTTP Desync Attack (Request Smuggling) - Mass Session Hijacking</a>
+
 
 
 <a href="https://hackerone.com/reports/928255">-Ability To Delete User(s) Account Without User Interaction</a>
@@ -280,6 +317,8 @@
 <a href="https://aidilarf.medium.com/idor-via-get-request-which-can-sold-all-user-products-2f5bc3ea1650">-IDOR via GET Request which can SOLD all User Products</a>
 
 <a href="https://snapsec.co/blog/CORS-Misconfigrations/">-CORS Misconfigurations</a>
+
+<a href="https://blog.intigriti.com/2021/10/13/bug-bytes-142-weird-google-bugs-saml-padding-oracle-apache-path-traversal-continued/">-Weird Google bugs, SAML padding Oracle & Apache path traversal continued</a>
 
 
 
@@ -347,6 +386,8 @@
 
 <a href="https://github.com/lleavesl/CVE-2021-26084">-CVE-2021-26084，Atlassian Confluence OGNL</a>
 
+<a href="https://ian.sh/redash">-Exploiting Redash instances with CVE-2021-41192</a>
+
 <a href="https://hackerone.com/reports/1424094">-Web Cache Poisoning leads to Stored XSS</a>
 
 
@@ -384,6 +425,10 @@
 <a href="https://hackerone.com/reports/170552">-Slack integration setup lacks CSRF protection</a>
 
 <a href="https://elinfosec.com/2022/my-first-report-on-hackerone-a-logic-flaw-in-npm/">-My first report on HackerOne: A logic flaw in npm</a>
+
+<a href="https://hackerone.com/reports/1065500">-Multiple bugs leads to RCE on TikTok for Android</a>
+
+<A href="http://ysamm.com/?p=627">-Leaking Facebook user information to external websites ($2000)</a>
 
 
 ## Security Misconfiguration
@@ -557,6 +602,8 @@
 # IOS Application Testing (Methods + Tools)
 
 <a href="https://martabyte.github.io/ios/hacking/2022/03/13/ios-hacking-en.html">-iOS Hacking - A Beginner's Guide to Hacking iOS Apps [2022 Edition]</a>
+
+<a href="https://thebittimes.com/ios-jailbreak-dev-wins-2m-bounty-for-finding-critical-optimism-bug-tbt11643.html">-iOS jailbreak dev wins $2M bounty for finding critical Optimism bug</a>
 
 
 
