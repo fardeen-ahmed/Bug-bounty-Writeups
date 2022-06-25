@@ -457,6 +457,8 @@
 
 <a href="https://medium.com/@shabarkin/unsafe-content-loading-electron-js-76296b6ac028">-Unsafe content loading [Electron JS]</a>
 
+<a href="https://joonas.fi/2021/08/saml-is-insecure-by-design/">-SAML is insecure by design</a>
+
 
 
 <a href="https://hosein-vita.medium.com/laravel-8-x-image-upload-bypass-zero-day-852bd806019b">-Laravel 8.x image upload bypass</a>
@@ -681,6 +683,8 @@
 
 
 <a href="https://www.pentagrid.ch/en/blog/burp-suite-hackvertor-custom-tags-email-sms-tan-multi-factor-authentication/">-Burp Suite - solving E-mail and SMS TAN multi-factor authentication with Hackvertor custom tags</a>
+
+<a href="https://medium.com/@kaorrosi/finding-csrf-vulnerabilities-with-burpsuite-a0a37b87eb85?source">-Finding CSRF Vulnerabilities with BurpSuite</a>
 
 <a href="https://research.nccgroup.com/2020/12/08/tool-release-httpsignatures-a-burp-suite-extension-implementing-http-signatures/">-HTTP Signatures: A Burp Suite Extension Implementing HTTP Signatures</a>
 
