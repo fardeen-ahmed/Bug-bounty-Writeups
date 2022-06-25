@@ -489,6 +489,8 @@
 
 <a href="https://github.com/WeAreCloudar/s3-account-search">-S3 Account Search</a>
 
+<a href="https://medium.com/@sicks3c/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52">-How I Scored 1K Bounty Using Waybackurls</a>
+
 <a href="https://xcheater.medium.com/all-about-csrf-flaw-7d525be39587">-All About CSRF Flaw</a>
 
 <a href="https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc">-Common Nginx Misconfiguration leads to Path Traversal</a>
@@ -510,6 +512,8 @@
 <a href="https://medium.com/@botami143/i-have-found-microsoft-subdomain-website-database-list-database-username-password-1dab07d0c8ea">-I have Found Microsoft Subdomain Website database list, database username, password </a>
 
 <a href="https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf">-Demographic Misconfiguration on Facebook live </a>
+
+<a href="https://threatpost.com/valve-bug-unlimited-funds/168710/">-Critical Valve Bug Lets Gamers Add Unlimited Funds to Steam Wallets</a>
 
 
 <a href="https://hackerone.com/reports/1104874">-Basecamp disclosed on HackerOne: Insecure Bundler configuration</a>
@@ -581,6 +585,12 @@
 
 <a href="https://blog.dixitaditya.com/pwning-a-server-using-markdown">-Pwning a Server using Markdown</a>
 
+<a href="https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0">-How I found a bug in Apple within just in 5min</a>
+
+<a href="https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md">-Hacking Google Drive Integrations</a>
+
+<a href="https://dhiyaneshgeek.github.io/web/security/2021/09/04/dependency-confusion/">-Dependency Confusion</a>
+
 
 
 ## Security Logging and Monitoring
@@ -626,6 +636,12 @@
 <a href="https://medium.com/@tushar.tilak.sharma/a-tale-of-open-redirection-to-stored-xss-6ad426ae9d43">-A Tale of Open Redirection to Stored XSS</a>
 
 <a href="https://medium.com/@TutorialBoy24/the-story-of-3-bugs-that-lead-to-unauthorized-rce-pascom-systems-d2dcb0410f3b">-The story of 3 bugs that lead to Unauthorized RCE — Pascom Systems</a>
+
+<a href="https://portswigger.net/daily-swig/internet-bug-bounty-high-severity-vulnerability-in-apache-http-server-could-lead-to-rce">-Internet Bug Bounty: High severity vulnerability in Apache HTTP Server could lead to RCE</a>
+
+<a href="https://medium.com/@LIL__NIX/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e">-The Story of a RCE on a Java Web Application</a>
+
+<a href="https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7">-Bypassing required reviews using GitHub Actions</a>
 
 <a href="https://medium.com/@haroonhameed_76621/achieving-remote-code-execution-via-unrestricted-file-upload-6050f360c218">-Achieving Remote Code Execution via Unrestricted File Upload</a>
 
@@ -711,6 +727,12 @@
 <a href="https://github.com/tomnomnom/gron">-Make JSON greppable! gron transforms JSON into discrete assignments to make it easier to grep for what you want and see the absolute 'path' to it.</a>
 
 <a href="https://medium.com/csg-govtech/lifes-a-peach-fuzzer-how-to-build-and-use-gitlab-s-open-source-protocol-fuzzer-fd78c9caf05e">-Life’s a Peach (Fuzzer) How to Build and Use GitLab’s Open-Source Protocol Fuzzer</a>
+
+
+# Jenkins Vulnerabilities
+
+<a href="https://github.com/gquere/pwn_jenkins">-Notes about attacking Jenkins servers</a>
+
 
 # API Vulnerability Testing 
 <a href="https://monke.ie/api-vulns-casestudy/">-A Case Study of API Vulnerabilities</a>
