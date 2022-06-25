@@ -344,6 +344,8 @@
 
 <a href="https://adityashende17.medium.com/idor-to-information-disclosure-admin-account-takeover-6aa96798c70b">-IDOR to information disclosure + Admin Account Takeover</a>  
 
+<a href="https://kuldeep.io/posts/path-traversal-paradise/">-Path Traversal Paradise</a>
+
 <a href="https://encodedguy.medium.com/600-for-idor-file-or-folder-download-243166452dad">-$600 for IDOR (File or Folder Download)</a>
 
 <a href="https://amit-lt.medium.com/a-story-of-idor-which-leads-to-privacy-violation-78c1b4c710fb">-A Story of IDOR which leads to privacy violation…$$$</a>
@@ -645,7 +647,13 @@
 
 <a href="https://medium.com/@haroonhameed_76621/achieving-remote-code-execution-via-unrestricted-file-upload-6050f360c218">-Achieving Remote Code Execution via Unrestricted File Upload</a>
 
+<a href="https://portswigger.net/daily-swig/node-js-was-vulnerable-to-a-novel-http-request-smuggling-technique">-Node.js was vulnerable to a novel HTTP request smuggling technique</a>
+
 <a href="https://positive.security/blog/dompdf-rce">-From XSS to RCE (dompdf 0day)</a>
+
+<A href="http://ysamm.com/?p=621">-Access private information about SparkAR effect owners who has a publicly viewable portfolio ($1500)</a>
+
+<a href="https://mrkrhy-xyz.medium.com/tagged-user-could-delete-facebook-story-d7f9cdde92aa">-Tagged User Could Delete Facebook Story</a>
 
 <a href="https://hackerone.com/reports/1439593">-Arbitrary file read via the bulk imports UploadsPipeline </a>
 
