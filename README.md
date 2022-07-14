@@ -307,6 +307,17 @@
 
 <a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22">-The easiest $2500 I got it from bug bounty program</a>
 
+<a href="https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312">-Disclose leads form details of any Facebook Business Account or Facebook Page</a>
+
+<a href="https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/">-Remote code execution in cdnjs of Cloudflare</a>
+
+<a href="https://hackerone.com/reports/1125425">-RCE via unsafe inline Kramdown options when rendering certain Wiki pages</a>
+
+<a href="https://blog.sonarsource.com/mybb-remote-code-execution-chain">-MyBB Remote Code Execution Chain</a>
+
+
+
+
 
 
 
@@ -386,9 +397,15 @@
 
 <a href="https://snapsec.co/blog/CORS-Misconfigrations/">-CORS Misconfigurations</a>
 
+<a href="https://youtu.be/5guMYiQrnUo">-Shopify Account Takeover $22,500 Bug Bounty</a>
+
 <a href="https://blog.intigriti.com/2021/10/13/bug-bytes-142-weird-google-bugs-saml-padding-oracle-apache-path-traversal-continued/">-Weird Google bugs, SAML padding Oracle & Apache path traversal continued</a>
 
 <a href="https://www.intruder.io/research/practical-http-header-smuggling">-Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond</a>
+
+<a href="https://www.youtube.com/watch?v=FzT3Z7tgDSQ">-$5,000 YouTube IDOR - Bug Bounty Reports Explained </a>
+
+
 
 
 
@@ -466,10 +483,20 @@
 
 <a href="https://hackerone.com/reports/1087061">-Stored-XSS on wiki pages</a>
 
+<a href="https://hackerone.com/reports/1280002">-Stored XSS via Mermaid Prototype Pollution vulnerability</a>
+
+<a href="https://youtu.be/RtJXgGb3uJ0">-Stored XSS in Wordpress.com</a>
+
+<a href="https://maordayanofficial.medium.com/stored-xss-at-trello-com-ef2e3d1ed24b">-Stored XSS at Trello</a>
+
 <a href="https://medium.com/@youghourtaghannei/postmessage-xss-vulnerability-on-private-program-18e773e1a1ba">-PostMessage Xss vulnerability on private program</a>
+
+<a href="https://hector0x.medium.com/easy-sqli-in-amazon-subsidiary-using-sqlmap-ff469013671b">-Easy SQLi in Amazon subsidiary using Sqlmap</a>
 
 
 <a href="https://y000o.medium.com/fun-sql-injection-mod-security-bypass-644b54b0c445">-Fun sql injection — mod_security bypass/a>
+  
+<a href="https://www.verizonmedia.com/insights/promotion-public-004">SQL Injection Bugs on All Verizon Media Assets</a>
   
 
 
@@ -521,6 +548,10 @@
 <a href="https://hackerone.com/reports/1065500">-Multiple bugs leads to RCE on TikTok for Android</a>
 
 <A href="http://ysamm.com/?p=627">-Leaking Facebook user information to external websites ($2000)</a>
+  
+
+  
+
 
 
 
@@ -589,8 +620,12 @@
 <a href="https://hackerone.com/reports/1256375">-Blog posts atom feed of a store with password protection can be accessed by anyone</a>
 
 <a href="https://medium.com/immunefi/enzyme-finance-price-oracle-manipulation-bug-fix-postmortem-4e1f3d4201b5">-Enzyme Finance Price Oracle Manipulation Bug Fix Postmortem</a>
+  
+<a href="https://rajanagori.medium.com/a-long-story-of-xxe-vulnerability-6a9a33276602">-A Long Story of XXE Vulnerability!!</a>
 
 <a href="https://flatt.tech/reports/210401_pwn2own/">-Pwn2Own Local Escalation of Privilege Category</a>
+  
+<a href="https://swordbytes.com/blog/security-advisory-overwolf-1-click-remote-code-execution-cve-2021-33501/">-Overwolf 1-Click Remote Code Execution - CVE-2021-33501</a>
 
 <a href="https://www.varonis.com/blog/box-mfa-bypass-totp/">-Bypassing Box’s Time-based One-Time Password MFA</a>
 
@@ -611,6 +646,22 @@
 <a href="https://hackerone.com/reports/1087489">-Github access token exposure</a>
 
 <a href="https://gonzx.medium.com/how-i-was-able-to-takeover-any-account-on-foxit-com-7a08efa0144f">How I was able to Takeover Accounts on Foxit.com</a>
+  
+<a href="https://www.whitesourcesoftware.com/resources/blog/prototype-pollution-vulnerabilities/">-The Complete Guide to Prototype Pollution Vulnerabilities </a>
+  
+<a href="https://www.zapstiko.com/misconfigured-reset-password-that-leads-to-account-takeover/">-Misconfigured Reset password that leads to Account Takeover</a>
+  
+<a href="https://sicks3c.medium.com/from-a-user-to-admin-access-9f44ae1dedc0">-From A User To Admin Access</a>
+  
+<a href="https://inakcf.medium.com/2fa-bypass-via-forced-browsing-9e511dfdb8df">-2FA Bypass via Forced Browsing</a>
+  
+<a href="https://sensepost.com/blog/2021/duo-two-factor-authentication-bypass/">-Duo Two-factor Authentication Bypass</a>
+  
+<a href="https://blog.niksthehacker.com/account-takeovers-believe-the-unbelievable-bb98a0c251a4">-Account Takeovers — Believe the Unbelievable</a>
+  
+<a href="https://medium.com/@kalvik/account-takeover-a-bonus-vulnerability-3c2dc4e607ea">-Account Takeover + A Bonus Vulnerability</a>
+  
+<a href="https://infosecwriteups.com/cross-site-websocket-hijacking-cswsh-ce2a6b0747fc">-Cross-Site WebSocket Hijacking (CSWSH)</a>
   
 
 
@@ -671,6 +722,12 @@
 <a href="https://medium.com/@fatnassifiras45/a-tale-of-0-click-account-takeover-and-2fa-bypass-b369cd70e42f">-A tale of 0-Click Account Takeover and 2FA Bypass</a>
   
 <a href="https://youst.in/posts/cache-poisoning-at-scale/">-Cache Poisoning at Scale</a>
+  
+<a href="https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html">-Exploiting OAuth: Journey to Account Takeover</a>
+  
+<a href="https://www.youtube.com/watch?v=Fzx7OWZId6U">-Account Takeover using OAuth Misconfiguration | Badoo Bug Bounty $300</a>
+  
+
 
 
 
@@ -786,7 +843,11 @@
 <a href="https://infosecwriteups.com/exploiting-password-reset-poisoning-b748797f0661">-Exploiting Password Reset Poisoning for account takeover and max bounty!</a>
   
 <a href="https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md">-CVE-2021-26084 Remote Code Execution on Confluence Servers</a>
+  
+<a href="https://radianid.medium.com/chaining-open-redirect-with-xss-to-account-takeover-36acf218a6d5">-Chaining Open Redirect with XSS to Account Takeover</a>
 
+<a href="https://twitter.com/OAcybersecurity#bugbounty">-FORD Session token URL lead to Reflected XSS</a>
+  
 
 
 
@@ -825,6 +886,8 @@
 <a href="https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105">-TikTok for Android 1-Click RCE</a>
   
 <a href="https://twitter.com/cyph3r_asr/status/1413438299545296902">-10 Vulnerable Android Applications for beginners to learn Android  hacking</a>
+  
+<a href="https://blog.oversecured.com/Android-security-checklist-webview/">-Android security checklist: WebView</a>
 
 
 
@@ -890,6 +953,8 @@
 <a href="https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64">-What is BOLA? 3-digit bounty from Topcoder ($$$)</a>
 
 <a href="https://medium.com/@Mrcyberwarrior/exploiting-activity-in-medium-android-app-e2e6f3553eef">-Trigger custom URL in Medium Android app</a>
+  
+<a href="https://masturf.medium.com/how-to-exploit-firebase-realtime-database-using-rest-api-34885160fa55">-How to Exploit Public Firebase Realtime Database using REST API</a>
 
 
 # Cheat-Sheets for Cybersecurity 
