@@ -608,6 +608,10 @@
   
 <a href="https://0xelmalky.medium.com/subdomain-takeover-via-flywheel-447a71d77396">-Subdomain Takeover Via Flywheel</a>
   
+<a href="https://hackerone.com/reports/1087489">-Github access token exposure</a>
+
+<a href="https://gonzx.medium.com/how-i-was-able-to-takeover-any-account-on-foxit-com-7a08efa0144f">How I was able to Takeover Accounts on Foxit.com</a>
+  
 
 
 
@@ -779,6 +783,9 @@
   
 <a href="https://jmrcsnchz.medium.com/how-i-escalated-a-time-based-sql-injection-to-rce-bbf0d68cb398">-How I Escalated a Time-Based SQL Injection to RCE</a>
 
+<a href="https://infosecwriteups.com/exploiting-password-reset-poisoning-b748797f0661">-Exploiting Password Reset Poisoning for account takeover and max bounty!</a>
+  
+<a href="https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md">-CVE-2021-26084 Remote Code Execution on Confluence Servers</a>
 
 
 
@@ -816,6 +823,8 @@
 <a href="https://github.com/Ralireza/Android-Security-Teryaagh">-Android security guides, roadmap, docs, courses, write-ups, and teryaagh</a>
   
 <a href="https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105">-TikTok for Android 1-Click RCE</a>
+  
+<a href="https://twitter.com/cyph3r_asr/status/1413438299545296902">-10 Vulnerable Android Applications for beginners to learn Android  hacking</a>
 
 
 
