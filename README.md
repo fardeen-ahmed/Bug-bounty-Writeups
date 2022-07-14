@@ -367,6 +367,7 @@
 
 <a href="https://asterfiester.medium.com/5000-google-idor-vulnerability-writeup-c7b45926abe9">-$5000 Google IDOR Vulnerability Writeup</a>
 
+<a href="https://snapsec.co/blog/2021/09/25/Attacking-Access-Control-Models-In-Modern-Web-Applications.html">-Attacking Access Control Models In Modern Web Applications</a>
 
 
 <a href="https://psfauzi.medium.com/how-i-get-1350-from-idor-just-less-1-hours-7496bab1a914">-How I Get $1350 From IDOR Just Less 1 hours</a>
@@ -662,6 +663,10 @@
 <a href="https://4bdoz.medium.com/trick-to-bypass-rate-limit-of-password-reset-functionality-a9923d3d7c4b">-Trick to bypass rate limit of password reset functionality</a>
   
 <a href="https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html">-Exploiting OAuth: Journey to Account Takeover </a>
+  
+<a href="https://medium.com/@fatnassifiras45/a-tale-of-0-click-account-takeover-and-2fa-bypass-b369cd70e42f">-A tale of 0-Click Account Takeover and 2FA Bypass</a>
+  
+<a href="https://youst.in/posts/cache-poisoning-at-scale/">-Cache Poisoning at Scale</a>
 
 
 
@@ -768,6 +773,11 @@
 <a href="https://medium.com/@kojodaprogrammer/full-account-takeover-ato-a-tale-of-two-bugs-d1b3765ff1de">-Full Account takeover (ATO) — a tale of two bugs</a>
 
 <a href="https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/">-A Scientific Notation Bug in MySQL left AWS WAF Clients Vulnerable to SQL Injection</a>
+
+  
+<a href="https://notifybugme.medium.com/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba">-Chaining an Blind SSRF bug to Get an RCE</a>
+  
+<a href="https://jmrcsnchz.medium.com/how-i-escalated-a-time-based-sql-injection-to-rce-bbf0d68cb398">-How I Escalated a Time-Based SQL Injection to RCE</a>
 
 
 
