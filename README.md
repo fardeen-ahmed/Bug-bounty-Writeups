@@ -195,6 +195,8 @@
 <a href="https://github.com/as0ler/r2flutch">-r2flutch - tool to decrypt iOS apps using r2frida</a>
 
 
+
+
 # General Writeups
 
 <A href="https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017">-400$ Bounty again using Google Dorks</a>
@@ -293,6 +295,8 @@
 
 <a href="https://hackerone.com/reports/1077136">-Denial of Service via Hyperlinks in Posts</a>
 
+<a href="https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/">-How I got access to many PIIs through a source code leak</a>
+
 
 
 <a href="https://sidxparab.gitbook.io/subdomain-enumeration-guide/">-Subdomain Enumeration Guide 2021 </a>
@@ -359,6 +363,10 @@
 
 <a href="https://amit-lt.medium.com/a-story-of-idor-which-leads-to-privacy-violation-78c1b4c710fb">-A Story of IDOR which leads to privacy violation…$$$</a>
 
+<a href="https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431">-How I found my first IDOR in HackerOne</a>
+
+<a href="https://asterfiester.medium.com/5000-google-idor-vulnerability-writeup-c7b45926abe9">-$5000 Google IDOR Vulnerability Writeup</a>
+
 
 
 <a href="https://psfauzi.medium.com/how-i-get-1350-from-idor-just-less-1-hours-7496bab1a914">-How I Get $1350 From IDOR Just Less 1 hours</a>
@@ -378,6 +386,8 @@
 <a href="https://snapsec.co/blog/CORS-Misconfigrations/">-CORS Misconfigurations</a>
 
 <a href="https://blog.intigriti.com/2021/10/13/bug-bytes-142-weird-google-bugs-saml-padding-oracle-apache-path-traversal-continued/">-Weird Google bugs, SAML padding Oracle & Apache path traversal continued</a>
+
+<a href="https://www.intruder.io/research/practical-http-header-smuggling">-Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond</a>
 
 
 
@@ -451,6 +461,17 @@
 
 <a href="https://hackerone.com/reports/1424094">-Web Cache Poisoning leads to Stored XSS</a>
 
+<a href="https://hackerone.com/reports/1322104">-XSS on tiktok.com</a>
+
+<a href="https://hackerone.com/reports/1087061">-Stored-XSS on wiki pages</a>
+
+<a href="https://medium.com/@youghourtaghannei/postmessage-xss-vulnerability-on-private-program-18e773e1a1ba">-PostMessage Xss vulnerability on private program</a>
+
+
+<a href="https://y000o.medium.com/fun-sql-injection-mod-security-bypass-644b54b0c445">-Fun sql injection — mod_security bypass/a>
+  
+
+
 
 
 
@@ -474,6 +495,7 @@
 
 <a href="https://hackerone.com/reports/1167753">-Add new managed stores without permission</a>
 
+<a href="https://mayank-01.medium.com/hacking-microservices-for-fun-and-bounty-5cc302769e94">-Hacking Microservices For Fun and Bounty</a>
 
 
 
@@ -575,7 +597,17 @@
 
 <a href="https://thalium.github.io/blog/posts/deserialization-bug-through-rdp-smart-card-extension/">-Remote Deserialization Bug in Microsoft's RDP Client through Smart Card Extension (CVE-2021-38666) Bounty award: $5,000.</a>
 
+<a href="https://claroty.com/2022/01/10/blog-research-exploiting-url-parsing-confusion/">-Exploiting URL Parsing Confusion Vulnerabilities</a>
   
+<a href="https://amakki.me/how-i-made-15k-from-remote-code-execution-vulnerability-2e1b14b3902a">-How i made 15k$ from Remote Code Execution Vulnerability</a>
+  
+<a href="https://palisade.consulting/blog/link-hijacking-binances-shortlinks-through-appsflyer">-Link hijacking Binance’s shortlinks through AppsFlyer</a>
+
+<a href="https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/">-Flickr Account Takeover</a>
+  
+<a href="https://0xelmalky.medium.com/subdomain-takeover-via-flywheel-447a71d77396">-Subdomain Takeover Via Flywheel</a>
+  
+
 
 
 
@@ -626,6 +658,10 @@
 <a href="https://medium.com/@sajan.dhakate/exploiting-json-web-token-jwt-73d172b5bc02">-EXPLOITING JSON WEB TOKEN [JWT]</a>
 
 <a href="https://thehackernews.com/2022/01/researchers-bypass-sms-based-multi.html">-Researchers Bypass SMS-based Multi-Factor Authentication Protecting Box Accounts</a>
+
+<a href="https://4bdoz.medium.com/trick-to-bypass-rate-limit-of-password-reset-functionality-a9923d3d7c4b">-Trick to bypass rate limit of password reset functionality</a>
+  
+<a href="https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html">-Exploiting OAuth: Journey to Account Takeover </a>
 
 
 
@@ -727,6 +763,11 @@
 
 <a href="https://hackerone.com/reports/584603">-RCE on CS:GO client using unsanitized entity ID in EntityMsg message</a>
 
+<a href="https://github.com/jonathandata1/ios_15_rce">-Remote Code Execution V1 For iOS 15 sent through airdrop after the device was connected to a trusted host</a>
+  
+<a href="https://medium.com/@kojodaprogrammer/full-account-takeover-ato-a-tale-of-two-bugs-d1b3765ff1de">-Full Account takeover (ATO) — a tale of two bugs</a>
+
+<a href="https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/">-A Scientific Notation Bug in MySQL left AWS WAF Clients Vulnerable to SQL Injection</a>
 
 
 
@@ -759,6 +800,12 @@
 <a href="https://servicenger.com/blog/mobile/android/facebook-messenger-for-android-indirect-thread-deletion/">-Facebook Messenger for Android indirect thread deletion vulnerability</a>
 
 <a href="https://www.oliviaohara.com/keybase">-Keybase App Vulnerability: Incomplete Cleanup of Messages In Keybase for Android/iOS - CVE-2021-34421</a>
+  
+<a href="https://dphoeniixx.medium.com/exploiting-request-forgery-on-mobile-applications-e1d196d187b3">-Exploiting Request forgery on Mobile Applications</a>
+  
+<a href="https://github.com/Ralireza/Android-Security-Teryaagh">-Android security guides, roadmap, docs, courses, write-ups, and teryaagh</a>
+  
+<a href="https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105">-TikTok for Android 1-Click RCE</a>
 
 
 
@@ -818,7 +865,7 @@
 <a href="https://github.com/gquere/pwn_jenkins">-Notes about attacking Jenkins servers</a>
 
 
-# API Vulnerability Testing 
+# API Security Testing 
 <a href="https://monke.ie/api-vulns-casestudy/">-A Case Study of API Vulnerabilities</a>
 
 <a href="https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64">-What is BOLA? 3-digit bounty from Topcoder ($$$)</a>
