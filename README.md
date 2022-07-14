@@ -728,6 +728,8 @@
 <a href="https://www.youtube.com/watch?v=Fzx7OWZId6U">-Account Takeover using OAuth Misconfiguration | Badoo Bug Bounty $300</a>
   
 
+  
+
 
 
 
@@ -847,6 +849,9 @@
 <a href="https://radianid.medium.com/chaining-open-redirect-with-xss-to-account-takeover-36acf218a6d5">-Chaining Open Redirect with XSS to Account Takeover</a>
 
 <a href="https://twitter.com/OAcybersecurity#bugbounty">-FORD Session token URL lead to Reflected XSS</a>
+  
+<a href="https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e">-Escalating SSRF to Accessing all user PII information by aws metadata</a>
+
   
 
 
