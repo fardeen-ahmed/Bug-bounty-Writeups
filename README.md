@@ -11,6 +11,8 @@
 
 <a href="https://github.com/m8r0wn/taser">-Taser : Python3 resource library for creating security related tooling</a>
 
+
+
 <a href="https://github.com/tristanlatr/burpa">-Burp Automator - A Burp Suite Automation Tool. It provides a high level CLI and Python interfaces to Burp Suite scanner and can be used to setup Dynamic Application Security Testing (DAST)</a>
 
 <a href="https://medium.com/@kaorrosi/osint-research-with-recon-ng-727661a70ea4">-OSINT Research With Recon-ng</a>
@@ -195,6 +197,8 @@
 
 # General Writeups
 
+<A href="https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017">-400$ Bounty again using Google Dorks</a>
+
 <a href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2020">-Top 10 web hacking techniques of 2020 | PortSwigger Research</a>
 
 <a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">-Top 10 Tips for Burp Suite</a>
@@ -275,6 +279,8 @@
 
 <a href="https://medium.com/@vivekkashyap0707/my-first-rce-from-n-a-to-triaged-cve-2021-3064-acdd0541c664">-My First RCE from N/A to Triaged (CVE-2021–3064)</a>
 
+<a href="https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60">-RCE via WebDav - Power Of PUT</a>
+
 <a href="https://bugcrowd.com/disclosures/7b175e9d-8ff0-47e3-bd33-a8b1e51aa499/http-desync-attack-request-smuggling-mass-session-hijacking">-HTTP Desync Attack (Request Smuggling) - Mass Session Hijacking</a>
 
 <a href="https://orwaatyat.medium.com/how-i-found-multiple-bugs-on-facebook-in-1-month-and-a-part-for-my-methodology-tools-58a677a9040c">-How I Found Multiple Bugs On FaceBook In 1 Month And a Part For My Methodology & Tools</a>
@@ -296,6 +302,7 @@
 <a href="https://0xjoyghosh.medium.com/information-gathering-scanning-for-sensitive-information-reloaded-6ff3455e0d4e">-Information Gathering&scanning for sensitive information</a>
 
 <a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22">-The easiest $2500 I got it from bug bounty program</a>
+
 
 
 
@@ -374,7 +381,7 @@
 
 
 
-## Cryptographic Issues / Bugs
+## Cryptographic Issues / Bugs (Updating soon...)
 
 ## Injection Issues / Bugs
 
@@ -463,6 +470,12 @@
 
 <a href="https://joonas.fi/2021/08/saml-is-insecure-by-design/">-SAML is insecure by design</a>
 
+<a href="https://medium.com/@Mrcyberwarrior/exploiting-activity-in-medium-android-app-e2e6f3553eef">-Trigger custom URL in Medium Android app</a>
+
+<a href="https://hackerone.com/reports/1167753">-Add new managed stores without permission</a>
+
+
+
 
 
 <a href="https://hosein-vita.medium.com/laravel-8-x-image-upload-bypass-zero-day-852bd806019b">-Laravel 8.x image upload bypass</a>
@@ -487,7 +500,11 @@
 <A href="http://ysamm.com/?p=627">-Leaking Facebook user information to external websites ($2000)</a>
 
 
+
+
 ## Security Misconfiguration
+
+<a href="https://xcheater.medium.com/all-about-password-reset-vulnerabilities-3bba86ffedc7">-All about Password Reset vulnerabilities</a>
 
 <a href="https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c">-How I hacked thousand of subdomains</a>
 
@@ -553,6 +570,10 @@
 <a href="https://flatt.tech/reports/210401_pwn2own/">-Pwn2Own Local Escalation of Privilege Category</a>
 
 <a href="https://www.varonis.com/blog/box-mfa-bypass-totp/">-Bypassing Box’s Time-based One-Time Password MFA</a>
+
+<a href="https://portswigger.net/daily-swig/add-yourself-as-super-admin-researcher-details-easy-to-exploit-bug-that-exposed-gsuite-accounts-to-full-takeover">-‘Add yourself as super admin’ – Researcher details easy-to-exploit bug that exposed GSuite accounts to full takeover</a>
+
+<a href="https://thalium.github.io/blog/posts/deserialization-bug-through-rdp-smart-card-extension/">-Remote Deserialization Bug in Microsoft's RDP Client through Smart Card Extension (CVE-2021-38666) Bounty award: $5,000.</a>
 
   
 
@@ -627,7 +648,7 @@
 
 
 
-## Security Logging and Monitoring (Updating soon)
+## Security Logging and Monitoring (Updating soon...)
 
 ## Server-Side Request Forgery
 
@@ -701,6 +722,12 @@
 <a href="https://medium.com/@Sm9l/bug-bounty-recon-vertical-correlation-and-the-secret-to-succeeding-cdd532c777c9">-Bug Bounty Recon: Vertical Correlation (and the secret to succeeding)</a>
 
 <a href="https://www.wordfence.com/blog/2022/02/critical-vulnerabilities-in-php-everywhere-allow-remote-code-execution/">-Critical Vulnerabilities in PHP Everywhere Allow Remote Code Execution</a>
+
+<a href="https://blog.intigriti.com/2021/10/06/bug-bytes-141-sesh-gremlin-attack-rce-via-password-field-pwning-xmlsec-for-info-disclosure-and-bounties/">-Sesh Gremlin attack, RCE via password field & Pwning XMLSec for info disclosure and bounties</a>
+
+<a href="https://hackerone.com/reports/584603">-RCE on CS:GO client using unsanitized entity ID in EntityMsg message</a>
+
+
 
 
 
@@ -793,6 +820,10 @@
 
 # API Vulnerability Testing 
 <a href="https://monke.ie/api-vulns-casestudy/">-A Case Study of API Vulnerabilities</a>
+
+<a href="https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64">-What is BOLA? 3-digit bounty from Topcoder ($$$)</a>
+
+<a href="https://medium.com/@Mrcyberwarrior/exploiting-activity-in-medium-android-app-e2e6f3553eef">-Trigger custom URL in Medium Android app</a>
 
 
 # Cheat-Sheets for Cybersecurity 
