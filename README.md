@@ -295,6 +295,8 @@
 
 <a href="https://0xjoyghosh.medium.com/information-gathering-scanning-for-sensitive-information-reloaded-6ff3455e0d4e">-Information Gathering&scanning for sensitive information</a>
 
+<a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22">-The easiest $2500 I got it from bug bounty program</a>
+
 
 
 
@@ -513,6 +515,8 @@
 
 <a href="https://medium.com/@botami143/i-have-found-microsoft-subdomain-website-database-list-database-username-password-1dab07d0c8ea">-I have Found Microsoft Subdomain Website database list, database username, password </a>
 
+<a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
+
 <a href="https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf">-Demographic Misconfiguration on Facebook live </a>
 
 <a href="https://threatpost.com/valve-bug-unlimited-funds/168710/">-Critical Valve Bug Lets Gamers Add Unlimited Funds to Steam Wallets</a>
@@ -530,6 +534,8 @@
 
 <a href="https://medium.com/@Bhichher/open-redirect-vulnerability-some-common-payloads-fd1dcd73541c">-Open Redirect Vulnerability & Some Common Payloads</a>
 
+<a href="https://proviesec.medium.com/broken-link-hijacking-what-it-is-and-how-to-get-bounties-with-it-ca64db6a3f74">-Broken Link hijacking — What it is and how to get bounties with it!</a>
+
 
 <a href="https://blog.appsecco.com/exploiting-weak-configurations-in-google-identity-platform-cbddbd0e71e3">-Exploiting weak configurations in Google Cloud Identity Platform</a>
 
@@ -539,6 +545,20 @@
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
 
 <a href="https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c">-CORS misconfig that worths USD200</a>
+
+<a href="https://hackerone.com/reports/1256375">-Blog posts atom feed of a store with password protection can be accessed by anyone</a>
+
+<a href="https://medium.com/immunefi/enzyme-finance-price-oracle-manipulation-bug-fix-postmortem-4e1f3d4201b5">-Enzyme Finance Price Oracle Manipulation Bug Fix Postmortem</a>
+
+<a href="https://flatt.tech/reports/210401_pwn2own/">-Pwn2Own Local Escalation of Privilege Category</a>
+
+<a href="https://www.varonis.com/blog/box-mfa-bypass-totp/">-Bypassing Box’s Time-based One-Time Password MFA</a>
+
+  
+
+
+
+
 
 
 
@@ -554,6 +574,8 @@
 <a href="https://www.cyberkl.com/cvelist/cvedetail/24">-Writeup for an iOS 15 exploit that can achieve kernel</a>
 
 
+
+
 ## Identification and Authentication Issues / Bugs
 
 <a href="https://hackerone.com/reports/921780">-Improper Authentication - any user can login as other user with otp/logout & otp/login</a>
@@ -561,6 +583,8 @@
 <a href="https://medium.com/@TutorialBoy24/a-summary-of-oauth-2-0-attack-methods-36834805c631">-A Summary of OAuth 2.0 Attack Methods</a>
 
 <a href="https://rammk01.medium.com/bypassed-the-subscription-and-got-the-certification-27c571c2f383">-Bypassed the subscription and got the certification</a>
+
+<a href="https://portswigger.net/daily-swig/security-researcher-finds-dangerous-bug-in-chromium-nabs-15-000-bounty">-Security researcher finds dangerous bug in Chromium, nabs $15,000 bounty</a>
 
 <a href="https://vaibhavgaikwad1712.medium.com/2fa-bypass-using-response-manipulation-29d6c2583936">-2fa Bypass Using Response Manipulation</a>
 
@@ -580,6 +604,10 @@
 
 <a href="https://medium.com/@sajan.dhakate/exploiting-json-web-token-jwt-73d172b5bc02">-EXPLOITING JSON WEB TOKEN [JWT]</a>
 
+<a href="https://thehackernews.com/2022/01/researchers-bypass-sms-based-multi.html">-Researchers Bypass SMS-based Multi-Factor Authentication Protecting Box Accounts</a>
+
+
+
 
 
 
@@ -593,9 +621,13 @@
 
 <a href="https://dhiyaneshgeek.github.io/web/security/2021/09/04/dependency-confusion/">-Dependency Confusion</a>
 
+<a href="https://medium.com/@bababounty99/race-condition-resulted-in-using-the-feature-which-was-supposed-to-be-obtained-after-subscription-2bfe968d358c">-Race Condition — Resulted in using the feature which was supposed to be obtained after subscription.</a>
 
 
-## Security Logging and Monitoring
+
+
+
+## Security Logging and Monitoring (Updating soon)
 
 ## Server-Side Request Forgery
 
@@ -633,6 +665,11 @@
 
 <a href="https://blog.neolex.dev/13/">-Critical SSRF on Evernote</a>
 
+<a href="https://thehemdeep.medium.com/cross-site-port-attack-in-wild-9d2f6af36455">-Cross Site Port Attack in Wild</a>
+
+
+
+
 
 # Chained Issues / Chained Bugs : 
 <a href="https://medium.com/@tushar.tilak.sharma/a-tale-of-open-redirection-to-stored-xss-6ad426ae9d43">-A Tale of Open Redirection to Stored XSS</a>
@@ -659,6 +696,16 @@
 
 <a href="https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-account-on-one-of-europes-largest-media-companies-e8d25e59c08">-How I Was Able To TakeOver Any Account On One Of Europe's Largest Media Companies</a>
 
+<a href="https://bountyget.medium.com/rce-on-starbucks-singapore-and-more-for-5600-926c930bb61e">-RCE on Starbucks Singapore and more for $5600</a>
+
+<a href="https://medium.com/@Sm9l/bug-bounty-recon-vertical-correlation-and-the-secret-to-succeeding-cdd532c777c9">-Bug Bounty Recon: Vertical Correlation (and the secret to succeeding)</a>
+
+<a href="https://www.wordfence.com/blog/2022/02/critical-vulnerabilities-in-php-everywhere-allow-remote-code-execution/">-Critical Vulnerabilities in PHP Everywhere Allow Remote Code Execution</a>
+
+
+
+
+
 
 
 
@@ -671,6 +718,8 @@
 
 
 <a href="https://www.hackingarticles.in/android-penetration-testing-frida/">-Android Penetration Testing: Frida </a>
+
+<a href="https://medium.com/@yoshimlutfi/bypass-ssl-pinning-with-ip-forwarding-iptables-568171b52b62">-ByPass SSL Pinning with IP Forwarding | iptables</a>
 
 <a href="https://github.com/cyberheartmi9/Frida-Guide/blob/main/Frida%20Guide/Frida%20Guide.md">-How to Write Frida Hook For Android</a>
 
