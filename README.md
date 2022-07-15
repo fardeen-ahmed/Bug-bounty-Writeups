@@ -133,7 +133,6 @@
 
 <a href="https://github.com/gfek/Lepus">-Lepus is a tool for enumerating subdomains, checking for subdomain takeovers and perform port scans - and boy, is it fast!</a>
 
-<a href="https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee">-SVG based Stored XSS</a>
 
 <a href="https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae">-A tale of zero click account takeoverhttps://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae</a>
 
@@ -488,6 +487,8 @@
 <a href="https://youtu.be/RtJXgGb3uJ0">-Stored XSS in Wordpress.com</a>
 
 <a href="https://maordayanofficial.medium.com/stored-xss-at-trello-com-ef2e3d1ed24b">-Stored XSS at Trello</a>
+
+<a href="https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee">-SVG based Stored XSS</a>
 
 <a href="https://medium.com/@youghourtaghannei/postmessage-xss-vulnerability-on-private-program-18e773e1a1ba">-PostMessage Xss vulnerability on private program</a>
 
