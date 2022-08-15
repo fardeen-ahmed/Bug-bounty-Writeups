@@ -706,6 +706,8 @@
 <a href="https://blog.assetnote.io/2022/02/20/logicflaw-dynamicweb-rce/">-Logic Flaw Leading to RCE in Dynamicweb 9.5.0 - 9.12.7</a>
 
 <a href="https://www.cyberkl.com/cvelist/cvedetail/24">-Writeup for an iOS 15 exploit that can achieve kernel</a>
+  
+<a href="https://github.com/hakivvi/CVE-2022-29464">-WSO2 RCE (CVE-2022-29464) exploit and writeup</a>
 
 
 
