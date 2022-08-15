@@ -43,6 +43,8 @@
 
 <a href="https://github.com/s0md3v/Smap">-Smap : a drop-in replacement for Nmap powered by shodan.io</a>
 
+<a href="https://github.com/Stonzyy/dumpxss">-DumpXSS. Scanner Tool For XSS Vulnerability</a>
+
 
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
 
@@ -65,6 +67,8 @@
 <a href="https://github.com/sa7mon/S3Scanner">-S3Scanner - Scan for open S3 buckets and dump the contents </a>
 
 <a href="https://www.revshells.com/">-Online - Reverse Shell Generator</a>
+
+<a href="https://www.hackingarticles.in/a-detailed-guide-on-cewl/">-A Detailed Guide on Cewl</a>
 
 <a href="https://github.com/carlospolop/PurplePanda">-PurplePanda : Identify privilege escalation paths within and across different clouds</a>
 
@@ -424,6 +428,8 @@
 
 <a href="https://bugcrowd.com/disclosures/aac249ea-fe92-4b43-98e9-dda021c0ff4d/postmessage-xss-in-tesla-payment-page">-postMessage XSS in Tesla Payment page </a>
 
+<a href="https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743">-XSS Through The Front-Door @ GitLab</a>
+
 <a href="https://portswigger.net/daily-swig/html-parser-bug-triggers-chromium-xss-security-flaw">-HTML parser bug triggers Chromium XSS security flaw</a>
 
 <a href="https://infosecwriteups.com/how-i-was-able-to-find-50-cross-site-scripting-xss-security-vulnerabilities-on-bugcrowd-public-ba33db2b0ab1">-How I was able to find 50+ Cross-site scripting (XSS) Security Vulnerabilities on Bugcrowd Public Program</a>
@@ -526,6 +532,12 @@
 
 <a href="https://mayank-01.medium.com/hacking-microservices-for-fun-and-bounty-5cc302769e94">-Hacking Microservices For Fun and Bounty</a>
 
+<a href="https://medium.com/@_ip_/3-3-cache-poisoning-lateral-movement-gitlab-9c6288708576">-Cache Poisoning & Lateral Movement @ GitLab</a>
+
+<a href="https://snapsec.co/blog/Attacking-File-Uploads-in-Modern-Web-Apps/">-Attacking File Uploads in Modern Web Applications</a>
+
+<a href="https://medium.com/@vflexo/full-account-takeover-via-open-redirection-41c167db46">-Full Account Takeover via Open Redirection </a>
+
 
 
 
@@ -569,6 +581,8 @@
 
 <a href="https://xcheater.medium.com/all-about-csrf-flaw-7d525be39587">-All About CSRF Flaw</a>
 
+<a href="https://hackerone.com/reports/1497169">-CSRF protection bypass in GitHub Enterprise management console</a>
+
 <a href="https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc">-Common Nginx Misconfiguration leads to Path Traversal</a>
 
 <a href="https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/">-How to exploit insecure WebResourceResponse configurations + an example vulnerability in Amazon apps</a>
@@ -592,6 +606,8 @@
 <a href="https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf">-Demographic Misconfiguration on Facebook live </a>
 
 <a href="https://threatpost.com/valve-bug-unlimited-funds/168710/">-Critical Valve Bug Lets Gamers Add Unlimited Funds to Steam Wallets</a>
+
+<a href="https://medium.com/@hacxyk/how-we-spoofed-ens-domains-52acea2079f6">-How we spoofed ENS domains for $15k</a>
 
 
 <a href="https://hackerone.com/reports/1104874">-Basecamp disclosed on HackerOne: Insecure Bundler configuration</a>
@@ -886,6 +902,8 @@
 <a href="https://www.oliviaohara.com/keybase">-Keybase App Vulnerability: Incomplete Cleanup of Messages In Keybase for Android/iOS - CVE-2021-34421</a>
   
 <a href="https://dphoeniixx.medium.com/exploiting-request-forgery-on-mobile-applications-e1d196d187b3">-Exploiting Request forgery on Mobile Applications</a>
+
+<a href="https://blog.lexfo.fr/dexguard.html">-Step-by-step guide to reverse an APK protected with DexGuard using Jadx</a>
   
 <a href="https://github.com/Ralireza/Android-Security-Teryaagh">-Android security guides, roadmap, docs, courses, write-ups, and teryaagh</a>
   
@@ -905,6 +923,8 @@
 <a href="https://martabyte.github.io/ios/hacking/2022/03/13/ios-hacking-en.html">-iOS Hacking - A Beginner's Guide to Hacking iOS Apps [2022 Edition]</a>
 
 <a href="https://thebittimes.com/ios-jailbreak-dev-wins-2m-bounty-for-finding-critical-optimism-bug-tbt11643.html">-iOS jailbreak dev wins $2M bounty for finding critical Optimism bug</a>
+
+<a href="https://www.ryanpickren.com/safari-uxss">-Hacking the Apple Webcam (again)</a>
 
 
 
