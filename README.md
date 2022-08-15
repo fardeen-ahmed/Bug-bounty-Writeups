@@ -715,6 +715,8 @@
 <a href="https://medium.com/@TutorialBoy24/a-summary-of-oauth-2-0-attack-methods-36834805c631">-A Summary of OAuth 2.0 Attack Methods</a>
 
 <a href="https://rammk01.medium.com/bypassed-the-subscription-and-got-the-certification-27c571c2f383">-Bypassed the subscription and got the certification</a>
+  
+<a href="https://medium.com/@jjowi/broken-authentication-login-with-google-b170fbb4b6d0">-Broken Authentication Login With Google</a>
 
 <a href="https://portswigger.net/daily-swig/security-researcher-finds-dangerous-bug-in-chromium-nabs-15-000-bounty">-Security researcher finds dangerous bug in Chromium, nabs $15,000 bounty</a>
 
@@ -918,6 +920,8 @@
 <a href="https://twitter.com/cyph3r_asr/status/1413438299545296902">-10 Vulnerable Android Applications for beginners to learn Android  hacking</a>
   
 <a href="https://blog.oversecured.com/Android-security-checklist-webview/">-Android security checklist: WebView</a>
+  
+<a href="https://www.eff.org/deeplinks/2022/04/mobile-mitm-intercepting-your-android-app-traffic-go">-Mobile MitM: Intercepting your Android App Traffic On the Go</a>
 
 
 
