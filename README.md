@@ -442,6 +442,8 @@
 
 <a href="https://medium.com/@armaanpathan/exploiting-dom-based-xss-via-misconfigured-postmessage-function-bfc794969a0a">-Exploiting DOM Based XSS via Misconfigured postMessage() Function</a>
 
+<a href="https://medium.com/@tobydavenn/stored-xss-to-other-users-via-messages-e033239821b5">-Stored XSS To Other Users Via Messages</a>
+
 <a href="https://0u.ma/5">-Cache Poisoning via SelfXSS + Path Parameter</a>
 
 <a href="https://godiego.tech/posts/STO/">-Subdomain Takeover in Azure: making a PoC</a>
