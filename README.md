@@ -218,6 +218,8 @@
 
 <a href="https://ahmdhalabi.medium.com/ultimate-reconnaissance-roadmap-for-bug-bounty-hunters-pentesters-507c9a5374d">-Ultimate Reconnaissance RoadMap for Bug Bounty Hunters & Pentesters</a>
 
+<a href="https://hackerone.com/reports/1501611">-An attacker can archive and unarchive any structured scope object on HackerOne</a>
+
 <a href="https://hackerone.com/reports/1295844">-Modify in-flight data to payment provider Smart2Pay</a>
 
 <a href="https://arxiv.org/pdf/2110.07450.pdf">-Bugs in our Pockets: The Risks of Client-Side Scanning</a>
@@ -476,6 +478,8 @@
 <a href="https://octagon.net/blog/2022/03/02/apache-jspwiki-preauth-xss-to-ato/">-CVE-2022-24948: Apache JSPWiki preauth Stored XSS to ATO</a>
 
 <a href="https://sapt.medium.com/stored-xss-non-privileged-user-to-anyone-using-qr-code-dfeb0bd98a5">-Stored XSS: Non-Privileged User to Anyone Using QR Code</a>
+
+<a href="https://palisade.consulting/blog/rarible-vulnerability">-Palisade identifies Wormable Cross-Site Scripting Vulnerability affecting Rarible’s NFT Marketplace</a>
 
 
 <a href="https://github.com/lleavesl/CVE-2021-26084">-CVE-2021-26084，Atlassian Confluence OGNL</a>
