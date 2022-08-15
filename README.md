@@ -452,6 +452,8 @@
 
 <a href="https://thevillagehacker.medium.com/time-based-sql-injection-to-dumping-the-database-da0e5bcaa9df">-Time-Based SQL Injection to Dumping the Database</a>
 
+<a href="https://portswigger.net/research/new-xss-vectors">-New XSS vectors</a>
+
 <a href="https://hackerone.com/reports/1212067">-Stored XSS in markdown via the DesignReferenceFilter</a>
 
 <a href="https://hackerone.com/reports/977697">-Stored-XSS in merge requests</a>
@@ -808,6 +810,8 @@
 <a href="https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read/">-SSRF in PDF export with PhantomJs </a>
 
 <a href="https://portswigger.net/daily-swig/java-rmi-services-often-vulnerable-to-ssrf-attacks-research">-Java RMI services often vulnerable to SSRF attacks – research</a>
+  
+<a href="https://goteleport.com/blog/ssrf-attacks/">-SSRF Attack Examples and Mitigations</a>
 
 <a href="https://xelkomy.medium.com/easy-ssrf-from-wayback-machine-edf946486120">-Easy SSRF from Wayback Machine</a>
 
