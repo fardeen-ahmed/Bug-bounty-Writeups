@@ -376,6 +376,8 @@
 
 <a href="https://kuldeep.io/posts/path-traversal-paradise/">-Path Traversal Paradise</a>
 
+<a href="https://medium.com/@divyanshsharma2401/bypassing-waf-for-2222-f99b80cfdb9b">-Bypassing WAF for $2222</a>
+
 <a href="https://encodedguy.medium.com/600-for-idor-file-or-folder-download-243166452dad">-$600 for IDOR (File or Folder Download)</a>
 
 <a href="https://amit-lt.medium.com/a-story-of-idor-which-leads-to-privacy-violation-78c1b4c710fb">-A Story of IDOR which leads to privacy violation…$$$</a>
@@ -726,6 +728,8 @@
 <a href="https://medium.com/@jjowi/broken-authentication-login-with-google-b170fbb4b6d0">-Broken Authentication Login With Google</a>
 
 <a href="https://portswigger.net/daily-swig/security-researcher-finds-dangerous-bug-in-chromium-nabs-15-000-bounty">-Security researcher finds dangerous bug in Chromium, nabs $15,000 bounty</a>
+  
+<a href="https://hackerone.com/reports/1552110">-OAUTH2 bearer not-checked for connection re-use</a>
 
 <a href="https://vaibhavgaikwad1712.medium.com/2fa-bypass-using-response-manipulation-29d6c2583936">-2fa Bypass Using Response Manipulation</a>
 
