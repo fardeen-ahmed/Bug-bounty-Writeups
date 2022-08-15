@@ -13,6 +13,7 @@
 
 
 
+
 <a href="https://github.com/tristanlatr/burpa">-Burp Automator - A Burp Suite Automation Tool. It provides a high level CLI and Python interfaces to Burp Suite scanner and can be used to setup Dynamic Application Security Testing (DAST)</a>
 
 <a href="https://medium.com/@kaorrosi/osint-research-with-recon-ng-727661a70ea4">-OSINT Research With Recon-ng</a>
@@ -826,6 +827,8 @@
 <a href="https://blog.neolex.dev/13/">-Critical SSRF on Evernote</a>
 
 <a href="https://thehemdeep.medium.com/cross-site-port-attack-in-wild-9d2f6af36455">-Cross Site Port Attack in Wild</a>
+  
+<a href="https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/">-Encrypting our way to SSRF in VMWare Workspace One UEM (CVE-2021-22054)</a>
 
 
 
