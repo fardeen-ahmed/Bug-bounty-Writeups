@@ -550,6 +550,8 @@
 <a href="https://medium.com/@vflexo/full-account-takeover-via-open-redirection-41c167db46">-Full Account Takeover via Open Redirection </a>
 
 <a href="https://medium.com/@thehemdeep/bypassing-file-upload-restriction-using-magic-bytes-eb13e801f264">-Bypassing File Upload Restriction using Magic Bytes</a>
+  
+<a href="https://blog.assetnote.io/2022/05/03/hacking-a-bank-using-dotcms-rce/">-Hacking a Bank by Finding a 0day in DotCMS</a>
 
 
 
