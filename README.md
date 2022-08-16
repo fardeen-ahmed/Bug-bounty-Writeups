@@ -323,6 +323,8 @@
 
 <a href="https://blog.sonarsource.com/mybb-remote-code-execution-chain">-MyBB Remote Code Execution Chain</a>
 
+<a href="https://thehackernews.com/2022/05/critical-gems-takeover-bug-reported-in.html">-Critical Gems Takeover Bug Reported in RubyGems Package Manager</a>
+
 
 
 
