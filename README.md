@@ -71,6 +71,8 @@
 
 <a href="https://www.hackingarticles.in/a-detailed-guide-on-cewl/">-A Detailed Guide on Cewl</a>
 
+<a href="https://github.com/hakluke/hakoriginfinder">-hakoriginfinder : Tool for discovering the origin host behind a reverse proxy. Useful for bypassing WAFs and other reverse proxies</a>
+
 <a href="https://github.com/carlospolop/PurplePanda">-PurplePanda : Identify privilege escalation paths within and across different clouds</a>
 
 <a href="https://github.com/ethicalhackingplayground/TProxer">-A Burp Suite extension made to automate the process of finding reverse proxy path based SSRF</a>
