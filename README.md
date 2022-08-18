@@ -119,6 +119,8 @@
 
 <a href="https://github.com/redcode-labs/UnChain">-A tool to find redirection chains in multiple URLs</a>
 
+<a href="https://github.com/e-m-b-a/emba">-EMBA - The firmware security analyzer</a>
+
 
 <a href="https://github.com/morphean-sec/secure-smart-contract-design-principles">-Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts.</a>
 
