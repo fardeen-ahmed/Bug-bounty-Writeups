@@ -524,6 +524,8 @@
 
 <a href="https://maordayanofficial.medium.com/stored-xss-at-trello-com-ef2e3d1ed24b">-Stored XSS at Trello</a>
 
+<a href="https://medium.com/@mohameddhanish98/a-story-of-dom-xss-852b6ed3bb5f">-A Story of DOM XSS</a>
+
 <a href="https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee">-SVG based Stored XSS</a>
 
 <a href="https://medium.com/@youghourtaghannei/postmessage-xss-vulnerability-on-private-program-18e773e1a1ba">-PostMessage Xss vulnerability on private program</a>
