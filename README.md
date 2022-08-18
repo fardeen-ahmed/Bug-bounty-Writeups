@@ -269,6 +269,8 @@
 
 <a href="https://medium.com/@Hossam.Mesbah/he-is-already-here-privileges-escalation-due-to-invalidating-current-users-148069015716">-He is already here: Privileges escalation due to invalidating current users</a>
 
+<a href="https://ysamm.com/?p=763">-Multiple bugs chained to takeover Facebook Accounts which uses Gmail.</a>
+
 
 
 <a href="https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b">-Hacking the Blockchain: An Ultimate Guide</a>
