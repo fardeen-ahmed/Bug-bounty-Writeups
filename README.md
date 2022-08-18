@@ -472,6 +472,8 @@
 
 <a href="https://portswigger.net/research/new-xss-vectors">-New XSS vectors</a>
 
+<a href="https://www.vidocsecurity.com/blog/hacking-swagger-ui-from-xss-to-account-takeovers/">-Hacking Swagger-UI - from XSS to account takeovers</a>
+
 <a href="https://hackerone.com/reports/1212067">-Stored XSS in markdown via the DesignReferenceFilter</a>
 
 <a href="https://hackerone.com/reports/977697">-Stored-XSS in merge requests</a>
