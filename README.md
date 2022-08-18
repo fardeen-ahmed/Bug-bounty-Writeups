@@ -271,6 +271,10 @@
 
 <a href="https://ysamm.com/?p=763">-Multiple bugs chained to takeover Facebook Accounts which uses Gmail.</a>
 
+<a href="https://secret.club/2022/05/11/fuzzing-solana.html">-Earn $200K by fuzzing for a weekend: Part 1</a>
+
+<a href="https://secret.club/2022/05/11/fuzzing-solana-2.html">-Earn $200K by fuzzing for a weekend: Part 2</a>
+
 
 
 <a href="https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b">-Hacking the Blockchain: An Ultimate Guide</a>
