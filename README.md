@@ -313,6 +313,8 @@
 
 <a href="https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/">-How I got access to many PIIs through a source code leak</a>
 
+<a href="https://fourcore.io/blogs/f5-big-ip-cve-2022-1388-unauthenticated-rce-exploited-by-attackers">-F5 BIG-IP Critical Vulnerability Exploited By Attackers To Gain Unauthenticated RCE</>
+
 
 
 <a href="https://sidxparab.gitbook.io/subdomain-enumeration-guide/">-Subdomain Enumeration Guide 2021 </a>
