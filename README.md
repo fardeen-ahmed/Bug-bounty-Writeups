@@ -325,6 +325,7 @@
 
 <a href="https://thehackernews.com/2022/05/critical-gems-takeover-bug-reported-in.html">-Critical Gems Takeover Bug Reported in RubyGems Package Manager</a>
 
+<a href="https://portswigger.net/research/hunting-evasive-vulnerabilities">-Hunting evasive vulnerabilities</a>
 
 
 
