@@ -121,6 +121,8 @@
 
 <a href="https://github.com/e-m-b-a/emba">-EMBA - The firmware security analyzer</a>
 
+<a href="https://github.com/dwisiswant0/findom-xss">-FinDOM-XSS is a tool that allows you to finding for possible and/ potential DOM based XSS vulnerability in a fast manner.</a>
+
 
 <a href="https://github.com/morphean-sec/secure-smart-contract-design-principles">-Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts.</a>
 
