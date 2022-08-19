@@ -966,6 +966,8 @@
   
 <a href="https://www.eff.org/deeplinks/2022/04/mobile-mitm-intercepting-your-android-app-traffic-go">-Mobile MitM: Intercepting your Android App Traffic On the Go</a>
 
+<a href="https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files/">-Android security checklist: theft of arbitrary files</a>
+
 
 
 
