@@ -494,6 +494,8 @@
 
 <a href="https://hackerone.com/reports/1504410">-XSS via Mod Log Removed Post</a>
 
+<a href="https://hackerone.com/reports/1481207">-Stored XSS in Notes (with CSP bypass for gitlab.com)</a>
+
 
 <a href="https://jasminderpalsingh.info/stored-xss-in-google-doubleclick-studio-google-research-grant/">-Stored XSS in Google Doubleclick Studio</a>
 
