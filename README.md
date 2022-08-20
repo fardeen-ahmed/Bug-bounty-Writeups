@@ -11,6 +11,8 @@
 
 <a href="https://github.com/m8r0wn/taser">-Taser : Python3 resource library for creating security related tooling</a>
 
+<a href="https://github.com/thelicato/fire">-fire is a simple tool meant to work in a pipeline of other scripts. It takes domains on stdin and outputs them on stdout if they resolve. </a>
+
 
 
 
