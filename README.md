@@ -259,6 +259,8 @@
 
 <a href="https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/">-The second part of discovered vulnerabilities in pre-installed apps on Samsung devices</a>
 
+<a href="https://www.youtube.com/watch?v=ZUXUz22dCiQ">-$300 Google API key leaked to Public on Live Website</a>
+
 <a href="https://amakki.me/full-account-takeover-vulnerability-in-minecraft-f56076c8287d">-Full account takeover vulnerability in Minecraft</a>
 
 <a href="https://redhuntlabs.com/blog/5-ways-to-exploit-a-domain-takeover-vulnerability.html">-5 Ways to Exploit a Domain Takeover Vulnerability</a>
