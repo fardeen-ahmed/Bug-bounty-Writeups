@@ -245,6 +245,8 @@
 
 <a href="https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962">-Story of my first cash bounty on hackerone</a>
 
+<a href="https://vikaran101.medium.com/how-i-made-it-into-the-united-nations-hall-of-fame-as-i-slept-f567c90be227">-How I made it into the United Nations hall of fame as I slept</a>
+
 <a href="https://chaosdb.wiz.io/">-Critical Vulnerability in Microsoft Azure Cosmos DB</a>
 
 <a href="https://sinsinology.medium.com/bug-bounty-short-tips-as-image-b4075523e4ef">-Bug Bounty Short Tips as image</a>
