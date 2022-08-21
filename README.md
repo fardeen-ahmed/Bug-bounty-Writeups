@@ -883,6 +883,8 @@
 <a href="https://thehemdeep.medium.com/cross-site-port-attack-in-wild-9d2f6af36455">-Cross Site Port Attack in Wild</a>
   
 <a href="https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/">-Encrypting our way to SSRF in VMWare Workspace One UEM (CVE-2021-22054)</a>
+  
+<a href="https://gccybermonks.com/posts/ssrfvision/">-Another vision for SSRF</a>
 
 
 
