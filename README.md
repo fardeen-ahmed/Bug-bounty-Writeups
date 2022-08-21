@@ -527,6 +527,8 @@
 
 <a href="https://sapt.medium.com/stored-xss-non-privileged-user-to-anyone-using-qr-code-dfeb0bd98a5">-Stored XSS: Non-Privileged User to Anyone Using QR Code</a>
 
+<a href="https://jlajara.gitlab.io/Javascript_Hoisting_in_XSS_Scenarios">-Javascript Hoisting in XSS Scenarios</a>
+
 <a href="https://palisade.consulting/blog/rarible-vulnerability">-Palisade identifies Wormable Cross-Site Scripting Vulnerability affecting Rarible’s NFT Marketplace</a>
 
 
