@@ -237,6 +237,8 @@
 
 <a href="https://arxiv.org/pdf/2110.07450.pdf">-Bugs in our Pockets: The Risks of Client-Side Scanning</a>
 
+<a href="https://njmulsqb.engineer/2022/05/31/Hunting-Sourcemaps-On-Steroids.html">-Hunting Sourcemaps On Steroids</a>
+
 <a href="http://ysamm.com/?p=620">-Make recruiting referrals on behalf of employees ($3000)</a>
 
 <a href="https://jakearchibald.com/2021/cors/">-How to win at CORS</a>
