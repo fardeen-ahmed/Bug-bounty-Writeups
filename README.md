@@ -140,6 +140,8 @@
 
 <a href="https://github.com/glebarez/cero">-Cero : Scrape domain names from SSL certificates of arbitrary hosts</a>
 
+<a href="https://github.com/s0md3v/Smap">-Smap : passive Nmap like scanner built with shodan.io</a>
+  
 <a href="https://xkurtph.medium.com/shopify-plugin-bypass-using-client-side-injection-thru-api-implementation-vulnerability-710d25105c8f">-Shopify Plugin Bypass using P3 Client-side injection thru API Implementation Vulnerability</a>
 
 <a href="https://github.com/aquasecurity/trivy">-A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI</a>
