@@ -261,6 +261,8 @@
 
 <a href="https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0">-How I found a bug in Apple within just in 5min</a>
 
+<a href="https://blog.assetnote.io/2022/06/09/whatsup-gold-exploit/">-Chaining vulnerabilities to criticality in Progress WhatsUp Gold</a>
+
 <a href="https://medium.com/coinmonks/a-quick-guide-to-hack-private-variables-in-solidity-b45d5acb89c0">-A Quick Guide to Hack private variables in Solidity</a>
 
 <a href="https://vovohelo.medium.com/how-i-found-my-first-chrome-bug-cve-2021-21210-248a21272248">-How I found my first Chrome bug</a>
@@ -288,6 +290,8 @@
 <a href="https://tuhin1729.medium.com/story-of-my-hacking-dutch-government-46b7a3c8b75a">-Story of my hacking Dutch Government</a>
 
 <a href="https://portswigger.net/daily-swig/gitlab-triages-bug-bounty-reported-flaws-with-latest-release">-GitLab triages bug bounty-reported flaws with latest release</a>
+
+<a href="https://portswigger.net/research/bypassing-csp-with-dangling-iframes">-Bypassing CSP with dangling iframes </a>
 
 <a href="https://medium.com/@Hossam.Mesbah/he-is-already-here-privileges-escalation-due-to-invalidating-current-users-148069015716">-He is already here: Privileges escalation due to invalidating current users</a>
 
