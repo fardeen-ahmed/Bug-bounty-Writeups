@@ -1010,6 +1010,8 @@
 <a href="https://thebittimes.com/ios-jailbreak-dev-wins-2m-bounty-for-finding-critical-optimism-bug-tbt11643.html">-iOS jailbreak dev wins $2M bounty for finding critical Optimism bug</a>
 
 <a href="https://www.ryanpickren.com/safari-uxss">-Hacking the Apple Webcam (again)</a>
+  
+<a href="https://www.inversecos.com/2022/06/how-to-reverse-engineer-and-patch-ios.html">-How to Reverse Engineer and Patch an iOS Application for Beginners:</a>
 
 
 
