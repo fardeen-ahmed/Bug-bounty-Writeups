@@ -259,6 +259,8 @@
 
 <a href="https://chaosdb.wiz.io/">-Critical Vulnerability in Microsoft Azure Cosmos DB</a>
 
+<a href="https://medium.com/@sazouki/how-i-hacked-one-of-the-biggest-airline-in-the-world-e7810dc43791">-How I hacked one of the biggest Airline in the world</a>
+
 <a href="https://sinsinology.medium.com/bug-bounty-short-tips-as-image-b4075523e4ef">-Bug Bounty Short Tips as image</a>
 
 <a href="https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0">-How I found a bug in Apple within just in 5min</a>
