@@ -255,6 +255,8 @@
 
 <a href="https://vikaran101.medium.com/how-i-made-it-into-the-united-nations-hall-of-fame-as-i-slept-f567c90be227">-How I made it into the United Nations hall of fame as I slept</a>
 
+<a href="https://spaceraccoon.dev/embedding-payloads-bypassing-controls-microsoft-infopath/">-Embedding Payloads and Bypassing Controls in Microsoft InfoPath</a>
+
 <a href="https://chaosdb.wiz.io/">-Critical Vulnerability in Microsoft Azure Cosmos DB</a>
 
 <a href="https://sinsinology.medium.com/bug-bounty-short-tips-as-image-b4075523e4ef">-Bug Bounty Short Tips as image</a>
