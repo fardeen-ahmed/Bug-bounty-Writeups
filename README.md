@@ -13,8 +13,7 @@
 
 <a href="https://github.com/thelicato/fire">-fire is a simple tool meant to work in a pipeline of other scripts. It takes domains on stdin and outputs them on stdout if they resolve. </a>
 
-
-
+<a href="https://slowmist.medium.com/metamask-clickjacking-vulnerability-analysis-f3e7c22ff4d9">-MetaMask Clickjacking Vulnerability Analysis</a>
 
 <a href="https://github.com/tristanlatr/burpa">-Burp Automator - A Burp Suite Automation Tool. It provides a high level CLI and Python interfaces to Burp Suite scanner and can be used to setup Dynamic Application Security Testing (DAST)</a>
 
