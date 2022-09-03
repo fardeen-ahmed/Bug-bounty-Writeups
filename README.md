@@ -344,6 +344,8 @@
 
 <a href="https://hackerone.com/reports/1077136">-Denial of Service via Hyperlinks in Posts</a>
 
+<a href="https://phoenix-sec.io/2022/06/17/Zena-CookieMonsteRCE.html">-CookieMonsteRCE - XSS to RCE Exploitation in Zena 4.2.1</a>
+
 <a href="https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/">-How I got access to many PIIs through a source code leak</a>
 
 <a href="https://fourcore.io/blogs/f5-big-ip-cve-2022-1388-unauthenticated-rce-exploited-by-attackers">-F5 BIG-IP Critical Vulnerability Exploited By Attackers To Gain Unauthenticated RCE</>
