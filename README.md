@@ -209,6 +209,8 @@
 
 <a href="https://github.com/dwisiswant0/ppfuzz?tag=v1.0.0">-Prototype Pollution Fuzzer</a>
 
+<a href="https://github.com/Sachin-v3rma/Astra">-Astra finds urls, endpoints, aws buckets, api keys, tokens, etc from a given url/s</a>
+
 <a href="https://github.com/projectdiscovery/cloudlist">-Cloudlist is a tool for listing Assets from multiple Cloud Providers</a>
 
 <a href="https://github.com/as0ler/r2flutch">-r2flutch - tool to decrypt iOS apps using r2frida</a>
