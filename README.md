@@ -933,6 +933,8 @@
 <a href="https://portswigger.net/daily-swig/node-js-was-vulnerable-to-a-novel-http-request-smuggling-technique">-Node.js was vulnerable to a novel HTTP request smuggling technique</a>
 
 <a href="https://positive.security/blog/dompdf-rce">-From XSS to RCE (dompdf 0day)</a>
+  
+<a href="https://portswigger.net/research/bypassing-firefoxs-html-sanitizer-api">-Bypassing Firefox's HTML Sanitizer API</a>
 
 <A href="http://ysamm.com/?p=621">-Access private information about SparkAR effect owners who has a publicly viewable portfolio ($1500)</a>
 
