@@ -720,6 +720,8 @@
 <a href="https://blog.appsecco.com/exploiting-weak-configurations-in-google-identity-platform-cbddbd0e71e3">-Exploiting weak configurations in Google Cloud Identity Platform</a>
 
 <a href="https://blog.wpsec.com/wordpress-xxe-in-media-library-cve-2021-29447/">-WordPress XXE Vulnerability in Media Library – CVE-2021-29447 </a>
+  
+<a href="https://blog.huli.tw/2022/07/11/en/googlectf-2022-horkos-writeup/">-Insecure Deserialization in JavaScript: GoogleCTF 2022 Web/HORKOS Writeup</a>
 
 
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
