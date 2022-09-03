@@ -515,6 +515,8 @@
 
 <a href="https://thevillagehacker.medium.com/time-based-sql-injection-to-dumping-the-database-da0e5bcaa9df">-Time-Based SQL Injection to Dumping the Database</a>
 
+<a href="https://hackerone.com/reports/1367642">-Reflected Cross Site Scripting (XSS) on hone.newrelic.com</a>
+
 <a href="https://portswigger.net/research/new-xss-vectors">-New XSS vectors</a>
 
 <a href="https://hackerone.com/reports/1558010">-Blind XSS in app.pullrequest.com/████████ via /reviews/ratings/{uuid}</a>
