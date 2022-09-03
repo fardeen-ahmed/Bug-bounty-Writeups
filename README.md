@@ -960,6 +960,8 @@
 <a href="https://twitter.com/OAcybersecurity#bugbounty">-FORD Session token URL lead to Reflected XSS</a>
   
 <a href="https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e">-Escalating SSRF to Accessing all user PII information by aws metadata</a>
+  
+<a href="https://medium.com/@shakti.gtp/an-out-of-scope-domain-leads-to-a-critical-bug-1500-f228d2c7db4b">-An Out Of Scope domain Leads To a Critical Bug[$1500] </a>
 
   
 
