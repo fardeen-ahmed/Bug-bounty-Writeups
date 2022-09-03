@@ -560,6 +560,8 @@
 
 <a href="https://palisade.consulting/blog/rarible-vulnerability">-Palisade identifies Wormable Cross-Site Scripting Vulnerability affecting Rarible’s NFT Marketplace</a>
 
+<a href="https://www.gosecure.net/blog/2022/07/13/tableau-server-leaks-sensitive-information-from-reflected-xss/">-Tableau Server Leaks Sensitive Information From Reflected XSS</a>
+
 
 <a href="https://github.com/lleavesl/CVE-2021-26084">-CVE-2021-26084，Atlassian Confluence OGNL</a>
 
