@@ -306,6 +306,8 @@
 
 <a href="https://medium.com/@Hossam.Mesbah/he-is-already-here-privileges-escalation-due-to-invalidating-current-users-148069015716">-He is already here: Privileges escalation due to invalidating current users</a>
 
+<a href="https://portswigger.net/blog/finding-client-side-prototype-pollution-with-dom-invader">-Finding client-side prototype pollution with DOM Invader</a>
+
 <a href="https://ysamm.com/?p=763">-Multiple bugs chained to takeover Facebook Accounts which uses Gmail.</a>
 
 <a href="https://secret.club/2022/05/11/fuzzing-solana.html">-Earn $200K by fuzzing for a weekend: Part 1</a>
