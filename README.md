@@ -447,6 +447,8 @@
 
 <a href="https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad">-4300$ Instagram IDOR Bug (2022)</a>
 
+<a href="https://medium.com/@webresearcher007/how-i-was-able-to-delete-any-users-oauth-connections-via-idor-bf3a8e8e2269">-How I was able to delete any users’ OAUTH connections via IDOR</a>
+
 <a href="https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-users-account-on-a-major-telecoms-website-2cd5aa43e3d6">-How I was able to takeover any users account on a major telecoms website</a>
 
 <a href="https://aidilarf.medium.com/idor-via-get-request-which-can-sold-all-user-products-2f5bc3ea1650">-IDOR via GET Request which can SOLD all User Products</a>
