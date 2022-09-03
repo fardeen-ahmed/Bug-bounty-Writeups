@@ -927,6 +927,8 @@
 <a href="https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7">-Bypassing required reviews using GitHub Actions</a>
 
 <a href="https://medium.com/@haroonhameed_76621/achieving-remote-code-execution-via-unrestricted-file-upload-6050f360c218">-Achieving Remote Code Execution via Unrestricted File Upload</a>
+  
+<a href="https://0xmahmoudjo0.medium.com/admin-account-takeover-via-weird-password-reset-functionality-166ce90b1e58">-Admin account takeover via weird Password Reset Functionality</a>
 
 <a href="https://portswigger.net/daily-swig/node-js-was-vulnerable-to-a-novel-http-request-smuggling-technique">-Node.js was vulnerable to a novel HTTP request smuggling technique</a>
 
