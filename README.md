@@ -400,6 +400,8 @@
 
 <a href="https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/">-CVE-2021-4191: GitLab GraphQL API User Enumeration (FIXED)</a>
 
+<a href="https://github.com/gsmith257-cyber/GraphCrawler">-GraphQL automated security testing toolkit </a>
+
 
 
 
