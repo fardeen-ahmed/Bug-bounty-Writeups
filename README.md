@@ -1079,6 +1079,11 @@
 <a href="https://medium.com/@Mrcyberwarrior/exploiting-activity-in-medium-android-app-e2e6f3553eef">-Trigger custom URL in Medium Android app</a>
   
 <a href="https://masturf.medium.com/how-to-exploit-firebase-realtime-database-using-rest-api-34885160fa55">-How to Exploit Public Firebase Realtime Database using REST API</a>
+  
+# BlockChain Security
+<a href="https://github.com/0xsha/ChainWalker">-ChainWalker is a smart contract scraper which uses RCP/IPC calls to extract the information</a>
+
+<a href="https://github.com/blockthreat/blocksec-ctfs">-Blocksec CTFs - A curated list of blockchain security Wargames, Challenges, and Capture the Flag (CTF) competitions and solution writeups</a>
 
 
 # Cheat-Sheets for Cybersecurity 
