@@ -606,6 +606,8 @@
   
 <a href="https://www.verizonmedia.com/insights/promotion-public-004">SQL Injection Bugs on All Verizon Media Assets</a>
   
+<a href="https://www.techncyber.com/2022/07/sql-injection-at-authorization-token.html">-Exploiting SQL Injection at Authorization token</a>
+  
 
 
 
