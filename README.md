@@ -1124,6 +1124,8 @@
   
 <a href="https://masturf.medium.com/how-to-exploit-firebase-realtime-database-using-rest-api-34885160fa55">-How to Exploit Public Firebase Realtime Database using REST API</a>
   
+<a href="https://hencohen10.medium.com/microsoft-dynamics-container-sandbox-rce-via-unauthenticated-docker-remote-api-20-000-bounty-7f726340a93b">-Microsoft Dynamics Container Sandbox RCE via Unauthenticated Docker Remote API 20,000$ Bounty </a>
+  
 # BlockChain Security
 <a href="https://github.com/0xsha/ChainWalker">-ChainWalker is a smart contract scraper which uses RCP/IPC calls to extract the information</a>
 
