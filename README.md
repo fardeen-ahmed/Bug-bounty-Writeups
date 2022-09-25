@@ -629,6 +629,8 @@
   
 <a href="https://blog.assetnote.io/2022/05/03/hacking-a-bank-using-dotcms-rce/">-Hacking a Bank by Finding a 0day in DotCMS</a>
 
+<a href="https://medium.com/@arshiadev/paramspider-lead-to-find-sqli-vulnerability-995f6159564c">-Paramspider lead to find SQLI vulnerability</a>
+
 
 
 <a href="https://hosein-vita.medium.com/laravel-8-x-image-upload-bypass-zero-day-852bd806019b">-Laravel 8.x image upload bypass</a>
