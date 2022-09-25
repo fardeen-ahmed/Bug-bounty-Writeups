@@ -370,7 +370,9 @@
 
 <a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22">-The easiest $2500 I got it from bug bounty program</a>
 
-<a href="https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312">-Disclose leads form details of any Facebook Business Account or Facebook Page</a>
+<a href="https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312">-Disclose leads form details of any Facebook Business Account or Facebook Page</a>\
+
+<a href="https://eslam.io/posts/ejs-server-side-template-injection-rce/">-EJS, Server side template injection RCE (CVE-2022-29078) - writeup</a>
 
 <a href="https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/">-Remote code execution in cdnjs of Cloudflare</a>
 
