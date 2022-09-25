@@ -955,6 +955,8 @@
 <a href="https://0xmahmoudjo0.medium.com/admin-account-takeover-via-weird-password-reset-functionality-166ce90b1e58">-Admin account takeover via weird Password Reset Functionality</a>
 
 <a href="https://portswigger.net/daily-swig/node-js-was-vulnerable-to-a-novel-http-request-smuggling-technique">-Node.js was vulnerable to a novel HTTP request smuggling technique</a>
+  
+<a href="https://swarm.ptsecurity.com/exploiting-arbitrary-object-instantiations/">-Exploiting Arbitrary Object Instantiations in PHP without Custom Classes</a>
 
 <a href="https://positive.security/blog/dompdf-rce">-From XSS to RCE (dompdf 0day)</a>
   
