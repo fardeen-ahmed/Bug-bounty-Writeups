@@ -122,6 +122,8 @@
 
 <a href="https://github.com/e-m-b-a/emba">-EMBA - The firmware security analyzer</a>
 
+<a href="https://github.com/m3n0sd0n4ld/GooFuzz">-GooFuzz - GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).</a>
+
 <a href="https://github.com/fingerprintjs/gradejs">-GradeJS analyzes production Webpack bundles without having access to the source code of a website.</a>
 
 <a href="https://github.com/dwisiswant0/findom-xss">-FinDOM-XSS is a tool that allows you to finding for possible and/ potential DOM based XSS vulnerability in a fast manner.</a>
