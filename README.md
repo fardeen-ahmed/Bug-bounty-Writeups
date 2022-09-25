@@ -324,6 +324,8 @@
 
 <a href="https://medium.com/@taniyatesting11/bounty-evaluation-github-15-000-us-dollars-rate-limit-d6c07d73c948">-Bounty Evaluation GitHub = $15,000 US Dollars </a>
 
+<a href="https://starlabs.sg/blog/2022/07-gitlab-project-import-rce-analysis-cve-2022-2185/">-Gitlab Project Import RCE Analysis (CVE-2022-2185)</a>
+
 
 
 <a href="https://curtbraz.medium.com/a-konami-code-for-vuln-chaining-combos-1a29d0a27c2a">-A Konami Code for Vuln Chaining Combos</a>
