@@ -232,6 +232,8 @@
 
 <a href="https://www.tenable.com/blog/cve-2021-41773-path-traversal-zero-day-in-apache-http-server-exploited">-CVE-2021-41773: Path Traversal Zero-Day in Apache HTTP Server Exploited</a>
 
+<a href="https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-via-XSS/">-Here's my story about 8 CVEs resulting in a plugin removal and more than $30,000 in bounties!</a>
+
 <a href="https://hackerone.com/reports/1439026">-Discoverability by phone number/email restriction bypass</a>
 
 <a href="https://hackerone.com/reports/1273292">-Internal Gitlab Ticket Disclosure via External Slack Channels</a>
