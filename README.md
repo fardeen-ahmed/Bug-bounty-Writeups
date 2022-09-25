@@ -322,6 +322,8 @@
 
 <a href="https://secret.club/2022/05/11/fuzzing-solana-2.html">-Earn $200K by fuzzing for a weekend: Part 2</a>
 
+<a href="https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/">-CVE-2022-26712: The POC for SIP-Bypass Is Even Tweetable</a>
+
 <a href="https://blog.viettelcybersecurity.com/cve-2022-1040-sophos-xg-firewall-authentication-bypass/">-CVE-2022-1040 Sophos XG Firewall Authentication bypass</a>
 
 
