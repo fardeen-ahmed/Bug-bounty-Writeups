@@ -270,6 +270,8 @@
 
 <a href="https://spaceraccoon.dev/embedding-payloads-bypassing-controls-microsoft-infopath/">-Embedding Payloads and Bypassing Controls in Microsoft InfoPath</a>
 
+<a href="https://shahjerry33.medium.com/http-parameter-pollution-its-contaminated-again-95c75b0295e1">-HTTP Parameter Pollution - It’s Contaminated Again</a>
+
 <a href="https://chaosdb.wiz.io/">-Critical Vulnerability in Microsoft Azure Cosmos DB</a>
 
 <a href="https://medium.com/@sazouki/how-i-hacked-one-of-the-biggest-airline-in-the-world-e7810dc43791">-How I hacked one of the biggest Airline in the world</a>
