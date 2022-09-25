@@ -627,6 +627,8 @@
 
 <a href="https://medium.com/@thehemdeep/bypassing-file-upload-restriction-using-magic-bytes-eb13e801f264">-Bypassing File Upload Restriction using Magic Bytes</a>
   
+<a href="https://medium.com/@aditya043k/oauth-misconfiguration-leads-to-full-account-takeover-d93c0d0fb66c">-OAUTH Misconfiguration leads to Full Account Takeover</a>
+  
 <a href="https://blog.assetnote.io/2022/05/03/hacking-a-bank-using-dotcms-rce/">-Hacking a Bank by Finding a 0day in DotCMS</a>
 
 <a href="https://medium.com/@arshiadev/paramspider-lead-to-find-sqli-vulnerability-995f6159564c">-Paramspider lead to find SQLI vulnerability</a>
