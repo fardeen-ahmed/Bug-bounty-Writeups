@@ -926,6 +926,8 @@
 <a href="https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/">-Encrypting our way to SSRF in VMWare Workspace One UEM (CVE-2021-22054)</a>
   
 <a href="https://gccybermonks.com/posts/ssrfvision/">-Another vision for SSRF</a>
+  
+<a href="https://spidersilk.com/news/cloud-is-more-fun-with-an-ssrf">-Cloud is more fun with an SSRF</a>
 
 
 
