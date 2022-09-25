@@ -513,6 +513,8 @@
 
 <a href="https://portswigger.net/daily-swig/html-parser-bug-triggers-chromium-xss-security-flaw">-HTML parser bug triggers Chromium XSS security flaw</a>
 
+<a href="https://www.trustedsec.com/blog/scraping-login-credentials-with-xss/">-SCRAPING LOGIN CREDENTIALS WITH XSS </a>
+
 <a href="https://infosecwriteups.com/how-i-was-able-to-find-50-cross-site-scripting-xss-security-vulnerabilities-on-bugcrowd-public-ba33db2b0ab1">-How I was able to find 50+ Cross-site scripting (XSS) Security Vulnerabilities on Bugcrowd Public Program</a>
 
 <a href="https://portswigger.net/daily-swig/email-platform-zimbra-issues-hotfix-for-xss-vulnerability-under-active-exploitation">-Email platform Zimbra issues hotfix for XSS vulnerability under active exploitation</a>
