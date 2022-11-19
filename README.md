@@ -316,6 +316,8 @@
 
 <a href="https://www.ryanpickren.com/safari-uxss">-Hacking the Apple Webcam (again)</a>
 
+<a href="https://nakedsecurity.sophos.com/2022/08/30/javascript-bugs-aplenty-in-node-js-ecosystem-found-automatically/">-JavaScript bugs aplenty in Node.js ecosystem – found automatically</a>
+
 <a href="https://hogarth45.medium.com/bug-bounty-fire-goals-6663a7980984">-Bug Bounty FIRE Goals</a>
 
 <a href="https://hackerone.com/reports/1404612">-Multiple vulnerability leading to account takeover in TikTok SMB subdomain.</a>
