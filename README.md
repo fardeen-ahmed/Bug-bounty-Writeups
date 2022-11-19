@@ -565,6 +565,8 @@
 
 <a href="https://hackerone.com/reports/1481207">-Stored XSS in Notes (with CSP bypass for gitlab.com)</a>
 
+<a href="https://medium.com/@fpatrik/how-i-found-an-xss-vulnerability-via-using-emojis-7ad72de49209">-How I found an XSS vulnerability via using emojis</a>
+
 
 <a href="https://jasminderpalsingh.info/stored-xss-in-google-doubleclick-studio-google-research-grant/">-Stored XSS in Google Doubleclick Studio</a>
 
