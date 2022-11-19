@@ -1092,6 +1092,8 @@
   
 <a href="https://www.eff.org/deeplinks/2022/04/mobile-mitm-intercepting-your-android-app-traffic-go">-Mobile MitM: Intercepting your Android App Traffic On the Go</a>
   
+<a href="https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd">-Chaining bugs in Telegram for Android app to steal session-related files</a>  
+  
 <a href="https://blog.nviso.eu/2022/08/18/intercept-flutter-traffic-on-ios-and-android-http-https-dio-pinning/">-Intercept Flutter traffic on iOS and Android (HTTP/HTTPS/Dio Pinning)</a>
 
 <a href="https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files/">-Android security checklist: theft of arbitrary files</a>
