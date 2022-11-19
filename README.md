@@ -464,6 +464,8 @@
 
 <a href="https://r0ckinxj3.wordpress.com/2021/10/24/a-7500-google-sites-idor/">-A 7500$ Google sites IDOR</a>
 
+<a href="https://sagarsajeev.medium.com/unsubscribe-any-users-e-mail-notifications-via-idor-2c2e05b79dac">-Unsubscribe any user’s e-mail notifications via IDOR</a>
+
 <a href="https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490">-IDOR leads to leak Private Details</a>
 
 <a href="https://bhansalipratish.medium.com/how-i-found-my-first-bug-idor-9c4e52584454">-How I found my first bug (IDOR)</a>
