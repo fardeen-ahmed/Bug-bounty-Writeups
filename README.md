@@ -92,6 +92,8 @@
 
 <a href="https://iosiro.com/blog/baserunner-exploiting-firebase-datastores">-Introducing Baserunner: a tool for exploring and exploiting Firebase datastores</a>
 
+<a href="https://github.com/r0075h3ll/Oralyzer">-Oralyzer, a simple python script that probes for Open Redirection vulnerability in a website. It does that by fuzzing the URL that is provided in the input</a>
+
 <a href="https://github.com/roottusk/vapi">-vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises.</a>
 
 <a href="https://blog.intigriti.com/2022/03/01/hacker-tools-turbo-intruder/">-Turbo Intruder – Hacker Tools: Going faster than ever!</a>
