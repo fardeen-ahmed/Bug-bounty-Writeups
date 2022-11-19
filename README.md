@@ -480,6 +480,8 @@
 
 <a href="https://amit-lt.medium.com/a-story-of-idor-which-leads-to-privacy-violation-78c1b4c710fb">-A Story of IDOR which leads to privacy violation…$$$</a>
 
+<a href="https://hopesamples.blogspot.com/2022/09/idor-leads-to-removing-members-from-any.html">-IDOR leads to removing members from any Google Chat Space</a>
+
 <a href="https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431">-How I found my first IDOR in HackerOne</a>
 
 <a href="https://asterfiester.medium.com/5000-google-idor-vulnerability-writeup-c7b45926abe9">-$5000 Google IDOR Vulnerability Writeup</a>
