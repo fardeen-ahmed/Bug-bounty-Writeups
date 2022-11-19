@@ -1053,6 +1053,8 @@
 <a href="https://medium.com/@shakti.gtp/an-out-of-scope-domain-leads-to-a-critical-bug-1500-f228d2c7db4b">-An Out Of Scope domain Leads To a Critical Bug[$1500] </a>
   
 <a href="https://blog.forcesunseen.com/graphql-security-testing-without-a-schema">-GraphQL Security Testing Without a Schema</a>
+  
+<a href="https://www.whiteoaksecurity.com/blog/graphql-batching-attacks-turbo-intruder/">-GraphQL Batching Attacks: Turbo Intruder</a>
 
   
 
