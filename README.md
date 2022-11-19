@@ -332,7 +332,7 @@
 
 <a href="https://blog.viettelcybersecurity.com/cve-2022-1040-sophos-xg-firewall-authentication-bypass/">-CVE-2022-1040 Sophos XG Firewall Authentication bypass</a>
 
-<a href="https://spaceraccoon.dev/exploiting-icalendar-properties-enterprise-applications/">-You Have One New Appwntment: Exploiting iCalendar Properties in Enterprise Applications</a>
+<a href="https://spaceraccoon.dev/exploiting-icalendar-properties-enterprise-applications/">-You Have One New Appointment: Exploiting iCalendar Properties in Enterprise Applications</a>
 
 
 
