@@ -733,6 +733,8 @@
 <a href="https://blog.niksthehacker.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1">-XXE in Public Transport Ticketing Mobile APP</a>
 
 <a href="https://medium.com/@botami143/i-have-found-microsoft-subdomain-website-database-list-database-username-password-1dab07d0c8ea">-I have Found Microsoft Subdomain Website database list, database username, password </a>
+  
+<a href="https://bugcrowd.com/disclosures/f7ce8504-0152-483b-bbf3-fb9b759f9f89/critical-local-file-read-in-electron-desktop-app">-Critical Local File Read in Electron Desktop App</a>
 
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
 
