@@ -578,6 +578,8 @@
 
 <a href="https://hackerone.com/reports/1504410">-XSS via Mod Log Removed Post</a>
 
+<a href="https://palant.info/2022/08/24/attack-surface-of-extension-pages/">-Attack surface of extension pages</a>
+
 <a href="https://hackerone.com/reports/1481207">-Stored XSS in Notes (with CSP bypass for gitlab.com)</a>
 
 <a href="https://medium.com/@fpatrik/how-i-found-an-xss-vulnerability-via-using-emojis-7ad72de49209">-How I found an XSS vulnerability via using emojis</a>
