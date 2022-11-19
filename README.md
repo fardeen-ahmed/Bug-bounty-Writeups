@@ -980,6 +980,8 @@
   
 <a href="https://gccybermonks.com/posts/ssrfvision/">-Another vision for SSRF</a>
   
+<a href="https://srahulceh.medium.com/bug-bounty-how-i-found-an-ssrf-reconnaissance-7b1821a1b1fd">-Bug Bounty { How I found an SSRF ( Reconnaissance ) }</a>
+  
 <a href="https://spidersilk.com/news/cloud-is-more-fun-with-an-ssrf">-Cloud is more fun with an SSRF</a>
 
 
