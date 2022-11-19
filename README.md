@@ -505,6 +505,9 @@
 
 ## Cryptographic Issues / Bugs (Updating soon...)
 
+<a href="https://i.blackhat.com/USA-22/Wednesday/us-22-Kettle-Browser-Powered-Desync-Attacks.pdf">-Browser-Powered Desync Attacks -> A New Frontier in HTTP Request Smuggling</a>
+
+
 ## Injection Issues / Bugs
 
 <a href="https://m7-arman.medium.com/host-header-injection-lead-to-account-takeover-2f025a645d13">-Host Header Injection Lead To Account Takeover</a>
