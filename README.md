@@ -246,6 +246,8 @@
 
 <a href="https://ahmdhalabi.medium.com/ultimate-reconnaissance-roadmap-for-bug-bounty-hunters-pentesters-507c9a5374d">-Ultimate Reconnaissance RoadMap for Bug Bounty Hunters & Pentesters</a>
 
+<a href="https://www.cyberick.com/post/bypass-captcha-using-turbo-intruder-leads-to-bruteforce-attack-bug-bounty">-Bypass Captcha using Turbo Intruder leads to Bruteforce attack - Bug Bounty</a>
+
 <a href="https://blog.protekkt.com/blog/basic-webassembly-buffer-overflow-exploitation-example">-Basic WebAssembly buffer overflow exploitation</a>
 
 <a href="https://hackerone.com/reports/1501611">-An attacker can archive and unarchive any structured scope object on HackerOne</a>
