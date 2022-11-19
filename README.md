@@ -356,6 +356,8 @@
 
 <a href="https://orwaatyat.medium.com/how-i-found-multiple-bugs-on-facebook-in-1-month-and-a-part-for-my-methodology-tools-58a677a9040c">-How I Found Multiple Bugs On FaceBook In 1 Month And a Part For My Methodology & Tools</a>
 
+<a href="https://speakerdeck.com/patrickwardle/youre-muted-rooted">-Local priv-esc vulnerability in Zoom (for macOS)</a>
+
 <a href="https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/">-Flickr Account Takeover</a>
 
 <a href="https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50">-RCE 0 day for GhostScript-9.50</a>
