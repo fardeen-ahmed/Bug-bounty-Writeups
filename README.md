@@ -378,6 +378,8 @@
 
 <a href="https://0xjoyghosh.medium.com/information-gathering-scanning-for-sensitive-information-reloaded-6ff3455e0d4e">-Information Gathering&scanning for sensitive information</a>
 
+<a href="https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html">-Attacking Pixel's Titan M with Only One Byte (CVE-2022-20233) and getting 75,000 USD bounty</a>
+
 <a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22">-The easiest $2500 I got it from bug bounty program</a>
 
 <a href="https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312">-Disclose leads form details of any Facebook Business Account or Facebook Page</a>\
