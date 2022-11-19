@@ -510,6 +510,8 @@
 
 <a href="https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-users-account-on-a-major-telecoms-website-2cd5aa43e3d6">-How I was able to takeover any users account on a major telecoms website</a>
 
+<a href="https://www.cobalt.io/blog/cobalt-pentest-case-study-oauth-redirect-to-account-takeover">-Cobalt Pentest Case Study: OAuth Redirect to Account Takeover</a>
+
 <a href="https://aidilarf.medium.com/idor-via-get-request-which-can-sold-all-user-products-2f5bc3ea1650">-IDOR via GET Request which can SOLD all User Products</a>
 
 <a href="https://snapsec.co/blog/CORS-Misconfigrations/">-CORS Misconfigurations</a>
