@@ -324,6 +324,8 @@
 
 <a href="https://portswigger.net/blog/finding-client-side-prototype-pollution-with-dom-invader">-Finding client-side prototype pollution with DOM Invader</a>
 
+<a href="https://scribesecurity.com/blog/github-cache-poisoning/">-GitHub Cache Poisoning</a>
+
 <a href="https://ysamm.com/?p=763">-Multiple bugs chained to takeover Facebook Accounts which uses Gmail.</a>
 
 <a href="https://secret.club/2022/05/11/fuzzing-solana.html">-Earn $200K by fuzzing for a weekend: Part 1</a>
