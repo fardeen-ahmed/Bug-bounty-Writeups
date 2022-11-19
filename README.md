@@ -940,7 +940,7 @@
 
 <a href="https://hackerone.com/reports/941178">-SSRF for kube-apiserver cloudprovider scene</a>
 
-<a href="https://hackerone.com/reports/1189367">-Full read SSRF that can leak aws metadata and local file inclusion (www.evernote.com )</a>
+<a href="https://hackerone.com/reports/1189367">-Full read SSRF that can leak aws metadata and local file inclusion (www.evernote.com)</a>
 
 <a href="https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read/">-SSRF in PDF export with PhantomJs </a>
 
@@ -1031,6 +1031,8 @@
 <a href="https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e">-Escalating SSRF to Accessing all user PII information by aws metadata</a>
   
 <a href="https://medium.com/@shakti.gtp/an-out-of-scope-domain-leads-to-a-critical-bug-1500-f228d2c7db4b">-An Out Of Scope domain Leads To a Critical Bug[$1500] </a>
+  
+<a href="https://blog.forcesunseen.com/graphql-security-testing-without-a-schema">-GraphQL Security Testing Without a Schema</a>
 
   
 
