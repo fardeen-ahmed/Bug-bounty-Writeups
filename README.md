@@ -662,6 +662,8 @@
 <a href="https://blog.assetnote.io/2022/05/03/hacking-a-bank-using-dotcms-rce/">-Hacking a Bank by Finding a 0day in DotCMS</a>
 
 <a href="https://medium.com/@arshiadev/paramspider-lead-to-find-sqli-vulnerability-995f6159564c">-Paramspider lead to find SQLI vulnerability</a>
+  
+<a href="https://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html">-Let's Dance in the Cache - Destabilizing Hash Table on Microsoft IIS!</a>
 
 
 
