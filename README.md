@@ -104,6 +104,8 @@
 
 <a href="https://blog.intigriti.com/2022/02/01/hacker-tools-meg/">-Meg – Hacker Tools: Endpoint scan the masses! </a>
 
+<a href="https://hacknopedia.com/2022/08/17/must-have-browser-add-ons-or-extensions-for-bug-bounty/">-Must Have Browser Extensions for Bug Bounty</a>
+
 <a href="https://github.com/d3mondev/puredns">-PureDNS : Subdomain bruteforcing tool that improves massdns to accurately handle wildcard subdomains and DNS poisoning. </a>
 
 <a href="https://github.com/0xmoot/s3sec">-S3Sec - Check AWS S3 instances for read/write/delete access</a>
