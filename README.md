@@ -70,6 +70,8 @@
 
 <a href="https://www.revshells.com/">-Online - Reverse Shell Generator</a>
 
+<a href="https://github.com/iustin24/chameleon">-Chameleon provides better content discovery by using wappalyzer's set of technology fingerprints alongside custom wordlists tailored to each detected technologies</a>
+
 <a href="https://www.hackingarticles.in/a-detailed-guide-on-cewl/">-A Detailed Guide on Cewl</a>
 
 <a href="https://github.com/hakluke/hakoriginfinder">-hakoriginfinder : Tool for discovering the origin host behind a reverse proxy. Useful for bypassing WAFs and other reverse proxies</a>
@@ -401,6 +403,7 @@
 <a href="https://0xjoyghosh.medium.com/information-gathering-scanning-for-sensitive-information-reloaded-6ff3455e0d4e">-Information Gathering&scanning for sensitive information</a>
 
 <a href="https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html">-Attacking Pixel's Titan M with Only One Byte (CVE-2022-20233) and getting 75,000 USD bounty</a>
+
 
 <a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22">-The easiest $2500 I got it from bug bounty program</a>
 
