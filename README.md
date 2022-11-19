@@ -234,6 +234,8 @@
 
 <a href="https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-via-XSS/">-Here's my story about 8 CVEs resulting in a plugin removal and more than $30,000 in bounties!</a>
 
+<a href="https://www.immersivelabs.com/blog/we-discovered-major-vulnerabilities-in-control-web-panel-heres-how-we-found-them/">-We discovered major vulnerabilities in Control Web Panel. Here’s how we found them</a>
+
 <a href="https://srcincite.io/blog/2022/08/09/from-shared-dash-to-root-bash-pre-authenticated-rce-in-vmware-vrealize-operations-manager.html">-From Shared Dash to Root Bash :: Pre-Authenticated RCE in VMWare vRealize Operations Manager</a>
 
 <a href="https://hackerone.com/reports/1439026">-Discoverability by phone number/email restriction bypass</a>
