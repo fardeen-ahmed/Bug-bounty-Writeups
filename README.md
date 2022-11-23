@@ -86,6 +86,8 @@
 
 <a href="https://danielmiessler.com/study/ffuf/">-A ffuf Primer</a>
 
+<a href="https://github.com/root-tanishq/userefuzz">-User-Agent , X-Forwarded-For and Referer SQLI Fuzzer</a>
+
 <a href="https://github.com/Josue87/gotator">-Gotator is a tool to generate DNS wordlists through permutations.</a>
 
 <a href="https://github.com/michelin/ChopChop">-ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders</a>
