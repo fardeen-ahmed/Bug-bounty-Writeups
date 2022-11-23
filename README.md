@@ -258,6 +258,8 @@
 
 <a href="https://ahmdhalabi.medium.com/ultimate-reconnaissance-roadmap-for-bug-bounty-hunters-pentesters-507c9a5374d">-Ultimate Reconnaissance RoadMap for Bug Bounty Hunters & Pentesters</a>
 
+<a href="https://www.cidersecurity.io/blog/research/how-we-abused-repository-webhooks-to-access-internal-ci-systems-at-scale/">-How we Abused Repository Webhooks to Access Internal CI Systems at Scale </a>
+
 <a href="https://www.cyberick.com/post/bypass-captcha-using-turbo-intruder-leads-to-bruteforce-attack-bug-bounty">-Bypass Captcha using Turbo Intruder leads to Bruteforce attack - Bug Bounty</a>
 
 <a href="https://blog.protekkt.com/blog/basic-webassembly-buffer-overflow-exploitation-example">-Basic WebAssembly buffer overflow exploitation</a>
