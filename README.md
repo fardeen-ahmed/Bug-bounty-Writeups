@@ -145,6 +145,8 @@
 
 <a href="https://portswigger.net/daily-swig/security-researcher-earns-plaudits-after-discovering-yandex-ssrf-flaw">-Security researcher earns plaudits after discovering Yandex SSRF flaw</a>
 
+<a href="https://github.com/merttasci/csrf-poc-generator">-CSRF Generator - This html file creates a csrf poc form to any http request.</a>
+
 <a href="https://medium.com/pentesternepal/how-i-was-able-to-reveal-page-admin-of-almost-any-page-on-facebook-5a8d68253e0c">-How I was able to reveal page admin of almost any page on Facebook</a>
 
 <a href="https://github.com/fullhunt/log4j-scan">-A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228</a>
