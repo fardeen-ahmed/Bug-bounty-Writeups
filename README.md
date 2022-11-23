@@ -276,6 +276,8 @@
 
 <a href="https://jakearchibald.com/2021/cors/">-How to win at CORS</a>
 
+<a href="https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access">-AttachMe: critical OCI vulnerability allows unauthorized access to customer cloud storage volumes </a>
+
 <a href="https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183">-Misconfigured Reset password that leads to Account Takeover (No user Interaction ATO)</>
 
 <a href="http://ysamm.com/?p=597">-View orders and financial reports lists for any page shop ($500)</a>
