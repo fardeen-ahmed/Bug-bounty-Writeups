@@ -292,6 +292,8 @@
 
 <a href="https://spaceraccoon.dev/embedding-payloads-bypassing-controls-microsoft-infopath/">-Embedding Payloads and Bypassing Controls in Microsoft InfoPath</a>
 
+<a href="https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/">-Breaking Bitbucket: Pre Auth Remote Command Execution (CVE-2022-36804)</a>
+
 <a href="https://shahjerry33.medium.com/http-parameter-pollution-its-contaminated-again-95c75b0295e1">-HTTP Parameter Pollution - It’s Contaminated Again</a>
 
 <a href="https://chaosdb.wiz.io/">-Critical Vulnerability in Microsoft Azure Cosmos DB</a>
