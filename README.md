@@ -206,6 +206,8 @@
 
 <a href="https://oweng.medium.com/introducing-packetstreamer-distributed-packet-capture-for-cloud-native-platforms-3e7f9ac57ab1">-Introducing PacketStreamer: distributed packet capture for cloud-native platforms</a>
 
+<a href="https://blog.projectdiscovery.io/asnmap/">-Introducing ASNMap: A Golang CLI tool for speedy reconnaissance using ASN data</a>
+
 
 <a href="https://github.com/dwisiswant0/go-dork">-Go Dork. The fastest dork scanner written in Go</a>
 
