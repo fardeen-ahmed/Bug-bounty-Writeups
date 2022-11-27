@@ -262,6 +262,8 @@
 
 <a href="https://www.cyberick.com/post/bypass-captcha-using-turbo-intruder-leads-to-bruteforce-attack-bug-bounty">-Bypass Captcha using Turbo Intruder leads to Bruteforce attack - Bug Bounty</a>
 
+<a href="https://medium.com/immunefi/aurora-withdrawal-logic-error-bugfix-review-c5b4e30a9160">-Aurora Withdrawal Logic Error Bugfix Review</a>
+
 <a href="https://blog.protekkt.com/blog/basic-webassembly-buffer-overflow-exploitation-example">-Basic WebAssembly buffer overflow exploitation</a>
 
 <a href="https://hackerone.com/reports/1501611">-An attacker can archive and unarchive any structured scope object on HackerOne</a>
