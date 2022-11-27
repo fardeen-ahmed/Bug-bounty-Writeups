@@ -980,6 +980,8 @@
 <a href="https://hackerone.com/reports/1092230">-FogBugz import attachment full SSRF requiring vulnerability </a>
 
 <a href="https://twitter.com/infosec_au/status/1434328794861432834">-Updated the Blind SSRF Glossary for a list of payloads that call back to an SSRF canary for the Confluence OGNL injection RCE</a>
+  
+<a href="https://labs.detectify.com/2022/09/23/ssrf-vulns-and-where-to-find-them/">-SSRF vulnerabilities and where to find them</a>
 
 <a href="https://hoyahaxa.blogspot.com/2021/04/ssrf-in-coldfusioncfml-tags-and.html">-SSRF in ColdFusion/CFML Tags and Functions</a>
 
