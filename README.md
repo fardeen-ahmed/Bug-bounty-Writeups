@@ -550,6 +550,8 @@
 
 <a href="https://i.blackhat.com/USA-22/Wednesday/us-22-Kettle-Browser-Powered-Desync-Attacks.pdf">-Browser-Powered Desync Attacks -> A New Frontier in HTTP Request Smuggling</a>
 
+<a href="https://portswigger.net/research/making-http-header-injection-critical-via-response-queue-poisoning">-Making HTTP header injection critical via response queue poisoning</a>
+
 
 ## Injection Issues / Bugs
 
