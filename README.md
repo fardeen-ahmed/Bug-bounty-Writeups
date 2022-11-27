@@ -1224,6 +1224,13 @@
   
 <a href="https://hencohen10.medium.com/microsoft-dynamics-container-sandbox-rce-via-unauthenticated-docker-remote-api-20-000-bounty-7f726340a93b">-Microsoft Dynamics Container Sandbox RCE via Unauthenticated Docker Remote API 20,000$ Bounty </a>
   
+  
+  
+# Web 3.0 Writeups 
+<a href="https://samcurry.net/universal-xss-on-netlifys-next-js-library/">-Exploiting Web3’s Hidden Attack Surface: Universal XSS on Netlify’s Next.js Library</a>
+  
+  
+  
 # BlockChain Security
 <a href="https://github.com/0xsha/ChainWalker">-ChainWalker is a smart contract scraper which uses RCP/IPC calls to extract the information</a>
 
