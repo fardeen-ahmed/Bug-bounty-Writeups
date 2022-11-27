@@ -977,6 +977,8 @@
   
 <a href="https://medium.com/@shabarkin/1-click-rce-in-electron-applications-79b52e1fe8b8">-1-click RCE in Electron Applications</a>
 
+<a href="https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b">-Worldwide Server-side Cache Poisoning on All Akamai Edge Nodes ($50K+ Bounty Earned)</a> 
+
 
 
 
