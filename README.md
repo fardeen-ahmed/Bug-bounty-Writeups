@@ -384,6 +384,10 @@
 
 <a href="https://blog.sonatype.com/new-0-day-spring-framework-vulnerability-confirmed">-New Spring Framework RCE  Vulnerability Confirmed - What to do?</a>
 
+<a href="https://blog.maass.xyz/spring-actuator-security-part-1-stealing-secrets-using-spring-actuators">-Spring Actuator Security, Part 1: Stealing Secrets Using Spring Actuators</a>
+
+<a href="https://blog.maass.xyz/spring-actuator-security-part-2-finding-actuators-using-static-code-analysis-with-semgrep">-Spring Actuator Security, Part 2: Finding Actuators using Static Code Analysis with semgrep</a>
+
 <a href="https://medium.com/@vivekkashyap0707/my-first-rce-from-n-a-to-triaged-cve-2021-3064-acdd0541c664">-My First RCE from N/A to Triaged (CVE-2021–3064)</a>
 
 <a href="https://medium.com/@omar0x01/how-i-abused-the-file-upload-function-to-get-a-high-severity-vulnerability-in-bug-bounty-7cdcf349080b">-How I abused the file upload function to get a high severity vulnerability in Bug Bounty</a>
