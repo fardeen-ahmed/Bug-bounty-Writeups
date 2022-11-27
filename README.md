@@ -250,6 +250,8 @@
 
 <a href="https://www.tenable.com/blog/cve-2021-41773-path-traversal-zero-day-in-apache-http-server-exploited">-CVE-2021-41773: Path Traversal Zero-Day in Apache HTTP Server Exploited</a>
 
+<a href="https://nmochea.medium.com/gcash-vulnerability-walkthrough-697ea22f97c2">-Gcash Vulnerability Walkthrough</a>
+
 <a href="https://terjanq.medium.com/waf-bypasses-via-0days-d4ef1f212ec">-WAF bypasses via 0days</a>
 
 <a href="https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-via-XSS/">-Here's my story about 8 CVEs resulting in a plugin removal and more than $30,000 in bounties!</a>
@@ -470,6 +472,8 @@
 <a href="https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/">-CVE-2021-4191: GitLab GraphQL API User Enumeration (FIXED)</a>
 
 <a href="https://github.com/gsmith257-cyber/GraphCrawler">-GraphQL automated security testing toolkit </a>
+
+<a href="https://rashahacks.com/idor-in-graphql-query-leaking-private-photos-of-a-million-app-2c12c7e9dea7">-IDOR in GraphQL Query Leaking Private Photos of a Million $ App</a>
 
 
 
