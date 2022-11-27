@@ -1239,6 +1239,13 @@
 <a href="https://github.com/fengguangbin/spring-rce-war">-Spring RCE vulnerability reproduction environment </a>
 
 <a href="https://github.com/mcdulltii/SpringShell_0-day">-PoC - Spring Core RCE 0-day Vulnerability </a>
+  
+# Car Hacking Writeups 
+  <a href="https://programmingwithstyle.com/posts/howihackedmycar/">-How I hacked my car (2021 Hyundai Ioniq SEL) : Part 1</a>
+  
+  <a href="https://programmingwithstyle.com/posts/howihackedmycarpart2/">-How I hacked my car (2021 Hyundai Ioniq SEL) : Part 2</a>
+  
+  <a href="https://programmingwithstyle.com/posts/howihackedmycarpart3/">-How I hacked my car (2021 Hyundai Ioniq SEL) : Part 3</a>
 
 
 
