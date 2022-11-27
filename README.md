@@ -620,6 +620,8 @@
 
 <a href="https://eslam3kl.medium.com/sql-injection-at-spotify-d19e0861ddf0">-SQL Injection at Spotify</a>
 
+<a href="https://omar0x01.medium.com/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498">-How I Found Multiple SQL Injections in 5 Minutes in Bug Bounty</a>
+
 <a href="https://flattsecurity.medium.com/finding-an-unseen-sql-injection-by-bypassing-escape-functions-in-mysqljs-mysql-90b27f6542b4">-Finding an unseen SQL Injection by bypassing escape functions in mysqljs/mysql</a>
 
 <a href="https://blog.sonarsource.com/wordpress-stored-xss-vulnerability">-WordPress 5.8.2 Stored XSS Vulnerability</a>
