@@ -244,6 +244,8 @@
 
 <a href="https://www.tenable.com/blog/cve-2021-41773-path-traversal-zero-day-in-apache-http-server-exploited">-CVE-2021-41773: Path Traversal Zero-Day in Apache HTTP Server Exploited</a>
 
+<a href="https://terjanq.medium.com/waf-bypasses-via-0days-d4ef1f212ec">-WAF bypasses via 0days</a>
+
 <a href="https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-via-XSS/">-Here's my story about 8 CVEs resulting in a plugin removal and more than $30,000 in bounties!</a>
 
 <a href="https://www.immersivelabs.com/blog/we-discovered-major-vulnerabilities-in-control-web-panel-heres-how-we-found-them/">-We discovered major vulnerabilities in Control Web Panel. Here’s how we found them</a>
