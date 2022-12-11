@@ -477,6 +477,8 @@
 
 <a href="https://portswigger.net/research/hunting-evasive-vulnerabilities">-Hunting evasive vulnerabilities</a>
 
+<a href="https://www.oxeye.io/blog/vm2-sandbreak-vulnerability-cve-2022-36067">-Enter "Sandbreak" - Vulnerability In vm2 Sandbox Module Enables Remote Code Execution (CVE-2022-36067)</a>
+
 
 
 
