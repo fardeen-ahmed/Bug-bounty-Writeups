@@ -330,6 +330,8 @@
 
 <a href="https://medium.com/coinmonks/a-quick-guide-to-hack-private-variables-in-solidity-b45d5acb89c0">-A Quick Guide to Hack private variables in Solidity</a>
 
+<a href="https://medium.com/@0x4kd/google-sso-misconfiguration-leading-to-account-takeover-cf9bcf63e76e">-Google SSO misconfiguration leading to Account Takeover</a>
+
 <a href="https://vovohelo.medium.com/how-i-found-my-first-chrome-bug-cve-2021-21210-248a21272248">-How I found my first Chrome bug</a>
 
 <a href="https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/">-The second part of discovered vulnerabilities in pre-installed apps on Samsung devices</a>
