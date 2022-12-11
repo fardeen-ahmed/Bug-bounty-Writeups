@@ -376,6 +376,8 @@
 
 <a href="https://spaceraccoon.dev/exploiting-icalendar-properties-enterprise-applications/">-You Have One New Appointment: Exploiting iCalendar Properties in Enterprise Applications</a>
 
+<a href="https://maheshbasnet.medium.com/how-fuzzing-can-boost-you-bug-bounty-career-49e499900aa9">-Fuzzing for Bug Bounty Hunting</a>
+
 
 
 <a href="https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b">-Hacking the Blockchain: An Ultimate Guide</a>
