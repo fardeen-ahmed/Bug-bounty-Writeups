@@ -298,6 +298,8 @@
 
 <a href="https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183">-Misconfigured Reset password that leads to Account Takeover (No user Interaction ATO)</>
   
+<a href="https://medium.com/@Cybervenom/story-about-escalation-of-html-injection-to-ec2-instance-credentials-leak-e2cbd7343a83">-Story about Escalation of HTML Injection to EC2 Instance credentials leak</a>
+  
 <a href="https://tutorialboy24.blogspot.com/2022/09/the-blind-exploits-to-rule-watchguard.html">-The Blind Exploits To Rule Watchguard Firewalls Vulnerabilities</a>
 
 <a href="http://ysamm.com/?p=597">-View orders and financial reports lists for any page shop ($500)</a>
