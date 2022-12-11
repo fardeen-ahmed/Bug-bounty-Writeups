@@ -1144,6 +1144,8 @@
 <a href="https://blog.forcesunseen.com/graphql-security-testing-without-a-schema">-GraphQL Security Testing Without a Schema</a>
   
 <a href="https://www.whiteoaksecurity.com/blog/graphql-batching-attacks-turbo-intruder/">-GraphQL Batching Attacks: Turbo Intruder</a>
+  
+<a href="https://rashahacks.com/idor-in-graphql-query-leaking-private-photos-of-a-million-app-2c12c7e9dea7">-IDOR in GraphQL Query Leaking Private Photos of a Million $ App</a>
 
   
 
