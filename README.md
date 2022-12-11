@@ -1082,6 +1082,10 @@
 
 <a href="https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-account-on-one-of-europes-largest-media-companies-e8d25e59c08">-How I Was Able To TakeOver Any Account On One Of Europe's Largest Media Companies</a>
 
+<a href="https://blog.bricked.tech/posts/tmnf/part1/">-Hacking TMNF: Part 1 - Fuzzing the game server</a>
+
+<a href="https://blog.bricked.tech/posts/tmnf/part2/">-Hacking TMNF: Part 2 - Exploiting a blind format string</a>
+
 <a href="https://bountyget.medium.com/rce-on-starbucks-singapore-and-more-for-5600-926c930bb61e">-RCE on Starbucks Singapore and more for $5600</a>
 
 <a href="https://medium.com/@Sm9l/bug-bounty-recon-vertical-correlation-and-the-secret-to-succeeding-cdd532c777c9">-Bug Bounty Recon: Vertical Correlation (and the secret to succeeding)</a>
