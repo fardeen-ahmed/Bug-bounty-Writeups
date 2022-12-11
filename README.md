@@ -859,6 +859,8 @@
 <a href="https://medium.com/@Bhichher/open-redirect-vulnerability-some-common-payloads-fd1dcd73541c">-Open Redirect Vulnerability & Some Common Payloads</a>
 
 <a href="https://proviesec.medium.com/broken-link-hijacking-what-it-is-and-how-to-get-bounties-with-it-ca64db6a3f74">-Broken Link hijacking — What it is and how to get bounties with it!</a>
+  
+<a href="https://cramppet.github.io/regulator/index.html">-A unique method of subdomain enumeration</a>
 
 
 <a href="https://blog.appsecco.com/exploiting-weak-configurations-in-google-identity-platform-cbddbd0e71e3">-Exploiting weak configurations in Google Cloud Identity Platform</a>
@@ -1115,6 +1117,8 @@
 <a href="https://hackerone.com/reports/1439593">-Arbitrary file read via the bulk imports UploadsPipeline </a>
 
 <a href="https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-account-on-one-of-europes-largest-media-companies-e8d25e59c08">-How I Was Able To TakeOver Any Account On One Of Europe's Largest Media Companies</a>
+  
+<a herf="https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980">-Facebook SMS Captcha Was Vulnerable to CSRF Attack</a>
 
 <a href="https://blog.bricked.tech/posts/tmnf/part1/">-Hacking TMNF: Part 1 - Fuzzing the game server</a>
 
