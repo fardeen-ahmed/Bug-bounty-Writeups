@@ -47,6 +47,8 @@
 
 <a href="https://github.com/Stonzyy/dumpxss">-DumpXSS. Scanner Tool For XSS Vulnerability</a>
 
+<a href="https://github.com/stark0de/nginxpwner">-Nginxpwner is a simple tool to look for common Nginx misconfigurations and vulnerabilities.</a>
+
 
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
 
