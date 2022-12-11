@@ -334,6 +334,8 @@
 
 <a href="https://sinsinology.medium.com/expect-the-unexpected-discovering-fresh-zeroday-for-bounty-d074f3175847">-Expect The Unexpected: Discovering fresh ZeroDay for Bounty</a>
 
+<a href="https://blog.sonarsource.com/securing-developer-tools-a-new-supply-chain-attack-on-php/">-Securing Developer Tools: A New Supply Chain Attack on PHP</a>
+
 <a href="https://medium.com/@mrempy/how-i-found-a-critical-p1-bug-in-5-minutes-using-a-cellphone-bug-bounty-303ebec3edd6">-How I found a critical P1 bug in 5 minutes using a cellphone — Bug Bounty</a>
 
 <a href="https://haiderm.com/how-i-was-able-to-delete-13k-microsoft-translator-projects/">-How I was able to delete 13k+ Microsoft Translator projects</a>
