@@ -844,6 +844,8 @@
 
 
 <a href="https://blog.appsecco.com/exploiting-weak-configurations-in-google-identity-platform-cbddbd0e71e3">-Exploiting weak configurations in Google Cloud Identity Platform</a>
+  
+<a href="https://blog.talosintelligence.com/2022/10/vuln-spotlight-vcenter-.html">-VMware vCenter Server Platform Services Controller Unsafe Deserialization vulnerability</a>
 
 <a href="https://blog.wpsec.com/wordpress-xxe-in-media-library-cve-2021-29447/">-WordPress XXE Vulnerability in Media Library – CVE-2021-29447 </a>
   
