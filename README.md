@@ -410,6 +410,8 @@
 
 <a href="https://speakerdeck.com/patrickwardle/youre-muted-rooted">-Local priv-esc vulnerability in Zoom (for macOS)</a>
 
+<a href="https://tantosec.com/blog/cve-2022-41343/">-CVE-2022-41343 - RCE via Phar Deserialisation (Dompdf)</a>
+
 <a href="https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/">-Flickr Account Takeover</a>
 
 <a href="https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50">-RCE 0 day for GhostScript-9.50</a>
