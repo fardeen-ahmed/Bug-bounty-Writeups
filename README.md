@@ -433,6 +433,8 @@
 <a href="https://fourcore.io/blogs/f5-big-ip-cve-2022-1388-unauthenticated-rce-exploited-by-attackers">-F5 BIG-IP Critical Vulnerability Exploited By Attackers To Gain Unauthenticated RCE</>
   
 <a href="https://jub0bs.com/posts/2021-01-29-great-samesite-confusion/">-The great SameSite confusion</a>
+
+<a href="https://www.synacktiv.com/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html">-Persistent PHP payloads in PNGs: How to inject PHP code in an image – and keep it there !</a>
   
 <a href="https://thexssrat.medium.com/how-forgot-password-can-cost-you-your-account-2647454258da">-How “Forgot Password” can cost you your account</a>
 
