@@ -619,6 +619,8 @@
 
 <a href="https://godiego.tech/posts/STO/">-Subdomain Takeover in Azure: making a PoC</a>
 
+<a href="https://c0nqr0r.medium.com/error-based-sql-injection-with-waf-bypass-manual-exploit-100-bab36b769005">-Error based SQL Injection with WAF bypass manual Exploit 100%</a>
+
 <a href="https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254">-XSS via X-Forwarded-Host header</a>
 
 <a href="https://thevillagehacker.medium.com/time-based-sql-injection-to-dumping-the-database-da0e5bcaa9df">-Time-Based SQL Injection to Dumping the Database</a>
