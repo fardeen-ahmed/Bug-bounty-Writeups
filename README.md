@@ -488,6 +488,8 @@
 
 <a href="http://ysamm.com/?p=603">-URLs in img tag aren’t safely embedded. ($500)</a>
 
+<a href="https://saajan.bhujel.cyou/blog/web/2022-10-16-how-i-got-10000-from-github-for-bypassing-filtration-of-html-tags">-How I Got $10,000 From GitHub For Bypassing Filtration oF HTML tags</a>
+
 
 <a href="https://blog.assetnote.io/2021/08/29/exploiting-graphql/">-Exploiting GraphQL</a>
 
