@@ -438,6 +438,8 @@
   
 <a href="https://thexssrat.medium.com/how-forgot-password-can-cost-you-your-account-2647454258da">-How “Forgot Password” can cost you your account</a>
 
+<a href="https://rhynorater.github.io/postMessage-Braindump">-postMessage Braindump : a brief postMessage testing methodology</a>
+
 
 
 <a href="https://sidxparab.gitbook.io/subdomain-enumeration-guide/">-Subdomain Enumeration Guide 2021 </a>
