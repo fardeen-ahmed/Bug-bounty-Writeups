@@ -707,6 +707,8 @@
 
 <a href="https://ian.sh/redash">-Exploiting Redash instances with CVE-2021-41192</a>
 
+<a href="https://medium.com/@hamzadzworm/5000-for-apple-stored-xss-and-another-blind-xss-still-under-review-e9f6f5a76eb1">-5000$ for Apple Stored Xss And Another Blind Xss Still under review</a>
+
 <a href="https://hackerone.com/reports/1424094">-Web Cache Poisoning leads to Stored XSS</a>
 
 <a href="https://hackerone.com/reports/1322104">-XSS on tiktok.com</a>
