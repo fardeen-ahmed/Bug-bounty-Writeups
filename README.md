@@ -604,6 +604,8 @@
 
 <a href="https://portswigger.net/research/making-http-header-injection-critical-via-response-queue-poisoning">-Making HTTP header injection critical via response queue poisoning</a>
 
+<a href="https://mouha.be/sha-3-buffer-overflow/">-SHA-3 Buffer Overflow</a>
+
 
 ## Injection Issues / Bugs
 
