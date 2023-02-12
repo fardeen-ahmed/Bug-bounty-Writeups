@@ -608,6 +608,8 @@
 
 <a href="https://mouha.be/sha-3-buffer-overflow/">-SHA-3 Buffer Overflow</a>
 
+<a href="https://medium.com/numen-cyber-labs/analysis-and-summary-of-tcp-ip-protocol-remote-code-execution-vulnerability-cve-2022-34718-8fcc28538acf">-TCP/IP Vulnerability CVE-2022–34718 PoC Restoration and Analysis</a>
+
 
 ## Injection Issues / Bugs
 
