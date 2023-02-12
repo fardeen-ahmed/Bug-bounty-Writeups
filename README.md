@@ -539,6 +539,8 @@
 
 <a href="https://bhansalipratish.medium.com/how-i-found-my-first-bug-idor-9c4e52584454">-How I found my first bug (IDOR)</a>
 
+<a href="https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8">-23000$ for Authentication Bypass & File Upload & Arbitrary File Overwrite</a>
+
 <a href="https://adityashende17.medium.com/idor-to-information-disclosure-admin-account-takeover-6aa96798c70b">-IDOR to information disclosure + Admin Account Takeover</a>  
 
 <a href="https://kuldeep.io/posts/path-traversal-paradise/">-Path Traversal Paradise</a>
