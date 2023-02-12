@@ -547,6 +547,8 @@
 
 <a href="https://kuldeep.io/posts/path-traversal-paradise/">-Path Traversal Paradise</a>
 
+<a href="https://sysdig.com/blog/cve-2022-42889-text4shell/">-Detecting and mitigating CVE-2022-42889 a.k.a. Text4shell</a>
+
 <a href="https://medium.com/@divyanshsharma2401/bypassing-waf-for-2222-f99b80cfdb9b">-Bypassing WAF for $2222</a>
 
 <a href="https://encodedguy.medium.com/600-for-idor-file-or-folder-download-243166452dad">-$600 for IDOR (File or Folder Download)</a>
