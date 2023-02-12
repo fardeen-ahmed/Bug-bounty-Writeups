@@ -1035,6 +1035,8 @@
 
 <a href="https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b">-Worldwide Server-side Cache Poisoning on All Akamai Edge Nodes ($50K+ Bounty Earned)</a> 
 
+  
+<a href="https://portswigger.net/daily-swig/melis-platform-cms-patched-for-critical-rce-flaw">-Melis Platform CMS patched for critical RCE flaw</a>
 
 
 
