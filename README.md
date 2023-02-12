@@ -831,6 +831,8 @@
 <a href="https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c">-How I hacked thousand of subdomains</a>
 
 <a href="https://github.com/WeAreCloudar/s3-account-search">-S3 Account Search</a>
+  
+<a href="https://medium.com/@nanwinata/old-rce-worth-3362-1af0cd70c459">-Old RCE worth $3362</a>
 
 <a href="https://medium.com/@sicks3c/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52">-How I Scored 1K Bounty Using Waybackurls</a>
 
