@@ -612,6 +612,9 @@
 
 <a href="https://medium.com/numen-cyber-labs/analysis-and-summary-of-tcp-ip-protocol-remote-code-execution-vulnerability-cve-2022-34718-8fcc28538acf">-TCP/IP Vulnerability CVE-2022–34718 PoC Restoration and Analysis</a>
 
+<a href="https://securitylabs.datadoghq.com/articles/openssl-november-1-vulnerabilities/">-The OpenSSL punycode vulnerability (CVE-2022-3602): Overview, detection, exploitation, and remediation</a>
+
+
 
 ## Injection Issues / Bugs
 
