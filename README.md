@@ -1120,6 +1120,8 @@
 
 <a href="https://portswigger.net/daily-swig/node-js-was-vulnerable-to-a-novel-http-request-smuggling-technique">-Node.js was vulnerable to a novel HTTP request smuggling technique</a>
   
+<a href="https://blog.doyensec.com/2022/10/27/jupytervscode.html">-Visual Studio Code Jupyter Notebook RCE</a>
+  
 <a href="https://swarm.ptsecurity.com/exploiting-arbitrary-object-instantiations/">-Exploiting Arbitrary Object Instantiations in PHP without Custom Classes</a>
   
 <a href="https://vulndev.io/2022/09/09/browser-exploitation-firefox-oob-to-rce/">-Browser Exploitation: Firefox OOB to RCE</a>
