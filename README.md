@@ -1151,8 +1151,8 @@
 
 <a href="https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-account-on-one-of-europes-largest-media-companies-e8d25e59c08">-How I Was Able To TakeOver Any Account On One Of Europe's Largest Media Companies</a>
   
-<a herf="https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980">-Facebook SMS Captcha Was Vulnerable to CSRF Attack</a>
-
+<a href="https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980">-Facebook SMS Captcha Was Vulnerable to CSRF Attack</a>
+ 
 <a href="https://blog.bricked.tech/posts/tmnf/part1/">-Hacking TMNF: Part 1 - Fuzzing the game server</a>
 
 <a href="https://blog.bricked.tech/posts/tmnf/part2/">-Hacking TMNF: Part 2 - Exploiting a blind format string</a>
