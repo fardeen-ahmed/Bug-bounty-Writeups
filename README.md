@@ -734,6 +734,8 @@
   
 <a href="https://www.techncyber.com/2022/07/sql-injection-at-authorization-token.html">-Exploiting SQL Injection at Authorization token</a>
   
+<a href="https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/">-Stranger Strings: An exploitable flaw in SQLite</a>
+  
 
 
 
