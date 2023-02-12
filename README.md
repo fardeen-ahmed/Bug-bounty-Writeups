@@ -1109,6 +1109,8 @@
 <a href="https://medium.com/@moSec/crlf-to-account-takeover-chaining-bugs-21a25dfa1cdf">-CRLF to Account takeover (chaining bugs)</a>
 
 <a href="https://portswigger.net/daily-swig/internet-bug-bounty-high-severity-vulnerability-in-apache-http-server-could-lead-to-rce">-Internet Bug Bounty: High severity vulnerability in Apache HTTP Server could lead to RCE</a>
+  
+<a href="https://ssd-disclosure.com/ssd-advisory-galaxy-store-applications-installation-launching-without-user-interaction/">-SSD Advisory – Galaxy Store Applications Installation/Launching without User Interaction</a>
 
 <a href="https://medium.com/@LIL__NIX/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e">-The Story of a RCE on a Java Web Application</a>
 
