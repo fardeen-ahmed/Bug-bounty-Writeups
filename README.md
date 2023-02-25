@@ -842,6 +842,8 @@
 
 <a href="https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc">-Common Nginx Misconfiguration leads to Path Traversal</a>
   
+<a href="https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html">-Gregor Samsa: Exploiting Java's XML Signature Verification</a>
+  
 <a href="https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f">-How I got Apple Hall Of Fame !</a>
 
 <a href="https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/">-How to exploit insecure WebResourceResponse configurations + an example vulnerability in Amazon apps</a>
