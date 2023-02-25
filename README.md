@@ -841,6 +841,8 @@
 <a href="https://medium.com/@sicks3c/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52">-How I Scored 1K Bounty Using Waybackurls</a>
 
 <a href="https://xcheater.medium.com/all-about-csrf-flaw-7d525be39587">-All About CSRF Flaw</a>
+  
+<a href="https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html">-PRACTICAL CLIENT SIDE PATH TRAVERSAL ATTACKS</a>
 
 <a href="https://hackerone.com/reports/1497169">-CSRF protection bypass in GitHub Enterprise management console</a>
 
