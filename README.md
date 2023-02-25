@@ -981,6 +981,8 @@
 <a href="https://www.cyberkl.com/cvelist/cvedetail/24">-Writeup for an iOS 15 exploit that can achieve kernel</a>
   
 <a href="https://github.com/hakivvi/CVE-2022-29464">-WSO2 RCE (CVE-2022-29464) exploit and writeup</a>
+  
+<a href="https://boschko.ca/tenda_ac1200_router/">-Vulnerabilities in Tenda's W15Ev2 AC1200 Router</a>
 
 
 
