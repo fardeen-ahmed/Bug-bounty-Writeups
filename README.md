@@ -872,6 +872,8 @@
 
 <a href="https://medium.com/@hacxyk/how-we-spoofed-ens-domains-52acea2079f6">-How we spoofed ENS domains for $15k</a>
 
+<a href="https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/">-AWS Organizations Defaults</a>
+
 
 <a href="https://hackerone.com/reports/1104874">-Basecamp disclosed on HackerOne: Insecure Bundler configuration</a>
 
