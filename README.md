@@ -1117,6 +1117,8 @@
 # Chained Issues / Chained Bugs : 
 <a href="https://medium.com/@tushar.tilak.sharma/a-tale-of-open-redirection-to-stored-xss-6ad426ae9d43">-A Tale of Open Redirection to Stored XSS</a>
 
+<a href="https://medium.com/@faique/story-of-a-1k-bounty-ssrf-d5c4868680f5">-Story of a $1k bounty — SSRF to leaking access token and other sensitive information</a>  
+
 <a href="https://medium.com/@TutorialBoy24/the-story-of-3-bugs-that-lead-to-unauthorized-rce-pascom-systems-d2dcb0410f3b">-The story of 3 bugs that lead to Unauthorized RCE — Pascom Systems</a>
   
 <a href="https://medium.com/@moSec/crlf-to-account-takeover-chaining-bugs-21a25dfa1cdf">-CRLF to Account takeover (chaining bugs)</a>
