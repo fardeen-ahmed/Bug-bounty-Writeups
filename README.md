@@ -23,6 +23,8 @@
 
 <a href="https://github.com/benso-io/posta">-Posta. Cross-document Messaging security research tool</a>
 
+<a href="https://github.com/projectdiscovery/katana">-Katana : A next-generation crawling and spidering framework.</a>
+
 <a href="https://github.com/silentsignal/burp-text4shell">-Text4Shell scanner for Burp Suite</a>
 
 <a href="https://being-uncommon.medium.com/rustscan-the-modern-port-scanner-d6d3084e9c82">-RUSTSCAN — THE MODERN PORT SCANNER</a>
