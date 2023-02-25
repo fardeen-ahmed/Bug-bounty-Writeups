@@ -1267,6 +1267,8 @@
 <a href="https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files/">-Android security checklist: theft of arbitrary files</a>
   
 <a href="https://github.com/randorisec/MobileHackingCheatSheet">-Basics on commands/tools/info on how to assess the security of mobile applications</a>
+  
+<a href="https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/">-Accidental $70k Google Pixel Lock Screen Bypass </a>
 
 
 
