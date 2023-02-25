@@ -842,6 +842,8 @@
 
 <a href="https://xcheater.medium.com/all-about-csrf-flaw-7d525be39587">-All About CSRF Flaw</a>
   
+<a href="https://portswigger.net/research/detecting-web-message-misconfigurations-for-cross-domain-credential-theft">-Detecting web message misconfigurations for cross-domain credential theft</a>
+  
 <a href="https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html">-PRACTICAL CLIENT SIDE PATH TRAVERSAL ATTACKS</a>
 
 <a href="https://hackerone.com/reports/1497169">-CSRF protection bypass in GitHub Enterprise management console</a>
