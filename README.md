@@ -1120,6 +1120,8 @@
 
 <a href="https://portswigger.net/daily-swig/java-rmi-services-often-vulnerable-to-ssrf-attacks-research">-Java RMI services often vulnerable to SSRF attacks – research</a>
   
+<a href="https://blog.securelayer7.net/wondercms-3-1-3-vulnerable-to-authenticated-server-side-request-forgery/">-WonderCMS 3.1.3 Vulnerable To Authenticated Server-Side Request Forgery – CVE-2020-35313</a>
+  
 <a href="https://goteleport.com/blog/ssrf-attacks/">-SSRF Attack Examples and Mitigations</a>
 
 <a href="https://xelkomy.medium.com/easy-ssrf-from-wayback-machine-edf946486120">-Easy SSRF from Wayback Machine</a>
