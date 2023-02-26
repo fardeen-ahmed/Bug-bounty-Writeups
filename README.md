@@ -57,6 +57,8 @@
 
 <a href="https://github.com/Stonzyy/dumpxss">-DumpXSS. Scanner Tool For XSS Vulnerability</a>
 
+<a href="https://github.com/Sh1Yo/x8">-x8 - Hidden parameters discovery suite written in Rust.</a>
+
 <a href="https://github.com/stark0de/nginxpwner">-Nginxpwner is a simple tool to look for common Nginx misconfigurations and vulnerabilities.</a>
 
 
