@@ -742,6 +742,8 @@
 
 <a href="https://medium.com/@mohameddhanish98/a-story-of-dom-xss-852b6ed3bb5f">-A Story of DOM XSS</a>
 
+<a href="https://ag3n7.medium.com/got-another-xss-using-double-encoding-e6493a9f7368">-Got Another XSS using Double Encoding</a>
+
 <a href="https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee">-SVG based Stored XSS</a>
 
 <a href="https://medium.com/@youghourtaghannei/postmessage-xss-vulnerability-on-private-program-18e773e1a1ba">-PostMessage Xss vulnerability on private program</a>
