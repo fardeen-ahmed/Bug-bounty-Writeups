@@ -1059,6 +1059,8 @@
 <a href="https://blog.dixitaditya.com/pwning-a-server-using-markdown">-Pwning a Server using Markdown</a>
 
 <a href="https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0">-How I found a bug in Apple within just in 5min</a>
+  
+<a href="https://tutorialboy24.blogspot.com/2022/11/a-brief-introduction-to-saml-security.html">-A Brief Introduction to SAML Security Vector</a>
 
 <a href="https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md">-Hacking Google Drive Integrations</a>
 
