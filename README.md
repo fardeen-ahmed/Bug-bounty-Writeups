@@ -1276,6 +1276,8 @@
   
 <a href="https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/">-Accidental $70k Google Pixel Lock Screen Bypass </a>
 
+<a href="https://kd-200.medium.com/mobile-app-scanner-to-find-security-vulnerabilities-6989cf552058">-Mobile App Scanner to Find Security Vulnerabilities</a>
+
 
 
 
