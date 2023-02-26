@@ -1318,6 +1318,8 @@
 <a href="https://www.inversecos.com/2022/06/how-to-reverse-engineer-and-patch-ios.html">-How to Reverse Engineer and Patch an iOS Application for Beginners:</a>
   
 <a href="https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/index.html">-Reverse Engineering the Apple MultiPeer Connectivity Framework </a>
+  
+<a href="https://theevilbit.github.io/posts/cve-2022-32929/">-CVE-2022-32929 - Bypass iOS backup's TCC protection</a>
 
 
 
