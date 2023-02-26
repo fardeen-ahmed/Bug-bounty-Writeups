@@ -1313,6 +1313,12 @@
 <a href="https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/">-Accidental $70k Google Pixel Lock Screen Bypass </a>
 
 <a href="https://kd-200.medium.com/mobile-app-scanner-to-find-security-vulnerabilities-6989cf552058">-Mobile App Scanner to Find Security Vulnerabilities</a>
+  
+<a href="https://eshard.com/posts/pixel6_bootloader">-Pixel6: Booting up (part 1)</a>
+  
+<a href="https://eshard.com/posts/pixel6bootloader-2">-Pixel 6 bootloader: Emulation, ROP (part 2)</a>
+  
+<a href="https://eshard.com/posts/pixel6_bootloader_3">-Pixel 6 Bootloader: Exploitation (part 3)</a>
 
 
 
