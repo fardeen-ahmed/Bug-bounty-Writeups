@@ -1141,6 +1141,8 @@
   
 <a href="https://ssd-disclosure.com/ssd-advisory-galaxy-store-applications-installation-launching-without-user-interaction/">-SSD Advisory – Galaxy Store Applications Installation/Launching without User Interaction</a>
   
+<a href="https://portswigger.net/daily-swig/prototype-pollution-project-yields-another-parse-server-rce">-Prototype pollution project yields another Parse Server RCE</a>
+  
 <a href="https://hdwsec.fr/blog/20221109-netgear/">-NETGEAR NIGHTHAWK R7000P AWS_JSON UNAUTHENTICATED DOUBLE STACK OVERFLOW VULNERABILITY </a>
 
 <a href="https://medium.com/@LIL__NIX/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e">-The Story of a RCE on a Java Web Application</a>
