@@ -1159,6 +1159,8 @@
 
 <a href="https://portswigger.net/daily-swig/node-js-was-vulnerable-to-a-novel-http-request-smuggling-technique">-Node.js was vulnerable to a novel HTTP request smuggling technique</a>
   
+<a href="https://blog.niksthehacker.com/chaining-path-traversal-with-ssrf-to-disclose-internal-git-repo-data-in-a-bank-asset-8af4de6f12e">-Chaining Path Traversal with SSRF to disclose internal git repo data in a Bank Asset</a>
+  
 <a href="https://blog.doyensec.com/2022/10/27/jupytervscode.html">-Visual Studio Code Jupyter Notebook RCE</a>
   
 <a href="https://swarm.ptsecurity.com/exploiting-arbitrary-object-instantiations/">-Exploiting Arbitrary Object Instantiations in PHP without Custom Classes</a>
