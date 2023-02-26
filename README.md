@@ -1159,6 +1159,8 @@
 
 <a href="https://portswigger.net/daily-swig/internet-bug-bounty-high-severity-vulnerability-in-apache-http-server-could-lead-to-rce">-Internet Bug Bounty: High severity vulnerability in Apache HTTP Server could lead to RCE</a>
   
+<a href="https://blog.sonarsource.com/checkmk-rce-chain-3/">-Checkmk: Remote Code Execution by Chaining Multiple Bugs (3/3)</a>
+  
 <a href="https://blog.assetnote.io/2022/10/28/exploiting-static-site-generators/">-Exploiting Static Site Generators: When Static Is Not Actually Static</a>
   
 <a href="https://ssd-disclosure.com/ssd-advisory-galaxy-store-applications-installation-launching-without-user-interaction/">-SSD Advisory – Galaxy Store Applications Installation/Launching without User Interaction</a>
