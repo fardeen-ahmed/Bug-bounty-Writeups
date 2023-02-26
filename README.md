@@ -1384,6 +1384,8 @@
   <a href="https://programmingwithstyle.com/posts/howihackedmycarpart2/">-How I hacked my car (2021 Hyundai Ioniq SEL) : Part 2</a>
   
   <a href="https://programmingwithstyle.com/posts/howihackedmycarpart3/">-How I hacked my car (2021 Hyundai Ioniq SEL) : Part 3</a>
+  
+  <a href="https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/">-Reverse engineering an EV charger</a>
 
 
 
