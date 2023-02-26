@@ -1300,6 +1300,8 @@
 <a href="https://www.ryanpickren.com/safari-uxss">-Hacking the Apple Webcam (again)</a>
   
 <a href="https://www.inversecos.com/2022/06/how-to-reverse-engineer-and-patch-ios.html">-How to Reverse Engineer and Patch an iOS Application for Beginners:</a>
+  
+<a href="https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/index.html">-Reverse Engineering the Apple MultiPeer Connectivity Framework </a>
 
 
 
