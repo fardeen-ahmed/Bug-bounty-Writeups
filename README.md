@@ -872,6 +872,8 @@
 
 <a href="https://hackerone.com/reports/1497169">-CSRF protection bypass in GitHub Enterprise management console</a>
   
+<a href="https://medium.com/@valluvarsploit/fastly-subdomain-takeover-2000-217bb180730f">-Fastly Subdomain Takeover $2000</a>
+  
 <a href="https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp">-Stealing passwords from infosec Mastodon - without bypassing CSP</a>
 
 <a href="https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc">-Common Nginx Misconfiguration leads to Path Traversal</a>
