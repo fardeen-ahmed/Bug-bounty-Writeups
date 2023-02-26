@@ -186,7 +186,7 @@
 <a href="https://github.com/gfek/Lepus">-Lepus is a tool for enumerating subdomains, checking for subdomain takeovers and perform port scans - and boy, is it fast!</a>
 
 
-<a href="https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae">-A tale of zero click account takeoverhttps://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae</a>
+<a href="https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae">-A tale of zero click account takeover</a>
 
 <a href="https://github.com/iamthefrogy/frogy/">-Frogy : Using the combination of different subdomain enumeration tools and logic this script tries to identify more subdomains and TLDs in recon. </a>
 
