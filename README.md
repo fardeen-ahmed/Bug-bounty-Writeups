@@ -754,6 +754,8 @@
 
 <a href="https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee">-SVG based Stored XSS</a>
 
+<a href="https://portswigger.net/daily-swig/google-roulette-developer-console-trick-can-trigger-xss-in-chromium-browsers">-Google Roulette: Developer console trick can trigger XSS in Chromium browsers</a>
+
 <a href="https://medium.com/@youghourtaghannei/postmessage-xss-vulnerability-on-private-program-18e773e1a1ba">-PostMessage Xss vulnerability on private program</a>
 
 <a href="https://medium.com/@haroonhameed_76621/winning-qr-with-dom-based-xss-bug-bounty-poc-4b4048cf285d">-Winning QR with DOM-Based XSS | Bug Bounty POC</a>
