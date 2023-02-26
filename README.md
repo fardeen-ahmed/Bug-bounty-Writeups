@@ -545,6 +545,8 @@
 
 <a href="https://infosecwriteups.com/how-i-was-able-to-takeover-accounts-in-websites-deal-with-github-as-a-sso-provider-294290358e0c">-How I was able to take over accounts in websites deal with Github as an SSO provider</a>
 
+<a href="https://medium.com/@gonzxph/account-takeover-worth-of-2500-e643661f94e9">-Account Takeover Worth of $2500</a>
+
 <a href="https://0xmaruf.medium.com/firing-8-account-takeover-methods-77e892099050">-Firing 8 Account Takeover Methods</a>
 
 <a href="https://r0ckinxj3.wordpress.com/2021/10/24/a-7500-google-sites-idor/">-A 7500$ Google sites IDOR</a>
