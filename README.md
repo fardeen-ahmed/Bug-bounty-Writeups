@@ -757,6 +757,8 @@
   
 <a href="https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/">-Stranger Strings: An exploitable flaw in SQLite</a>
   
+<a href="https://medium.com/@touseefgul/a-500-sql-injection-in-ikea-es-my-first-finding-on-hackerone-cf15c4ecd5a6">-A 500$ SQL Injection Bug in .IKEA.es — My First Finding on Hackerone!</a>
+  
 
 
 
