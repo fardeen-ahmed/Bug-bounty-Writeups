@@ -1328,6 +1328,8 @@
 <a href="https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/index.html">-Reverse Engineering the Apple MultiPeer Connectivity Framework </a>
   
 <a href="https://theevilbit.github.io/posts/cve-2022-32929/">-CVE-2022-32929 - Bypass iOS backup's TCC protection</a>
+  
+<a href="https://blog.impalabs.com/2211_hyperpom.html">-Hyperpom: An Apple Silicon Fuzzer for 64-bit ARM Binarie</a>
 
 
 
