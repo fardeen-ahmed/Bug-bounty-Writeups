@@ -761,6 +761,8 @@
   
 <a href="https://medium.com/@touseefgul/a-500-sql-injection-in-ikea-es-my-first-finding-on-hackerone-cf15c4ecd5a6">-A 500$ SQL Injection Bug in .IKEA.es — My First Finding on Hackerone!</a>
   
+<a href="https://www.varonis.com/blog/zendesk-sql-injection-and-access-flaws">-Varonis Threat Labs Discovers SQLi and Access Flaws in Zendesk</a>
+  
 
 
 
