@@ -1082,8 +1082,12 @@
 
 
 
-## Security Logging and Monitoring (Updating soon...)
+## Security Logging and Monitoring
+  
+<a href="https://ssd-disclosure.com/ssd-advisory-cisco-secure-manager-appliance-jwt_api_impl-hardcoded-jwt-secret-elevation-of-privilege/">-SSD Advisory – Cisco Secure Manager Appliance jwt_api_impl Hardcoded JWT Secret Elevation of Privilege</a>
 
+  
+  
 ## Server-Side Request Forgery
 
 <a href="https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/">-Story of a Google Cloud SSRF</a>
