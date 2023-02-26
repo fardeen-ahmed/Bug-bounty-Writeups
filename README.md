@@ -4,7 +4,7 @@
 </a>
 <h4>This is a place of all the Offensive Cybersecurity people. Feel free to contribute in all sections</h4>
 
-<h2> Bug-Bounty Tools & Extensions (General + Updated) :- </h2>
+<h2> Bug-Bounty Tools & Extensions (General + Updated) :- </h2><br>
 <a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :-Electron JS Browser To Find XSS Vulnerabilities Automatically</a><br>
 
 <A href="https://github.com/mdsecresearch/BurpSuiteSharpener">-Extension should add a number of UI and functional features to Burp Suite to make working with it easier</a>
@@ -853,6 +853,8 @@
 <a href="https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html">-PRACTICAL CLIENT SIDE PATH TRAVERSAL ATTACKS</a>
 
 <a href="https://hackerone.com/reports/1497169">-CSRF protection bypass in GitHub Enterprise management console</a>
+  
+<a href="https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp">-Stealing passwords from infosec Mastodon - without bypassing CSP</a>
 
 <a href="https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc">-Common Nginx Misconfiguration leads to Path Traversal</a>
   
