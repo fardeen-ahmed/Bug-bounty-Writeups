@@ -746,6 +746,8 @@
 
 <a href="https://medium.com/@youghourtaghannei/postmessage-xss-vulnerability-on-private-program-18e773e1a1ba">-PostMessage Xss vulnerability on private program</a>
 
+<a href="https://medium.com/@haroonhameed_76621/winning-qr-with-dom-based-xss-bug-bounty-poc-4b4048cf285d">-Winning QR with DOM-Based XSS | Bug Bounty POC</a>
+
 <a href="https://hector0x.medium.com/easy-sqli-in-amazon-subsidiary-using-sqlmap-ff469013671b">-Easy SQLi in Amazon subsidiary using Sqlmap</a>
 
 
