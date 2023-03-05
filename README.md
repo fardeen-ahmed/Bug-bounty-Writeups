@@ -1162,6 +1162,8 @@
 <a href="https://srahulceh.medium.com/bug-bounty-how-i-found-an-ssrf-reconnaissance-7b1821a1b1fd">-Bug Bounty { How I found an SSRF ( Reconnaissance ) }</a>
   
 <a href="https://spidersilk.com/news/cloud-is-more-fun-with-an-ssrf">-Cloud is more fun with an SSRF</a>
+  
+<a href="https://medium.com/@basu-banakar/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2">-SSRF via DNS Rebinding (CVE-2022–4096)</a>
 
 
 
