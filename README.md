@@ -1465,6 +1465,10 @@
 <a href="https://blog.includesecurity.com/2022/07/hunting-for-mass-assignment-vulnerabilities-using-github-codesearch-and-grep-app/">-Hunting For Mass Assignment Vulnerabilities Using GitHub CodeSearch and grep.app</a>
   
 <a href="https://mirror.xyz/orenyomtov.eth/RbV_WYYTPCAObp3VsNlkgx6iQBElwulGQf586lVK7dE">-Velas Infinite Mint Vulnerability Writeup</a>
+  
+# IOT Security (Writeups + Security)
+  
+  <a href="https://vulncheck.com/blog/xiongmai-iot-exploitation">-Xiongmai IoT Exploitation</a>
 
 
 # Cheat-Sheets for Cybersecurity 
