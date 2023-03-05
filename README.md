@@ -1300,6 +1300,8 @@
 <a href="https://www.hackingarticles.in/android-penetration-testing-frida/">-Android Penetration Testing: Frida </a>
 
 <a href="https://medium.com/@yoshimlutfi/bypass-ssl-pinning-with-ip-forwarding-iptables-568171b52b62">-ByPass SSL Pinning with IP Forwarding | iptables</a>
+  
+<a href="https://kishorbalan.medium.com/its-all-about-android-ssl-pinning-bypass-and-intercepting-proxy-unaware-applications-91689c0763d8">-It's all about Bypassing Android SSL Pinning and Intercepting Proxy Unaware applications.</a>
 
 <a href="https://github.com/cyberheartmi9/Frida-Guide/blob/main/Frida%20Guide/Frida%20Guide.md">-How to Write Frida Hook For Android</a>
 
