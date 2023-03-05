@@ -92,6 +92,8 @@
 
 <a href="https://github.com/iustin24/chameleon">-Chameleon provides better content discovery by using wappalyzer's set of technology fingerprints alongside custom wordlists tailored to each detected technologies</a>
 
+<a href="https://medium.com/@murami.ike/working-with-a-scope-using-gowitness-4d338b0321ac">-Working with a scope using Gowitness</a>
+
 <a href="https://www.hackingarticles.in/a-detailed-guide-on-cewl/">-A Detailed Guide on Cewl</a>
 
 <a href="https://github.com/hakluke/hakoriginfinder">-hakoriginfinder : Tool for discovering the origin host behind a reverse proxy. Useful for bypassing WAFs and other reverse proxies</a>
