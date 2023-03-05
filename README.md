@@ -644,6 +644,8 @@
 
 <a href="https://medium.com/@sicks3c/tale-of-xss-in-angular-c5c057a56156">-Tale of XSS in Angular</a>
 
+<a href="https://labs.guard.io/xss-vulnerability-found-in-connectwise-remote-access-platform-with-great-potential-for-misuse-by-scammers-a0773da2aacf">-XSS Vulnerability Found in ConnectWise Remote Access Platform With Great Potential For Misuse by Scammers</a>
+
 <a href="https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way">Finding DOM Polyglot XSS in PayPal the Easy Way </a>
 
 <a href="https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645">-XSS with Markdown — Exploit & Fix on OpenSource</a>
