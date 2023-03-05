@@ -1483,6 +1483,8 @@
   <a href="https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/">-Reverse engineering an EV charger</a>
   
   <a href="https://twitter.com/samwcyo/status/1597695281881296897">-We recently found a vulnerability affecting Hyundai and Genesis vehicles where we could remotely control the locks, engine, horn, headlights, and trunk of vehicles made after 2012.</a>
+  
+  <a href="https://twitter.com/samwcyo/status/1597792097175674880">-More Car Hacking</a>
 
 
 
