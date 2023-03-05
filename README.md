@@ -1265,6 +1265,8 @@
   
 <a href="https://rashahacks.com/idor-in-graphql-query-leaking-private-photos-of-a-million-app-2c12c7e9dea7">-IDOR in GraphQL Query Leaking Private Photos of a Million $ App</a>
 
+<a href="https://feed.bugs.xdavidhu.me/bugs/0017">-Header spoofing via a hidden parameter in Facebook Batch GraphQL APIs</a>
+
   
 
 
