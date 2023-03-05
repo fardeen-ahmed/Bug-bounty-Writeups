@@ -276,6 +276,8 @@
 
 <a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">-Top 10 Tips for Burp Suite</a>
 
+<a href="https://www.wiz.io/blog/hells-keychain-supply-chain-attack-in-ibm-cloud-databases-for-postgresql">-Hell’s Keychain: Supply-chain vulnerability in IBM Cloud Databases for PostgreSQL allows potential for unauthorized database access </a>
+
 <a href="https://www.tenable.com/blog/cve-2021-41773-path-traversal-zero-day-in-apache-http-server-exploited">-CVE-2021-41773: Path Traversal Zero-Day in Apache HTTP Server Exploited</a>
 
 <a href="https://nmochea.medium.com/gcash-vulnerability-walkthrough-697ea22f97c2">-Gcash Vulnerability Walkthrough</a>
@@ -1467,6 +1469,8 @@
 <a href="https://blog.includesecurity.com/2022/07/hunting-for-mass-assignment-vulnerabilities-using-github-codesearch-and-grep-app/">-Hunting For Mass Assignment Vulnerabilities Using GitHub CodeSearch and grep.app</a>
   
 <a href="https://mirror.xyz/orenyomtov.eth/RbV_WYYTPCAObp3VsNlkgx6iQBElwulGQf586lVK7dE">-Velas Infinite Mint Vulnerability Writeup</a>
+  
+  
   
 # IOT Security (Writeups + Security)
   
