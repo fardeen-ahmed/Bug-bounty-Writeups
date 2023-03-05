@@ -1216,6 +1216,8 @@
   
 <a href="https://portswigger.net/research/hijacking-service-workers-via-dom-clobbering">-Hijacking service workers via DOM Clobbering</a>
   
+<a href="https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html">-Pre-Auth RCE with CodeQL in Under 20 Minutes</a>
+  
 <a href="https://emily.id.au/tailscale">-CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You</a>
   
 <a href="https://hdwsec.fr/blog/20221109-netgear/">-NETGEAR NIGHTHAWK R7000P AWS_JSON UNAUTHENTICATED DOUBLE STACK OVERFLOW VULNERABILITY </a>
