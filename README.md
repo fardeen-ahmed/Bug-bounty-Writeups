@@ -1235,6 +1235,8 @@
 <a href="https://www.wordfence.com/blog/2022/02/critical-vulnerabilities-in-php-everywhere-allow-remote-code-execution/">-Critical Vulnerabilities in PHP Everywhere Allow Remote Code Execution</a>
 
 <a href="https://blog.intigriti.com/2021/10/06/bug-bytes-141-sesh-gremlin-attack-rce-via-password-field-pwning-xmlsec-for-info-disclosure-and-bounties/">-Sesh Gremlin attack, RCE via password field & Pwning XMLSec for info disclosure and bounties</a>
+  
+<a href="https://www.rcesecurity.com/2022/11/from-zero-to-hero-part-1-bypassing-intel-dcms-authentication-cve-2022-33942/">-Bypassing Intel DCM’s Authentication by Spoofing Kerberos and LDAP Responses (CVE-2022-33942)</a>
 
 <a href="https://hackerone.com/reports/584603">-RCE on CS:GO client using unsanitized entity ID in EntityMsg message</a>
 
