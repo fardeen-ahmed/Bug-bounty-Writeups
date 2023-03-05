@@ -793,6 +793,8 @@
 <a href="https://hackerone.com/reports/1372667">-Able to steal bearer token from deep link</a>
 
 <a href="https://medium.com/@shabarkin/unsafe-content-loading-electron-js-76296b6ac028">-Unsafe content loading [Electron JS]</a>
+  
+<a href="https://fluidattacks.com/blog/account-takeover-kayak/">-Account Takeover in KAYAK</a>
 
 <a href="https://joonas.fi/2021/08/saml-is-insecure-by-design/">-SAML is insecure by design</a>
 
