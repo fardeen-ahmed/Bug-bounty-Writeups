@@ -1445,6 +1445,8 @@
 <a href="https://github.com/blockthreat/blocksec-ctfs">-Blocksec CTFs - A curated list of blockchain security Wargames, Challenges, and Capture the Flag (CTF) competitions and solution writeups</a>
   
 <a href="https://blog.includesecurity.com/2022/07/hunting-for-mass-assignment-vulnerabilities-using-github-codesearch-and-grep-app/">-Hunting For Mass Assignment Vulnerabilities Using GitHub CodeSearch and grep.app</a>
+  
+<a href="https://mirror.xyz/orenyomtov.eth/RbV_WYYTPCAObp3VsNlkgx6iQBElwulGQf586lVK7dE">-Velas Infinite Mint Vulnerability Writeup</a>
 
 
 # Cheat-Sheets for Cybersecurity 
