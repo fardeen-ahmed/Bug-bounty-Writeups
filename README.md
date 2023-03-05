@@ -573,6 +573,8 @@
 
 <a href="https://medium.com/@divyanshsharma2401/bypassing-waf-for-2222-f99b80cfdb9b">-Bypassing WAF for $2222</a>
 
+<a href="https://medium.com/@manavbankatwala29/unique-rate-limit-bypass-worth-1800-6e2947c7d972">-Unique Rate limit bypass worth 1800$</a>
+
 <a href="https://encodedguy.medium.com/600-for-idor-file-or-folder-download-243166452dad">-$600 for IDOR (File or Folder Download)</a>
 
 <a href="https://amit-lt.medium.com/a-story-of-idor-which-leads-to-privacy-violation-78c1b4c710fb">-A Story of IDOR which leads to privacy violation…$$$</a>
