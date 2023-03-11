@@ -112,6 +112,8 @@
 
 <a href="https://danielmiessler.com/study/ffuf/">-A ffuf Primer</a>
 
+<a href="https://github.com/Lu1sDV/wafme0w">-Wafme0w - Fast and lightweight Web Application Firewall fingerprinting tool.</a>
+
 <a href="https://github.com/r0oth3x49/ghauri">-Ghauri : An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws</a>
 
 <a href="https://github.com/root-tanishq/userefuzz">-User-Agent , X-Forwarded-For and Referer SQLI Fuzzer</a>
