@@ -1253,6 +1253,8 @@
 <a href="https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-account-on-one-of-europes-largest-media-companies-e8d25e59c08">-How I Was Able To TakeOver Any Account On One Of Europe's Largest Media Companies</a>
   
 <a href="https://0xacb.com/2022/11/21/recollapse/">-Fuzzing the web for mysterious bugs</a>
+
+<a href="https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html">-Pre-Auth RCE with CodeQL in Under 20 Minutes </a>
   
 <a href="https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980">-Facebook SMS Captcha Was Vulnerable to CSRF Attack</a>
  
