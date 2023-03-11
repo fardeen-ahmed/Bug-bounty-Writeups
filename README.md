@@ -1353,6 +1353,8 @@
 
 <a href="https://www.hackingarticles.in/android-penetration-testing-frida/">-Android Penetration Testing: Frida </a>
 
+<a href="https://gist.github.com/incogbyte/1e0e2f38b5602e72b1380f21ba04b15e">-Frida script to bypass common methods of sslpining Android</a>
+
 <a href="https://medium.com/@yoshimlutfi/bypass-ssl-pinning-with-ip-forwarding-iptables-568171b52b62">-ByPass SSL Pinning with IP Forwarding | iptables</a>
   
 <a href="https://kishorbalan.medium.com/its-all-about-android-ssl-pinning-bypass-and-intercepting-proxy-unaware-applications-91689c0763d8">-It's all about Bypassing Android SSL Pinning and Intercepting Proxy Unaware applications.</a>
