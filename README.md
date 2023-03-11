@@ -1378,6 +1378,8 @@
 <a href="https://blog.oversecured.com/Android-security-checklist-webview/">-Android security checklist: WebView</a>
   
 <a href="https://www.eff.org/deeplinks/2022/04/mobile-mitm-intercepting-your-android-app-traffic-go">-Mobile MitM: Intercepting your Android App Traffic On the Go</a>
+
+<a href="https://cybervelia.com/?p=733">-Mobile Bug Bounty Hunting? Enter BLE</a>
   
 <a href="https://securitycafe.ro/2022/09/05/mobile-pentesting-101-bypassing-biometric-authentication/">-MOBILE PENTESTING 101 – BYPASSING BIOMETRIC AUTHENTICATION</a>
   
