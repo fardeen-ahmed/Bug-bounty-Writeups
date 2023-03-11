@@ -1059,6 +1059,8 @@
   
 <a href="https://boschko.ca/tenda_ac1200_router/">-Vulnerabilities in Tenda's W15Ev2 AC1200 Router</a>
 
+<a href="https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html">-Exploiting CVE-2022-42703 - Bringing back the stack attack</a>
+
 
 
 
