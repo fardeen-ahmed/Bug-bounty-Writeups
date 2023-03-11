@@ -845,6 +845,8 @@
 <a href="https://medium.com/@aditya043k/oauth-misconfiguration-leads-to-full-account-takeover-d93c0d0fb66c">-OAUTH Misconfiguration leads to Full Account Takeover</a>
 
 <a href="https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/">-Hijacking GitHub Repositories by Deleting and Restoring Them</a>
+
+<a href="https://redcanary.com/blog/fuzzing/">-Fuzzing Golang msgpack for fun and panic</a>
   
 <a href="https://blog.assetnote.io/2022/05/03/hacking-a-bank-using-dotcms-rce/">-Hacking a Bank by Finding a 0day in DotCMS</a>
 
