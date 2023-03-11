@@ -1225,6 +1225,8 @@
 <a href="https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage">-Remote Code Execution in Spotify’s Backstage via vm2 Sandbox Escape (CVSS Score of 9.8)</a>  
   
 <a href="https://ssd-disclosure.com/ssd-advisory-galaxy-store-applications-installation-launching-without-user-interaction/">-SSD Advisory – Galaxy Store Applications Installation/Launching without User Interaction</a>
+
+<a href="https://h1pmnh.github.io/post/writeup_spring_el_waf_bypass/">-RCE via SSTI on Spring Boot Error Page with Akamai WAF Bypass</a>
   
 <a href="https://portswigger.net/daily-swig/prototype-pollution-project-yields-another-parse-server-rce">-Prototype pollution project yields another Parse Server RCE</a>
   
