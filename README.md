@@ -44,6 +44,8 @@
 <a href="https://github.com/swisskyrepo/GraphQLmap">-GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes</a>
 
 <a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">-How to Hack APIs in 2021</a>
+
+<a href="https://github.com/erev0s/VAmPI">VAmPI - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing</a>
   
 <a href="https://akshita-infosec.medium.com/burp-macros-what-why-how-151df8901641">-Burp Macros: What, Why & How?</a>
 
