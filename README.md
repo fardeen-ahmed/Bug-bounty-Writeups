@@ -670,6 +670,8 @@
 
 <a href="https://www.trustedsec.com/blog/scraping-login-credentials-with-xss/">-SCRAPING LOGIN CREDENTIALS WITH XSS </a>
 
+<a href="https://medium.com/@haroonhameed_76621/a-775-worth-of-cookies-reflected-dom-based-xss-bug-bounty-poc-3e7720c78fbe">-A $$$ worth of cookies! | Reflected DOM-Based XSS | Bug Bounty POC</a>
+
 <a href="https://infosecwriteups.com/how-i-was-able-to-find-50-cross-site-scripting-xss-security-vulnerabilities-on-bugcrowd-public-ba33db2b0ab1">-How I was able to find 50+ Cross-site scripting (XSS) Security Vulnerabilities on Bugcrowd Public Program</a>
 
 <a href="https://portswigger.net/daily-swig/email-platform-zimbra-issues-hotfix-for-xss-vulnerability-under-active-exploitation">-Email platform Zimbra issues hotfix for XSS vulnerability under active exploitation</a>
