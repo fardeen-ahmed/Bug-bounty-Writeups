@@ -696,6 +696,8 @@
 
 <a href="https://portswigger.net/research/new-xss-vectors">-New XSS vectors</a>
 
+<a href="https://medium.com/@marvelmaniac/the-most-underrated-injection-of-all-time-cypher-injection-fa2018ba0de8">-The most underrated injection of all time — CYPHER INJECTION. How I found and exploited it && 2000$ bounty !</a>
+
 <a href="https://hackerone.com/reports/1558010">-Blind XSS in app.pullrequest.com/████████ via /reviews/ratings/{uuid}</a>
 
 <a href="https://www.vidocsecurity.com/blog/hacking-swagger-ui-from-xss-to-account-takeovers/">-Hacking Swagger-UI - from XSS to account takeovers</a>
