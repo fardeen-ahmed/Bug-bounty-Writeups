@@ -1242,6 +1242,8 @@
   
 <a href="https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage">-Remote Code Execution in Spotify’s Backstage via vm2 Sandbox Escape (CVSS Score of 9.8)</a>  
 
+<a href="https://omar0x01.medium.com/cve-2022-42710-a-journey-through-xxe-to-stored-xss-851d74dfe917">-CVE-2022–42710: A journey through XXE to Stored-XSS</a>
+
 <a href="https://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf">-Abusing JSON-Based SQL to Bypass WAF</a>
   
 <a href="https://ssd-disclosure.com/ssd-advisory-galaxy-store-applications-installation-launching-without-user-interaction/">-SSD Advisory – Galaxy Store Applications Installation/Launching without User Interaction</a>
