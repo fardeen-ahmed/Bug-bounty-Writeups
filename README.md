@@ -1501,6 +1501,8 @@
 <a href="https://hencohen10.medium.com/microsoft-dynamics-container-sandbox-rce-via-unauthenticated-docker-remote-api-20-000-bounty-7f726340a93b">-Microsoft Dynamics Container Sandbox RCE via Unauthenticated Docker Remote API 20,000$ Bounty </a>
   
 <a href="https://fortbridge.co.uk/research/compromising-plesk-via-its-rest-api/">-Compromising Plesk via its REST API</a>
+
+<a href="https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis">-Missing Bricks: Finding Security Holes in LEGO APIs</a>
   
   
   
