@@ -858,6 +858,8 @@
 
 <a href="https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html">-Exploiting CVE-2022-42703 - Bringing back the stack attack</a>
 
+<a href="https://research.nccgroup.com/2022/12/19/meshyjson-a-tp-link-tdpserver-json-stack-overflow/">-MeshyJSON: A TP-Link tdpServer JSON Stack Overflow</a>
+
 <a href="https://redcanary.com/blog/fuzzing/">-Fuzzing Golang msgpack for fun and panic</a>
   
 <a href="https://blog.assetnote.io/2022/05/03/hacking-a-bank-using-dotcms-rce/">-Hacking a Bank by Finding a 0day in DotCMS</a>
