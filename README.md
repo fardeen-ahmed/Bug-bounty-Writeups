@@ -1093,6 +1093,8 @@
 <a href="https://hackerone.com/reports/921780">-Improper Authentication - any user can login as other user with otp/logout & otp/login</a>
 
 <a href="https://medium.com/@TutorialBoy24/a-summary-of-oauth-2-0-attack-methods-36834805c631">-A Summary of OAuth 2.0 Attack Methods</a>
+  
+<a href="https://medium.com/@elsherifx00/how-to-test-for-jwt-attacks-513da89abe94">-How to test for JWT attacks</a>
 
 <a href="https://rammk01.medium.com/bypassed-the-subscription-and-got-the-certification-27c571c2f383">-Bypassed the subscription and got the certification</a>
   
