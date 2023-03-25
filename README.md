@@ -585,6 +585,8 @@
 
 <a href="https://adityashende17.medium.com/idor-to-information-disclosure-admin-account-takeover-6aa96798c70b">-IDOR to information disclosure + Admin Account Takeover</a>  
 
+<a href="https://akash-venky091.medium.com/otp-bypassing-and-vulnerabilities-from-e-mail-fields-a5c326efa605">-OTP Bypassing and Vulnerabilities from E-Mail fields.</a>
+
 <a href="https://kuldeep.io/posts/path-traversal-paradise/">-Path Traversal Paradise</a>
 
 <a href="https://sysdig.com/blog/cve-2022-42889-text4shell/">-Detecting and mitigating CVE-2022-42889 a.k.a. Text4shell</a>
