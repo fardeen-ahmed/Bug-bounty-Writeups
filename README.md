@@ -1224,6 +1224,8 @@
 <a href="https://medium.com/@raymond-lind/ssrf-lfi-in-uploads-feature-321d83b93ec0">-SSRF & LFI In Uploads Feature</a>
 
 <a href="https://blog.neolex.dev/13/">-Critical SSRF on Evernote</a>
+  
+<a href="https://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9">-Bypassing SSRF Protections</a>
 
 <a href="https://thehemdeep.medium.com/cross-site-port-attack-in-wild-9d2f6af36455">-Cross Site Port Attack in Wild</a>
   
