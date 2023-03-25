@@ -1461,6 +1461,8 @@
 <a href="https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/">-CVE-2022-41622 and CVE-2022-41800 (FIXED): F5 BIG-IP and iControl REST Vulnerabilities and Exposures</a>  
   
 <a href="https://theevilbit.github.io/posts/cve-2022-32929/">-CVE-2022-32929 - Bypass iOS backup's TCC protection</a>
+  
+<a href="https://canmustdie.medium.com/bypass-apples-redirection-process-with-the-dot-character-c47d40537202">-Bypass Apple’s redirection process with the dot (“.”) character</a>
 
 
 
