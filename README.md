@@ -901,6 +901,8 @@
 <a href="https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c">-How I hacked thousand of subdomains</a>
 
 <a href="https://github.com/WeAreCloudar/s3-account-search">-S3 Account Search</a>
+
+<a href="https://spyclub.tech/2022/12/14/unusual-cache-poisoning-akamai-s3/">-Unusual Cache Poisoning between Akamai and S3 buckets</a>
   
 <a href="https://medium.com/@nanwinata/old-rce-worth-3362-1af0cd70c459">-Old RCE worth $3362</a>
 
