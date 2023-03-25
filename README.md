@@ -1455,6 +1455,8 @@
 <a href="https://blog.impalabs.com/2211_hyperpom.html">-Hyperpom: An Apple Silicon Fuzzer for 64-bit ARM Binarie</a>
   
 <a href="https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/">-CVE-2022-41622 and CVE-2022-41800 (FIXED): F5 BIG-IP and iControl REST Vulnerabilities and Exposures</a>  
+  
+<a href="https://theevilbit.github.io/posts/cve-2022-32929/">-CVE-2022-32929 - Bypass iOS backup's TCC protection</a>
 
 
 
@@ -1549,6 +1551,8 @@
   
 # Famous Checklists 
   <a href="https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist">-Galaxy Bug Bounty : Tips and Tutorials for Bug Bounty and also Penetration Tests</a>
+  
+  
 
 # Extra Practicing Labs (Critical Vulnerabilities) :
 <a href="https://github.com/fengguangbin/spring-rce-war">-Spring RCE vulnerability reproduction environment </a>
