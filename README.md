@@ -49,6 +49,8 @@
   
 <a href="https://akshita-infosec.medium.com/burp-macros-what-why-how-151df8901641">-Burp Macros: What, Why & How?</a>
 
+<a href="https://github.com/0x4ndy/clif">-clif is a command-line interface (CLI) application fuzzer, pretty much what wfuzz or ffuf are for web. </a>
+
 <a href="https://github.com/r0oth3x49/ghauri">-Ghauri - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws</A>
 
 <a href="https://portswigger.net/blog/introducing-dom-invader">Introducing DOM Invader: DOM XSS just got a whole lot easier to find</a>
