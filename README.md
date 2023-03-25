@@ -1545,6 +1545,10 @@
 
 # Cheat-Sheets for Cybersecurity 
 <a href="https://ozguralp.medium.com/bigquery-sql-injection-cheat-sheet-65ad70e11eac">-BigQuery SQL Injection Cheat Sheet</a>
+  
+  
+# Famous Checklists 
+  <a href="https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist">-Galaxy Bug Bounty : Tips and Tutorials for Bug Bounty and also Penetration Tests</a>
 
 # Extra Practicing Labs (Critical Vulnerabilities) :
 <a href="https://github.com/fengguangbin/spring-rce-war">-Spring RCE vulnerability reproduction environment </a>
