@@ -765,6 +765,8 @@
 
 <a href="https://jlajara.gitlab.io/Javascript_Hoisting_in_XSS_Scenarios">-Javascript Hoisting in XSS Scenarios</a>
 
+<a href="https://mtechghost.medium.com/stored-xss-vulnerability-in-microsoft-booking-e593de3344e0">-Stored XSS vulnerability in Microsoft booking</a>
+
 <a href="https://palisade.consulting/blog/rarible-vulnerability">-Palisade identifies Wormable Cross-Site Scripting Vulnerability affecting Rarible’s NFT Marketplace</a>
 
 <a href="https://www.gosecure.net/blog/2022/07/13/tableau-server-leaks-sensitive-information-from-reflected-xss/">-Tableau Server Leaks Sensitive Information From Reflected XSS</a>
