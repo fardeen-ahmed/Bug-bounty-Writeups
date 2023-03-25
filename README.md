@@ -877,6 +877,8 @@
 <a href="https://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html">-Let's Dance in the Cache - Destabilizing Hash Table on Microsoft IIS!</a>
 
 <a href="https://www.legitsecurity.com/blog/artifact-poisoning-vulnerability-discovered-in-rust">-Novel Pipeline Vulnerability Discovered; Rust  Found Vulnerable</a>
+  
+<a href="https://portswigger.net/daily-swig/finding-nbsp-the-next-log4j-nbsp-openssfs-brian-behlendorf-on-pivoting-to-a-risk-centred-view-of-open-source-development">-Finding the next Log4j – OpenSSF’s Brian Behlendorf on pivoting to a ‘risk-centred view’ of open source development</a>
 
 
 
