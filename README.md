@@ -1531,6 +1531,8 @@
   
 <a href="https://shifacyclewala.medium.com/the-rise-of-web-3-0-security-d90373b64714">-The Rise of Web 3.0 Security</a>
   
+<a href="https://medium.com/@vamshivaran110/rce-on-admin-panel-of-web3-website-2d0acf34d6ea">-RCE on admin panel of web3 website</a>
+  
   
   
 # BlockChain Security
