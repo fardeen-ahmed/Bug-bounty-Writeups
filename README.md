@@ -644,7 +644,7 @@
 
 
 
-## Cryptographic Issues / Bugs (Updating soon...)
+## Cryptographic Issues / Bugs
 
 <a href="https://i.blackhat.com/USA-22/Wednesday/us-22-Kettle-Browser-Powered-Desync-Attacks.pdf">-Browser-Powered Desync Attacks -> A New Frontier in HTTP Request Smuggling</a>
 
@@ -814,6 +814,8 @@
 <a href="https://www.varonis.com/blog/zendesk-sql-injection-and-access-flaws">-Varonis Threat Labs Discovers SQLi and Access Flaws in Zendesk</a>
 
 <a href="https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/">-Exploring Prompt Injection Attacks</a>
+  
+<a href="https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/">-Puckungfu: A NETGEAR WAN Command Injection</a>
   
 
 
