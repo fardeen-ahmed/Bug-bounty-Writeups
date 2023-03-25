@@ -712,6 +712,8 @@
 
 <a href="https://www.vidocsecurity.com/blog/hacking-swagger-ui-from-xss-to-account-takeovers/">-Hacking Swagger-UI - from XSS to account takeovers</a>
 
+<a href="https://medium.com/@M0X0101/how-i-was-able-to-steal-users-credentials-via-swagger-ui-dom-xss-e84255eb8c96">-How I was able to steal users credentials via Swagger UI DOM-XSS</a>
+
 <a href="https://hackerone.com/reports/1212067">-Stored XSS in markdown via the DesignReferenceFilter</a>
 
 <a href="https://hackerone.com/reports/977697">-Stored-XSS in merge requests</a>
