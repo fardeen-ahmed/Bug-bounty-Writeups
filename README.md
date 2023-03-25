@@ -1149,6 +1149,8 @@
   
 <a href="https://portswigger.net/daily-swig/vulnerability-in-aws-appsync-allowed-unauthorized-access-to-cloud-resources">-Vulnerability in AWS AppSync allowed unauthorized access to cloud resources</a>
 
+<a href="https://blog.lightspin.io/aws-ecr-public-vulnerability">-AWS ECR Public Vulnerability</a>
+
   
 <a href="https://portswigger.net/daily-swig/melis-platform-cms-patched-for-critical-rce-flaw">-Melis Platform CMS patched for critical RCE flaw</a>
 
