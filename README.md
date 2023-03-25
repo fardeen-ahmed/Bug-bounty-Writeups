@@ -5,7 +5,7 @@
 <h4>This is a place of all the Offensive Cybersecurity people. Feel free to contribute in all sections</h4>
 
 <h2> Bug-Bounty Tools & Extensions (General + Updated) :- </h2><br>
-<a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :-Electron JS Browser To Find XSS Vulnerabilities Automatically</a><br>
+<a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :-Electron JS Browser To Find XSS Vulnerabilities Automatically</a><p>
 
 <A href="https://github.com/mdsecresearch/BurpSuiteSharpener">-Extension should add a number of UI and functional features to Burp Suite to make working with it easier</a>
 
@@ -861,6 +861,8 @@
 <a href="https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html">-Exploiting CVE-2022-42703 - Bringing back the stack attack</a>
 
 <a href="https://research.nccgroup.com/2022/12/19/meshyjson-a-tp-link-tdpserver-json-stack-overflow/">-MeshyJSON: A TP-Link tdpServer JSON Stack Overflow</a>
+
+<a href="https://nmochea.medium.com/arbitrary-file-corruption-end-to-end-encrypted-messaging-application-674963dceef8">-Arbitrary File Corruption: End - to - End Encrypted Messaging Application</a>
 
 <a href="https://redcanary.com/blog/fuzzing/">-Fuzzing Golang msgpack for fun and panic</a>
   
