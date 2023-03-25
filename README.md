@@ -1330,6 +1330,8 @@
 <a href="https://infosecwriteups.com/exploiting-password-reset-poisoning-b748797f0661">-Exploiting Password Reset Poisoning for account takeover and max bounty!</a>
   
 <a href="https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md">-CVE-2021-26084 Remote Code Execution on Confluence Servers</a>
+
+<a href="https://labs.nettitude.com/blog/exploiting-onlyoffice-web-sockets-for-unauthenticated-remote-code-execution/">-CVE-2021-43444 to 43449: Exploiting ONLYOFFICE Web Sockets for Unauthenticated Remote Code Execution</a>
   
 <a href="https://radianid.medium.com/chaining-open-redirect-with-xss-to-account-takeover-36acf218a6d5">-Chaining Open Redirect with XSS to Account Takeover</a>
 
