@@ -852,6 +852,8 @@
 
 <a href="https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/">-Hijacking GitHub Repositories by Deleting and Restoring Them</a>
 
+<a href="https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html">-Exploiting CVE-2022-42703 - Bringing back the stack attack</a>
+
 <a href="https://redcanary.com/blog/fuzzing/">-Fuzzing Golang msgpack for fun and panic</a>
   
 <a href="https://blog.assetnote.io/2022/05/03/hacking-a-bank-using-dotcms-rce/">-Hacking a Bank by Finding a 0day in DotCMS</a>
