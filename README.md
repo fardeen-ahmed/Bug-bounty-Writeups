@@ -968,6 +968,8 @@
   
 <a href="https://bugcrowd.com/disclosures/f7ce8504-0152-483b-bbf3-fb9b759f9f89/critical-local-file-read-in-electron-desktop-app">-Critical Local File Read in Electron Desktop App</a>
   
+<a href="https://securityonline.info/cve-2022-46175-json5-prototype-pollution-vulnerability/">-CVE-2022-46175: JSON5 Prototype Pollution Vulnerability</a>
+  
 <a href="https://hackerone.com/reports/1596663">-Admin can create a hidden admin account which even the owner can not detect and remove and do administrative actions on the application.</a>
 
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
