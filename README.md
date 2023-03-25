@@ -589,6 +589,8 @@
 
 <a href="https://medium.com/@divyanshsharma2401/bypassing-waf-for-2222-f99b80cfdb9b">-Bypassing WAF for $2222</a>
 
+<a href="https://yilmazcanyigit.medium.com/cve-2019-6238-apple-xar-directory-traversal-vulnerability-9a32ba8b3b7d">-CVE-2019–6238: Apple XAR directory traversal vulnerability</a>
+
 <a href="https://medium.com/@manavbankatwala29/unique-rate-limit-bypass-worth-1800-6e2947c7d972">-Unique Rate limit bypass worth 1800$</a>
 
 <a href="https://encodedguy.medium.com/600-for-idor-file-or-folder-download-243166452dad">-$600 for IDOR (File or Folder Download)</a>
@@ -804,8 +806,6 @@
 <a href="https://medium.com/@touseefgul/a-500-sql-injection-in-ikea-es-my-first-finding-on-hackerone-cf15c4ecd5a6">-A 500$ SQL Injection Bug in .IKEA.es — My First Finding on Hackerone!</a>
   
 <a href="https://www.varonis.com/blog/zendesk-sql-injection-and-access-flaws">-Varonis Threat Labs Discovers SQLi and Access Flaws in Zendesk</a>
-
-<a href="https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/">-Exploring Prompt Injection Attacks</a>
 
 <a href="https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/">-Exploring Prompt Injection Attacks</a>
   
