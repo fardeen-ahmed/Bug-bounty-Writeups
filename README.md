@@ -941,6 +941,8 @@
   
 <a href="https://www.alevsk.com/2022/11/system-misconfiguration-is-the-number-one-vulnerability-at-least-for-mastodon/">-System misconfiguration is the number one vulnerability, at least for Mastodon</a>
   
+<a href="https://medium.com/@mukundbhuva/account-takeover-due-to-cognito-misconfiguration-earns-me-xxxx-3a7b8bb9a619">-Account Takeover Due to Cognito Misconfiguration Earns Me €xxxx</a>
+  
 <a href="https://portswigger.net/research/detecting-web-message-misconfigurations-for-cross-domain-credential-theft">-Detecting web message misconfigurations for cross-domain credential theft</a>
   
 <a href="https://ltidi.medium.com/the-untold-sendbird-misconfigurations-1496d252bc69">-The Untold SendBird Misconfigurations</a>  
