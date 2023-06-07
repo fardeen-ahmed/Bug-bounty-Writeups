@@ -1566,6 +1566,7 @@
 # IOT Security (Writeups + Security)
   
   <a href="https://vulncheck.com/blog/xiongmai-iot-exploitation">-Xiongmai IoT Exploitation</a>
+  <a href="https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html">-Turning Google smart speakers into wiretaps for $100k</a>
 
 
 # Cheat-Sheets for Cybersecurity 
