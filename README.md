@@ -1410,6 +1410,8 @@
 # Android Application Testing (Methods + Tools)
 
 <a href="https://blog.cobalt.io/getting-started-with-android-application-security-6f20b76d795b">-Getting started with Android Application Security</a>
+  
+<a href="https://zerodayhacker.com/using-an-android-emulator-for-api-hacking">-Using an Android emulator for API hacking</a>
 
 
 <a href="https://www.hackingarticles.in/android-penetration-testing-frida/">-Android Penetration Testing: Frida </a>
