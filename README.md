@@ -99,6 +99,8 @@
 
 <a href="https://www.revshells.com/">-Online - Reverse Shell Generator</a>
   
+<a href="https://github.com/Eilonh/s3crets_scanner">-S3cret Scanner: Hunting For Secrets Uploaded To Public S3 Buckets</a>
+  
 <a href="https://github.com/redhuntlabs/HTTPLoot">-HTTPLoot : An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.</a>
 
 <a href="https://github.com/iustin24/chameleon">-Chameleon provides better content discovery by using wappalyzer's set of technology fingerprints alongside custom wordlists tailored to each detected technologies</a>
