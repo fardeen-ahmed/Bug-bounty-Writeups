@@ -86,6 +86,8 @@
 <a href="https://github.com/kosmosec/proto-find">-Proto Find. Let's check if your target is vulnerable for client side prototype pollution</a>
 
 <a href="https://github.com/KathanP19/protoscan">-Prototype Pollution Scanner made in Golang</a>
+  
+<a href="https://github.com/PabloMK7/ENLBufferPwn">-BufferPwn: RCE vulnerability in the common network code of several first party Nintendo games since the Nintendo 3DS</a>
 
 <a href="https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques">-New differential fuzzing tool reveals novel HTTP request smuggling techniques</a>
 
