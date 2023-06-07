@@ -179,6 +179,8 @@
 <a href="https://github.com/morphean-sec/secure-smart-contract-design-principles">-Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts.</a>
 
 <a href="https://portswigger.net/daily-swig/teen-hacker-scoops-4-500-bug-bounty-for-facebook-flaw-that-allowed-attackers-to-unmask-page-admins">-Teen hacker scoops $4,500 bug bounty for Facebook flaw that allowed attackers to unmask page admins</a>
+  
+<a href="https://github.com/CoolerVoid/Mosca">-Mosca - Manual search tool to find bugs like a grep unix command - Beta </a>
 
 <a href="https://github.com/gwen001/gitlab-subdomains">-gitlab-subdomains - Find subdomains on GitLab</a>
 
@@ -668,6 +670,8 @@
 <a href="https://m7-arman.medium.com/host-header-injection-lead-to-account-takeover-2f025a645d13">-Host Header Injection Lead To Account Takeover</a>
 
 <a href="https://hackerone.com/reports/1196124">-Regular Expression Injection</a>
+
+<a href="https://sudhanshur705.medium.com/exploring-the-world-of-esi-injection-b86234e66f91">-Exploring the World of ESI Injection</a>
 
 <a href="https://medium.com/@sicks3c/tale-of-xss-in-angular-c5c057a56156">-Tale of XSS in Angular</a>
 
