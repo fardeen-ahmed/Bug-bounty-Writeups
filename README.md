@@ -1475,6 +1475,8 @@
 <a href="https://eshard.com/posts/pixel6bootloader-2">-Pixel 6 bootloader: Emulation, ROP (part 2)</a>
   
 <a href="https://eshard.com/posts/pixel6_bootloader_3">-Pixel 6 Bootloader: Exploitation (part 3)</a>
+  
+<a href="https://servicenger.com/mobile/instagram-vulnerability-turn-off-message-requests-deeplink/">-Instagram vulnerability : Turn off all type of message requests using deeplink (Android)</a>
 
 
 
