@@ -308,6 +308,10 @@
 <a href="https://srcincite.io/blog/2022/08/09/from-shared-dash-to-root-bash-pre-authenticated-rce-in-vmware-vrealize-operations-manager.html">-From Shared Dash to Root Bash :: Pre-Authenticated RCE in VMWare vRealize Operations Manager</a>
 
 <a href="https://hackerone.com/reports/1439026">-Discoverability by phone number/email restriction bypass</a>
+  
+<a href="https://medium.com/@poetryoflive/how-i-design-my-prefect-bug-bounty-automation-1-17d0292cbad">-How I Design My Prefect Bug Bounty Automation (Part 1)</a>
+  
+<a href="https://medium.com/@poetryoflive/how-i-design-my-prefect-bug-bounty-automation-2-f27fc5612d9f">-How I Design My Prefect Bug Bounty Automation (Part 2)</a>
 
 <a href="https://hackerone.com/reports/1273292">-Internal Gitlab Ticket Disclosure via External Slack Channels</a>
 
