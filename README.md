@@ -346,6 +346,8 @@
 
 <a href="https://vikaran101.medium.com/how-i-made-it-into-the-united-nations-hall-of-fame-as-i-slept-f567c90be227">-How I made it into the United Nations hall of fame as I slept</a>
 
+<a href="https://medium.com/supakiad-s-m3ez/microsoft-bug-reports-lead-to-ranking-on-microsoft-msrc-quarterly-leaderboard-q3-2022-c6c9f70e2ccd">-Microsoft bug reports lead to ranking on Microsoft MSRC Quarterly Leaderboard (Q3 2022)</a>
+
 <a href="https://spaceraccoon.dev/embedding-payloads-bypassing-controls-microsoft-infopath/">-Embedding Payloads and Bypassing Controls in Microsoft InfoPath</a>
 
 <a href="https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/">-Breaking Bitbucket: Pre Auth Remote Command Execution (CVE-2022-36804)</a>
