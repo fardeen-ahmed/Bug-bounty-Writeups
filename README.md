@@ -997,6 +997,8 @@
 
 <a href="https://hackerone.com/reports/1102764">-Lack of URL normalization renders Blocked-Previews feature ineffectual</a>
   
+<a href="https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c">-Bypass Premium Account Payment (GetPocket)</a>
+  
 <a href="https://www.whitesourcesoftware.com/resources/blog/aws-targeted-by-a-package-backfill-attack/">-AWS Targeted by a Package Backfill Attack</a>
 
 <a href="https://hackerone.com/reports/1122408">-CSRF on /api/graphql allows executing mutations through GET requests</a>
