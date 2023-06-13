@@ -959,6 +959,8 @@
   
 <a href="https://medium.com/@nanwinata/old-rce-worth-3362-1af0cd70c459">-Old RCE worth $3362</a>
 
+<a href="https://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1">-Web-Cache Poisoning $$$? Worth it?</a>
+  
 <a href="https://medium.com/@sicks3c/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52">-How I Scored 1K Bounty Using Waybackurls</a>
 
 <a href="https://xcheater.medium.com/all-about-csrf-flaw-7d525be39587">-All About CSRF Flaw</a>
