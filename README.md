@@ -350,6 +350,8 @@
 <a href="http://ysamm.com/?p=620">-Make recruiting referrals on behalf of employees ($3000)</a>
 
 <a href="https://jakearchibald.com/2021/cors/">-How to win at CORS</a>
+  
+<a href="https://blog.abdulrah33m.com/prototype-pollution-in-python/">-Prototype Pollution in Python</a>
 
 <a href="https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access">-AttachMe: critical OCI vulnerability allows unauthorized access to customer cloud storage volumes </a>
 
@@ -990,6 +992,8 @@
 <a href="https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f">-How I got Apple Hall Of Fame !</a>
 
 <a href="https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/">-How to exploit insecure WebResourceResponse configurations + an example vulnerability in Amazon apps</a>
+  
+<a href="https://github.com/numanturle/CVE-2022-44877">-Centos Web Panel 7 Unauthenticated Remote Code Execution - CVE-2022-44877</a>
 
 <a href="https://www.hackerone.com/best-practices/preventing-compromised-password-reuse-hackeronecom">-Preventing compromised password reuse on HackerOne.com </a>
 
