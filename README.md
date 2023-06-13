@@ -303,6 +303,8 @@
 
 <a href="https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-via-XSS/">-Here's my story about 8 CVEs resulting in a plugin removal and more than $30,000 in bounties!</a>
   
+<a href="https://trufflesecurity.com/blog/of-cors/index.html">-Bypass firewalls with of-CORs and typo-squatting</a>
+  
 <a href="https://medium.com/@Brian.IsMeta/difficulty-of-reproducing-old-exploits-a613da2c2143">-Difficulty of Reproducing Old Exploits (Part 1)</a>
   
 <a href="https://medium.com/@Brian.IsMeta/difficulty-of-reproducing-old-exploits-part-two-3c2db88232e5">-Difficulty of Reproducing Old Exploits (Part 2)</a>
