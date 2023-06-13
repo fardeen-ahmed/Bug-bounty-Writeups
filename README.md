@@ -699,6 +699,8 @@
 
 <a href="https://labs.guard.io/xss-vulnerability-found-in-connectwise-remote-access-platform-with-great-potential-for-misuse-by-scammers-a0773da2aacf">-XSS Vulnerability Found in ConnectWise Remote Access Platform With Great Potential For Misuse by Scammers</a>
 
+<A href="https://medium.com/@sid0krypt/vue-js-reflected-xss-fae04c9872d2">-Vue JS Reflected XSS</a>
+
 <a href="https://karmainsecurity.com/exploiting-an-nday-vbulletin-php-object-injection">-Exploiting an N-day vBulletin PHP Object Injection Vulnerability</a>
 
 <a href="https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way">Finding DOM Polyglot XSS in PayPal the Easy Way </a>
