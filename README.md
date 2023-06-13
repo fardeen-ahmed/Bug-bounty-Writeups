@@ -1628,6 +1628,8 @@
   
   <a href="https://twitter.com/samwcyo/status/1597695281881296897">-We recently found a vulnerability affecting Hyundai and Genesis vehicles where we could remotely control the locks, engine, horn, headlights, and trunk of vehicles made after 2012.</a>
   
+  <a href="https://samcurry.net/web-hackers-vs-the-auto-industry/">-Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More</a>
+  
   <a href="https://twitter.com/samwcyo/status/1597792097175674880">-More Car Hacking</a>
   
 # A.I Based Security research writeups :
