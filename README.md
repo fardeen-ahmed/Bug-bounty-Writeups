@@ -80,6 +80,8 @@
 <a href="https://caido.io/">-Caido - Lightweight Web Security Auditing Toolkit</a>
 
 <a href="https://securitytrails.com/blog/assetfinder">-AssetFinder: A Handy Subdomain and Domain Discovery Tool</a>
+  
+<a href="https://devsecopsdocs.com/blog/nuclear-pond/">-Nuclear Pond</a>
 
 <a href="https://googleprojectzero.blogspot.com/2021/04/designing-sockfuzzer-network-syscall.html">-Designing sockfuzzer, a network syscall fuzzer for XNU</a>
 
