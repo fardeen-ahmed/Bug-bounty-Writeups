@@ -302,6 +302,8 @@
 <a href="https://nmochea.medium.com/gcash-vulnerability-walkthrough-697ea22f97c2">-Gcash Vulnerability Walkthrough</a>
 
 <a href="https://terjanq.medium.com/waf-bypasses-via-0days-d4ef1f212ec">-WAF bypasses via 0days</a>
+  
+<a href="https://medium.com/@querylab/idor-and-api-keys-token-hardcode-exposed-201c73d2d667">-IDOR and API-keys🔑Token Hardcode Exposed</a>
 
 <a href="https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-via-XSS/">-Here's my story about 8 CVEs resulting in a plugin removal and more than $30,000 in bounties!</a>
   
