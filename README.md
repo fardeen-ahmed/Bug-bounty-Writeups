@@ -338,6 +338,8 @@
 <a href="https://labs.detectify.com/2021/09/30/10-types-web-vulnerabilities-often-missed/">-10 Types of Web Vulnerabilities that are Often Missed</a>
 
 <a href="https://ahmdhalabi.medium.com/ultimate-reconnaissance-roadmap-for-bug-bounty-hunters-pentesters-507c9a5374d">-Ultimate Reconnaissance RoadMap for Bug Bounty Hunters & Pentesters</a>
+  
+<a href="https://www.legitsecurity.com/blog/how-to-continuously-detect-vulnerable-jenkins-plugins-to-avoid-a-software-supply-chain-attack">-How to Continuously Detect Vulnerable Jenkins Plugins to Avoid a Software Supply Chain Attack</a>
 
 <a href="https://omar0x01.medium.com/company-building-takeover-10a422385390">-Full Company Building Takeover</a>
 
