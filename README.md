@@ -82,7 +82,9 @@
 <a href="https://securitytrails.com/blog/assetfinder">-AssetFinder: A Handy Subdomain and Domain Discovery Tool</a>
   
 <a href="https://devsecopsdocs.com/blog/nuclear-pond/">-Nuclear Pond</a>
-
+  
+<a href="https://github.com/punk-security/secret-magpie-cli">-Secret Magpie - Secret Detection Tool</a>
+  
 <a href="https://googleprojectzero.blogspot.com/2021/04/designing-sockfuzzer-network-syscall.html">-Designing sockfuzzer, a network syscall fuzzer for XNU</a>
 
 <a href="https://github.com/kosmosec/proto-find">-Proto Find. Let's check if your target is vulnerable for client side prototype pollution</a>
