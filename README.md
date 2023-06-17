@@ -493,6 +493,8 @@
 
 <a href="https://hackerone.com/reports/1679624">-Remote Command Execution via Github import</a>
 
+<a href="https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/">-Cacti: Unauthenticated Remote Code Execution</a>
+
 <a href="https://blog.sonatype.com/new-0-day-spring-framework-vulnerability-confirmed">-New Spring Framework RCE  Vulnerability Confirmed - What to do?</a>
 
 <a href="https://blog.maass.xyz/spring-actuator-security-part-1-stealing-secrets-using-spring-actuators">-Spring Actuator Security, Part 1: Stealing Secrets Using Spring Actuators</a>
