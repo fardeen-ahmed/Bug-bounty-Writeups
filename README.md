@@ -1000,6 +1000,8 @@
 
 <a href="https://xcheater.medium.com/all-about-password-reset-vulnerabilities-3bba86ffedc7">-All about Password Reset vulnerabilities</a>
 
+<a href="https://security.humanativaspa.it/nothing-new-under-the-sun/">-Nothing new under the Sun – Discovering and exploiting a CDE bug chain</a>
+
 <a href="https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c">-How I hacked thousand of subdomains</a>
 
 <a href="https://github.com/WeAreCloudar/s3-account-search">-S3 Account Search</a>
