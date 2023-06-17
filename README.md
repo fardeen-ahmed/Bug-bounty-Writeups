@@ -343,6 +343,8 @@
   
 <a href="https://www.legitsecurity.com/blog/how-to-continuously-detect-vulnerable-jenkins-plugins-to-avoid-a-software-supply-chain-attack">-How to Continuously Detect Vulnerable Jenkins Plugins to Avoid a Software Supply Chain Attack</a>
 
+<a href="https://medium.com/@akashtesla/how-to-automate-your-initial-recon-and-extend-asm-using-sub-scout-a52de14a2b6a">-How to automate your initial recon and extend ASM using Sub-Scout</a>
+
 <a href="https://omar0x01.medium.com/company-building-takeover-10a422385390">-Full Company Building Takeover</a>
 
 <a href="https://www.cidersecurity.io/blog/research/how-we-abused-repository-webhooks-to-access-internal-ci-systems-at-scale/">-How we Abused Repository Webhooks to Access Internal CI Systems at Scale </a>
