@@ -822,6 +822,8 @@
 
 <a href="https://hackerone.com/reports/1504410">-XSS via Mod Log Removed Post</a>
 
+<a href="https://m3ez.medium.com/reflected-xss-leads-to-3-000-bug-bounty-rewards-from-microsoft-forms-efe34fc6b261">-Reflected XSS Leads to 3,000$ Bug Bounty Rewards from Microsoft Forms</a>
+
 <a href="https://palant.info/2022/08/24/attack-surface-of-extension-pages/">-Attack surface of extension pages</a>
 
 <a href="https://hackerone.com/reports/1481207">-Stored XSS in Notes (with CSP bypass for gitlab.com)</a>
