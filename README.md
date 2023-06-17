@@ -780,6 +780,8 @@
 
 <a href="https://medium.com/@tobydavenn/stored-xss-to-other-users-via-messages-e033239821b5">-Stored XSS To Other Users Via Messages</a>
 
+<a href="https://sl4x0.medium.com/how-i-found-xss-on-admin-page-without-login-fe165a5f89c2">-How I found XSS on Admin Page without login!</a>
+
 <a href="https://0u.ma/5">-Cache Poisoning via SelfXSS + Path Parameter</a>
 
 <a href="https://godiego.tech/posts/STO/">-Subdomain Takeover in Azure: making a PoC</a>
