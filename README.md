@@ -1030,6 +1030,8 @@
   
 <a href="https://portswigger.net/research/detecting-web-message-misconfigurations-for-cross-domain-credential-theft">-Detecting web message misconfigurations for cross-domain credential theft</a>
 
+<a href="https://blog.pksecurity.io/2023/01/16/2022-microsoft-teams-rce.html">-2022 Microsoft Teams RCE</a>
+
 <a href="https://semgrep.dev/blog/2022/xml-security-in-java">-XML Security in Java - Java XML security issues and how to address them</a>
   
 <a href="https://ltidi.medium.com/the-untold-sendbird-misconfigurations-1496d252bc69">-The Untold SendBird Misconfigurations</a>  
