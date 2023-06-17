@@ -486,6 +486,8 @@
 
 <a href="https://scribesecurity.com/blog/github-cache-poisoning/">-GitHub Cache Poisoning</a>
 
+<a href="https://www.legitsecurity.com/blog/dos-via-software-supply-chain-innumerable-projects-exposed-to-a-markdown-library-vulnerability">-The MarkdownTime Vulnerability: How to Avoid This DoS Attack on Business Critical Services</a>
+
 <a href="https://ysamm.com/?p=763">-Multiple bugs chained to takeover Facebook Accounts which uses Gmail.</a>
 
 <a href="https://secret.club/2022/05/11/fuzzing-solana.html">-Earn $200K by fuzzing for a weekend: Part 1</a>
