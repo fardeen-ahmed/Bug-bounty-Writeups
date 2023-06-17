@@ -71,6 +71,8 @@
 
 <a href="https://github.com/Sh1Yo/x8">-x8 - Hidden parameters discovery suite written in Rust.</a>
 
+<A href="https://www.pavel.gr/blog/dll-hijacking-using-spartacus-outside-of-dllmain">-DLL Hijacking using Spartacus, outside of DllMain</a>
+
 <a href="https://github.com/stark0de/nginxpwner">-Nginxpwner is a simple tool to look for common Nginx misconfigurations and vulnerabilities.</a>
   
 <a href="https://github.com/mrh0wl/Cloudmare">-Cloudflare, Sucuri, Incapsula real IP tracker</a>
