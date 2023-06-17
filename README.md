@@ -268,6 +268,8 @@
 
 <a href="https://github.com/google/clusterfuzzlite">-ClusterFuzzLite - Simple continuous fuzzing that runs in CI</a>
 
+<a href="https://github.com/carlospolop/Gorks">-Gorks : Google Dorks finally made easy to run without hiding.</a>
+
 <a href="https://blog.grimm-co.com/2021/11/escalating-xss-to-sainthood-with-nagios.html">-Escalating XSS to Sainthood with Nagios</a>
 
 <a href="https://github.com/mosajjal/dnsmonster">-Passive DNS Capture/Monitoring Framework</a>
