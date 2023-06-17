@@ -7,7 +7,7 @@
 <h2> Bug-Bounty Tools & Extensions (General + Updated) :- </h2><br>
 <a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :-Electron JS Browser To Find XSS Vulnerabilities Automatically</a><p>
 
-<A href="https://github.com/mdsecresearch/BurpSuiteSharpener">-Extension should add a number of UI and functional features to Burp Suite to make working with it easier</a>
+<a href="https://github.com/mdsecresearch/BurpSuiteSharpener">-Extension should add a number of UI and functional features to Burp Suite to make working with it easier</a>
 
 <a href="https://medium.com/@calfcrusher/automate-and-finds-the-ip-address-of-a-website-behind-cloudflare-45db99510b4b">-Automate and finds the IP address of a website behind Cloudflare</a>
 
@@ -389,6 +389,8 @@
 <a href="https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access">-AttachMe: critical OCI vulnerability allows unauthorized access to customer cloud storage volumes </a>
 
 <a href="https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183">-Misconfigured Reset password that leads to Account Takeover (No user Interaction ATO)</>
+
+<a href="https://yogehi.github.io/research/2023/01/04/10-cves-my-personal-thoughts-on-research-and-cves.html">-10 CVEs! My Personal Thoughts On Research And CVEs</a>
   
 <a href="https://medium.com/@Cybervenom/story-about-escalation-of-html-injection-to-ec2-instance-credentials-leak-e2cbd7343a83">-Story about Escalation of HTML Injection to EC2 Instance credentials leak</a>
   
