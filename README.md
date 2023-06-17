@@ -422,6 +422,8 @@
 
 <a href="https://chaosdb.wiz.io/">-Critical Vulnerability in Microsoft Azure Cosmos DB</a>
 
+<a href="https://www.cyberark.com/resources/threat-research-blog/inglourious-drivers-a-journey-of-finding-vulnerabilities-in-drivers">-Inglourious Drivers – A Journey of Finding Vulnerabilities in Drivers</a>
+
 <a href="https://spyclub.tech/2022/12/14/unusual-cache-poisoning-akamai-s3/">-Unusual Cache Poisoning between Akamai and S3 buckets</a>
 
 <a href="https://medium.com/@sazouki/how-i-hacked-one-of-the-biggest-airline-in-the-world-e7810dc43791">-How I hacked one of the biggest Airline in the world</a>
