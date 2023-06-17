@@ -316,6 +316,8 @@
 <a href="https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-via-XSS/">-Here's my story about 8 CVEs resulting in a plugin removal and more than $30,000 in bounties!</a>
   
 <a href="https://rashahacks.com/how-i-fuzz-and-hack-api/">-How I fuzz and hack APIs?</a>
+
+<a href="https://portswigger.net/daily-swig/prototype-pollution-like-bug-variant-discovered-in-python">-Prototype pollution-like bug variant discovered in Python</a>
   
 <a href="https://trufflesecurity.com/blog/of-cors/index.html">-Bypass firewalls with of-CORs and typo-squatting</a>
   
