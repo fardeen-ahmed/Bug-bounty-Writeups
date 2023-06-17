@@ -224,6 +224,7 @@
 
 <a href="https://github.com/elceef/subzuf">-subzuf : subzuf is a subdomain brute-force fuzzer coupled with an immensly simple but effective DNS reponse-guided algorithm.</a>
 
+<a href="https://github.com/edoardottt/csprecon">-csprecon - Discover new target domains using Content Security Policy</a>
 
 <a href="https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae">-A tale of zero click account takeover</a>
 
