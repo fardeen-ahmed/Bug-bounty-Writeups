@@ -189,6 +189,8 @@
 
 <a href="https://github.com/xnl-h4ck3r/waymore">-Waymore - Find way more from the Wayback Machine!</a>
 
+<a href="https://github.com/carlospolop/Pastos">-Pastos - Search pastes in tens of webs in seconds with GCSE.</a>
+
 
 <a href="https://github.com/morphean-sec/secure-smart-contract-design-principles">-Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts.</a>
 
