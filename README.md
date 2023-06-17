@@ -337,6 +337,8 @@
 
 <a href="https://srcincite.io/blog/2022/08/09/from-shared-dash-to-root-bash-pre-authenticated-rce-in-vmware-vrealize-operations-manager.html">-From Shared Dash to Root Bash :: Pre-Authenticated RCE in VMWare vRealize Operations Manager</a>
 
+<a href="https://medium.com/@_deshine_/account-take-over-due-to-aws-cognito-misconfiguration-7b092c667ee3">-Account Take Over Due To AWS Cognito Misconfiguration</a>
+
 <a href="https://hackerone.com/reports/1439026">-Discoverability by phone number/email restriction bypass</a>
   
 <a href="https://medium.com/@coffeeaddict_exe/500-in-5-minutes-45977e89a337">-$500 in 5 minutes</a>
