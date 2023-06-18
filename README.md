@@ -672,7 +672,9 @@
 
 <a href="https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8">-23000$ for Authentication Bypass & File Upload & Arbitrary File Overwrite</a>
 
-<a href="https://adityashende17.medium.com/idor-to-information-disclosure-admin-account-takeover-6aa96798c70b">-IDOR to information disclosure + Admin Account Takeover</a>  
+<a href="https://adityashende17.medium.com/idor-to-information-disclosure-admin-account-takeover-6aa96798c70b">-IDOR to information disclosure + Admin Account Takeover</a> 
+
+<a href="http://ysamm.com/?p=783">-ATO in Canvas Games due to weak cross window message Origin validations ($62,500)</a>
 
 <a href="https://akash-venky091.medium.com/otp-bypassing-and-vulnerabilities-from-e-mail-fields-a5c326efa605">-OTP Bypassing and Vulnerabilities from E-Mail fields.</a>
 
@@ -881,6 +883,8 @@
 
 <a href="https://hackerone.com/reports/1322104">-XSS on tiktok.com</a>
 
+<a href="http://ysamm.com/?p=779">-DOM-XSS in Instant Games due to improper verifications ($62,500?)</a>
+
 <a href="https://hackerone.com/reports/1087061">-Stored-XSS on wiki pages</a>
 
 <a href="https://hackerone.com/reports/1280002">-Stored XSS via Mermaid Prototype Pollution vulnerability</a>
@@ -900,6 +904,8 @@
 <a href="https://portswigger.net/daily-swig/google-roulette-developer-console-trick-can-trigger-xss-in-chromium-browsers">-Google Roulette: Developer console trick can trigger XSS in Chromium browsers</a>
 
 <a href="https://medium.com/@youghourtaghannei/postmessage-xss-vulnerability-on-private-program-18e773e1a1ba">-PostMessage Xss vulnerability on private program</a>
+
+<a href="https://ysamm.com/?p=779">-DOM-XSS in Instant Games due to improper verification of supplied URLs</a>
 
 <a href="https://medium.com/@haroonhameed_76621/winning-qr-with-dom-based-xss-bug-bounty-poc-4b4048cf285d">-Winning QR with DOM-Based XSS | Bug Bounty POC</a>
 
