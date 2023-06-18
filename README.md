@@ -664,6 +664,8 @@
 
 <a href="https://agnihackers.medium.com/otp-bypass-through-response-manipulation-beeb467359d8">-OTP Bypass Through Response Manipulation</a>
 
+<a href="https://ysamm.com/?p=783">-Account Takeover in Canvas Apps served in Comet due to failure in Cross-Window-Message Origin validation</a>
+
 <a href="https://sagarsajeev.medium.com/unsubscribe-any-users-e-mail-notifications-via-idor-2c2e05b79dac">-Unsubscribe any user’s e-mail notifications via IDOR</a>
 
 <a href="https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490">-IDOR leads to leak Private Details</a>
