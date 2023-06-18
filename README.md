@@ -389,6 +389,8 @@
 
 <a href="http://ysamm.com/?p=620">-Make recruiting referrals on behalf of employees ($3000)</a>
 
+<a href="https://blog.assetnote.io/2023/02/01/rce-in-avaya-aura/">-RCE in Avaya Aura Device Services</a>
+
 <a href="https://jakearchibald.com/2021/cors/">-How to win at CORS</a>
   
 <a href="https://blog.abdulrah33m.com/prototype-pollution-in-python/">-Prototype Pollution in Python</a>
