@@ -987,6 +987,8 @@
   
 <a href="https://portswigger.net/daily-swig/finding-nbsp-the-next-log4j-nbsp-openssfs-brian-behlendorf-on-pivoting-to-a-risk-centred-view-of-open-source-development">-Finding the next Log4j – OpenSSF’s Brian Behlendorf on pivoting to a ‘risk-centred view’ of open source development</a>
 
+<a href="https://ysamm.com/?p=777">-Account takeover of Facebook/Oculus accounts due to First-Party access_token stealing</a>
+
 
 
 <a href="https://hosein-vita.medium.com/laravel-8-x-image-upload-bypass-zero-day-852bd806019b">-Laravel 8.x image upload bypass</a>
