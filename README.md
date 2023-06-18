@@ -322,6 +322,8 @@
   
 <a href="https://medium.com/@querylab/idor-and-api-keys-token-hardcode-exposed-201c73d2d667">-IDOR and API-keys🔑Token Hardcode Exposed</a>
 
+<a href="https://blog.assetnote.io/2023/01/24/yellowfin-auth-bypass-to-rce/">-Exploiting Hardcoded Keys to achieve RCE in Yellowfin BI</a>
+
 <a href="https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-via-XSS/">-Here's my story about 8 CVEs resulting in a plugin removal and more than $30,000 in bounties!</a>
   
 <a href="https://rashahacks.com/how-i-fuzz-and-hack-api/">-How I fuzz and hack APIs?</a>
