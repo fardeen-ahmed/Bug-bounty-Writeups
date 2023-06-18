@@ -1079,6 +1079,8 @@
 
 <a href="https://apapedulimu.click/story-of-idor-on-google-product/">-2 CSRF 1 IDOR on Google Marketing Platform</a>
 
+<a href="https://blog.projectdiscovery.io/php-http-server-source-disclosure/">-PHP Development Server <= 7.4.21 - Remote Source Disclosure</a>
+
 <a href="https://hackerone.com/reports/1102764">-Lack of URL normalization renders Blocked-Previews feature ineffectual</a>
   
 <a href="https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c">-Bypass Premium Account Payment (GetPocket)</a>
