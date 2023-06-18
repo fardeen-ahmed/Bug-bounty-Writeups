@@ -1310,6 +1310,8 @@
 
 <a href="https://dhiyaneshgeek.github.io/web/security/2021/09/04/dependency-confusion/">-Dependency Confusion</a>
 
+<a href="https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608">Adobe Acrobat Reader - resetForm - CAgg UaF - RCE Exploit - CVE-2023-21608</a>
+
 <a href="https://medium.com/@bababounty99/race-condition-resulted-in-using-the-feature-which-was-supposed-to-be-obtained-after-subscription-2bfe968d358c">-Race Condition — Resulted in using the feature which was supposed to be obtained after subscription.</a>
   
 <a href="https://medium.com/@shabarkin/1-click-rce-in-electron-applications-79b52e1fe8b8">-1-click RCE in Electron Applications</a>
