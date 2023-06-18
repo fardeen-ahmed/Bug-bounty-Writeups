@@ -1260,6 +1260,8 @@
 <a href="https://newrouge.medium.com/web-cache-poisoning-a-tale-of-chaining-unkeyed-inputs-6e3cb026bd23">-Web Cache Poisoning: A Tale of chaining unkeyed inputs</a>
 
 <a href="https://medium.com/@sajan.dhakate/exploiting-json-web-token-jwt-73d172b5bc02">-EXPLOITING JSON WEB TOKEN [JWT]</a>
+
+<a href="https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/">-Security Advisory: Remote Command Execution in binwalk</a>
   
 <a href="https://gowthamaraj-rajendran.medium.com/oauth-2-0-hacking-67e5d2b9b495">-OAuth 2.0 Hacking</a>
 
