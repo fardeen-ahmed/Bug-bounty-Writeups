@@ -270,7 +270,6 @@
 
 <a href="https://blog.projectdiscovery.io/asnmap/">-Introducing ASNMap: A Golang CLI tool for speedy reconnaissance using ASN data</a>
 
-
 <a href="https://github.com/dwisiswant0/go-dork">-Go Dork. The fastest dork scanner written in Go</a>
 
 <a href="https://github.com/s0md3v/uro">-uro - declutters url lists for crawling/pentesting</a>
@@ -1377,6 +1376,8 @@
 <a href="https://medium.com/@faique/story-of-a-1k-bounty-ssrf-d5c4868680f5">-Story of a $1k bounty — SSRF to leaking access token and other sensitive information</a>  
 
 <a href="https://medium.com/@TutorialBoy24/the-story-of-3-bugs-that-lead-to-unauthorized-rce-pascom-systems-d2dcb0410f3b">-The story of 3 bugs that lead to Unauthorized RCE — Pascom Systems</a>
+
+<a href="https://www.ukusormus.com/bypassing-cloudflare-waf-xss-via-sql-injection/">-Bypassing Cloudflare WAF: XSS via SQL Injection</a>
   
 <a href="https://medium.com/@moSec/crlf-to-account-takeover-chaining-bugs-21a25dfa1cdf">-CRLF to Account takeover (chaining bugs)</a>
 
