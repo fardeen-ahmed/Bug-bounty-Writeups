@@ -135,6 +135,8 @@
 
 <a href="https://github.com/carlospolop/Leakos">-Leakos- Search with gitleaks and trufflehog in the responses of the given URLs or in all the repos of an organization and its members.</a>
 
+<a href="https://github.com/Anof-cyber/PyCript">-Pycript is a Burp Suite extension that enables users to encrypt and decrypt requests for manual and automated application penetration testing.</a>
+
 <a href="https://github.com/root-tanishq/userefuzz">-User-Agent , X-Forwarded-For and Referer SQLI Fuzzer</a>
 
 <a href="https://github.com/Josue87/gotator">-Gotator is a tool to generate DNS wordlists through permutations.</a>
