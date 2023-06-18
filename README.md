@@ -1405,6 +1405,8 @@
   
 <a href="https://ssd-disclosure.com/ssd-advisory-galaxy-store-applications-installation-launching-without-user-interaction/">-SSD Advisory – Galaxy Store Applications Installation/Launching without User Interaction</a>
 
+<a href="https://sl4x0.medium.com/research-bypass-csrf-protection-w-xss-710faf20000">-Research | Bypass CSRF Protection w/ XSS</a>
+
 <a href="https://h1pmnh.github.io/post/writeup_spring_el_waf_bypass/">-RCE via SSTI on Spring Boot Error Page with Akamai WAF Bypass</a>
   
 <a href="https://portswigger.net/daily-swig/prototype-pollution-project-yields-another-parse-server-rce">-Prototype pollution project yields another Parse Server RCE</a>
