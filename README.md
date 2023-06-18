@@ -1121,6 +1121,8 @@
 
 <a href="https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf">-Demographic Misconfiguration on Facebook live </a>
 
+<a href="https://blog.assetnote.io/2023/02/02/pre-auth-rce-aspera-faspex/">-Pre-Auth RCE in Aspera Faspex: Case Guide for Auditing Ruby on Rails</a>
+
 <a href="https://threatpost.com/valve-bug-unlimited-funds/168710/">-Critical Valve Bug Lets Gamers Add Unlimited Funds to Steam Wallets</a>
 
 <a href="https://medium.com/@hacxyk/how-we-spoofed-ens-domains-52acea2079f6">-How we spoofed ENS domains for $15k</a>
