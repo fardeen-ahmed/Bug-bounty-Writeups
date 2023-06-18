@@ -967,6 +967,8 @@
 
 <a href="https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html">-Exploiting CVE-2022-42703 - Bringing back the stack attack</a>
 
+<a href="https://medium.com/pentesternepal/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c">-Two Factor Authentication Bypass On Facebook</a>
+
 <a href="https://research.nccgroup.com/2022/12/19/meshyjson-a-tp-link-tdpserver-json-stack-overflow/">-MeshyJSON: A TP-Link tdpServer JSON Stack Overflow</a>
 
 <a href="https://nmochea.medium.com/arbitrary-file-corruption-end-to-end-encrypted-messaging-application-674963dceef8">-Arbitrary File Corruption: End - to - End Encrypted Messaging Application</a>
