@@ -1075,6 +1075,8 @@
   
 <a href="https://www.alevsk.com/2022/11/system-misconfiguration-is-the-number-one-vulnerability-at-least-for-mastodon/">-System misconfiguration is the number one vulnerability, at least for Mastodon</a>
 
+<a href="https://medium.com/@levshmelevv/10-000-bounty-for-exposed-git-to-rce-304c7e1f54">-$10.000 bounty for exposed .git to RCE</a>
+
 <a href="https://www.legitsecurity.com/blog/exposing-secrets-via-sdlc-tools-the-sonarqube-case">-Exposing Secrets Via SDLC Tools: The SonarQube Case</a>
   
 <a href="https://medium.com/@mukundbhuva/account-takeover-due-to-cognito-misconfiguration-earns-me-xxxx-3a7b8bb9a619">-Account Takeover Due to Cognito Misconfiguration Earns Me €xxxx</a>
