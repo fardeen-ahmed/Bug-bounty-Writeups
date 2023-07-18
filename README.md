@@ -658,6 +658,8 @@
 
 <a href="https://medium.com/@botami143/i-found-idor-vulnerability-at-microsoft-subdomain-b89b8777bf8d">-I found IDOR Vulnerability at Microsoft Subdomain</a>
 
+<a href="https://medium.com/@tusharsaini484/how-i-found-an-idor-that-led-to-sensitive-information-leak-6055bb121f8">-How I found an IDOR that led to sensitive information leak?</a>
+
 <a href="https://medium.com/@gonzalocarrascosec/fuzzing-idor-admin-takeover-5343bb8f436e">-Fuzzing + IDOR = Admin TakeOver</a>
 
 <a href="https://shahjerry33.medium.com/account-takeover-inside-the-tenant-6101a3cafbee">-Account Takeover - Inside The Tenanth</a>
