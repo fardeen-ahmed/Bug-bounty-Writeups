@@ -509,6 +509,8 @@
 
 <a href="https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/">-CVE-2022-26712: The POC for SIP-Bypass Is Even Tweetable</a>
 
+<a href="https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/">-OpenEMR - Remote Code Execution in your Healthcare System</a>
+
 <a href="https://blog.viettelcybersecurity.com/cve-2022-1040-sophos-xg-firewall-authentication-bypass/">-CVE-2022-1040 Sophos XG Firewall Authentication bypass</a>
 
 <a href="https://spaceraccoon.dev/exploiting-icalendar-properties-enterprise-applications/">-You Have One New Appointment: Exploiting iCalendar Properties in Enterprise Applications</a>
