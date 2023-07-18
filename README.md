@@ -845,6 +845,8 @@
 
 <a href="https://medium.com/@bored.engineer/xss-on-account-leagueoflegends-com-via-easyxdm-2016-75bcf9d582b5">-XSS on account[dot]leagueoflegends[dot]com via easyXDM [2016]</a>
 
+<A href="https://security.lauritz-holtmann.de/post/xss-ato-gadgets/">-SSO Gadgets: Escalate (Self-)XSS to ATO</a>
+
 <a href="https://svennergr.github.io/writeups/google/ads_dom_xss/">-Stumbling across a DOM XSS on google.com</a>
 
 <a href="https://threatpost.com/xss-bug-seopress-wordpress-plugin/168702/">-XSS Bug in SEOPress WordPress Plugin Allows Site Takeover</a>
