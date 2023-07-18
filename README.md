@@ -925,6 +925,8 @@
 
 <a href="https://medium.com/@youghourtaghannei/postmessage-xss-vulnerability-on-private-program-18e773e1a1ba">-PostMessage Xss vulnerability on private program</a>
 
+<a href="https://m3ez.medium.com/how-i-found-dom-based-xss-on-microsoft-msrc-and-how-they-fixed-it-8b71a6020c82">-How I found DOM-Based XSS on Microsoft MSRC and How they fixed it</a>
+
 <a href="https://ysamm.com/?p=779">-DOM-XSS in Instant Games due to improper verification of supplied URLs</a>
 
 <a href="https://medium.com/@haroonhameed_76621/winning-qr-with-dom-based-xss-bug-bounty-poc-4b4048cf285d">-Winning QR with DOM-Based XSS | Bug Bounty POC</a>
