@@ -1204,6 +1204,8 @@
 <a href="https://hackerone.com/reports/1087489">-Github access token exposure</a>
 
 <a href="https://gonzx.medium.com/how-i-was-able-to-takeover-any-account-on-foxit-com-7a08efa0144f">How I was able to Takeover Accounts on Foxit.com</a>
+
+<a href="https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6">-Hacking Apple: Two Successful Exploits and Positive Thoughts on their Bug Bounty Program</a>
   
 <a href="https://www.whitesourcesoftware.com/resources/blog/prototype-pollution-vulnerabilities/">-The Complete Guide to Prototype Pollution Vulnerabilities </a>
   
