@@ -825,6 +825,8 @@
 
 <a href="https://medium.com/@siratsami71/1500-worth-slack-vulnerability-bypass-invite-accept-process-8204e5431d52">-[1500$ Worth — Slack] vulnerability, bypass invite accept process</a>
 
+<a href="https://medium.com/@omidxrz/command-injection-by-changing-the-logo-2d730887ab6c">-The Tale of a Command Injection by Changing the Logo</a>
+
 <a href="https://hackerone.com/reports/1367642">-Reflected Cross Site Scripting (XSS) on one.newrelic.com</a>
 
 <a href="https://portswigger.net/research/new-xss-vectors">-New XSS vectors</a>
