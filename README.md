@@ -1135,6 +1135,8 @@
 
 <a href="https://adityashende17.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">-Hijacking accounts with host manipulation using collaborator</a>
 
+<a href="https://portswigger.net/research/server-side-prototype-pollution">-Server-side prototype pollution: Black-box detection without the DoS</a>
+
 <a href="https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf">-Demographic Misconfiguration on Facebook live </a>
 
 <a href="https://blog.assetnote.io/2023/02/02/pre-auth-rce-aspera-faspex/">-Pre-Auth RCE in Aspera Faspex: Case Guide for Auditing Ruby on Rails</a>
