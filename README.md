@@ -568,6 +568,8 @@
 <a href="https://fourcore.io/blogs/f5-big-ip-cve-2022-1388-unauthenticated-rce-exploited-by-attackers">-F5 BIG-IP Critical Vulnerability Exploited By Attackers To Gain Unauthenticated RCE</>
   
 <a href="https://drive.google.com/file/d/1p1tTTIjg3RoJecYSU3CetvNw6-ZZdMXn/view?usp=drivesdk">-Hacking the Cloud With SAML</a>
+
+<a href="https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce">-WEEKEND DESTROYER - RCE in Western Digital PR4100 NAS</a>
   
 <a href="https://jub0bs.com/posts/2021-01-29-great-samesite-confusion/">-The great SameSite confusion</a>
 
