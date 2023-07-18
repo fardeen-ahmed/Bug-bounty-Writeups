@@ -334,6 +334,8 @@
 <a href="https://trufflesecurity.com/blog/of-cors/index.html">-Bypass firewalls with of-CORs and typo-squatting</a>
 
 <a href="https://securitylabs.datadoghq.com/articles/iamadmin-cloudtrail-bypass/">-AWS CloudTrail vulnerability: Undocumented API allows CloudTrail bypass</a>
+
+<a href="https://vulncheck.com/blog/cve-2022-47966-payload">-A Different Payload for CVE-2022-47966</a>
   
 <a href="https://medium.com/@Brian.IsMeta/difficulty-of-reproducing-old-exploits-a613da2c2143">-Difficulty of Reproducing Old Exploits (Part 1)</a>
   
