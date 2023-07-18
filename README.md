@@ -151,6 +151,8 @@
 
 <a href="https://github.com/roottusk/vapi">-vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises.</a>
 
+<a href="https://github.com/edoardottt/favirecon">-FIVERECON - Use favicon.ico to improve your target recon phase. Quickly detect technologies, WAF, exposed panels, known services.</a>
+
 <a href="https://blog.intigriti.com/2022/03/01/hacker-tools-turbo-intruder/">-Turbo Intruder – Hacker Tools: Going faster than ever!</a>
 
 <a href="https://gitlab.com/shodan-public/nrich">-nrich - A command-line tool to quickly analyze all IPs in a file and see which ones have open ports/ vulnerabilities. Can also be fed data from stdin to be used in a data pipeline.</a>
