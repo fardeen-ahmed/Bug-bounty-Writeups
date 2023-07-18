@@ -775,6 +775,8 @@
 
 <A href="https://medium.com/@sid0krypt/vue-js-reflected-xss-fae04c9872d2">-Vue JS Reflected XSS</a>
 
+<a href="https://securitylab.github.com/advisories/GHSL-2022-059_GHSL-2022-060_Owncloud_Android_app/">-SQL injection vulnerabilities in Owncloud Android app - CVE-2023-24804, CVE-2023-23948</a>
+
 <a href="https://karmainsecurity.com/exploiting-an-nday-vbulletin-php-object-injection">-Exploiting an N-day vBulletin PHP Object Injection Vulnerability</a>
 
 <a href="https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way">Finding DOM Polyglot XSS in PayPal the Easy Way </a>
