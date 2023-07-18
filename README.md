@@ -1036,6 +1036,8 @@
 
 <a href="https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-i-submitting-i-d-da78142f032d">-Bypassing default visibility for newly-added email in Facebook(Part I - Submitting I.D)</a>
 
+<a href="https://portswigger.net/daily-swig/deserialized-web-security-roundup-twitter-2fa-backlash-godaddy-suffers-years-long-attack-campaign-and-xss-hunter-adds-e2e-encryption">-Deserialized web security roundup: Twitter 2FA backlash, GoDaddy suffers years-long attack campaign, and XSS Hunter adds e2e encryption</a>
+
 <a href="https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-ii-trusted-contacts-36176eeb103">-Bypassing default visibility for newly-added email in Facebook(Part II - Trusted Contacts)</a>
 
 <a href="https://hackerone.com/reports/170552">-Slack integration setup lacks CSRF protection</a>
