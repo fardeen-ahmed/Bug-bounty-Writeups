@@ -878,6 +878,8 @@
 
 <a href="https://www.gosecure.net/blog/2022/07/13/tableau-server-leaks-sensitive-information-from-reflected-xss/">-Tableau Server Leaks Sensitive Information From Reflected XSS</a>
 
+<a href="https://sanderwind.medium.com/unleashing-the-power-of-css-injection-the-access-key-to-an-internal-api-789b166d0527">-Unleashing the power of CSS injection: The access key to an internal API</a>
+
 
 <a href="https://github.com/lleavesl/CVE-2021-26084">-CVE-2021-26084，Atlassian Confluence OGNL</a>
 
