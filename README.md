@@ -821,6 +821,8 @@
 
 <a href="https://thevillagehacker.medium.com/time-based-sql-injection-to-dumping-the-database-da0e5bcaa9df">-Time-Based SQL Injection to Dumping the Database</a>
 
+<a href="https://medium.com/@siratsami71/1500-worth-slack-vulnerability-bypass-invite-accept-process-8204e5431d52">-[1500$ Worth — Slack] vulnerability, bypass invite accept process</a>
+
 <a href="https://hackerone.com/reports/1367642">-Reflected Cross Site Scripting (XSS) on one.newrelic.com</a>
 
 <a href="https://portswigger.net/research/new-xss-vectors">-New XSS vectors</a>
