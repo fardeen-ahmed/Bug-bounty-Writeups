@@ -656,6 +656,8 @@
 
 <a href="https://shahjerry33.medium.com/account-takeover-inside-the-tenant-6101a3cafbee">-Account Takeover - Inside The Tenanth</a>
 
+<a href="https://blog.intigriti.com/2023/02/13/file-attachments-size-does-matter/">Helping secure BNB Chain through responsible disclosure</a>
+
 <a href="https://infosecwriteups.com/how-i-was-able-to-takeover-accounts-in-websites-deal-with-github-as-a-sso-provider-294290358e0c">-How I was able to take over accounts in websites deal with Github as an SSO provider</a>
 
 <a href="https://medium.com/@gonzxph/account-takeover-worth-of-2500-e643661f94e9">-Account Takeover Worth of $2500</a>
