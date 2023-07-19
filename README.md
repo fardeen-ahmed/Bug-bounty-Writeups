@@ -726,6 +726,8 @@
 
 <a href="https://snapsec.co/blog/2021/09/25/Attacking-Access-Control-Models-In-Modern-Web-Applications.html">-Attacking Access Control Models In Modern Web Applications</a>
 
+<a href="https://github.blog/2023-03-03-github-security-lab-audited-datahub-heres-what-they-found/">-GitHub Security Lab audited DataHub: Here’s what they found</a>
+
 <a href="https://medium.com/@mehedishakeel/improper-access-control-my-third-finding-on-hackerone-1455e95b6c8c">-Improper Access Control — My Third Finding on Hackerone!</a>
 
 <a href="https://medium.com/@rajeevranjancom/cross-site-request-forgery-csrf-attack-6949edb9e405">-Cross site request forgery (CSRF) attack</a>
