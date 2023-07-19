@@ -698,6 +698,8 @@
 
 <a href="https://adityashende17.medium.com/idor-to-information-disclosure-admin-account-takeover-6aa96798c70b">-IDOR to information disclosure + Admin Account Takeover</a> 
 
+<a href="https://junoonbro.medium.com/idors-how-to-find-idors-in-ecommerce-sites-d112bd946fcf">-$$$$ IDOR’s — How to find IDORs in Ecommerce sites?</a>
+
 <a href="http://ysamm.com/?p=783">-ATO in Canvas Games due to weak cross window message Origin validations ($62,500)</a>
 
 <a href="https://akash-venky091.medium.com/otp-bypassing-and-vulnerabilities-from-e-mail-fields-a5c326efa605">-OTP Bypassing and Vulnerabilities from E-Mail fields.</a>
