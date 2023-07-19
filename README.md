@@ -599,6 +599,8 @@
 
 <a href="https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html">-Attacking Pixel's Titan M with Only One Byte (CVE-2022-20233) and getting 75,000 USD bounty</a>
 
+<a href="https://www.synacktiv.com/en/publications/cicd-secrets-extraction-tips-and-tricks.html">-CI/CD SECRETS EXTRACTION, TIPS AND TRICKS</a>
+
 
 <a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22">-The easiest $2500 I got it from bug bounty program</a>
 
