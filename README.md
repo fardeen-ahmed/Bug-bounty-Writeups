@@ -682,6 +682,8 @@
 
 <a href="https://r0ckinxj3.wordpress.com/2021/10/24/a-7500-google-sites-idor/">-A 7500$ Google sites IDOR</a>
 
+<a href="https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com">-Traveling with OAuth - Account Takeover on Booking.com</a>
+
 <a href="https://agnihackers.medium.com/otp-bypass-through-response-manipulation-beeb467359d8">-OTP Bypass Through Response Manipulation</a>
 
 <a href="https://ysamm.com/?p=783">-Account Takeover in Canvas Apps served in Comet due to failure in Cross-Window-Message Origin validation</a>
