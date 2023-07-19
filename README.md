@@ -547,6 +547,8 @@
 
 <a href="https://medium.com/@vivekkashyap0707/my-first-rce-from-n-a-to-triaged-cve-2021-3064-acdd0541c664">-My First RCE from N/A to Triaged (CVE-2021–3064)</a>
 
+<a href="https://snyk.io/blog/gitpod-remote-code-execution-vulnerability-websockets/">-Gitpod remote code execution 0-day vulnerability via WebSockets</a>
+
 <a href="https://medium.com/@omar0x01/how-i-abused-the-file-upload-function-to-get-a-high-severity-vulnerability-in-bug-bounty-7cdcf349080b">-How I abused the file upload function to get a high severity vulnerability in Bug Bounty</a>
 
 <a href="https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60">-RCE via WebDav - Power Of PUT</a>
