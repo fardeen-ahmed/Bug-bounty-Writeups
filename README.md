@@ -473,6 +473,8 @@
 
 <a href="https://www.youtube.com/watch?v=zNr43-szG-s">-The DeFi Threat Model</a>
 
+<a href="https://research.nccgroup.com/2023/03/01/making-new-connections-leveraging-cisco-anyconnect-client-to-drop-and-run-payloads/">-Making New Connections – Leveraging Cisco AnyConnect Client to Drop and Run Payloads</a>
+
 <a href="https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop">-SiriSpy - iOS bug allowed apps to eavesdrop on your conversations with Siri</a>
 
 <a href="https://haiderm.com/how-i-was-able-to-delete-13k-microsoft-translator-projects/">-How I was able to delete 13k+ Microsoft Translator projects</a>
