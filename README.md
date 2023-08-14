@@ -559,6 +559,8 @@
 
 <a href="https://orwaatyat.medium.com/how-i-found-multiple-bugs-on-facebook-in-1-month-and-a-part-for-my-methodology-tools-58a677a9040c">-How I Found Multiple Bugs On FaceBook In 1 Month And a Part For My Methodology & Tools</a>
 
+<a href="https://www.halborn.com/blog/post/halborn-discovers-zero-day-impacting-dogecoin-and-280-networks">-Halborn Discovers Zero-Day Impacting Dogecoin and 280+ Networks</a>
+
 <a href="https://speakerdeck.com/patrickwardle/youre-muted-rooted">-Local priv-esc vulnerability in Zoom (for macOS)</a>
 
 <a href="https://tantosec.com/blog/cve-2022-41343/">-CVE-2022-41343 - RCE via Phar Deserialisation (Dompdf)</a>
