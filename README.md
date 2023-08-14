@@ -315,6 +315,8 @@
 
 <a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">-Top 10 Tips for Burp Suite</a>
 
+<a href="https://portswigger.net/blog/server-side-prototype-pollution-scanner">-Server-Side Prototype Pollution Scanner</a>
+
 <a href="https://www.wiz.io/blog/hells-keychain-supply-chain-attack-in-ibm-cloud-databases-for-postgresql">-Hell’s Keychain: Supply-chain vulnerability in IBM Cloud Databases for PostgreSQL allows potential for unauthorized database access </a>
 
 <a href="https://www.tenable.com/blog/cve-2021-41773-path-traversal-zero-day-in-apache-http-server-exploited">-CVE-2021-41773: Path Traversal Zero-Day in Apache HTTP Server Exploited</a>
