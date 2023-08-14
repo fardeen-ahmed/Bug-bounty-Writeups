@@ -1747,6 +1747,8 @@
 
 <a href="https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64">-What is BOLA? 3-digit bounty from Topcoder ($$$)</a>
 
+<a href="https://g.livejournal.com/16735.html">-New Cosmos Blockchain API DoS</a>
+
 <a href="https://medium.com/@Mrcyberwarrior/exploiting-activity-in-medium-android-app-e2e6f3553eef">-Trigger custom URL in Medium Android app</a>
   
 <a href="https://masturf.medium.com/how-to-exploit-firebase-realtime-database-using-rest-api-34885160fa55">-How to Exploit Public Firebase Realtime Database using REST API</a>
