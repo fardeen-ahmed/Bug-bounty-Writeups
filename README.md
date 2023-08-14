@@ -1684,6 +1684,8 @@
 <a href="https://thebittimes.com/ios-jailbreak-dev-wins-2m-bounty-for-finding-critical-optimism-bug-tbt11643.html">-iOS jailbreak dev wins $2M bounty for finding critical Optimism bug</a>
 
 <a href="https://www.ryanpickren.com/safari-uxss">-Hacking the Apple Webcam (again)</a>
+
+<a href="https://medium.com/@mk2011sharma/exploring-ios-applications-with-frida-and-objection-basic-commands-for-pentesting-4c637dbeb9fd">-Exploring iOS Applications with Frida and Objection: Basic Commands for Pentesting</a>
   
 <a href="https://hackerone.com/reports/401793">-Insecure deeplink leads to sensitive information disclosure</a>
   
