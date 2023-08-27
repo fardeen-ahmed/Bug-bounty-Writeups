@@ -1218,6 +1218,8 @@
   
 <a href="https://blog.huli.tw/2022/07/11/en/googlectf-2022-horkos-writeup/">-Insecure Deserialization in JavaScript: GoogleCTF 2022 Web/HORKOS Writeup</a>
 
+<a href="https://www.horizon3.ai/veeam-backup-and-replication-cve-2023-27532-deep-dive/">-Veeam Backup and Replication CVE-2023-27532 Deep Dive</a>
+
 
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
 
