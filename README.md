@@ -381,6 +381,8 @@
 
 <a href="https://sector7.computest.nl/post/2023-01-xar/">-Bad things come in large packages: .pkg signature verification bypass on macOS</a>
 
+<a href="https://blog.impalabs.com/2303_advisory_parallels-desktop_toolgate.html">-Parallels Desktop Toolgate Vulnerability</a>
+
 <a href="https://www.cidersecurity.io/blog/research/how-we-abused-repository-webhooks-to-access-internal-ci-systems-at-scale/">-How we Abused Repository Webhooks to Access Internal CI Systems at Scale </a>
 
 <a href="https://www.cyberick.com/post/bypass-captcha-using-turbo-intruder-leads-to-bruteforce-attack-bug-bounty">-Bypass Captcha using Turbo Intruder leads to Bruteforce attack - Bug Bounty</a>
