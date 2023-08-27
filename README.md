@@ -1001,6 +1001,8 @@
   
 <a href="https://fluidattacks.com/blog/account-takeover-kayak/">-Account Takeover in KAYAK</a>
 
+<a href="https://www.synacktiv.com/en/publications/php-filter-chains-file-read-from-error-based-oracle.html">-PHP FILTER CHAINS: FILE READ FROM ERROR-BASED ORACLE</a>
+
 <a href="https://joonas.fi/2021/08/saml-is-insecure-by-design/">-SAML is insecure by design</a>
 
 <a href="https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/?utm_source=hivefive&utm_medium=email">-Escaping misconfigured VSCode extensions</a>
