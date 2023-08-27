@@ -712,6 +712,8 @@
 
 <a href="https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8">-23000$ for Authentication Bypass & File Upload & Arbitrary File Overwrite</a>
 
+<a href="https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow">-Hacking AI: System and Cloud Takeover via MLflow Exploit</a>
+
 <a href="https://adityashende17.medium.com/idor-to-information-disclosure-admin-account-takeover-6aa96798c70b">-IDOR to information disclosure + Admin Account Takeover</a> 
 
 <a href="https://junoonbro.medium.com/idors-how-to-find-idors-in-ecommerce-sites-d112bd946fcf">-$$$$ IDOR’s — How to find IDORs in Ecommerce sites?</a>
