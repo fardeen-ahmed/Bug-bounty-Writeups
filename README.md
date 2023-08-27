@@ -262,6 +262,8 @@
 
 <a href="https://medium.com/@thebugbountyhunter/review-netlas-io-for-bug-bounty-c062a87b544f">-netlas.io - a new search engine for discover, research and monitor any asset. It is so useful for your #bugbounty recon automation.</a>
 
+<a href="https://armadillophone.com/blog/acropalypse-vulnerability">-Acropalypse vulnerability reveals your screenshots</a>
+
 <a href="https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/">-Reverse engineering Flutter for Android + Doldrums (Doldrums is a reverse engineering tool for Flutter apps)<a href ="https://github.com/rscloura/Doldrums">Tool Link = _Doldrum Tool_</a></a>
   
 <a href="https://github.com/punk-security/secret-magpie-cli">-SecretMagpie is a secret detection tool that hunts out all the secrets hiding in ALL your repositories.</a>
