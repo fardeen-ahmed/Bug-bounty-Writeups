@@ -1106,6 +1106,8 @@
 <a href="https://www.legitsecurity.com/blog/exposing-secrets-via-sdlc-tools-the-sonarqube-case">-Exposing Secrets Via SDLC Tools: The SonarQube Case</a>
   
 <a href="https://medium.com/@mukundbhuva/account-takeover-due-to-cognito-misconfiguration-earns-me-xxxx-3a7b8bb9a619">-Account Takeover Due to Cognito Misconfiguration Earns Me €xxxx</a>
+
+<a href="https://pvs-studio.com/en/blog/posts/csharp/1038/">-Converting string to enum at the cost of 50 GB: let's analyze the CVE-2020-36620 vulnerability</a>
   
 <a href="https://portswigger.net/research/detecting-web-message-misconfigurations-for-cross-domain-credential-theft">-Detecting web message misconfigurations for cross-domain credential theft</a>
 
