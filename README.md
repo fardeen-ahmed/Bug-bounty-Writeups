@@ -325,6 +325,8 @@
 
 <a href="https://www.wiz.io/blog/hells-keychain-supply-chain-attack-in-ibm-cloud-databases-for-postgresql">-Hell’s Keychain: Supply-chain vulnerability in IBM Cloud Databases for PostgreSQL allows potential for unauthorized database access </a>
 
+<a href="https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf">-Improper Privilege Management in Grails Spring Security Core <= 5.1.0 CVE-2022-41923</a>
+
 <a href="https://www.tenable.com/blog/cve-2021-41773-path-traversal-zero-day-in-apache-http-server-exploited">-CVE-2021-41773: Path Traversal Zero-Day in Apache HTTP Server Exploited</a>
 
 <a href="https://nmochea.medium.com/gcash-vulnerability-walkthrough-697ea22f97c2">-Gcash Vulnerability Walkthrough</a>
