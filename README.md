@@ -881,6 +881,8 @@
 
 <a href="https://medium.com/@bored.engineer/xss-on-account-leagueoflegends-com-via-easyxdm-2016-75bcf9d582b5">-XSS on account[dot]leagueoflegends[dot]com via easyXDM [2016]</a>
 
+<a href="https://patchstack.com/database/vulnerability/wpappninja/wordpress-wpmobile-app-android-and-ios-mobile-application-plugin-11-13-cross-site-scripting-xss-vulnerability">-XSS vulnerability discovered in Android and iOS WordPress app plugin WPMobile.App (CVE-2023-22702) </a>
+
 <A href="https://security.lauritz-holtmann.de/post/xss-ato-gadgets/">-SSO Gadgets: Escalate (Self-)XSS to ATO</a>
 
 <a href="https://svennergr.github.io/writeups/google/ads_dom_xss/">-Stumbling across a DOM XSS on google.com</a>
