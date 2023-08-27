@@ -383,6 +383,8 @@
 
 <a href="https://medium.com/@soyelmago/bypassing-a-creation-limit-on-free-accounts-a-race-condition-vulnerability-in-bug-bounty-program-33e69592d36a">-Bypassing a Creation Limit on Free Accounts: A Race Condition Vulnerability in Bug Bounty Program</a>
 
+<a href="https://blog.projectdiscovery.io/implementing-nuclei-into-your-bitbucket-ci-cd-pipeline-for-scanning-live-web-applications/">-Implementing Nuclei into your Bitbucket CI/CD Pipeline for Scanning Live Web Applications</a>
+
 <a href="https://medium.com/@akashtesla/how-to-automate-your-initial-recon-and-extend-asm-using-sub-scout-a52de14a2b6a">-How to automate your initial recon and extend ASM using Sub-Scout</a>
 
 <a href="https://omar0x01.medium.com/company-building-takeover-10a422385390">-Full Company Building Takeover</a>
