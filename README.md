@@ -1227,6 +1227,8 @@
 
 <a href="https://www.varonis.com/blog/box-mfa-bypass-totp/">-Bypassing Box’s Time-based One-Time Password MFA</a>
 
+<a href="https://securitylabs.datadoghq.com/articles/bypass-cloudtrail-aws-service-catalog-and-other/">-Bypassing CloudTrail in AWS Service Catalog, and Other Logging Research</a>
+
 <a href="https://portswigger.net/daily-swig/add-yourself-as-super-admin-researcher-details-easy-to-exploit-bug-that-exposed-gsuite-accounts-to-full-takeover">-‘Add yourself as super admin’ – Researcher details easy-to-exploit bug that exposed GSuite accounts to full takeover</a>
 
 <a href="https://thalium.github.io/blog/posts/deserialization-bug-through-rdp-smart-card-extension/">-Remote Deserialization Bug in Microsoft's RDP Client through Smart Card Extension (CVE-2021-38666) Bounty award: $5,000.</a>
