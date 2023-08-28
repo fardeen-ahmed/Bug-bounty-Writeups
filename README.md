@@ -106,6 +106,8 @@
 <a href="https://blog.securelayer7.net/static-analysis-of-android-application-tools-used-securelayer7/">-OWASP Top 10: Static Analysis of Android Application & Tools Used</a>
 
 <a href="https://github.com/sa7mon/S3Scanner">-S3Scanner - Scan for open S3 buckets and dump the contents </a>
+
+<a href="https://crates.io/crates/kurl">-Kurl : HTTP Requests for security researchers</a>
   
 <a href="https://github.com/dhn/udon">-UDON - A simple tool that helps to find assets/domains based on the Google Analytics ID. </a>
 
