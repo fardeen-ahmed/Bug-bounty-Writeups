@@ -212,6 +212,8 @@
 
 <a href="https://github.com/gwen001/gitlab-subdomains">-gitlab-subdomains - Find subdomains on GitLab</a>
 
+<a href="https://www.legitsecurity.com/blog/remote-code-execution-vulnerability-in-azure-pipelines-can-lead-to-software-supply-chain-attack">-Remote Code Execution Vulnerability in Azure Pipelines Can Lead To Software Supply Chain Attack</a>
+
 <a href="https://portswigger.net/daily-swig/security-researcher-earns-plaudits-after-discovering-yandex-ssrf-flaw">-Security researcher earns plaudits after discovering Yandex SSRF flaw</a>
 
 <a href="https://github.com/merttasci/csrf-poc-generator">-CSRF Generator - This html file creates a csrf poc form to any http request.</a>
