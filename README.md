@@ -79,6 +79,8 @@
   
 <a href="https://github.com/mrh0wl/Cloudmare">-Cloudflare, Sucuri, Incapsula real IP tracker</a>
 
+<a href="https://github.com/aress31/burpgpt">-BurpGPT : A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.</a>
+
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
 
 <a href="https://caido.io/">-Caido - Lightweight Web Security Auditing Toolkit</a>
