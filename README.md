@@ -1724,6 +1724,8 @@
 
 # IOS Application Testing (Methods + Tools)
 
+<a href="https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet">-iOS Penetration Testing Cheat Sheet </a>
+
 <a href="https://martabyte.github.io/ios/hacking/2022/03/13/ios-hacking-en.html">-iOS Hacking - A Beginner's Guide to Hacking iOS Apps [2022 Edition]</a>
 
 <a href="https://thebittimes.com/ios-jailbreak-dev-wins-2m-bounty-for-finding-critical-optimism-bug-tbt11643.html">-iOS jailbreak dev wins $2M bounty for finding critical Optimism bug</a>
@@ -1844,7 +1846,8 @@
 
 # Cheat-Sheets for Cybersecurity 
 <a href="https://ozguralp.medium.com/bigquery-sql-injection-cheat-sheet-65ad70e11eac">-BigQuery SQL Injection Cheat Sheet</a>
-  
+
+
   
 # Famous Checklists 
   <a href="https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist">-Galaxy Bug Bounty : Tips and Tutorials for Bug Bounty and also Penetration Tests</a>
