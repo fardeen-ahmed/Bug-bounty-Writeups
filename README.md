@@ -597,6 +597,9 @@
 
 <a href="https://hackerone.com/reports/1077136">-Denial of Service via Hyperlinks in Posts</a>
 
+<a href="https://www.securesystems.de/blog/a-fresh-look-at-user-enumeration-in-microsoft-teams/
+  ">-A fresh look at user enumeration in Microsoft Teams</a>
+
 <a href="https://phoenix-sec.io/2022/06/17/Zena-CookieMonsteRCE.html">-CookieMonsteRCE - XSS to RCE Exploitation in Zena 4.2.1</a>
 
 <a href="https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/">-How I got access to many PIIs through a source code leak</a>
