@@ -698,6 +698,8 @@
 
 <a href="https://medium.com/@gonzalocarrascosec/fuzzing-idor-admin-takeover-5343bb8f436e">-Fuzzing + IDOR = Admin TakeOver</a>
 
+<a href="https://medium.com/@evan.connelly/post-account-takeover-account-takeover-of-internal-tesla-accounts-bc720603e67d">-Post Account Takeover? Account Takeover of Internal Tesla Accounts</a>
+
 <a href="https://shahjerry33.medium.com/account-takeover-inside-the-tenant-6101a3cafbee">-Account Takeover - Inside The Tenanth</a>
 
 <a href="https://blog.intigriti.com/2023/02/13/file-attachments-size-does-matter/">Helping secure BNB Chain through responsible disclosure</a>
