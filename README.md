@@ -209,6 +209,8 @@
 
 <a href="https://github.com/carlospolop/Pastos">-Pastos - Search pastes in tens of webs in seconds with GCSE.</a>
 
+<a href="https://github.com/hisxo/JSpector">-JSpector : JSpector is a Burp Suite extension that passively crawls JavaScript files and automatically creates issues with URLs and endpoints found on the JS files.</a>
+
 
 <a href="https://github.com/morphean-sec/secure-smart-contract-design-principles">-Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts.</a>
 
