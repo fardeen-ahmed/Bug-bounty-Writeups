@@ -387,6 +387,8 @@
 
 <a href="https://medium.com/@akashtesla/how-to-automate-your-initial-recon-and-extend-asm-using-sub-scout-a52de14a2b6a">-How to automate your initial recon and extend ASM using Sub-Scout</a>
 
+<a href="https://research.aurainfosec.io/pentest/pentah0wnage/">-Pentah0wnage: Pre-Auth RCE in Pentaho Business Analytics Server</a>
+
 <a href="https://omar0x01.medium.com/company-building-takeover-10a422385390">-Full Company Building Takeover</a>
 
 <a href="https://sector7.computest.nl/post/2023-01-xar/">-Bad things come in large packages: .pkg signature verification bypass on macOS</a>
