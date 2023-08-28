@@ -741,6 +741,8 @@
 
 <a href="https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow">-Hacking AI: System and Cloud Takeover via MLflow Exploit</a>
 
+<a href="http://security.googleblog.com/2023/04/announcing-depsdev-api-critical.html">-Announcing the deps.dev API: critical dependency data for secure supply chains</a>
+
 <a href="https://adityashende17.medium.com/idor-to-information-disclosure-admin-account-takeover-6aa96798c70b">-IDOR to information disclosure + Admin Account Takeover</a> 
 
 <a href="https://junoonbro.medium.com/idors-how-to-find-idors-in-ecommerce-sites-d112bd946fcf">-$$$$ IDOR’s — How to find IDORs in Ecommerce sites?</a>
