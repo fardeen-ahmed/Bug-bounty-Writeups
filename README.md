@@ -751,6 +751,8 @@
 
 <a href="https://encodedguy.medium.com/600-for-idor-file-or-folder-download-243166452dad">-$600 for IDOR (File or Folder Download)</a>
 
+<a href="https://dayzerosec.com/podcast/202.html">-202 - A SNIProxy Bug and a Samsung NPU Double Free</a>
+
 <a href="https://amit-lt.medium.com/a-story-of-idor-which-leads-to-privacy-violation-78c1b4c710fb">-A Story of IDOR which leads to privacy violation…$$$</a>
 
 <a href="https://hopesamples.blogspot.com/2022/09/idor-leads-to-removing-members-from-any.html">-IDOR leads to removing members from any Google Chat Space</a>
