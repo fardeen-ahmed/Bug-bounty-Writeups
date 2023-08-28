@@ -114,6 +114,8 @@
 <a href="https://github.com/dhn/udon">-UDON - A simple tool that helps to find assets/domains based on the Google Analytics ID. </a>
 
 <a href="https://www.revshells.com/">-Online - Reverse Shell Generator</a>
+
+<a href="https://github.com/projectdiscovery/proxify">-roxify : Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go</a>
   
 <a href="https://github.com/Eilonh/s3crets_scanner">-S3cret Scanner: Hunting For Secrets Uploaded To Public S3 Buckets</a>
   
