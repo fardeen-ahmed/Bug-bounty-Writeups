@@ -385,6 +385,8 @@
 
 <a href="https://hackerone.com/reports/1439026">-Discoverability by phone number/email restriction bypass</a>
 
+<a href="https://slashparity.com/?p=938">-GCP Pentesting Guide</a>
+
 <a href="https://www.dsecbypass.com/en/centreon-map-vulnerability/">-Centreon map vulnerability</a>
   
 <a href="https://medium.com/@coffeeaddict_exe/500-in-5-minutes-45977e89a337">-$500 in 5 minutes</a>
