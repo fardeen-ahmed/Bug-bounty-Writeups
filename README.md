@@ -27,6 +27,8 @@
 
 <a href="https://github.com/gwen001/related-domains">-Related-domains : Find related domains of a given domain</a>
 
+<a href="https://github.com/Ciphey/Ciphey">-Ciphey : Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes</a>
+
 <a href="https://github.com/edoardottt/csprecon">-CSPRecon - Discover new target domains using Content Security Policy</a>
 
 <a href="https://github.com/iangcarroll/cookiemonster">-CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions.</a>
