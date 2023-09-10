@@ -665,6 +665,8 @@
 
 <a href="https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312">-Disclose leads form details of any Facebook Business Account or Facebook Page</a>\
 
+<a href="https://www.ghostccamm.com/blog/multi_strapi_vulns/">-Multiple Critical Vulnerabilities in Strapi Versions <=4.7.1</a>
+
 <a href="https://eslam.io/posts/ejs-server-side-template-injection-rce/">-EJS, Server side template injection RCE (CVE-2022-29078) - writeup</a>
 
 <a href="https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/">-Remote code execution in cdnjs of Cloudflare</a>
