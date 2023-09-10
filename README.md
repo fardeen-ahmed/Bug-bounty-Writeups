@@ -660,6 +660,8 @@
 
 <a href="https://www.synacktiv.com/en/publications/cicd-secrets-extraction-tips-and-tricks.html">-CI/CD SECRETS EXTRACTION, TIPS AND TRICKS</a>
 
+<a href="https://ssd-disclosure.com/ssd-advisory-kerio-mailbox-takeover/">-SSD ADVISORY – KERIO MAILBOX TAKEOVER</a>
+
 
 <a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22">-The easiest $2500 I got it from bug bounty program</a>
 
