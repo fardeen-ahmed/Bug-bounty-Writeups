@@ -551,6 +551,8 @@
 
 <a href="https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/">-CVE-2022-26712: The POC for SIP-Bypass Is Even Tweetable</a>
 
+<a href="https://medium.com/@nanwinata/a-big-company-admin-panel-takeover-4500-9520a6c83430">-A Big company Admin Panel takeover $4500</a>
+
 <a href="https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/">-OpenEMR - Remote Code Execution in your Healthcare System</a>
 
 <a href="https://blog.viettelcybersecurity.com/cve-2022-1040-sophos-xg-firewall-authentication-bypass/">-CVE-2022-1040 Sophos XG Firewall Authentication bypass</a>
