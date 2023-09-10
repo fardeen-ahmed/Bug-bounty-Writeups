@@ -268,6 +268,8 @@
 
 <a href="https://hackerone.com/reports/414101">-Vulnerabilities in exported activity WebView</a>
 
+<a href="https://offsec.almond.consulting/ghostscript-cve-2023-28879.html">-Shell in the Ghost: Ghostscript CVE-2023-28879 writeup</a>
+
 <a href="https://medium.com/@Sm9l/bug-bounty-recon-horizontal-correlation-b7c81a32951a">-Bug Bounty Recon: Horizontal Correlation</a>
 
 <a href="https://infosecwriteups.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-2824cd4dfab">-How I Found multiple SQL Injection with FFUF and Sqlmap in a few minutes</a>
