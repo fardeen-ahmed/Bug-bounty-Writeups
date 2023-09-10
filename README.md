@@ -347,6 +347,8 @@
 
 <a href="https://medium.com/@dhananjaytupe748/fuff-and-seclists-4599b2677f">-FUFF and SecLists</a>
 
+<a href="https://code-byter.com/2023/04/16/rayban-hacking.html">-Now I See You: Uncovering Security Vulnerabilities in Camera Sunglasses</a>
+
 <a href="https://www.wiz.io/blog/hells-keychain-supply-chain-attack-in-ibm-cloud-databases-for-postgresql">-Hell’s Keychain: Supply-chain vulnerability in IBM Cloud Databases for PostgreSQL allows potential for unauthorized database access </a>
 
 <a href="https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf">-Improper Privilege Management in Grails Spring Security Core <= 5.1.0 CVE-2022-41923</a>
