@@ -491,6 +491,8 @@
 
 <a href="https://blog.assetnote.io/2022/06/09/whatsup-gold-exploit/">-Chaining vulnerabilities to criticality in Progress WhatsUp Gold</a>
 
+<a href="https://blog.nietaanraken.nl/posts/aur-packages-github-repo-jacking">-Hijacking Arch Linux Packages by Repo Jacking GitHub Repositories</a>
+
 <a href="https://medium.com/coinmonks/a-quick-guide-to-hack-private-variables-in-solidity-b45d5acb89c0">-A Quick Guide to Hack private variables in Solidity</a>
 
 <a href="https://medium.com/@0x4kd/google-sso-misconfiguration-leading-to-account-takeover-cf9bcf63e76e">-Google SSO misconfiguration leading to Account Takeover</a>
