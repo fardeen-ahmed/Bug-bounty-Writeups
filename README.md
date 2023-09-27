@@ -205,6 +205,8 @@
 
 <a href="https://github.com/rfc-st/humble">-A humble, and fast, security-oriented HTTP headers analyzer</a>
 
+<a href="http://security.googleblog.com/2023/05/introducing-new-way-to-buzz-for-ebpf.html">-Introducing a new way to buzz for eBPF vulnerabilities</a>
+
 <a href="https://github.com/iamnihal/warf">-WARF is a Web Application Reconnaissance Framework that helps to gather information about the target.</a>
 
 <a href="https://github.com/m3n0sd0n4ld/GooFuzz">-GooFuzz - GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).</a>
