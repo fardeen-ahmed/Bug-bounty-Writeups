@@ -256,6 +256,8 @@
 
 <a href="https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae">-A tale of zero click account takeover</a>
 
+<a href="https://hacktus.tech/subdomain-takeover-leading-to-full-account-takeover">-Subdomain Takeover leading to Full Account Takeover</a>
+
 <a href="https://github.com/iamthefrogy/frogy/">-Frogy : Using the combination of different subdomain enumeration tools and logic this script tries to identify more subdomains and TLDs in recon. </a>
 
 <a href="https://www.cyberick.com/post/how-to-find-new-more-domains-of-a-company-recon-stuff">-How to find new/more domains of a company? - Recon Stuff</a>
