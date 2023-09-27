@@ -1197,7 +1197,9 @@
 <a href="https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/">-Infosys leaked FullAdminAccess AWS keys on PyPi for over a year</a>
 
 <a href="https://hackerone.com/reports/1497169">-CSRF protection bypass in GitHub Enterprise management console</a>
-  
+
+<a href="https://hackcommander.github.io/bug-bounty-4/">-TE.TE HTTP request smuggling obfuscating the TE header</a>
+
 <a href="https://medium.com/@valluvarsploit/fastly-subdomain-takeover-2000-217bb180730f">-Fastly Subdomain Takeover $2000</a>
   
 <a href="https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp">-Stealing passwords from infosec Mastodon - without bypassing CSP</a>
