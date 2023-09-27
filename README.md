@@ -1095,6 +1095,8 @@
 <a href="https://medium.com/@thehemdeep/bypassing-file-upload-restriction-using-magic-bytes-eb13e801f264">-Bypassing File Upload Restriction using Magic Bytes</a>
   
 <a href="https://akashhamal0x01.medium.com/design-flaw-a-tale-of-permanent-dos-a9ef05181083">-Design Flaw : A Tale of Permanent DOS (Informative -> Triaged)</a>
+
+<a href="https://blog.assetnote.io/2023/05/10/sitecore-round-two/">-Bypass IIS Authorisation with this One Weird Trick - Three RCEs and Two Auth Bypasses in Sitecore 9.3</a>
   
 <a href="https://medium.com/@aditya043k/oauth-misconfiguration-leads-to-full-account-takeover-d93c0d0fb66c">-OAUTH Misconfiguration leads to Full Account Takeover</a>
 
