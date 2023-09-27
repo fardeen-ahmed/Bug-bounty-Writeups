@@ -1222,6 +1222,8 @@
   
 <a href="https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f">-How I got Apple Hall Of Fame !</a>
 
+<a href="https://simonwillison.net/2023/May/2/prompt-injection-explained/">-Prompt injection explained, with video, slides, and a transcript</a>
+
 <a href="https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/">-How to exploit insecure WebResourceResponse configurations + an example vulnerability in Amazon apps</a>
   
 <a href="https://github.com/numanturle/CVE-2022-44877">-Centos Web Panel 7 Unauthenticated Remote Code Execution - CVE-2022-44877</a>
