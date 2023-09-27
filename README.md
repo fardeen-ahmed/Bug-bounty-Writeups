@@ -1066,6 +1066,8 @@
 
 <a href="https://hackerone.com/reports/1372667">-Able to steal bearer token from deep link</a>
 
+<a href="https://text.tchncs.de/ioi/backdooring-electron-applications">-Backdooring Electron Applications</a>
+
 <a href="https://medium.com/@shabarkin/unsafe-content-loading-electron-js-76296b6ac028">-Unsafe content loading [Electron JS]</a>
   
 <a href="https://fluidattacks.com/blog/account-takeover-kayak/">-Account Takeover in KAYAK</a>
