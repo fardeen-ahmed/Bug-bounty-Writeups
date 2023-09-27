@@ -1322,6 +1322,8 @@
   
 <a href="https://palisade.consulting/blog/link-hijacking-binances-shortlinks-through-appsflyer">-Link hijacking Binance’s shortlinks through AppsFlyer</a>
 
+<a href="https://medium.com/@cy1337/vulnerability-analysis-with-ghidra-scripting-ccf416cfa56d">-Vulnerability Analysis with Ghidra Scripting</a>
+
 <a href="https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/">-Flickr Account Takeover</a>
   
 <a href="https://0xelmalky.medium.com/subdomain-takeover-via-flywheel-447a71d77396">-Subdomain Takeover Via Flywheel</a>
