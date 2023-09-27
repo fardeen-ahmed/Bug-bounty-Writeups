@@ -25,6 +25,8 @@
 
 <a href="https://github.com/tristanlatr/burpa">-Burp Automator - A Burp Suite Automation Tool. It provides a high level CLI and Python interfaces to Burp Suite scanner and can be used to setup Dynamic Application Security Testing (DAST)</a>
 
+<a href="https://github.com/famasoon/gowhois">-GoWhois - Whois command implemented by golang with awesome whois servers list </a>
+
 <a href="https://github.com/gwen001/related-domains">-Related-domains : Find related domains of a given domain</a>
 
 <a href="https://github.com/Ciphey/Ciphey">-Ciphey : Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes</a>
