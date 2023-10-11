@@ -639,8 +639,9 @@
 
 <a href="https://hackerone.com/reports/1077136">-Denial of Service via Hyperlinks in Posts</a>
 
-<a href="https://www.securesystems.de/blog/a-fresh-look-at-user-enumeration-in-microsoft-teams/
-  ">-A fresh look at user enumeration in Microsoft Teams</a>
+<a href="http://security.googleblog.com/2023/05/google-trust-services-acme-api_0503894189.html">-Google Trust Services ACME API available to all users at no cost</a>
+
+<a href="https://www.securesystems.de/blog/a-fresh-look-at-user-enumeration-in-microsoft-teams/">-A fresh look at user enumeration in Microsoft Teams</a>
 
 <a href="https://phoenix-sec.io/2022/06/17/Zena-CookieMonsteRCE.html">-CookieMonsteRCE - XSS to RCE Exploitation in Zena 4.2.1</a>
 
