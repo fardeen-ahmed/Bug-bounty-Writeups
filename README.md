@@ -1547,6 +1547,8 @@
 <a href="https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/">-Encrypting our way to SSRF in VMWare Workspace One UEM (CVE-2021-22054)</a>
   
 <a href="https://gccybermonks.com/posts/ssrfvision/">-Another vision for SSRF</a>
+
+<a href="https://medium.com/@rramgattie/securing-pdf-generators-against-ssrf-vulnerabilities-b8f9b061c14b">-Securing PDF Generators Against SSRF Vulnerabilities</a>
   
 <a href="https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/">-WordPress Core - Unauthenticated Blind SSRF</a>
   
