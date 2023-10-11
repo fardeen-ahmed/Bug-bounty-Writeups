@@ -302,6 +302,8 @@
 
 <a href="https://oweng.medium.com/introducing-packetstreamer-distributed-packet-capture-for-cloud-native-platforms-3e7f9ac57ab1">-Introducing PacketStreamer: distributed packet capture for cloud-native platforms</a>
 
+<a href="https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure">-GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure</a>
+
 <a href="https://blog.projectdiscovery.io/uncover/">-How to use Uncover: Quickly discover exposed hosts using multiple search engines</a>
 
 <a href="https://blog.projectdiscovery.io/asnmap/">-Introducing ASNMap: A Golang CLI tool for speedy reconnaissance using ASN data</a>
