@@ -467,6 +467,8 @@
 
 <a href="https://infosecwriteups.com/hunting-for-prototype-pollution-and-its-vulnerable-code-on-js-libraries-5bab2d6dc746">-Hunting for Prototype Pollution and it’s vulnerable code on JS libraries</a>
 
+<a href="https://www.hackerone.com/guest-blog-governments-across-world-are-mandating-vulnerability-disclosure-so-why-are-companies">-Governments Across The World Are Mandating Vulnerability Disclosure So Why Are Companies Sitting On Their Hands?</a>
+
 <a href="https://medium.com/@shakti.gtp/if-its-a-feature-let-s-abuse-it-for-750-19cfb9848d4b">-If It’s a Feature!!! Let’s Abuse It for $750</a>
 
 <a href="https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962">-Story of my first cash bounty on hackerone</a>
