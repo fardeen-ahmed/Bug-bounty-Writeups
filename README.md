@@ -1937,6 +1937,9 @@
 # A.I Based Security research writeups :
   <a href="https://medium.com/@nkrohitkumar2002/chatgpt-bug-bounty-recon-automation-bd18291953cb">-ChatGPT — Bug Bounty Recon Automation</a>
 
+# Security Podcast :
+  <a href="https://dayzerosec.com/podcast/214.html">-Exploiting VMware Workstation and the Return of CSG0-Days</a>
+
 
 
 
