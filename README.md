@@ -1190,6 +1190,8 @@
 <a href="https://medium.com/@sicks3c/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52">-How I Scored 1K Bounty Using Waybackurls</a>
 
 <a href="https://xcheater.medium.com/all-about-csrf-flaw-7d525be39587">-All About CSRF Flaw</a>
+
+<a href="https://samcurry.net/points-com/">-Leaked Secrets and Unlimited Miles: Hacking the Largest Airline and Hotel Rewards Platform</a>
   
 <a href="https://www.alevsk.com/2022/11/system-misconfiguration-is-the-number-one-vulnerability-at-least-for-mastodon/">-System misconfiguration is the number one vulnerability, at least for Mastodon</a>
 
