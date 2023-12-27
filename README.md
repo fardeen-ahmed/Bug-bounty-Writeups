@@ -845,6 +845,8 @@
 
 <a href="https://youtu.be/5guMYiQrnUo">-Shopify Account Takeover $22,500 Bug Bounty</a>
 
+<a href="https://github.com/yunuscadirci/XboxOneDirectoryTraversal">-Xbox One Directory Traversal : Details about directory traversal on Xbox One</a>
+
 <a href="https://blog.intigriti.com/2021/10/13/bug-bytes-142-weird-google-bugs-saml-padding-oracle-apache-path-traversal-continued/">-Weird Google bugs, SAML padding Oracle & Apache path traversal continued</a>
 
 <a href="https://www.intruder.io/research/practical-http-header-smuggling">-Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond</a>
