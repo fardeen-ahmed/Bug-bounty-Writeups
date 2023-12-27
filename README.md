@@ -593,6 +593,8 @@
 
 <a href="https://vulncheck.com/blog/joomla-for-rce">-Joomla! CVE-2023-23752 to Code Execution</a>
 
+<a href="https://securityintelligence.com/posts/msmq-queuejumper-rce-vulnerability-technical-analysis/">-MSMQ QueueJumper (RCE Vulnerability): An In-Depth Technical Analysis</a>
+
 
 
 <a href="https://curtbraz.medium.com/a-konami-code-for-vuln-chaining-combos-1a29d0a27c2a">-A Konami Code for Vuln Chaining Combos</a>
