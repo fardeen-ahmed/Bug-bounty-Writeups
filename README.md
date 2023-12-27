@@ -1123,6 +1123,8 @@
 
 <a href="https://nmochea.medium.com/arbitrary-file-corruption-end-to-end-encrypted-messaging-application-674963dceef8">-Arbitrary File Corruption: End - to - End Encrypted Messaging Application</a>
 
+<a href="https://www.exploitsecurity.io/post/cve-2023-33383-authentication-bypass-via-an-out-of-bounds-read-vulnerability">-CVE-2023-33383 : Authentication Bypass via an out-of-bounds read vulnerability</a>
+
 <a href="https://redcanary.com/blog/fuzzing/">-Fuzzing Golang msgpack for fun and panic</a>
   
 <a href="https://blog.assetnote.io/2022/05/03/hacking-a-bank-using-dotcms-rce/">-Hacking a Bank by Finding a 0day in DotCMS</a>
