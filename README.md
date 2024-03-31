@@ -31,6 +31,9 @@
 | <a href="https://github.com/erev0s/VAmPI">VAmPI </a> | Vulnerable REST API with OWASP top 10 vulnerabilities for security testing |
 | <a href="https://github.com/0x4ndy/clif"> Clif </a> | This is a command-line interface (CLI) application fuzzer, pretty much what wfuzz or ffuf are for web. |
 | <a href="https://github.com/r0oth3x49/ghauri"> Ghauri </a> | This is an advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws |
+| <a href="https://portswigger.net/blog/introducing-dom-invader">DOM Invader </a> | Introducing DOM Invader, DOM XSS just got a whole lot easier to find |
+| <a href="https://github.com/MayankPandey01/Jira-Lens">Jira-Lens </a> | Fast and customizable vulnerability scanner For JIRA written in Python |
+| <a href="https://github.com/rotemreiss/uddup"> Urls de-duplication </a> | Urls de-duplication tool for better recon. |
 
 
 <a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">-How to Hack APIs in 2021</a>
@@ -40,17 +43,11 @@
 <a href="https://akshita-infosec.medium.com/burp-macros-what-why-how-151df8901641">-Burp Macros: What, Why & How?</a>
 
 
-
-
-<a href="https://portswigger.net/blog/introducing-dom-invader">Introducing DOM Invader: DOM XSS just got a whole lot easier to find</a>
-
-<a href="https://github.com/MayankPandey01/Jira-Lens">-Jira-Lens Fast and customizable vulnerability scanner For JIRA written in Python</a>
-
 <a href="https://sicks3c.medium.com/setup-your-private-burp-collaborator-for-ssrf-xxe-fd6cf01c8ca">-Setup Your Private Burp Collaborator for SSRF/XXE</a>
   
 <a href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo">-Experience Burp Suite Enterprise Edition in a new live demo</a>
 
-<a href="https://github.com/rotemreiss/uddup">-Urls de-duplication tool for better recon.</a>
+
 
 <a href="https://github.com/phith0n/zkar">-ZKar is a Java serialization protocol analysis tool implement in Go</a>
 
