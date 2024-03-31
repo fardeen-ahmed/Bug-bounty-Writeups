@@ -4,14 +4,13 @@
 </a>
 <h4>This is a place of all the Offensive Cybersecurity people. Feel free to contribute in all sections</h4>
 
-| Basic Writeups | 
+| Basic Tools | 
 |----------|
-| <a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :- Electron JS Browser To Find XSS Vulnerabilities Automatically</a><p>| 
-| <a href="https://github.com/mdsecresearch/BurpSuiteSharpener">-Extension should add a number of UI and functional features to Burp Suite to make working with it easier</a> | 
-| <a href="https://medium.com/@calfcrusher/automate-and-finds-the-ip-address-of-a-website-behind-cloudflare-45db99510b4b">-Automate and finds the IP address of a website behind Cloudflare</a>|
-| <a href="https://github.com/m8r0wn/taser">-Taser : Python3 resource library for creating security related tooling</a> |
-
-<a href="https://github.com/s0md3v/uro">-Uro : Using a URL list for security testing can be painful as there are a lot of URLs that have uninteresting/duplicate content; uro aims to solve that.</a>
+| <a href="https://github.com/RenwaX23/XSSTRON"> XSSTRON :- Electron JS Browser To Find XSS Vulnerabilities Automatically</a><p>| 
+| <a href="https://github.com/mdsecresearch/BurpSuiteSharpener"> Extension should add a number of UI and functional features to Burp Suite to make working with it easier</a> | 
+| <a href="https://medium.com/@calfcrusher/automate-and-finds-the-ip-address-of-a-website-behind-cloudflare-45db99510b4b"> Automate and finds the IP address of a website behind Cloudflare</a>|
+| <a href="https://github.com/m8r0wn/taser"> Taser : Python3 resource library for creating security related tooling</a> |
+| <a href="https://github.com/s0md3v/uro">-Uro : Using a URL list for security testing can be painful as there are a lot of URLs that have uninteresting/duplicate content; uro aims to solve that.</a> | 
 
 <a href="https://github.com/thelicato/fire">-fire is a simple tool meant to work in a pipeline of other scripts. It takes domains on stdin and outputs them on stdout if they resolve. </a>
 
