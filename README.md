@@ -107,6 +107,29 @@
 | <a href="https://github.com/edoardottt/csprecon">csprecon </a> | Discover new target domains using Content Security Policy |
 | <a href="https://github.com/iamthefrogy/frogy/">Frogy </a> | Using the combination of different subdomain enumeration tools and logic this script tries to identify more subdomains and TLDs in recon. |
 | <a href="https://github.com/xnl-h4ck3r/xnLinkFinder">xnLinkFinder </a> | A python tool used to discover endpoints for a given target |
+| <a href="https://github.com/MayankPandey01/BrokenLinkHijacker">BLH </a> | BrokenLinkHijacker is a Fast Broken Link Hijacker Tool written in Python |
+| <a href="https://medium.com/@thebugbountyhunter/review-netlas-io-for-bug-bounty-c062a87b544f">netlas.io </a> | A new search engine for discover, research and monitor any asset. It is so useful for your #bugbounty recon automation. |
+| <a href="https://github.com/punk-security/secret-magpie-cli">SecretMagpie </a> | A secret detection tool that hunts out all the secrets hiding in all your repositories. |
+| <a href="https://github.com/codingo/bbr">bbr </a> | It is an open source tool to aid in command line driven generation of bug bounty reports based on user provided templates. |
+| <a href="https://oweng.medium.com/introducing-packetstreamer-distributed-packet-capture-for-cloud-native-platforms-3e7f9ac57ab1">PacketStreamer </a> | This is a tool for distributed packet capture for cloud-native platforms |
+| <a href="https://blog.projectdiscovery.io/uncover/">Uncover </a> | Quickly discover exposed hosts using multiple search engines |
+| <a href="https://blog.projectdiscovery.io/asnmap/">ASNMap </a> | A Golang CLI tool for speedy reconnaissance using ASN data |
+| <a href="https://github.com/dwisiswant0/go-dork">Go Dork </a> | The fastest dork scanner written in Go |
+| <a href="https://github.com/s0md3v/uro">uro </a> | Declutters url lists for crawling/pentesting |
+| <a href="https://github.com/google/clusterfuzzlite">ClusterFuzzLite </a> | Simple continuous fuzzing that runs in CI |
+| <a href="https://github.com/carlospolop/Gorks">Gorks </a> | Google Dorks finally made easy to run without hiding. |
+| <a href="https://github.com/mosajjal/dnsmonster">dnsmonster </a> | Passive DNS Capture/Monitoring Framework |
+| <a href="https://research.securitum.com/fail2ban-remote-code-execution/">fail2ban </a> | Remote Code Execution |
+| <a href="https://github.com/dwisiswant0/ppfuzz?tag=v1.0.0">ppfuzz </a> | Prototype Pollution Fuzzer |
+| <a href="https://github.com/Sachin-v3rma/Astra">-Astra </a> | Astra finds urls, endpoints, aws buckets, api keys, tokens, etc from a given url/s |
+| <a href="https://github.com/projectdiscovery/cloudlist"> Cloudlist </a> | This is a tool for listing Assets from multiple Cloud Providers |
+| <a href="https://github.com/as0ler/r2flutch">r2flutch </a> | A tool to decrypt iOS apps using r2frida |
+| <a href="https://shahjerry33.medium.com/shodan-dorks-the-gods-eye-f224f9b3984f">-Shodan Dorks - The God’s Eye |
+| <a href="https://github.com/musana/mx-takeover">mx-takeover </a> | This tool focuses DNS MX records and detects misconfigured MX records. |
+
+
+
+
 
 
 
@@ -135,8 +158,14 @@
 
 <a href="https://github.com/root-tanishq/userefuzz">-User-Agent , X-Forwarded-For and Referer SQLI Fuzzer</a>
 
-<a href="https://portswigger.net/daily-swig/latest-web-hacking-tools-q3-2021">-Latest web hacking tools – Q3 2021</a>
+<a href="https://technicalsurendra.medium.com/command-injection-all-in-one-blog-52591ad750df">-Command Injection — All in one Blog</a>
 
+<a href="https://manasharsh.medium.com/how-gopher-works-in-escalating-ssrfs-ce6e5459b630">How Gopher works in escalating SSRFs</a>
+
+
+<a href="https://portswigger.net/daily-swig/latest-web-hacking-tools-q3-2021">-Latest web hacking tools – Q3 2021</a>
+<a href="https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure">GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure</a>
+<a href="https://blog.grimm-co.com/2021/11/escalating-xss-to-sainthood-with-nagios.html">-Escalating XSS to Sainthood with Nagios</a>
 
 
 
@@ -194,7 +223,6 @@
 
 <a href="https://thexssrat.medium.com/csrf-tesguide-for-bug-bounty-hunters-d14db3462695">-CSRF Testing Guide For Bug Bounty Hunters</a>
 
-<a href="https://github.com/MayankPandey01/BrokenLinkHijacker">-BrokenLinkHijacker(BLH) is a Fast Broken Link Hijacker Tool written in Python</a>
 
 <a href="https://github.com/Hacker0x01/awesome-hacker-api-tools">-A collection of hacker tools using HackerOne's API</a>
 
@@ -210,55 +238,19 @@
 
 <a href="https://medium.com/@sarafsaransh321/how-i-earned-240-from-a-zero-interface-53d244a231f9">-How I earned 240$ from a Zero Interface</a>
 
-<a href="https://medium.com/@thebugbountyhunter/review-netlas-io-for-bug-bounty-c062a87b544f">-netlas.io - a new search engine for discover, research and monitor any asset. It is so useful for your #bugbounty recon automation.</a>
-
 <a href="https://armadillophone.com/blog/acropalypse-vulnerability">-Acropalypse vulnerability reveals your screenshots</a>
 
 <a href="https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/">-Reverse engineering Flutter for Android + Doldrums (Doldrums is a reverse engineering tool for Flutter apps)<a href ="https://github.com/rscloura/Doldrums">Tool Link = _Doldrum Tool_</a></a>
   
-<a href="https://github.com/punk-security/secret-magpie-cli">-SecretMagpie is a secret detection tool that hunts out all the secrets hiding in ALL your repositories.</a>
 
-<a href="https://github.com/hahwul/gee">-Gee is tool of stdin to each files and stdout. It is similar to the tee command, but there are more functions for convenience. In addition, it was written as go</a>
 
-<a href="https://github.com/codingo/bbr">-bbr is an open source tool to aid in command line driven generation of bug bounty reports based on user provided templates.</a>
 
-<a href="https://oweng.medium.com/introducing-packetstreamer-distributed-packet-capture-for-cloud-native-platforms-3e7f9ac57ab1">-Introducing PacketStreamer: distributed packet capture for cloud-native platforms</a>
 
-<a href="https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure">-GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure</a>
 
-<a href="https://blog.projectdiscovery.io/uncover/">-How to use Uncover: Quickly discover exposed hosts using multiple search engines</a>
 
-<a href="https://blog.projectdiscovery.io/asnmap/">-Introducing ASNMap: A Golang CLI tool for speedy reconnaissance using ASN data</a>
 
-<a href="https://github.com/dwisiswant0/go-dork">-Go Dork. The fastest dork scanner written in Go</a>
 
-<a href="https://github.com/s0md3v/uro">-uro - declutters url lists for crawling/pentesting</a>
 
-<a href="https://github.com/google/clusterfuzzlite">-ClusterFuzzLite - Simple continuous fuzzing that runs in CI</a>
-
-<a href="https://github.com/carlospolop/Gorks">-Gorks : Google Dorks finally made easy to run without hiding.</a>
-
-<a href="https://blog.grimm-co.com/2021/11/escalating-xss-to-sainthood-with-nagios.html">-Escalating XSS to Sainthood with Nagios</a>
-
-<a href="https://github.com/mosajjal/dnsmonster">-Passive DNS Capture/Monitoring Framework</a>
-
-<a href="https://technicalsurendra.medium.com/command-injection-all-in-one-blog-52591ad750df">-Command Injection — All in one Blog</a>
-
-<a href="https://research.securitum.com/fail2ban-remote-code-execution/">-fail2ban – Remote Code Execution</a>
-
-<a href="https://manasharsh.medium.com/how-gopher-works-in-escalating-ssrfs-ce6e5459b630">How Gopher works in escalating SSRFs</a>
-
-<a href="https://github.com/dwisiswant0/ppfuzz?tag=v1.0.0">-Prototype Pollution Fuzzer</a>
-
-<a href="https://github.com/Sachin-v3rma/Astra">-Astra finds urls, endpoints, aws buckets, api keys, tokens, etc from a given url/s</a>
-
-<a href="https://github.com/projectdiscovery/cloudlist">-Cloudlist is a tool for listing Assets from multiple Cloud Providers</a>
-
-<a href="https://github.com/as0ler/r2flutch">-r2flutch - tool to decrypt iOS apps using r2frida</a>
-
-<a href="https://shahjerry33.medium.com/shodan-dorks-the-gods-eye-f224f9b3984f">-Shodan Dorks - The God’s Eye</a>
-  
-<a href="https://github.com/musana/mx-takeover">-mx-takeover focuses DNS MX records and detects misconfigured MX records.</a>
 
 
 
