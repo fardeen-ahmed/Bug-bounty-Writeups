@@ -41,17 +41,21 @@
 | <a href="https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/"> InjectGPT </a> | The most polite exploit ever |
 | <a href="https://github.com/stark0de/nginxpwner"> Nginxpwner </a> | This is a simple tool to look for common Nginx misconfigurations and vulnerabilities. |
 | <a href="https://github.com/aress31/burpgpt"> BurpGPT </a> | A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type. |
+| <a href="https://caido.io/"> Caido </a> | Lightweight Web Security Auditing Toolkit |
+| <a href="https://securitytrails.com/blog/assetfinder"> AssetFinder </a> | A Handy Subdomain and Domain Discovery Tool</a>
+| <a href="https://github.com/punk-security/secret-magpie-cli">-Secret Magpie </a> | Secret Detection Tool |
+| <a href="https://googleprojectzero.blogspot.com/2021/04/designing-sockfuzzer-network-syscall.html"> Designing sockfuzzer </a> | A network syscall fuzzer for XNU. |
+| <a href="https://github.com/kosmosec/proto-find">Proto Find </a> | Check if your target is vulnerable for client side prototype pollution |
+| <a href="https://github.com/KathanP19/protoscan">Protoscan </a> | Prototype Pollution Scanner made in Golang. |
+
 
 
 
 
 
 <a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">-How to Hack APIs in 2021</a>
-
-
   
 <a href="https://akshita-infosec.medium.com/burp-macros-what-why-how-151df8901641">-Burp Macros: What, Why & How?</a>
-
 
 <a href="https://sicks3c.medium.com/setup-your-private-burp-collaborator-for-ssrf-xxe-fd6cf01c8ca">-Setup Your Private Burp Collaborator for SSRF/XXE</a>
   
@@ -66,20 +70,8 @@
 
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
 
-<a href="https://caido.io/">-Caido - Lightweight Web Security Auditing Toolkit</a>
-
-<a href="https://securitytrails.com/blog/assetfinder">-AssetFinder: A Handy Subdomain and Domain Discovery Tool</a>
-  
 <a href="https://devsecopsdocs.com/blog/nuclear-pond/">-Nuclear Pond</a>
-  
-<a href="https://github.com/punk-security/secret-magpie-cli">-Secret Magpie - Secret Detection Tool</a>
-  
-<a href="https://googleprojectzero.blogspot.com/2021/04/designing-sockfuzzer-network-syscall.html">-Designing sockfuzzer, a network syscall fuzzer for XNU</a>
-
-<a href="https://github.com/kosmosec/proto-find">-Proto Find. Let's check if your target is vulnerable for client side prototype pollution</a>
-
-<a href="https://github.com/KathanP19/protoscan">-Prototype Pollution Scanner made in Golang</a>
-  
+    
 <a href="https://github.com/PabloMK7/ENLBufferPwn">-BufferPwn: RCE vulnerability in the common network code of several first party Nintendo games since the Nintendo 3DS</a>
 
 <a href="https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques">-New differential fuzzing tool reveals novel HTTP request smuggling techniques</a>
