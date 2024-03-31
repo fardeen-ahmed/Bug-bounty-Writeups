@@ -135,79 +135,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">-How to Hack APIs in 2021</a>
-  
-<a href="https://akshita-infosec.medium.com/burp-macros-what-why-how-151df8901641">-Burp Macros: What, Why & How?</a>
-
-<a href="https://sicks3c.medium.com/setup-your-private-burp-collaborator-for-ssrf-xxe-fd6cf01c8ca">-Setup Your Private Burp Collaborator for SSRF/XXE</a>
-  
-<a href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo">-Experience Burp Suite Enterprise Edition in a new live demo</a>
-
-<A href="https://www.pavel.gr/blog/dll-hijacking-using-spartacus-outside-of-dllmain">-DLL Hijacking using Spartacus, outside of DllMain</a>
-
-<a href="https://github.com/mrh0wl/Cloudmare">-Cloudflare, Sucuri, Incapsula real IP tracker</a>
-
-<a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
-
-<a href="https://devsecopsdocs.com/blog/nuclear-pond/">-Nuclear Pond</a>
-
-
-<a href="https://blog.securelayer7.net/static-analysis-of-android-application-tools-used-securelayer7/">-OWASP Top 10: Static Analysis of Android Application & Tools Used</a>
-
-
-  
-
-
-  
-  
-
-<a href="https://github.com/iustin24/chameleon">-Chameleon provides better content discovery by using wappalyzer's set of technology fingerprints alongside custom wordlists tailored to each detected technologies</a>
-
-<a href="https://medium.com/@murami.ike/working-with-a-scope-using-gowitness-4d338b0321ac">-Working with a scope using Gowitness</a>
-
-
-
-
-
-
-
-
-
-
-
 # General Writeups
 
 <a href="https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2">-Miracle - One Vulnerability To Rule Them All</a>
@@ -228,7 +155,27 @@
 <a href="https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure">GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure</a>
 <a href="https://blog.grimm-co.com/2021/11/escalating-xss-to-sainthood-with-nagios.html">-Escalating XSS to Sainthood with Nagios</a>
 
+<a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">-How to Hack APIs in 2021</a>
+  
+<a href="https://akshita-infosec.medium.com/burp-macros-what-why-how-151df8901641">-Burp Macros: What, Why & How?</a>
 
+<a href="https://sicks3c.medium.com/setup-your-private-burp-collaborator-for-ssrf-xxe-fd6cf01c8ca">-Setup Your Private Burp Collaborator for SSRF/XXE</a>
+  
+<a href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo">-Experience Burp Suite Enterprise Edition in a new live demo</a>
+
+<A href="https://www.pavel.gr/blog/dll-hijacking-using-spartacus-outside-of-dllmain">-DLL Hijacking using Spartacus, outside of DllMain</a>
+
+<a href="https://github.com/mrh0wl/Cloudmare">-Cloudflare, Sucuri, Incapsula real IP tracker</a>
+
+<a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
+
+<a href="https://devsecopsdocs.com/blog/nuclear-pond/">-Nuclear Pond</a>
+
+<a href="https://blog.securelayer7.net/static-analysis-of-android-application-tools-used-securelayer7/">-OWASP Top 10: Static Analysis of Android Application & Tools Used</a>
+
+<a href="https://github.com/iustin24/chameleon">-Chameleon provides better content discovery by using wappalyzer's set of technology fingerprints alongside custom wordlists tailored to each detected technologies</a>
+
+<a href="https://medium.com/@murami.ike/working-with-a-scope-using-gowitness-4d338b0321ac">-Working with a scope using Gowitness</a>
 
 <a href="https://blog.projectdiscovery.io/implementing-nuclei-into-your-gitlab-ci-cd-pipeline-for-scanning-live-web-applications/">-Implementing Nuclei into your GitLab CI/CD Pipeline for Scanning Live Web Applications</a>
 
@@ -237,53 +184,29 @@
 
 <a href="https://hacknopedia.com/2022/08/17/must-have-browser-add-ons-or-extensions-for-bug-bounty/">-Must Have Browser Extensions for Bug Bounty</a>
 
-
-
-
-
-
-
-
 <a href="http://security.googleblog.com/2023/05/introducing-new-way-to-buzz-for-ebpf.html">-Introducing a new way to buzz for eBPF vulnerabilities</a>
-
-
-
-
-
-  
-
 
 <a href="https://www.legitsecurity.com/blog/remote-code-execution-vulnerability-in-azure-pipelines-can-lead-to-software-supply-chain-attack">-Remote Code Execution Vulnerability in Azure Pipelines Can Lead To Software Supply Chain Attack</a>
 
 <a href="https://portswigger.net/daily-swig/security-researcher-earns-plaudits-after-discovering-yandex-ssrf-flaw">-Security researcher earns plaudits after discovering Yandex SSRF flaw</a>
 
-
 <a href="https://medium.com/pentesternepal/how-i-was-able-to-reveal-page-admin-of-almost-any-page-on-facebook-5a8d68253e0c">-How I was able to reveal page admin of almost any page on Facebook</a>
-
-
   
 <a href="https://xkurtph.medium.com/shopify-plugin-bypass-using-client-side-injection-thru-api-implementation-vulnerability-710d25105c8f">-Shopify Plugin Bypass using P3 Client-side injection thru API Implementation Vulnerability</a>
 
-
 <a href="https://github.com/honoki/bugbounty-openvpn-socks">-Run all your bug bounty VPN profiles in parallel and expose them via multiple local SOCKS proxies.</a>
-
-
-
 
 <a href="https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae">-A tale of zero click account takeover</a>
 
 <a href="https://hacktus.tech/subdomain-takeover-leading-to-full-account-takeover">-Subdomain Takeover leading to Full Account Takeover</a>
 
-
 <a href="https://www.cyberick.com/post/how-to-find-new-more-domains-of-a-company-recon-stuff">-How to find new/more domains of a company? - Recon Stuff</a>
-
 
 <a href="https://n00b.sh/posts/aes-killer-mobile-app-demo/">-Decrypting Mobile App Traffic using AES Killer and Frida</a>
 
 <a href="https://burpsuite.guide/blog/how-good-is-burps-api-scanning/">-How good is Burp's API Scanning?</a>
 
 <a href="https://thexssrat.medium.com/csrf-tesguide-for-bug-bounty-hunters-d14db3462695">-CSRF Testing Guide For Bug Bounty Hunters</a>
-
 
 <a href="https://github.com/Hacker0x01/awesome-hacker-api-tools">-A collection of hacker tools using HackerOne's API</a>
 
