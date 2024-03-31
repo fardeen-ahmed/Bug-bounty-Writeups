@@ -21,30 +21,26 @@
 | <a href="https://github.com/edoardottt/csprecon"> CSPRecon </a> | Discover new target domains using Content Security Policy |
 | <a href="https://github.com/iangcarroll/cookiemonster"> CookieMonster </a> | This helps you detect and abuse vulnerable implementations of stateless sessions |
 | <a href="https://www.securesystems.de/blog/subdomain-enumeration-with-DNSSEC/"> DNSSEC </a> | Subdomain Enumeration with DNSSEC |
+| <a href="https://medium.com/@kaorrosi/osint-research-with-recon-ng-727661a70ea4"> Recon-NG </a> | OSINT Research |
+| <a href="https://github.com/benso-io/posta"> Posta </a> | Cross-document Messaging security research tool |
+| <a href="https://github.com/projectdiscovery/katana"> Katana </a> | A next-generation crawling and spidering framework. |
+| <a href="https://github.com/silentsignal/burp-text4shell"> BurpText4Shell </a> | Test4shell scanner for Burp Suite. |
+| <a href="https://being-uncommon.medium.com/rustscan-the-modern-port-scanner-d6d3084e9c82"> RUSTSCAN </a> | THE MODERN PORT SCANNER |
+| <a href="https://mikekitckchan.medium.com/holy-ffuf-a-beginner-guide-to-fuzz-with-ffuf-4bc6a66b5391"> Holy FFUF! </a> | A Beginner Guide to Fuzz with FFUF |
+| <a href="https://github.com/swisskyrepo/GraphQLmap"> GraphQLmap </a> | This is a scripting engine to interact with a graphql endpoint for pentesting purposes |
+| <a href="https://github.com/erev0s/VAmPI">VAmPI </a> | Vulnerable REST API with OWASP top 10 vulnerabilities for security testing |
+| <a href="https://github.com/0x4ndy/clif"> Clif </a> | This is a command-line interface (CLI) application fuzzer, pretty much what wfuzz or ffuf are for web. |
+| <a href="https://github.com/r0oth3x49/ghauri"> Ghauri </a> | This is an advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws |
 
-<a href="https://medium.com/@kaorrosi/osint-research-with-recon-ng-727661a70ea4">-OSINT Research With Recon-ng</a>
-
-<a href="https://github.com/benso-io/posta">-Posta. Cross-document Messaging security research tool</a>
-
-<a href="https://github.com/projectdiscovery/katana">-Katana : A next-generation crawling and spidering framework.</a>
-
-<a href="https://github.com/silentsignal/burp-text4shell">-Text4Shell scanner for Burp Suite</a>
-
-<a href="https://being-uncommon.medium.com/rustscan-the-modern-port-scanner-d6d3084e9c82">-RUSTSCAN — THE MODERN PORT SCANNER</a>
-
-<a href="https://mikekitckchan.medium.com/holy-ffuf-a-beginner-guide-to-fuzz-with-ffuf-4bc6a66b5391">-Holy FFUF! — A Beginner Guide to Fuzz with FFUF</a>
-  
-<a href="https://github.com/swisskyrepo/GraphQLmap">-GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes</a>
 
 <a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">-How to Hack APIs in 2021</a>
 
-<a href="https://github.com/erev0s/VAmPI">VAmPI - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing</a>
+
   
 <a href="https://akshita-infosec.medium.com/burp-macros-what-why-how-151df8901641">-Burp Macros: What, Why & How?</a>
 
-<a href="https://github.com/0x4ndy/clif">-clif is a command-line interface (CLI) application fuzzer, pretty much what wfuzz or ffuf are for web. </a>
 
-<a href="https://github.com/r0oth3x49/ghauri">-Ghauri - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws</A>
+
 
 <a href="https://portswigger.net/blog/introducing-dom-invader">Introducing DOM Invader: DOM XSS just got a whole lot easier to find</a>
 
