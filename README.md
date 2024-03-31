@@ -4,14 +4,14 @@
 </a>
 <h4>This is a place of all the Offensive Cybersecurity people. Feel free to contribute in all sections</h4>
 
-| Header 1 | 
+| Basic Writeups | 
 |----------|
-| Row 1, Col 1 | 
+| <a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :- Electron JS Browser To Find XSS Vulnerabilities Automatically</a><p>| 
 | Row 2, Col 1 | 
 | Row 3, Col 1 | 
 
-<h2>  :- </h2><br>
-<a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :-Electron JS Browser To Find XSS Vulnerabilities Automatically</a><p>
+<h2>  </h2><br>
+
 
 <a href="https://github.com/mdsecresearch/BurpSuiteSharpener">-Extension should add a number of UI and functional features to Burp Suite to make working with it easier</a>
 
