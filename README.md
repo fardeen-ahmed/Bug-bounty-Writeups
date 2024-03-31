@@ -37,7 +37,7 @@
 | <a href="https://github.com/phith0n/zkar"> ZKar </a> | This is a Java serialization protocol analysis tool implement in Go. |
 | <a href="https://github.com/s0md3v/Smap"> Smap </a> | This is a drop-in replacement for Nmap powered by shodan.io |
 | <a href="https://github.com/Stonzyy/dumpxss"> DumpXSS </a> | A scanner tool For XSS Vulnerability |
-| <a href="https://github.com/Sh1Yo/x8">-x8 </a> | Hidden parameters discovery suite written in Rust |
+| <a href="https://github.com/Sh1Yo/x8">x8 </a> | Hidden parameters discovery suite written in Rust |
 | <a href="https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/"> InjectGPT </a> | The most polite exploit ever |
 | <a href="https://github.com/stark0de/nginxpwner"> Nginxpwner </a> | This is a simple tool to look for common Nginx misconfigurations and vulnerabilities. |
 | <a href="https://github.com/aress31/burpgpt"> BurpGPT </a> | A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type. |
