@@ -4,7 +4,14 @@
 </a>
 <h4>This is a place of all the Offensive Cybersecurity people. Feel free to contribute in all sections</h4>
 
-| <h2> Bug-Bounty Tools & Extensions (General + Updated) :- </h2><br> |
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
+
+
+<h2> Bug-Bounty Tools & Extensions (General + Updated) :- </h2><br>
 <a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :-Electron JS Browser To Find XSS Vulnerabilities Automatically</a><p>
 
 <a href="https://github.com/mdsecresearch/BurpSuiteSharpener">-Extension should add a number of UI and functional features to Burp Suite to make working with it easier</a>
