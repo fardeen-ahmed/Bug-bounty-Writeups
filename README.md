@@ -10,9 +10,6 @@
 | Row 2, Col 1 | 
 | Row 3, Col 1 | 
 
-<h2>  </h2><br>
-
-
 <a href="https://github.com/mdsecresearch/BurpSuiteSharpener">-Extension should add a number of UI and functional features to Burp Suite to make working with it easier</a>
 
 <a href="https://medium.com/@calfcrusher/automate-and-finds-the-ip-address-of-a-website-behind-cloudflare-45db99510b4b">-Automate and finds the IP address of a website behind Cloudflare</a>
