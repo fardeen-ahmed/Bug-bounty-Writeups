@@ -6,13 +6,13 @@
 
 | Basic Tools | Description |
 |-----------|-----|
-| John Doe  | 30  |
+| <a href="https://github.com/RenwaX23/XSSTRON"> XSSTRON </a>  | Electron JS Browser To Find XSS Vulnerabilities Automatically  |
 | Jane Smith| 25  |
 | Bob Johnson| 35  |
 
 | Basic Tools | 
 |----------|
-| <a href="https://github.com/RenwaX23/XSSTRON"> XSSTRON :- Electron JS Browser To Find XSS Vulnerabilities Automatically</a><p>| 
+| :- </a><p>| 
 | <a href="https://github.com/mdsecresearch/BurpSuiteSharpener"> Extension should add a number of UI and functional features to Burp Suite to make working with it easier</a> | 
 | <a href="https://medium.com/@calfcrusher/automate-and-finds-the-ip-address-of-a-website-behind-cloudflare-45db99510b4b"> Automate and finds the IP address of a website behind Cloudflare</a>|
 | <a href="https://github.com/m8r0wn/taser"> Taser : Python3 resource library for creating security related tooling</a> |
