@@ -17,16 +17,10 @@
 | <a href="https://github.com/tristanlatr/burpa"> Burp Automator </a> | A Burp Suite Automation Tool. It provides a high level CLI and Python interfaces to Burp Suite scanner and can be used to setup Dynamic Application Security Testing (DAST) |
 | <a href="https://github.com/famasoon/gowhois"> GoWhois </a> |  Whois command implemented by golang with awesome whois servers list </a> |
 | <a href="https://github.com/gwen001/related-domains"> Related-domains </a> | Find related domains of a given domain</a> |
-
-
-| <a href="https://github.com/Ciphey/Ciphey"> Ciphey : Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes</a> |
-
-
-| <a href="https://github.com/edoardottt/csprecon"> CSPRecon - Discover new target domains using Content Security Policy</a> |
-
-<a href="https://github.com/iangcarroll/cookiemonster">-CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions.</a>
-
-<a href="https://www.securesystems.de/blog/subdomain-enumeration-with-DNSSEC/">-Subdomain Enumeration with DNSSEC</a>
+| <a href="https://github.com/Ciphey/Ciphey"> Ciphey </a> | Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes.|
+| <a href="https://github.com/edoardottt/csprecon"> CSPRecon </a> | Discover new target domains using Content Security Policy |
+| <a href="https://github.com/iangcarroll/cookiemonster"> CookieMonster </a> | This helps you detect and abuse vulnerable implementations of stateless sessions |
+| <a href="https://www.securesystems.de/blog/subdomain-enumeration-with-DNSSEC/"> DNSSEC </a> | Subdomain Enumeration with DNSSEC |
 
 <a href="https://medium.com/@kaorrosi/osint-research-with-recon-ng-727661a70ea4">-OSINT Research With Recon-ng</a>
 
