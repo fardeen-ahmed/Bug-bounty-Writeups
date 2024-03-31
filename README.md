@@ -112,6 +112,7 @@
 | <a href="https://github.com/punk-security/secret-magpie-cli">SecretMagpie </a> | A secret detection tool that hunts out all the secrets hiding in all your repositories. |
 | <a href="https://github.com/codingo/bbr">bbr </a> | It is an open source tool to aid in command line driven generation of bug bounty reports based on user provided templates. |
 | <a href="https://oweng.medium.com/introducing-packetstreamer-distributed-packet-capture-for-cloud-native-platforms-3e7f9ac57ab1">PacketStreamer </a> | This is a tool for distributed packet capture for cloud-native platforms |
+| <a href="https://github.com/hisxo/JSpector">JSpector </a> | It is a Burp Suite extension that passively crawls JavaScript files and automatically creates issues with URLs and endpoints found on the JS files |
 | <a href="https://blog.projectdiscovery.io/uncover/">Uncover </a> | Quickly discover exposed hosts using multiple search engines |
 | <a href="https://blog.projectdiscovery.io/asnmap/">ASNMap </a> | A Golang CLI tool for speedy reconnaissance using ASN data |
 | <a href="https://github.com/dwisiswant0/go-dork">Go Dork </a> | The fastest dork scanner written in Go |
@@ -121,6 +122,7 @@
 | <a href="https://github.com/mosajjal/dnsmonster">dnsmonster </a> | Passive DNS Capture/Monitoring Framework |
 | <a href="https://research.securitum.com/fail2ban-remote-code-execution/">fail2ban </a> | Remote Code Execution |
 | <a href="https://github.com/dwisiswant0/ppfuzz?tag=v1.0.0">ppfuzz </a> | Prototype Pollution Fuzzer |
+| <a href="https://github.com/root-tanishq/userefuzz">-userefuzz </a> | User-Agent , X-Forwarded-For and Referer SQLI Fuzzer |
 | <a href="https://github.com/Sachin-v3rma/Astra">-Astra </a> | Astra finds urls, endpoints, aws buckets, api keys, tokens, etc from a given url/s |
 | <a href="https://github.com/projectdiscovery/cloudlist"> Cloudlist </a> | This is a tool for listing Assets from multiple Cloud Providers |
 | <a href="https://github.com/as0ler/r2flutch">r2flutch </a> | A tool to decrypt iOS apps using r2frida |
@@ -156,8 +158,67 @@
 
 
 
-<a href="https://github.com/root-tanishq/userefuzz">-User-Agent , X-Forwarded-For and Referer SQLI Fuzzer</a>
 
+
+
+
+
+
+
+
+
+
+<a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">-How to Hack APIs in 2021</a>
+  
+<a href="https://akshita-infosec.medium.com/burp-macros-what-why-how-151df8901641">-Burp Macros: What, Why & How?</a>
+
+<a href="https://sicks3c.medium.com/setup-your-private-burp-collaborator-for-ssrf-xxe-fd6cf01c8ca">-Setup Your Private Burp Collaborator for SSRF/XXE</a>
+  
+<a href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo">-Experience Burp Suite Enterprise Edition in a new live demo</a>
+
+<A href="https://www.pavel.gr/blog/dll-hijacking-using-spartacus-outside-of-dllmain">-DLL Hijacking using Spartacus, outside of DllMain</a>
+
+<a href="https://github.com/mrh0wl/Cloudmare">-Cloudflare, Sucuri, Incapsula real IP tracker</a>
+
+<a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
+
+<a href="https://devsecopsdocs.com/blog/nuclear-pond/">-Nuclear Pond</a>
+
+
+<a href="https://blog.securelayer7.net/static-analysis-of-android-application-tools-used-securelayer7/">-OWASP Top 10: Static Analysis of Android Application & Tools Used</a>
+
+
+  
+
+
+  
+  
+
+<a href="https://github.com/iustin24/chameleon">-Chameleon provides better content discovery by using wappalyzer's set of technology fingerprints alongside custom wordlists tailored to each detected technologies</a>
+
+<a href="https://medium.com/@murami.ike/working-with-a-scope-using-gowitness-4d338b0321ac">-Working with a scope using Gowitness</a>
+
+
+
+
+
+
+
+
+
+
+
+# General Writeups
+
+<a href="https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2">-Miracle - One Vulnerability To Rule Them All</a>
+
+<a href="https://github.com/morphean-sec/secure-smart-contract-design-principles">-Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts.</a>
+
+<a href="https://portswigger.net/daily-swig/teen-hacker-scoops-4-500-bug-bounty-for-facebook-flaw-that-allowed-attackers-to-unmask-page-admins">-Teen hacker scoops $4,500 bug bounty for Facebook flaw that allowed attackers to unmask page admins</a>
+
+<A href="https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017">-400$ Bounty again using Google Dorks</a>
+
+<a href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2020">-Top 10 web hacking techniques of 2020 | PortSwigger Research</a>
 <a href="https://technicalsurendra.medium.com/command-injection-all-in-one-blog-52591ad750df">-Command Injection — All in one Blog</a>
 
 <a href="https://manasharsh.medium.com/how-gopher-works-in-escalating-ssrfs-ce6e5459b630">How Gopher works in escalating SSRFs</a>
@@ -241,83 +302,6 @@
 <a href="https://armadillophone.com/blog/acropalypse-vulnerability">-Acropalypse vulnerability reveals your screenshots</a>
 
 <a href="https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/">-Reverse engineering Flutter for Android + Doldrums (Doldrums is a reverse engineering tool for Flutter apps)<a href ="https://github.com/rscloura/Doldrums">Tool Link = _Doldrum Tool_</a></a>
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">-How to Hack APIs in 2021</a>
-  
-<a href="https://akshita-infosec.medium.com/burp-macros-what-why-how-151df8901641">-Burp Macros: What, Why & How?</a>
-
-<a href="https://sicks3c.medium.com/setup-your-private-burp-collaborator-for-ssrf-xxe-fd6cf01c8ca">-Setup Your Private Burp Collaborator for SSRF/XXE</a>
-  
-<a href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo">-Experience Burp Suite Enterprise Edition in a new live demo</a>
-
-<A href="https://www.pavel.gr/blog/dll-hijacking-using-spartacus-outside-of-dllmain">-DLL Hijacking using Spartacus, outside of DllMain</a>
-
-<a href="https://github.com/mrh0wl/Cloudmare">-Cloudflare, Sucuri, Incapsula real IP tracker</a>
-
-<a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
-
-<a href="https://devsecopsdocs.com/blog/nuclear-pond/">-Nuclear Pond</a>
-
-
-<a href="https://blog.securelayer7.net/static-analysis-of-android-application-tools-used-securelayer7/">-OWASP Top 10: Static Analysis of Android Application & Tools Used</a>
-
-
-  
-
-
-  
-  
-
-<a href="https://github.com/iustin24/chameleon">-Chameleon provides better content discovery by using wappalyzer's set of technology fingerprints alongside custom wordlists tailored to each detected technologies</a>
-
-<a href="https://medium.com/@murami.ike/working-with-a-scope-using-gowitness-4d338b0321ac">-Working with a scope using Gowitness</a>
-
-
-
-
-
-
-
-
-
-
-
-# General Writeups
-
-<a href="https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2">-Miracle - One Vulnerability To Rule Them All</a>
-
-<a href="https://github.com/morphean-sec/secure-smart-contract-design-principles">-Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts.</a>
-
-<a href="https://portswigger.net/daily-swig/teen-hacker-scoops-4-500-bug-bounty-for-facebook-flaw-that-allowed-attackers-to-unmask-page-admins">-Teen hacker scoops $4,500 bug bounty for Facebook flaw that allowed attackers to unmask page admins</a>
-
-<A href="https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017">-400$ Bounty again using Google Dorks</a>
-
-<a href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2020">-Top 10 web hacking techniques of 2020 | PortSwigger Research</a>
 
 <a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">-Top 10 Tips for Burp Suite</a>
 
@@ -339,7 +323,6 @@
   
 <a href="https://medium.com/@querylab/idor-and-api-keys-token-hardcode-exposed-201c73d2d667">-IDOR and API-keys🔑Token Hardcode Exposed</a>
 
-<a href="https://github.com/hisxo/JSpector">-JSpector is a Burp Suite extension that passively crawls JavaScript files and automatically creates issues with URLs and endpoints found on the JS files </a>
 
 <a href="https://blog.assetnote.io/2023/01/24/yellowfin-auth-bypass-to-rce/">-Exploiting Hardcoded Keys to achieve RCE in Yellowfin BI</a>
 
