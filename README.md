@@ -4,7 +4,7 @@
 </a>
 <h4>This is a place of all the Offensive Cybersecurity people. Feel free to contribute in all sections</h4>
 
-| Basic Tools | Age |
+| Basic Tools | Description |
 |-----------|-----|
 | John Doe  | 30  |
 | Jane Smith| 25  |
