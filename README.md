@@ -47,6 +47,11 @@
 | <a href="https://googleprojectzero.blogspot.com/2021/04/designing-sockfuzzer-network-syscall.html"> Designing sockfuzzer </a> | A network syscall fuzzer for XNU. |
 | <a href="https://github.com/kosmosec/proto-find">Proto Find </a> | Check if your target is vulnerable for client side prototype pollution |
 | <a href="https://github.com/KathanP19/protoscan">Protoscan </a> | Prototype Pollution Scanner made in Golang. |
+| <a href="https://github.com/PabloMK7/ENLBufferPwn">BufferPwn </a> | RCE vulnerability in the common network code of several first party Nintendo games since the Nintendo 3DS |
+| <a href="https://blog.intigriti.com/2021/10/05/hacker-tools-crlfuzz/">CRLFuzz </a> | Hacker Tools: Injecting CRLF for bounties </a>
+| <a href="https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques"> NFT </a> | New differential fuzzing tool reveals novel HTTP request smuggling techniques. |
+| <a href="https://github.com/sa7mon/S3Scanner">S3Scanner </a> | Scan for open S3 buckets and dump the contents. |
+
 
 
 
@@ -61,26 +66,17 @@
   
 <a href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo">-Experience Burp Suite Enterprise Edition in a new live demo</a>
 
-
 <A href="https://www.pavel.gr/blog/dll-hijacking-using-spartacus-outside-of-dllmain">-DLL Hijacking using Spartacus, outside of DllMain</a>
 
-  
 <a href="https://github.com/mrh0wl/Cloudmare">-Cloudflare, Sucuri, Incapsula real IP tracker</a>
-
 
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
 
 <a href="https://devsecopsdocs.com/blog/nuclear-pond/">-Nuclear Pond</a>
-    
-<a href="https://github.com/PabloMK7/ENLBufferPwn">-BufferPwn: RCE vulnerability in the common network code of several first party Nintendo games since the Nintendo 3DS</a>
 
-<a href="https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques">-New differential fuzzing tool reveals novel HTTP request smuggling techniques</a>
-
-<a href="https://blog.intigriti.com/2021/10/05/hacker-tools-crlfuzz/">-CRLFuzz – Hacker Tools: Injecting CRLF for bounties </a>
 
 <a href="https://blog.securelayer7.net/static-analysis-of-android-application-tools-used-securelayer7/">-OWASP Top 10: Static Analysis of Android Application & Tools Used</a>
 
-<a href="https://github.com/sa7mon/S3Scanner">-S3Scanner - Scan for open S3 buckets and dump the contents </a>
 
 <a href="https://crates.io/crates/kurl">-Kurl : HTTP Requests for security researchers</a>
   
