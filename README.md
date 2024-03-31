@@ -34,6 +34,12 @@
 | <a href="https://portswigger.net/blog/introducing-dom-invader">DOM Invader </a> | Introducing DOM Invader, DOM XSS just got a whole lot easier to find |
 | <a href="https://github.com/MayankPandey01/Jira-Lens">Jira-Lens </a> | Fast and customizable vulnerability scanner For JIRA written in Python |
 | <a href="https://github.com/rotemreiss/uddup"> Urls de-duplication </a> | Urls de-duplication tool for better recon. |
+| <a href="https://github.com/phith0n/zkar"> ZKar </a> | This is a Java serialization protocol analysis tool implement in Go. |
+| <a href="https://github.com/s0md3v/Smap"> Smap </a> | This is a drop-in replacement for Nmap powered by shodan.io |
+| <a href="https://github.com/Stonzyy/dumpxss"> DumpXSS </a> | A scanner tool For XSS Vulnerability |
+| <a href="https://github.com/Sh1Yo/x8">-x8 </a> | Hidden parameters discovery suite written in Rust |
+
+
 
 
 <a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">-How to Hack APIs in 2021</a>
@@ -46,16 +52,6 @@
 <a href="https://sicks3c.medium.com/setup-your-private-burp-collaborator-for-ssrf-xxe-fd6cf01c8ca">-Setup Your Private Burp Collaborator for SSRF/XXE</a>
   
 <a href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo">-Experience Burp Suite Enterprise Edition in a new live demo</a>
-
-
-
-<a href="https://github.com/phith0n/zkar">-ZKar is a Java serialization protocol analysis tool implement in Go</a>
-
-<a href="https://github.com/s0md3v/Smap">-Smap : a drop-in replacement for Nmap powered by shodan.io</a>
-
-<a href="https://github.com/Stonzyy/dumpxss">-DumpXSS. Scanner Tool For XSS Vulnerability</a>
-
-<a href="https://github.com/Sh1Yo/x8">-x8 - Hidden parameters discovery suite written in Rust.</a>
 
 <a href="https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/">-InjectGPT: the most polite exploit ever</a>
 
