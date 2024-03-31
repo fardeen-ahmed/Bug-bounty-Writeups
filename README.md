@@ -5,7 +5,7 @@
 <h4>This is a place of all the Offensive Cybersecurity people. Feel free to contribute in all sections</h4>
 
 | Basic Tools | 
-| Name | | Description |
+| Name || Description |
 |----------||-----------|
 | <a href="https://github.com/RenwaX23/XSSTRON"> XSSTRON :- Electron JS Browser To Find XSS Vulnerabilities Automatically</a><p>| 
 | <a href="https://github.com/mdsecresearch/BurpSuiteSharpener"> Extension should add a number of UI and functional features to Burp Suite to make working with it easier</a> | 
