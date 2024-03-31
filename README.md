@@ -63,7 +63,39 @@
 | <a href="https://github.com/ethicalhackingplayground/TProxer"> TProxer </a> | A Burp Suite extension made to automate the process of finding reverse proxy path based SSRF |
 | <a href="https://github.com/PalindromeLabs/STEWS">STEWS </a> | This is a tool suite for security testing of WebSockets |
 | <a href="https://github.com/xerohackcom/webrecon">Webrecon </a> |  Automated Web Recon Shell Scripts |
-| <a href="https://danielmiessler.com/study/ffuf/">-A ffuf Primer </a> |
+| <a href="https://danielmiessler.com/study/ffuf/"> ffuf Primer </a> | More on FFUF |
+| <a href="https://github.com/Lu1sDV/wafme0w">Wafme0w </a> | A fast and lightweight Web Application Firewall fingerprinting tool. |
+| <a href="https://github.com/r0oth3x49/ghauri">Ghauri </a> | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws |
+| <a href="https://github.com/carlospolop/Leakos"> Leakos </a> | Search with gitleaks and trufflehog in the responses of the given URLs or in all the repos of an organization and its members. |
+| <a href="https://github.com/Anof-cyber/PyCript"> Pycript </a> | This is a Burp Suite extension that enables users to encrypt and decrypt requests for manual and automated application penetration testing. |
+| <a href="https://github.com/Josue87/gotator"> Gotator </a> | This is a tool to generate DNS wordlists through permutations. |
+| <a href="https://github.com/michelin/ChopChop">ChopChop </a> | This is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders |
+| <a href="https://iosiro.com/blog/baserunner-exploiting-firebase-datastores">Baserunner</a> | This is a tool for exploring and exploiting Firebase datastores |
+| <a href="https://github.com/r0075h3ll/Oralyzer">Oralyzer </a> | This a simple python script that probes for Open Redirection vulnerability in a website. It does that by fuzzing the URL that is provided in the input |
+| <a href="https://github.com/roottusk/vapi">vAPI </a> | This is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises. |
+| <a href="https://github.com/edoardottt/favirecon">FIVERECON </a> | Use favicon.ico to improve your target recon phase. Quickly detect technologies, WAF, exposed panels, known services. |
+| <a href="https://blog.intigriti.com/2022/03/01/hacker-tools-turbo-intruder/">Turbo Intruder </a> | This Hacker Tool is Going faster than ever! |
+| <a href="https://gitlab.com/shodan-public/nrich">nrich </a> | A command-line tool to quickly analyze all IPs in a file and see which ones have open ports/ vulnerabilities. Can also be fed data from stdin to be used in a data pipeline. |
+| <a href="https://blog.intigriti.com/2022/02/01/hacker-tools-meg/">Meg </a> | Endpoint scan the masses! |
+| <a href="https://github.com/d3mondev/puredns">PureDNS </a> | Subdomain bruteforcing tool that improves massdns to accurately handle wildcard subdomains and DNS poisoning. |
+| <a href="https://research.nccgroup.com/2022/08/25/tool-release-jwt-reauth/">JWT-Reauth</a> | A new tool for JWT Reauth issues |
+| <a href="https://github.com/0xmoot/s3sec">S3Sec </a> | Check AWS S3 instances for read/write/delete access |
+| <a href="https://securitytrails.com/blog/uniscan">Uniscan </a> | An RFI, LFI, and RCE Vulnerability Scanner |
+| <a href="https://github.com/bcoles/jira_scan">Jira Scan </a> | This is a simple remote scanner for Atlassian Jira. |
+| <a href="https://spaceraccoon.github.io/webpack-exploder/">Webpack Exploder </a> | Unpack the source code of React and other Webpacked Javascript apps! Check out Expanding the Attack Surface. |
+| <a href="https://github.com/DigeeX/raider">Raider </a> | Web authentication testing framework |
+| <a href="https://github.com/gokulapap/Reconator">Reconator </a> | Automated Recon for Pentesting & Bug Bounty |
+| <a href="https://github.com/whwlsfb/Log4j2Scan">Log4j2Scan </a> | Log4j2 RCE Passive Scanner plugin for BurpSuite |
+| <a href="https://github.com/redcode-labs/UnChain">-UnChain </a> | A tool to find redirection chains in multiple URLs |
+| <a href="https://github.com/e-m-b-a/emba">EMBA </a> | The firmware security analyzer |
+| <a href="https://github.com/rfc-st/humble">Humble </a> | A humble, and fast, security-oriented HTTP headers analyzer |
+| <a href="https://github.com/iamnihal/warf"> WARF </a> | This is a Web Application Reconnaissance Framework that helps to gather information about the target. |
+| <a href="https://github.com/m3n0sd0n4ld/GooFuzz">GooFuzz </a> | GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking). |
+| <a href="https://github.com/fingerprintjs/gradejs">GradeJS </a> | This tool analyzes production Webpack bundles without having access to the source code of a website. |
+| <a href="https://github.com/dwisiswant0/findom-xss">FinDOM-XSS </a> | This is a tool that allows you to finding for possible and/ potential DOM based XSS vulnerability in a fast manner. |
+| <a href="https://github.com/xnl-h4ck3r/waymore">Waymore </a> | Find way more from the Wayback Machine! |
+| <a href="https://github.com/carlospolop/Pastos">Pastos </a> Search pastes in tens of webs in seconds with GCSE. |
+| <a href="https://github.com/hisxo/JSpector">JSpector </a> | JSpector is a Burp Suite extension that passively crawls JavaScript files and automatically creates issues with URLs and endpoints found on the JS files. |
 
 
 
@@ -78,35 +110,6 @@
 
 
 
-<a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">-How to Hack APIs in 2021</a>
-  
-<a href="https://akshita-infosec.medium.com/burp-macros-what-why-how-151df8901641">-Burp Macros: What, Why & How?</a>
-
-<a href="https://sicks3c.medium.com/setup-your-private-burp-collaborator-for-ssrf-xxe-fd6cf01c8ca">-Setup Your Private Burp Collaborator for SSRF/XXE</a>
-  
-<a href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo">-Experience Burp Suite Enterprise Edition in a new live demo</a>
-
-<A href="https://www.pavel.gr/blog/dll-hijacking-using-spartacus-outside-of-dllmain">-DLL Hijacking using Spartacus, outside of DllMain</a>
-
-<a href="https://github.com/mrh0wl/Cloudmare">-Cloudflare, Sucuri, Incapsula real IP tracker</a>
-
-<a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
-
-<a href="https://devsecopsdocs.com/blog/nuclear-pond/">-Nuclear Pond</a>
-
-
-<a href="https://blog.securelayer7.net/static-analysis-of-android-application-tools-used-securelayer7/">-OWASP Top 10: Static Analysis of Android Application & Tools Used</a>
-
-
-  
-
-
-  
-  
-
-<a href="https://github.com/iustin24/chameleon">-Chameleon provides better content discovery by using wappalyzer's set of technology fingerprints alongside custom wordlists tailored to each detected technologies</a>
-
-<a href="https://medium.com/@murami.ike/working-with-a-scope-using-gowitness-4d338b0321ac">-Working with a scope using Gowitness</a>
 
 
 
@@ -114,82 +117,31 @@
 
 
 
-
-<a href="https://github.com/Lu1sDV/wafme0w">-Wafme0w - Fast and lightweight Web Application Firewall fingerprinting tool.</a>
-
-<a href="https://github.com/r0oth3x49/ghauri">-Ghauri : An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws</a>
-
-<a href="https://github.com/carlospolop/Leakos">-Leakos- Search with gitleaks and trufflehog in the responses of the given URLs or in all the repos of an organization and its members.</a>
-
-<a href="https://github.com/Anof-cyber/PyCript">-Pycript is a Burp Suite extension that enables users to encrypt and decrypt requests for manual and automated application penetration testing.</a>
 
 <a href="https://github.com/root-tanishq/userefuzz">-User-Agent , X-Forwarded-For and Referer SQLI Fuzzer</a>
 
-<a href="https://github.com/Josue87/gotator">-Gotator is a tool to generate DNS wordlists through permutations.</a>
-
-<a href="https://github.com/michelin/ChopChop">-ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders</a>
-
 <a href="https://portswigger.net/daily-swig/latest-web-hacking-tools-q3-2021">-Latest web hacking tools – Q3 2021</a>
 
-<a href="https://iosiro.com/blog/baserunner-exploiting-firebase-datastores">-Introducing Baserunner: a tool for exploring and exploiting Firebase datastores</a>
 
-<a href="https://github.com/r0075h3ll/Oralyzer">-Oralyzer, a simple python script that probes for Open Redirection vulnerability in a website. It does that by fuzzing the URL that is provided in the input</a>
 
-<a href="https://github.com/roottusk/vapi">-vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises.</a>
-
-<a href="https://github.com/edoardottt/favirecon">-FIVERECON - Use favicon.ico to improve your target recon phase. Quickly detect technologies, WAF, exposed panels, known services.</a>
-
-<a href="https://blog.intigriti.com/2022/03/01/hacker-tools-turbo-intruder/">-Turbo Intruder – Hacker Tools: Going faster than ever!</a>
-
-<a href="https://gitlab.com/shodan-public/nrich">-nrich - A command-line tool to quickly analyze all IPs in a file and see which ones have open ports/ vulnerabilities. Can also be fed data from stdin to be used in a data pipeline.</a>
 
 <a href="https://blog.projectdiscovery.io/implementing-nuclei-into-your-gitlab-ci-cd-pipeline-for-scanning-live-web-applications/">-Implementing Nuclei into your GitLab CI/CD Pipeline for Scanning Live Web Applications</a>
 
 <a href="https://thexssrat.medium.com/what-the-fuzz-the-truth-behind-content-discovery-77cd0c0756e7">-What the fuzz?! — The truth behind content discovery</a>
 
-<a href="https://blog.intigriti.com/2022/02/01/hacker-tools-meg/">-Meg – Hacker Tools: Endpoint scan the masses! </a>
 
 <a href="https://hacknopedia.com/2022/08/17/must-have-browser-add-ons-or-extensions-for-bug-bounty/">-Must Have Browser Extensions for Bug Bounty</a>
 
-<a href="https://github.com/d3mondev/puredns">-PureDNS : Subdomain bruteforcing tool that improves massdns to accurately handle wildcard subdomains and DNS poisoning. </a>
 
-<a href="https://research.nccgroup.com/2022/08/25/tool-release-jwt-reauth/">-Tool Release – JWT-Reauth</a>
 
-<a href="https://github.com/0xmoot/s3sec">-S3Sec - Check AWS S3 instances for read/write/delete access</a>
 
-<a href="https://securitytrails.com/blog/uniscan">-Uniscan: An RFI, LFI, and RCE Vulnerability Scanner</a>
 
-<a href="https://github.com/bcoles/jira_scan">-Jira Scan is  a simple remote scanner for Atlassian Jira</a>
 
-<a href="https://spaceraccoon.github.io/webpack-exploder/">-Webpack Exploder : Unpack the source code of React and other Webpacked Javascript apps! Check out Expanding the Attack Surface</a>
 
-<a href="https://github.com/DigeeX/raider">-Raider - Web authentication testing framework</a>
-
-<a href="https://github.com/gokulapap/Reconator">-Reconator - Automated Recon for Pentesting & Bug Bounty</a>
-
-<a href="https://github.com/whwlsfb/Log4j2Scan">-Log4j2 RCE Passive Scanner plugin for BurpSuite</a>
-
-<a href="https://github.com/redcode-labs/UnChain">-A tool to find redirection chains in multiple URLs</a>
-
-<a href="https://github.com/e-m-b-a/emba">-EMBA - The firmware security analyzer</a>
-
-<a href="https://github.com/rfc-st/humble">-A humble, and fast, security-oriented HTTP headers analyzer</a>
 
 <a href="http://security.googleblog.com/2023/05/introducing-new-way-to-buzz-for-ebpf.html">-Introducing a new way to buzz for eBPF vulnerabilities</a>
 
-<a href="https://github.com/iamnihal/warf">-WARF is a Web Application Reconnaissance Framework that helps to gather information about the target.</a>
 
-<a href="https://github.com/m3n0sd0n4ld/GooFuzz">-GooFuzz - GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).</a>
-
-<a href="https://github.com/fingerprintjs/gradejs">-GradeJS analyzes production Webpack bundles without having access to the source code of a website.</a>
-
-<a href="https://github.com/dwisiswant0/findom-xss">-FinDOM-XSS is a tool that allows you to finding for possible and/ potential DOM based XSS vulnerability in a fast manner.</a>
-
-<a href="https://github.com/xnl-h4ck3r/waymore">-Waymore - Find way more from the Wayback Machine!</a>
-
-<a href="https://github.com/carlospolop/Pastos">-Pastos - Search pastes in tens of webs in seconds with GCSE.</a>
-
-<a href="https://github.com/hisxo/JSpector">-JSpector : JSpector is a Burp Suite extension that passively crawls JavaScript files and automatically creates issues with URLs and endpoints found on the JS files.</a>
 
 
 <a href="https://github.com/morphean-sec/secure-smart-contract-design-principles">-Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts.</a>
@@ -307,6 +259,58 @@
 <a href="https://shahjerry33.medium.com/shodan-dorks-the-gods-eye-f224f9b3984f">-Shodan Dorks - The God’s Eye</a>
   
 <a href="https://github.com/musana/mx-takeover">-mx-takeover focuses DNS MX records and detects misconfigured MX records.</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">-How to Hack APIs in 2021</a>
+  
+<a href="https://akshita-infosec.medium.com/burp-macros-what-why-how-151df8901641">-Burp Macros: What, Why & How?</a>
+
+<a href="https://sicks3c.medium.com/setup-your-private-burp-collaborator-for-ssrf-xxe-fd6cf01c8ca">-Setup Your Private Burp Collaborator for SSRF/XXE</a>
+  
+<a href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo">-Experience Burp Suite Enterprise Edition in a new live demo</a>
+
+<A href="https://www.pavel.gr/blog/dll-hijacking-using-spartacus-outside-of-dllmain">-DLL Hijacking using Spartacus, outside of DllMain</a>
+
+<a href="https://github.com/mrh0wl/Cloudmare">-Cloudflare, Sucuri, Incapsula real IP tracker</a>
+
+<a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
+
+<a href="https://devsecopsdocs.com/blog/nuclear-pond/">-Nuclear Pond</a>
+
+
+<a href="https://blog.securelayer7.net/static-analysis-of-android-application-tools-used-securelayer7/">-OWASP Top 10: Static Analysis of Android Application & Tools Used</a>
+
+
+  
+
+
+  
+  
+
+<a href="https://github.com/iustin24/chameleon">-Chameleon provides better content discovery by using wappalyzer's set of technology fingerprints alongside custom wordlists tailored to each detected technologies</a>
+
+<a href="https://medium.com/@murami.ike/working-with-a-scope-using-gowitness-4d338b0321ac">-Working with a scope using Gowitness</a>
+
+
+
+
+
+
+
 
 
 
