@@ -2,7 +2,7 @@
 <a href="https://fardeen-ahmed.github.io/">
   <img src="https://github.com/fardeen-ahmed/Bug-bounty-Writeups/blob/main/1.png" alt="None" align="center" height="250" width="1000">
 </a>
-<h4>This is a place of all the Offensive Cybersecurity people. Feel free to contribute in all sections</h4>
+<h4>This repository can be used as a reference while performing Bug-Bounty hunting </h4><br>
 
 | Basic Tools | Description |
 |-----------|-----|
