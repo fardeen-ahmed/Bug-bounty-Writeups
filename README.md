@@ -51,6 +51,17 @@
 | <a href="https://blog.intigriti.com/2021/10/05/hacker-tools-crlfuzz/">CRLFuzz </a> | Hacker Tools: Injecting CRLF for bounties </a>
 | <a href="https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques"> NFT </a> | New differential fuzzing tool reveals novel HTTP request smuggling techniques. |
 | <a href="https://github.com/sa7mon/S3Scanner">S3Scanner </a> | Scan for open S3 buckets and dump the contents. |
+| <a href="https://crates.io/crates/kurl"> Kurl </a> | HTTP Requests for security researchers |
+| <a href="https://github.com/dhn/udon">UDON </a> | A simple tool that helps to find assets/domains based on the Google Analytics ID. |
+| <a href="https://github.com/projectdiscovery/proxify">roxify </a> | Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go |
+| <a href="https://www.revshells.com/">-revshells </a> | Online - Reverse Shell Generator |
+| <a href="https://github.com/Eilonh/s3crets_scanner">S3cret Scanner</a> | Hunting For Secrets Uploaded To Public S3 Buckets |
+| <a href="https://github.com/redhuntlabs/HTTPLoot">HTTPLoot </a> | An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites |
+| <a href="https://www.hackingarticles.in/a-detailed-guide-on-cewl/">Cewl </a> | A Detailed Guide on Cewl |
+| <a href="https://github.com/hakluke/hakoriginfinder">hakoriginfinder </a> | A tool for discovering the origin host behind a reverse proxy. Useful for bypassing WAFs and other reverse proxies |
+| <a href="https://github.com/carlospolop/PurplePanda"> PurplePanda </a> | Identify privilege escalation paths within and across different clouds |
+
+
 
 
 
@@ -78,27 +89,18 @@
 <a href="https://blog.securelayer7.net/static-analysis-of-android-application-tools-used-securelayer7/">-OWASP Top 10: Static Analysis of Android Application & Tools Used</a>
 
 
-<a href="https://crates.io/crates/kurl">-Kurl : HTTP Requests for security researchers</a>
   
-<a href="https://github.com/dhn/udon">-UDON - A simple tool that helps to find assets/domains based on the Google Analytics ID. </a>
 
-<a href="https://www.revshells.com/">-Online - Reverse Shell Generator</a>
 
-<a href="https://github.com/projectdiscovery/proxify">-roxify : Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go</a>
   
-<a href="https://github.com/Eilonh/s3crets_scanner">-S3cret Scanner: Hunting For Secrets Uploaded To Public S3 Buckets</a>
   
-<a href="https://github.com/redhuntlabs/HTTPLoot">-HTTPLoot : An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.</a>
 
 <a href="https://github.com/iustin24/chameleon">-Chameleon provides better content discovery by using wappalyzer's set of technology fingerprints alongside custom wordlists tailored to each detected technologies</a>
 
 <a href="https://medium.com/@murami.ike/working-with-a-scope-using-gowitness-4d338b0321ac">-Working with a scope using Gowitness</a>
 
-<a href="https://www.hackingarticles.in/a-detailed-guide-on-cewl/">-A Detailed Guide on Cewl</a>
 
-<a href="https://github.com/hakluke/hakoriginfinder">-hakoriginfinder : Tool for discovering the origin host behind a reverse proxy. Useful for bypassing WAFs and other reverse proxies</a>
 
-<a href="https://github.com/carlospolop/PurplePanda">-PurplePanda : Identify privilege escalation paths within and across different clouds</a>
 
 <a href="https://github.com/ethicalhackingplayground/TProxer">-A Burp Suite extension made to automate the process of finding reverse proxy path based SSRF</a>
 
