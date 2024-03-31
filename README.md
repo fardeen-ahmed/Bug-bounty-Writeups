@@ -60,6 +60,15 @@
 | <a href="https://www.hackingarticles.in/a-detailed-guide-on-cewl/">Cewl </a> | A Detailed Guide on Cewl |
 | <a href="https://github.com/hakluke/hakoriginfinder">hakoriginfinder </a> | A tool for discovering the origin host behind a reverse proxy. Useful for bypassing WAFs and other reverse proxies |
 | <a href="https://github.com/carlospolop/PurplePanda"> PurplePanda </a> | Identify privilege escalation paths within and across different clouds |
+| <a href="https://github.com/ethicalhackingplayground/TProxer"> TProxer </a> | A Burp Suite extension made to automate the process of finding reverse proxy path based SSRF |
+| <a href="https://github.com/PalindromeLabs/STEWS">STEWS </a> | This is a tool suite for security testing of WebSockets |
+| <a href="https://github.com/xerohackcom/webrecon">Webrecon </a> |  Automated Web Recon Shell Scripts |
+| <a href="https://danielmiessler.com/study/ffuf/">-A ffuf Primer </a> |
+
+
+
+
+
 
 
 
@@ -102,13 +111,9 @@
 
 
 
-<a href="https://github.com/ethicalhackingplayground/TProxer">-A Burp Suite extension made to automate the process of finding reverse proxy path based SSRF</a>
 
-<a href="https://github.com/PalindromeLabs/STEWS">-STEWS is a tool suite for security testing of WebSockets</a>
 
-<a href="https://github.com/xerohackcom/webrecon">-Webrecon : Automated Web Recon Shell Scripts</a>
 
-<a href="https://danielmiessler.com/study/ffuf/">-A ffuf Primer</a>
 
 <a href="https://github.com/Lu1sDV/wafme0w">-Wafme0w - Fast and lightweight Web Application Firewall fingerprinting tool.</a>
 
