@@ -38,6 +38,10 @@
 | <a href="https://github.com/s0md3v/Smap"> Smap </a> | This is a drop-in replacement for Nmap powered by shodan.io |
 | <a href="https://github.com/Stonzyy/dumpxss"> DumpXSS </a> | A scanner tool For XSS Vulnerability |
 | <a href="https://github.com/Sh1Yo/x8">-x8 </a> | Hidden parameters discovery suite written in Rust |
+| <a href="https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/"> InjectGPT </a> | The most polite exploit ever |
+| <a href="https://github.com/stark0de/nginxpwner"> Nginxpwner </a> | This is a simple tool to look for common Nginx misconfigurations and vulnerabilities. |
+| <a href="https://github.com/aress31/burpgpt"> BurpGPT </a> | A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type. |
+
 
 
 
@@ -53,15 +57,12 @@
   
 <a href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo">-Experience Burp Suite Enterprise Edition in a new live demo</a>
 
-<a href="https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/">-InjectGPT: the most polite exploit ever</a>
 
 <A href="https://www.pavel.gr/blog/dll-hijacking-using-spartacus-outside-of-dllmain">-DLL Hijacking using Spartacus, outside of DllMain</a>
 
-<a href="https://github.com/stark0de/nginxpwner">-Nginxpwner is a simple tool to look for common Nginx misconfigurations and vulnerabilities.</a>
   
 <a href="https://github.com/mrh0wl/Cloudmare">-Cloudflare, Sucuri, Incapsula real IP tracker</a>
 
-<a href="https://github.com/aress31/burpgpt">-BurpGPT : A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.</a>
 
 <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
 
