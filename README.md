@@ -13,18 +13,10 @@
 | <a href="https://github.com/s0md3v/uro"> Uro </a> | Using a URL list for security testing can be painful as there are a lot of URLs that have uninteresting/duplicate content; uro aims to solve that.</a> | 
 | <a href="https://github.com/thelicato/fire"> Fire </a> | This is a simple tool meant to work in a pipeline of other scripts. It takes domains on stdin and outputs them on stdout if they resolve |
 | <a href="https://github.com/quarkslab/pastis"> PASTIS </a> | The PASTIS project is a fuzzing framework aiming at combining various software testing techniques within the same workflow to perform collaborative fuzzing also called ensemble fuzzing. |
-
-
-| <a href="https://slowmist.medium.com/metamask-clickjacking-vulnerability-analysis-f3e7c22ff4d9"> MetaMask Clickjacking Vulnerability Analysis</a> |
-
-
-| <a href="https://github.com/tristanlatr/burpa"> Burp Automator - A Burp Suite Automation Tool. It provides a high level CLI and Python interfaces to Burp Suite scanner and can be used to setup Dynamic Application Security Testing (DAST)</a> |
-
-
-| <a href="https://github.com/famasoon/gowhois"> GoWhois - Whois command implemented by golang with awesome whois servers list </a> |
-
-
-| <a href="https://github.com/gwen001/related-domains"> Related-domains : Find related domains of a given domain</a> |
+| <a href="https://slowmist.medium.com/metamask-clickjacking-vulnerability-analysis-f3e7c22ff4d9"> MCVA </a> | MetaMask Clickjacking Vulnerability Analysis</a> |
+| <a href="https://github.com/tristanlatr/burpa"> Burp Automator </a> | A Burp Suite Automation Tool. It provides a high level CLI and Python interfaces to Burp Suite scanner and can be used to setup Dynamic Application Security Testing (DAST) |
+| <a href="https://github.com/famasoon/gowhois"> GoWhois </a> |  Whois command implemented by golang with awesome whois servers list </a> |
+| <a href="https://github.com/gwen001/related-domains"> Related-domains </a> | Find related domains of a given domain</a> |
 
 
 | <a href="https://github.com/Ciphey/Ciphey"> Ciphey : Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes</a> |
