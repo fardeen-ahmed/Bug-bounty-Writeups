@@ -13,7 +13,7 @@
 | <a href="https://github.com/s0md3v/uro"> Uro : Using a URL list for security testing can be painful as there are a lot of URLs that have uninteresting/duplicate content; uro aims to solve that.</a> | 
 | <a href="https://github.com/thelicato/fire"> Fire is a simple tool meant to work in a pipeline of other scripts. It takes domains on stdin and outputs them on stdout if they resolve. </a> |
 
-<a href="https://research.nccgroup.com/2022/11/10/tool-release-web3-decoder-burp-suite-extension/amp/">-Tool Release – Web3 Decoder Burp Suite Extension</a>
+| <a href="https://research.nccgroup.com/2022/11/10/tool-release-web3-decoder-burp-suite-extension/amp/">-Tool Release – Web3 Decoder Burp Suite Extension</a> |
 
 <a href="https://github.com/quarkslab/pastis">-The PASTIS project is a fuzzing framework aiming at combining various software testing techniques within the same workflow to perform collaborative fuzzing also called ensemble fuzzing.</a>
 
