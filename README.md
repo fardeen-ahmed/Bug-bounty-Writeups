@@ -96,6 +96,21 @@
 | <a href="https://github.com/xnl-h4ck3r/waymore">Waymore </a> | Find way more from the Wayback Machine! |
 | <a href="https://github.com/carlospolop/Pastos">Pastos </a> | Search pastes in tens of webs in seconds with GCSE. |
 | <a href="https://github.com/hisxo/JSpector">JSpector </a> | JSpector is a Burp Suite extension that passively crawls JavaScript files and automatically creates issues with URLs and endpoints found on the JS files. |
+| <a href="https://github.com/CoolerVoid/Mosca"> Mosca </a> | Manual search tool to find bugs like a grep unix command - Beta |
+| <a href="https://github.com/gwen001/gitlab-subdomains">gitlab-subdomains </a> | Find subdomains on GitLab |
+| <a href="https://github.com/glebarez/cero"> Cero </a> | Scrape domain names from SSL certificates of arbitrary hosts |
+| <a href="https://github.com/s0md3v/Smap">Smap </a> | Passive Nmap like scanner built with shodan.io |
+| <a href="https://github.com/merttasci/csrf-poc-generator">CSRF Generator </a> | This html file creates a csrf poc form to any http request. |
+| <a href="https://github.com/aquasecurity/trivy"> Trivy </a> | A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI |
+| <a href="https://github.com/gfek/Lepus">Lepus </a> | This is a tool for enumerating subdomains, checking for subdomain takeovers and perform port scans - and boy, is it fast! |
+| <a href="https://github.com/elceef/subzuf">subzuf </a> | subzuf is a subdomain brute-force fuzzer coupled with an immensly simple but effective DNS reponse-guided algorithm. |
+| <a href="https://github.com/edoardottt/csprecon">csprecon </a> | Discover new target domains using Content Security Policy |
+| <a href="https://github.com/iamthefrogy/frogy/">Frogy </a> | Using the combination of different subdomain enumeration tools and logic this script tries to identify more subdomains and TLDs in recon. |
+| <a href="https://github.com/xnl-h4ck3r/xnLinkFinder">xnLinkFinder </a> | A python tool used to discover endpoints for a given target |
+
+
+
+
 
 
 
@@ -144,49 +159,34 @@
 
 
 
-<a href="https://github.com/morphean-sec/secure-smart-contract-design-principles">-Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts.</a>
 
-<a href="https://portswigger.net/daily-swig/teen-hacker-scoops-4-500-bug-bounty-for-facebook-flaw-that-allowed-attackers-to-unmask-page-admins">-Teen hacker scoops $4,500 bug bounty for Facebook flaw that allowed attackers to unmask page admins</a>
   
-<a href="https://github.com/CoolerVoid/Mosca">-Mosca - Manual search tool to find bugs like a grep unix command - Beta </a>
 
-<a href="https://github.com/gwen001/gitlab-subdomains">-gitlab-subdomains - Find subdomains on GitLab</a>
 
 <a href="https://www.legitsecurity.com/blog/remote-code-execution-vulnerability-in-azure-pipelines-can-lead-to-software-supply-chain-attack">-Remote Code Execution Vulnerability in Azure Pipelines Can Lead To Software Supply Chain Attack</a>
 
 <a href="https://portswigger.net/daily-swig/security-researcher-earns-plaudits-after-discovering-yandex-ssrf-flaw">-Security researcher earns plaudits after discovering Yandex SSRF flaw</a>
 
-<a href="https://github.com/merttasci/csrf-poc-generator">-CSRF Generator - This html file creates a csrf poc form to any http request.</a>
 
 <a href="https://medium.com/pentesternepal/how-i-was-able-to-reveal-page-admin-of-almost-any-page-on-facebook-5a8d68253e0c">-How I was able to reveal page admin of almost any page on Facebook</a>
 
-<a href="https://github.com/fullhunt/log4j-scan">-A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228</a>
 
-<a href="https://github.com/glebarez/cero">-Cero : Scrape domain names from SSL certificates of arbitrary hosts</a>
-
-<a href="https://github.com/s0md3v/Smap">-Smap : passive Nmap like scanner built with shodan.io</a>
   
 <a href="https://xkurtph.medium.com/shopify-plugin-bypass-using-client-side-injection-thru-api-implementation-vulnerability-710d25105c8f">-Shopify Plugin Bypass using P3 Client-side injection thru API Implementation Vulnerability</a>
 
-<a href="https://github.com/aquasecurity/trivy">-A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI</a>
 
 <a href="https://github.com/honoki/bugbounty-openvpn-socks">-Run all your bug bounty VPN profiles in parallel and expose them via multiple local SOCKS proxies.</a>
 
-<a href="https://github.com/gfek/Lepus">-Lepus is a tool for enumerating subdomains, checking for subdomain takeovers and perform port scans - and boy, is it fast!</a>
 
-<a href="https://github.com/elceef/subzuf">-subzuf : subzuf is a subdomain brute-force fuzzer coupled with an immensly simple but effective DNS reponse-guided algorithm.</a>
 
-<a href="https://github.com/edoardottt/csprecon">-csprecon - Discover new target domains using Content Security Policy</a>
 
 <a href="https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae">-A tale of zero click account takeover</a>
 
 <a href="https://hacktus.tech/subdomain-takeover-leading-to-full-account-takeover">-Subdomain Takeover leading to Full Account Takeover</a>
 
-<a href="https://github.com/iamthefrogy/frogy/">-Frogy : Using the combination of different subdomain enumeration tools and logic this script tries to identify more subdomains and TLDs in recon. </a>
 
 <a href="https://www.cyberick.com/post/how-to-find-new-more-domains-of-a-company-recon-stuff">-How to find new/more domains of a company? - Recon Stuff</a>
 
-<a href="https://github.com/xnl-h4ck3r/xnLinkFinder">-xnLinkFinder : A python tool used to discover endpoints for a given target </a>
 
 <a href="https://n00b.sh/posts/aes-killer-mobile-app-demo/">-Decrypting Mobile App Traffic using AES Killer and Frida</a>
 
@@ -318,6 +318,10 @@
 # General Writeups
 
 <a href="https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2">-Miracle - One Vulnerability To Rule Them All</a>
+
+<a href="https://github.com/morphean-sec/secure-smart-contract-design-principles">-Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts.</a>
+
+<a href="https://portswigger.net/daily-swig/teen-hacker-scoops-4-500-bug-bounty-for-facebook-flaw-that-allowed-attackers-to-unmask-page-admins">-Teen hacker scoops $4,500 bug bounty for Facebook flaw that allowed attackers to unmask page admins</a>
 
 <A href="https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017">-400$ Bounty again using Google Dorks</a>
 
