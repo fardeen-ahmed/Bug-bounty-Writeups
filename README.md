@@ -4,11 +4,11 @@
 </a>
 <h4>This is a place of all the Offensive Cybersecurity people. Feel free to contribute in all sections</h4>
 
-| Bug-Bounty Tools & Extensions (General + Updated) | 
-|----------|----------|----------|
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
-| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
+| Header 1 | 
+|----------|
+| Row 1, Col 1 | 
+| Row 2, Col 1 | 
+| Row 3, Col 1 | 
 
 <h2>  :- </h2><br>
 <a href="https://github.com/RenwaX23/XSSTRON">- XSSTRON :-Electron JS Browser To Find XSS Vulnerabilities Automatically</a><p>
