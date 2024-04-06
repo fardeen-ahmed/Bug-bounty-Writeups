@@ -54,7 +54,7 @@
 | <a href="https://crates.io/crates/kurl"> Kurl </a> | HTTP Requests for security researchers |
 | <a href="https://github.com/dhn/udon">UDON </a> | A simple tool that helps to find assets/domains based on the Google Analytics ID. |
 | <a href="https://github.com/projectdiscovery/proxify">roxify </a> | Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go |
-| <a href="https://www.revshells.com/">-revshells </a> | Online - Reverse Shell Generator |
+| <a href="https://www.revshells.com/">revshells </a> | Online - Reverse Shell Generator |
 | <a href="https://github.com/Eilonh/s3crets_scanner">S3cret Scanner</a> | Hunting For Secrets Uploaded To Public S3 Buckets |
 | <a href="https://github.com/redhuntlabs/HTTPLoot">HTTPLoot </a> | An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites |
 | <a href="https://www.hackingarticles.in/a-detailed-guide-on-cewl/">Cewl </a> | A Detailed Guide on Cewl |
