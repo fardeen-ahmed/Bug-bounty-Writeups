@@ -203,64 +203,35 @@
 | <a href="https://vulncheck.com/blog/cve202247966payload">A Different Payload for CVE202247966</a> |
 | <a href="https://medium.com/@Brian.IsMeta/difficultyofreproducingoldexploitsa613da2c2143">Difficulty of Reproducing Old Exploits (Part 1)</a> |
 | <a href="https://medium.com/@Brian.IsMeta/difficultyofreproducingoldexploitsparttwo3c2db88232e5">Difficulty of Reproducing Old Exploits (Part 2)</a> | 
-
-<a href="https://www.immersivelabs.com/blog/wediscoveredmajorvulnerabilitiesincontrolwebpanelhereshowwefoundthem/">We discovered major vulnerabilities in Control Web Panel. Here’s how we found them</a>
-
-<a href="https://srcincite.io/blog/2022/08/09/fromshareddashtorootbashpreauthenticatedrceinvmwarevrealizeoperationsmanager.html">From Shared Dash to Root Bash :: PreAuthenticated RCE in VMWare vRealize Operations Manager</a>
-
-<a href="https://medium.com/@_deshine_/accounttakeoverduetoawscognitomisconfiguration7b092c667ee3">Account Take Over Due To AWS Cognito Misconfiguration</a>
-
-<a href="https://hackerone.com/reports/1439026">Discoverability by phone number/email restriction bypass</a>
-
-<a href="https://slashparity.com/?p=938">GCP Pentesting Guide</a>
-
-<a href="https://www.dsecbypass.com/en/centreonmapvulnerability/">Centreon map vulnerability</a>
-  
-<a href="https://medium.com/@coffeeaddict_exe/500in5minutes45977e89a337">$500 in 5 minutes</a>
-  
-<a href="https://medium.com/@poetryoflive/howidesignmyprefectbugbountyautomation117d0292cbad">How I Design My Prefect Bug Bounty Automation (Part 1)</a>
-  
-<a href="https://medium.com/@poetryoflive/howidesignmyprefectbugbountyautomation2f27fc5612d9f">How I Design My Prefect Bug Bounty Automation (Part 2)</a>
-
-<a href="https://hackerone.com/reports/1273292">Internal Gitlab Ticket Disclosure via External Slack Channels</a>
-
-<a href="https://labs.detectify.com/2021/09/30/10typeswebvulnerabilitiesoftenmissed/">10 Types of Web Vulnerabilities that are Often Missed</a>
-
-<a href="https://ahmdhalabi.medium.com/ultimatereconnaissanceroadmapforbugbountyhunterspentesters507c9a5374d">Ultimate Reconnaissance RoadMap for Bug Bounty Hunters & Pentesters</a>
-  
-<a href="https://www.legitsecurity.com/blog/howtocontinuouslydetectvulnerablejenkinspluginstoavoidasoftwaresupplychainattack">How to Continuously Detect Vulnerable Jenkins Plugins to Avoid a Software Supply Chain Attack</a>
-
-<a href="https://medium.com/@soyelmago/bypassingacreationlimitonfreeaccountsaraceconditionvulnerabilityinbugbountyprogram33e69592d36a">Bypassing a Creation Limit on Free Accounts: A Race Condition Vulnerability in Bug Bounty Program</a>
-
-<a href="https://blog.projectdiscovery.io/implementingnucleiintoyourbitbucketcicdpipelineforscanninglivewebapplications/">Implementing Nuclei into your Bitbucket CI/CD Pipeline for Scanning Live Web Applications</a>
-
-<a href="https://medium.com/@akashtesla/howtoautomateyourinitialreconandextendasmusingsubscouta52de14a2b6a">How to automate your initial recon and extend ASM using SubScout</a>
-
-<a href="https://research.aurainfosec.io/pentest/pentah0wnage/">Pentah0wnage: PreAuth RCE in Pentaho Business Analytics Server</a>
-
-<a href="https://omar0x01.medium.com/companybuildingtakeover10a422385390">Full Company Building Takeover</a>
-
-<a href="https://sector7.computest.nl/post/202301xar/">Bad things come in large packages: .pkg signature verification bypass on macOS</a>
-
-<a href="https://blog.impalabs.com/2303_advisory_parallelsdesktop_toolgate.html">Parallels Desktop Toolgate Vulnerability</a>
-
-<a href="https://www.cidersecurity.io/blog/research/howweabusedrepositorywebhookstoaccessinternalcisystemsatscale/">How we Abused Repository Webhooks to Access Internal CI Systems at Scale </a>
-
-<a href="https://www.cyberick.com/post/bypasscaptchausingturbointruderleadstobruteforceattackbugbounty">Bypass Captcha using Turbo Intruder leads to Bruteforce attack  Bug Bounty</a>
-
-<a href="https://medium.com/immunefi/aurorawithdrawallogicerrorbugfixreviewc5b4e30a9160">Aurora Withdrawal Logic Error Bugfix Review</a>
-
-<a href="https://blog.protekkt.com/blog/basicwebassemblybufferoverflowexploitationexample">Basic WebAssembly buffer overflow exploitation</a>
-
-<a href="https://hackerone.com/reports/1501611">An attacker can archive and unarchive any structured scope object on HackerOne</a>
-
-<a href="https://hackerone.com/reports/1295844">Modify inflight data to payment provider Smart2Pay</a>
-
-<a href="https://arxiv.org/pdf/2110.07450.pdf">Bugs in our Pockets: The Risks of ClientSide Scanning</a>
-
-<a href="https://njmulsqb.engineer/2022/05/31/HuntingSourcemapsOnSteroids.html">Hunting Sourcemaps On Steroids</a>
-
-<a href="http://ysamm.com/?p=620">Make recruiting referrals on behalf of employees ($3000)</a>
+| <a href="https://www.immersivelabs.com/blog/wediscoveredmajorvulnerabilitiesincontrolwebpanelhereshowwefoundthem/">We discovered major vulnerabilities in Control Web Panel. Here’s how we found them</a> |
+| <a href="https://srcincite.io/blog/2022/08/09/fromshareddashtorootbashpreauthenticatedrceinvmwarevrealizeoperationsmanager.html">From Shared Dash to Root Bash :: PreAuthenticated RCE in VMWare vRealize Operations Manager</a> |
+| <a href="https://medium.com/@_deshine_/accounttakeoverduetoawscognitomisconfiguration7b092c667ee3">Account Take Over Due To AWS Cognito Misconfiguration</a> |
+| <a href="https://hackerone.com/reports/1439026">Discoverability by phone number/email restriction bypass</a> |
+| <a href="https://slashparity.com/?p=938">GCP Pentesting Guide</a> |
+| <a href="https://www.dsecbypass.com/en/centreonmapvulnerability/">Centreon map vulnerability</a> |
+| <a href="https://medium.com/@coffeeaddict_exe/500in5minutes45977e89a337">$500 in 5 minutes</a> |
+| <a href="https://medium.com/@poetryoflive/howidesignmyprefectbugbountyautomation117d0292cbad">How I Design My Prefect Bug Bounty Automation (Part 1)</a> |
+| <a href="https://medium.com/@poetryoflive/howidesignmyprefectbugbountyautomation2f27fc5612d9f">How I Design My Prefect Bug Bounty Automation (Part 2)</a> |
+| <a href="https://hackerone.com/reports/1273292">Internal Gitlab Ticket Disclosure via External Slack Channels</a> |
+| <a href="https://labs.detectify.com/2021/09/30/10typeswebvulnerabilitiesoftenmissed/">10 Types of Web Vulnerabilities that are Often Missed</a> |
+| <a href="https://ahmdhalabi.medium.com/ultimatereconnaissanceroadmapforbugbountyhunterspentesters507c9a5374d">Ultimate Reconnaissance RoadMap for Bug Bounty Hunters & Pentesters</a> |
+| <a href="https://www.legitsecurity.com/blog/howtocontinuouslydetectvulnerablejenkinspluginstoavoidasoftwaresupplychainattack">How to Continuously Detect Vulnerable Jenkins Plugins to Avoid a Software Supply Chain Attack</a> |
+| <a href="https://medium.com/@soyelmago/bypassingacreationlimitonfreeaccountsaraceconditionvulnerabilityinbugbountyprogram33e69592d36a">Bypassing a Creation Limit on Free Accounts: A Race Condition Vulnerability in Bug Bounty Program</a> |
+| <a href="https://blog.projectdiscovery.io/implementingnucleiintoyourbitbucketcicdpipelineforscanninglivewebapplications/">Implementing Nuclei into your Bitbucket CI/CD Pipeline for Scanning Live Web Applications</a> |
+| <a href="https://medium.com/@akashtesla/howtoautomateyourinitialreconandextendasmusingsubscouta52de14a2b6a">How to automate your initial recon and extend ASM using SubScout</a> |
+| <a href="https://research.aurainfosec.io/pentest/pentah0wnage/">Pentah0wnage: PreAuth RCE in Pentaho Business Analytics Server</a> |
+| <a href="https://omar0x01.medium.com/companybuildingtakeover10a422385390">Full Company Building Takeover</a> |
+| <a href="https://sector7.computest.nl/post/202301xar/">Bad things come in large packages: .pkg signature verification bypass on macOS</a> |
+| <a href="https://blog.impalabs.com/2303_advisory_parallelsdesktop_toolgate.html">Parallels Desktop Toolgate Vulnerability</a> |
+| <a href="https://www.cidersecurity.io/blog/research/howweabusedrepositorywebhookstoaccessinternalcisystemsatscale/">How we Abused Repository Webhooks to Access Internal CI Systems at Scale </a> |
+| <a href="https://www.cyberick.com/post/bypasscaptchausingturbointruderleadstobruteforceattackbugbounty">Bypass Captcha using Turbo Intruder leads to Bruteforce attack  Bug Bounty</a> |
+| <a href="https://medium.com/immunefi/aurorawithdrawallogicerrorbugfixreviewc5b4e30a9160">Aurora Withdrawal Logic Error Bugfix Review</a> |
+| <a href="https://blog.protekkt.com/blog/basicwebassemblybufferoverflowexploitationexample">Basic WebAssembly buffer overflow exploitation</a> |
+| <a href="https://hackerone.com/reports/1501611">An attacker can archive and unarchive any structured scope object on HackerOne</a> |
+| <a href="https://hackerone.com/reports/1295844">Modify inflight data to payment provider Smart2Pay</a> |
+| <a href="https://arxiv.org/pdf/2110.07450.pdf">Bugs in our Pockets: The Risks of ClientSide Scanning</a> |
+| <a href="https://njmulsqb.engineer/2022/05/31/HuntingSourcemapsOnSteroids.html">Hunting Sourcemaps On Steroids</a> |
+| <a href="http://ysamm.com/?p=620">Make recruiting referrals on behalf of employees ($3000)</a> |
 
 <a href="https://blog.assetnote.io/2023/02/01/rceinavayaaura/">RCE in Avaya Aura Device Services</a>
 
