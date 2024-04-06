@@ -178,7 +178,7 @@
 | <a href="https://github.com/Hacker0x01/awesomehackerapitools">A collection of hacker tools using HackerOne's API</a> |
 | <a href="https://hackerone.com/reports/414101">Vulnerabilities in exported activity WebView</a> |
 | <a href="https://offsec.almond.consulting/ghostscriptcve202328879.html">Shell in the Ghost: Ghostscript CVE202328879 writeup</a> |
-| a href="https://medium.com/@Sm9l/bugbountyreconhorizontalcorrelationb7c81a32951a">Bug Bounty Recon: Horizontal Correlation</a> |
+| <a href="https://medium.com/@Sm9l/bugbountyreconhorizontalcorrelationb7c81a32951a">Bug Bounty Recon: Horizontal Correlation</a> |
 | <a href="https://infosecwriteups.com/howifoundmultiplesqlinjectionwithffufandsqlmapinafewminutes2824cd4dfab">How I Found multiple SQL Injection with FFUF and Sqlmap in a few minutes</a> |
 | <a href="https://googleprojectzero.blogspot.com/2021/12/adeepdiveintonsozeroclick.html">A deep dive into an NSO zeroclick iMessage exploit: Remote Code Execution </a> |
 | <a href="https://medium.com/@sarafsaransh321/howiearned240fromazerointerface53d244a231f9">How I earned 240$ from a Zero Interface</a> |
