@@ -328,62 +328,32 @@
 | <a href="https://github.com/ducnt/RCE0dayforGhostScript9.50">RCE 0 day for GhostScript9.50</a> |
 | <a href="https://medium.com/@randyarios/lowhangingfruitsonfacebookgrouproomb8d17c7ea886">Low hanging fruits on Facebook Group Room</a> |
 | <a href="https://hackerone.com/reports/1077136">Denial of Service via Hyperlinks in Posts</a> |
-
-<a href="http://security.googleblog.com/2023/05/googletrustservicesacmeapi_0503894189.html">Google Trust Services ACME API available to all users at no cost</a>
-
-<a href="https://www.securesystems.de/blog/afreshlookatuserenumerationinmicrosoftteams/">A fresh look at user enumeration in Microsoft Teams</a>
-
-<a href="https://phoenixsec.io/2022/06/17/ZenaCookieMonsteRCE.html">CookieMonsteRCE  XSS to RCE Exploitation in Zena 4.2.1</a>
-
-<a href="https://supras.io/howigotaccesstomanypiisthroughasourcecodeleak/">How I got access to many PIIs through a source code leak</a>
-
-<a href="https://fourcore.io/blogs/f5bigipcve20221388unauthenticatedrceexploitedbyattackers">F5 BIGIP Critical Vulnerability Exploited By Attackers To Gain Unauthenticated RCE</>
-  
-<a href="https://drive.google.com/file/d/1p1tTTIjg3RoJecYSU3CetvNw6ZZdMXn/view?usp=drivesdk">Hacking the Cloud With SAML</a>
-
-<a href="https://www.flashback.sh/blog/weekenddestroyerwdpr4100rce">WEEKEND DESTROYER  RCE in Western Digital PR4100 NAS</a>
-  
-<a href="https://jub0bs.com/posts/20210129greatsamesiteconfusion/">The great SameSite confusion</a>
-
-<a href="https://www.synacktiv.com/publications/persistentphppayloadsinpngshowtoinjectphpcodeinanimageandkeepitthere.html">Persistent PHP payloads in PNGs: How to inject PHP code in an image – and keep it there !</a>
-  
-<a href="https://thexssrat.medium.com/howforgotpasswordcancostyouyouraccount2647454258da">How “Forgot Password” can cost you your account</a>
-
-<a href="https://rhynorater.github.io/postMessageBraindump">postMessage Braindump : a brief postMessage testing methodology</a>
-
-
-
-<a href="https://sidxparab.gitbook.io/subdomainenumerationguide/">Subdomain Enumeration Guide 2021 </a>
-
-<a href="https://www.shockwave.cloud/blog/subdomaintakeoverhowamisconfigureddnsrecordcouldleadtoahugesupplychainattack">Subdomain Takeover: How a Misconfigured DNS Record Could Lead to a Huge Supply Chain Attack</a>
-
-<a href="https://hector0x.medium.com/brokenauthenticationthroughreferralcode25cd0e8bccc2">Full account takeover through referral code</a>
-
-<a href="https://0xjoyghosh.medium.com/informationgatheringscanningforsensitiveinformationreloaded6ff3455e0d4e">Information Gathering&scanning for sensitive information</a>
-
-<a href="https://blog.quarkslab.com/attackingtitanmwithonlyonebyte.html">Attacking Pixel's Titan M with Only One Byte (CVE202220233) and getting 75,000 USD bounty</a>
-
-<a href="https://www.synacktiv.com/en/publications/cicdsecretsextractiontipsandtricks.html">CI/CD SECRETS EXTRACTION, TIPS AND TRICKS</a>
-
-<a href="https://ssddisclosure.com/ssdadvisorykeriomailboxtakeover/">SSD ADVISORY – KERIO MAILBOX TAKEOVER</a>
-
-
-<a href="https://3bodymo.medium.com/theeasiest2500igotitfrombugbountyprogram8f47ea4aff22">The easiest $2500 I got it from bug bounty program</a>
-
-<a href="https://amineaboud.medium.com/discloseleadsformdetailsofanyfacebookbusinessaccountorfacebookpagebugbounty7ecae6cff312">Disclose leads form details of any Facebook Business Account or Facebook Page</a>\
-
-<a href="https://www.ghostccamm.com/blog/multi_strapi_vulns/">Multiple Critical Vulnerabilities in Strapi Versions <=4.7.1</a>
-
-<a href="https://eslam.io/posts/ejsserversidetemplateinjectionrce/">EJS, Server side template injection RCE (CVE202229078)  writeup</a>
-
-<a href="https://blog.ryotak.me/post/cdnjsremotecodeexecutionen/">Remote code execution in cdnjs of Cloudflare</a>
-
-<a href="https://hackerone.com/reports/1125425">RCE via unsafe inline Kramdown options when rendering certain Wiki pages</a>
-
-<a href="https://blog.sonarsource.com/mybbremotecodeexecutionchain">MyBB Remote Code Execution Chain</a>
-
-<a href="https://thehackernews.com/2022/05/criticalgemstakeoverbugreportedin.html">Critical Gems Takeover Bug Reported in RubyGems Package Manager</a>
-
+| <a href="http://security.googleblog.com/2023/05/googletrustservicesacmeapi_0503894189.html">Google Trust Services ACME API available to all users at no cost</a> |
+| <a href="https://www.securesystems.de/blog/afreshlookatuserenumerationinmicrosoftteams/">A fresh look at user enumeration in Microsoft Teams</a> |
+| <a href="https://phoenixsec.io/2022/06/17/ZenaCookieMonsteRCE.html">CookieMonsteRCE  XSS to RCE Exploitation in Zena 4.2.1</a> |
+| <a href="https://supras.io/howigotaccesstomanypiisthroughasourcecodeleak/">How I got access to many PIIs through a source code leak</a> |
+| <a href="https://fourcore.io/blogs/f5bigipcve20221388unauthenticatedrceexploitedbyattackers">F5 BIGIP Critical Vulnerability Exploited By Attackers To Gain Unauthenticated RCE</> |
+| <a href="https://drive.google.com/file/d/1p1tTTIjg3RoJecYSU3CetvNw6ZZdMXn/view?usp=drivesdk">Hacking the Cloud With SAML</a> |
+| <a href="https://www.flashback.sh/blog/weekenddestroyerwdpr4100rce">WEEKEND DESTROYER  RCE in Western Digital PR4100 NAS</a> |
+| <a href="https://jub0bs.com/posts/20210129greatsamesiteconfusion/">The great SameSite confusion</a> |
+| <a href="https://www.synacktiv.com/publications/persistentphppayloadsinpngshowtoinjectphpcodeinanimageandkeepitthere.html">Persistent PHP payloads in PNGs: How to inject PHP code in an image – and keep it there !</a> |
+| <a href="https://thexssrat.medium.com/howforgotpasswordcancostyouyouraccount2647454258da">How “Forgot Password” can cost you your account</a> |
+| <a href="https://rhynorater.github.io/postMessageBraindump">postMessage Braindump : a brief postMessage testing methodology</a> |
+| <a href="https://sidxparab.gitbook.io/subdomainenumerationguide/">Subdomain Enumeration Guide 2021 </a> |
+| <a href="https://www.shockwave.cloud/blog/subdomaintakeoverhowamisconfigureddnsrecordcouldleadtoahugesupplychainattack">Subdomain Takeover: How a Misconfigured DNS Record Could Lead to a Huge Supply Chain Attack</a> |
+| <a href="https://hector0x.medium.com/brokenauthenticationthroughreferralcode25cd0e8bccc2">Full account takeover through referral code</a> |
+| <a href="https://0xjoyghosh.medium.com/informationgatheringscanningforsensitiveinformationreloaded6ff3455e0d4e">Information Gathering&scanning for sensitive information</a> |
+| <a href="https://blog.quarkslab.com/attackingtitanmwithonlyonebyte.html">Attacking Pixel's Titan M with Only One Byte (CVE202220233) and getting 75,000 USD bounty</a> |
+| <a href="https://www.synacktiv.com/en/publications/cicdsecretsextractiontipsandtricks.html">CI/CD SECRETS EXTRACTION, TIPS AND TRICKS</a> |
+| <a href="https://ssddisclosure.com/ssdadvisorykeriomailboxtakeover/">SSD ADVISORY – KERIO MAILBOX TAKEOVER</a> |
+| <a href="https://3bodymo.medium.com/theeasiest2500igotitfrombugbountyprogram8f47ea4aff22">The easiest $2500 I got it from bug bounty program</a> |
+| <a href="https://amineaboud.medium.com/discloseleadsformdetailsofanyfacebookbusinessaccountorfacebookpagebugbounty7ecae6cff312">Disclose leads form details of any Facebook Business Account or Facebook Page</a> |
+| <a href="https://www.ghostccamm.com/blog/multi_strapi_vulns/">Multiple Critical Vulnerabilities in Strapi Versions <=4.7.1</a> |
+| <a href="https://eslam.io/posts/ejsserversidetemplateinjectionrce/">EJS, Server side template injection RCE (CVE202229078)  writeup</a> |
+| <a href="https://blog.ryotak.me/post/cdnjsremotecodeexecutionen/">Remote code execution in cdnjs of Cloudflare</a> |
+| <a href="https://hackerone.com/reports/1125425">RCE via unsafe inline Kramdown options when rendering certain Wiki pages</a> |
+| <a href="https://blog.sonarsource.com/mybbremotecodeexecutionchain">MyBB Remote Code Execution Chain</a> |
+| <a href="https://thehackernews.com/2022/05/criticalgemstakeoverbugreportedin.html">Critical Gems Takeover Bug Reported in RubyGems Package Manager</a> |
 | <a href="https://portswigger.net/research/huntingevasivevulnerabilities">Hunting evasive vulnerabilities</a> |
 | <a href="https://www.oxeye.io/blog/vm2sandbreakvulnerabilitycve202236067">Enter "Sandbreak"  Vulnerability In vm2 Sandbox Module Enables Remote Code Execution (CVE202236067)</a> |
 | <a href="https://hackerone.com/reports/928255">Ability To Delete User(s) Account Without User Interaction</a> |
