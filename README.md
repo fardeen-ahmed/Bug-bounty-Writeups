@@ -618,8 +618,7 @@
 
 | Category | Writeup |
 |-----------|-----|
-
-<a href="https://hx01.me/Abusing_Data_Protection_Laws_For_D0xing_and_Account_Takeovers.pdf">| Account Takeover | Hx01 Abusing Data Protection Laws For D0xing & Account Takeovers</a> |
+| <a href="https://hx01.me/Abusing_Data_Protection_Laws_For_D0xing_and_Account_Takeovers.pdf">| Account Takeover | Hx01 Abusing Data Protection Laws For D0xing & Account Takeovers</a> |
 
 <a href="http://ysamm.com/?p=606">-Access employees files in internal CDNs/ Access users modified/deleted content.($12500)</a>
 
