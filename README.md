@@ -232,202 +232,102 @@
 | <a href="https://arxiv.org/pdf/2110.07450.pdf">Bugs in our Pockets: The Risks of ClientSide Scanning</a> |
 | <a href="https://njmulsqb.engineer/2022/05/31/HuntingSourcemapsOnSteroids.html">Hunting Sourcemaps On Steroids</a> |
 | <a href="http://ysamm.com/?p=620">Make recruiting referrals on behalf of employees ($3000)</a> |
-
-<a href="https://blog.assetnote.io/2023/02/01/rceinavayaaura/">RCE in Avaya Aura Device Services</a>
-
-<a href="https://jakearchibald.com/2021/cors/">How to win at CORS</a>
-  
-<a href="https://blog.abdulrah33m.com/prototypepollutioninpython/">Prototype Pollution in Python</a>
-
-<a href="https://www.wiz.io/blog/attachmeoraclecloudvulnerabilityallowsunauthorizedcrosstenantvolumeaccess">AttachMe: critical OCI vulnerability allows unauthorized access to customer cloud storage volumes </a>
-
-<a href="https://medium.com/@noob.assassin/5kmisconfiguredresetpasswordthatleadstoaccounttakeovernouserinteractionatoe6a36b8ef183">Misconfigured Reset password that leads to Account Takeover (No user Interaction ATO)</>
-
-<a href="https://yogehi.github.io/research/2023/01/04/10cvesmypersonalthoughtsonresearchandcves.html">10 CVEs! My Personal Thoughts On Research And CVEs</a>
-  
-<a href="https://medium.com/@Cybervenom/storyaboutescalationofhtmlinjectiontoec2instancecredentialsleake2cbd7343a83">Story about Escalation of HTML Injection to EC2 Instance credentials leak</a>
-  
-<a href="https://tutorialboy24.blogspot.com/2022/09/theblindexploitstorulewatchguard.html">The Blind Exploits To Rule Watchguard Firewalls Vulnerabilities</a>
-
-<a href="http://ysamm.com/?p=597">View orders and financial reports lists for any page shop ($500)</a>
-
-<a href="https://ddosify.com/blog/testingtheperformanceofuserauthenticationflow">Testing the Performance of User Authentication Flow</a>
-
-<a href="https://infosecwriteups.com/huntingforprototypepollutionanditsvulnerablecodeonjslibraries5bab2d6dc746">Hunting for Prototype Pollution and it’s vulnerable code on JS libraries</a>
-
-<a href="https://www.hackerone.com/guestbloggovernmentsacrossworldaremandatingvulnerabilitydisclosuresowhyarecompanies">Governments Across The World Are Mandating Vulnerability Disclosure So Why Are Companies Sitting On Their Hands?</a>
-
-<a href="https://medium.com/@shakti.gtp/ifitsafeatureletsabuseitfor75019cfb9848d4b">If It’s a Feature!!! Let’s Abuse It for $750</a>
-
-<a href="https://vedanttekale20.medium.com/storyofmyfirstcashbountyonhackeroneacad282ae962">Story of my first cash bounty on hackerone</a>
-
-<a href="https://vikaran101.medium.com/howimadeitintotheunitednationshalloffameasisleptf567c90be227">How I made it into the United Nations hall of fame as I slept</a>
-
-<a href="https://medium.com/supakiadsm3ez/microsoftbugreportsleadtorankingonmicrosoftmsrcquarterlyleaderboardq32022c6c9f70e2ccd">Microsoft bug reports lead to ranking on Microsoft MSRC Quarterly Leaderboard (Q3 2022)</a>
-
-<a href="https://spaceraccoon.dev/embeddingpayloadsbypassingcontrolsmicrosoftinfopath/">Embedding Payloads and Bypassing Controls in Microsoft InfoPath</a>
-
-<a href="https://blog.stazot.com/sshkeyinjectiongooglecloud/">SSH key injection in Google Cloud Compute Engine (Google VRP)</a>
-
-<a href="https://blog.assetnote.io/2022/09/14/rceinbitbucketserver/">Breaking Bitbucket: Pre Auth Remote Command Execution (CVE202236804)</a>
-
-<a href="https://shahjerry33.medium.com/httpparameterpollutionitscontaminatedagain95c75b0295e1">HTTP Parameter Pollution  It’s Contaminated Again</a>
-
-<a href="https://chaosdb.wiz.io/">Critical Vulnerability in Microsoft Azure Cosmos DB</a>
-
-<a href="https://www.cyberark.com/resources/threatresearchblog/inglouriousdriversajourneyoffindingvulnerabilitiesindrivers">Inglourious Drivers – A Journey of Finding Vulnerabilities in Drivers</a>
-
-<a href="https://spyclub.tech/2022/12/14/unusualcachepoisoningakamais3/">Unusual Cache Poisoning between Akamai and S3 buckets</a>
-
-<a href="https://medium.com/@sazouki/howihackedoneofthebiggestairlineintheworlde7810dc43791">How I hacked one of the biggest Airline in the world</a>
-
-<a href="https://sinsinology.medium.com/bugbountyshorttipsasimageb4075523e4ef">Bug Bounty Short Tips as image</a>
-
-<a href="https://medium.com/pentesternepal/howifoundabuginapplewithinjustin5mind7357237d7a0">How I found a bug in Apple within just in 5min</a>
-
-<a href="https://blog.assetnote.io/2022/06/09/whatsupgoldexploit/">Chaining vulnerabilities to criticality in Progress WhatsUp Gold</a>
-
-<a href="https://blog.nietaanraken.nl/posts/aurpackagesgithubrepojacking">Hijacking Arch Linux Packages by Repo Jacking GitHub Repositories</a>
-
-<a href="https://medium.com/coinmonks/aquickguidetohackprivatevariablesinsolidityb45d5acb89c0">A Quick Guide to Hack private variables in Solidity</a>
-
-<a href="https://medium.com/@0x4kd/googlessomisconfigurationleadingtoaccounttakeovercf9bcf63e76e">Google SSO misconfiguration leading to Account Takeover</a>
-
-<a href="https://vovohelo.medium.com/howifoundmyfirstchromebugcve202121210248a21272248">How I found my first Chrome bug</a>
-
-<a href="https://giraffesecurity.dev/posts/dependabotconfusion/">Dependabot Confusion: Gaining Access to Private GitHub Repositories using Dependabot</a>
-
-<a href="https://lspace.swyx.io/p/reverseprompteng">Reverse Prompt Engineering for Fun and (no) Profit</a>
-
-<a href="https://blog.oversecured.com/TwoweeksofsecuringSamsungdevicesPart2/">The second part of discovered vulnerabilities in preinstalled apps on Samsung devices</a>
-
-<a href="https://sneakymonkey.net/cloudcredentialabuse/">Cloud Metadata  AWS IAM Credential Abuse</a>
-
-<a href="https://www.youtube.com/watch?v=ZUXUz22dCiQ">$300 Google API key leaked to Public on Live Website</a>
-
-<a href="https://amakki.me/fullaccounttakeovervulnerabilityinminecraftf56076c8287d">Full account takeover vulnerability in Minecraft</a>
-
-<a href="https://redhuntlabs.com/blog/5waystoexploitadomaintakeovervulnerability.html">5 Ways to Exploit a Domain Takeover Vulnerability</a>
-
-<a href="https://sinsinology.medium.com/expecttheunexpecteddiscoveringfreshzerodayforbountyd074f3175847">Expect The Unexpected: Discovering fresh ZeroDay for Bounty</a>
-
-<a href="https://unit42.paloaltonetworks.com/jsonwebtokenvulnerabilitycve202223529/">Disclosing a New Vulnerability in JWT Secret Poisoning (CVE202223529)</a>
-
-<a href="https://blog.sonarsource.com/securingdevelopertoolsanewsupplychainattackonphp/">Securing Developer Tools: A New Supply Chain Attack on PHP</a>
-
-<a href="https://neodyme.io/blog/csgo_from_zero_to_0day/">CS:GO : From Zero to 0day </a>
-
-<a href="https://medium.com/@mrempy/howifoundacriticalp1bugin5minutesusingacellphonebugbounty303ebec3edd6">How I found a critical P1 bug in 5 minutes using a cellphone — Bug Bounty</a>
-
-<a href="https://www.youtube.com/watch?v=zNr43szGs">The DeFi Threat Model</a>
-
-<a href="https://research.nccgroup.com/2023/03/01/makingnewconnectionsleveragingciscoanyconnectclienttodropandrunpayloads/">Making New Connections – Leveraging Cisco AnyConnect Client to Drop and Run Payloads</a>
-
-<a href="https://rambo.codes/posts/20221025sirispyiosbugallowedappstoeavesdrop">SiriSpy  iOS bug allowed apps to eavesdrop on your conversations with Siri</a>
-
-<a href="https://haiderm.com/howiwasabletodelete13kmicrosofttranslatorprojects/">How I was able to delete 13k+ Microsoft Translator projects</a>
-
-<a href="https://hackeronehackers.affinity.co/">Leaked H1's Employees Email addresses,meeting info on private bug bounty program</a>
-
-<a href="https://www.ryanpickren.com/safariuxss">Hacking the Apple Webcam (again)</a>
-
-<a href="https://nakedsecurity.sophos.com/2022/08/30/javascriptbugsaplentyinnodejsecosystemfoundautomatically/">JavaScript bugs aplenty in Node.js ecosystem – found automatically</a>
-
-<a href="https://hogarth45.medium.com/bugbountyfiregoals6663a7980984">Bug Bounty FIRE Goals</a>
-
-<a href="https://hackerone.com/reports/1404612">Multiple vulnerability leading to account takeover in TikTok SMB subdomain.</a>
-
-<a href="https://tuhin1729.medium.com/storyofmyhackingdutchgovernment46b7a3c8b75a">Story of my hacking Dutch Government</a>
-
-<a href="https://portswigger.net/dailyswig/gitlabtriagesbugbountyreportedflawswithlatestrelease">GitLab triages bug bountyreported flaws with latest release</a>
-
-<a href="https://portswigger.net/research/bypassingcspwithdanglingiframes">Bypassing CSP with dangling iframes </a>
-
-<a href="https://medium.com/@Hossam.Mesbah/heisalreadyhereprivilegesescalationduetoinvalidatingcurrentusers148069015716">He is already here: Privileges escalation due to invalidating current users</a>
-
-<a href="https://portswigger.net/blog/findingclientsideprototypepollutionwithdominvader">Finding clientside prototype pollution with DOM Invader</a>
-
-<a href="https://scribesecurity.com/blog/githubcachepoisoning/">GitHub Cache Poisoning</a>
-
-<a href="https://www.legitsecurity.com/blog/dosviasoftwaresupplychaininnumerableprojectsexposedtoamarkdownlibraryvulnerability">The MarkdownTime Vulnerability: How to Avoid This DoS Attack on Business Critical Services</a>
-
-<a href="https://ysamm.com/?p=763">Multiple bugs chained to takeover Facebook Accounts which uses Gmail.</a>
-
-<a href="https://secret.club/2022/05/11/fuzzingsolana.html">Earn $200K by fuzzing for a weekend: Part 1</a>
-
-<a href="https://secret.club/2022/05/11/fuzzingsolana2.html">Earn $200K by fuzzing for a weekend: Part 2</a>
-
-<a href="https://jhftss.github.io/CVE202226712ThePOCForSIPBypassIsEvenTweetable/">CVE202226712: The POC for SIPBypass Is Even Tweetable</a>
-
-<a href="https://medium.com/@nanwinata/abigcompanyadminpaneltakeover45009520a6c83430">A Big company Admin Panel takeover $4500</a>
-
-<a href="https://www.sonarsource.com/blog/openemrremotecodeexecutioninyourhealthcaresystem/">OpenEMR  Remote Code Execution in your Healthcare System</a>
-
-<a href="https://blog.viettelcybersecurity.com/cve20221040sophosxgfirewallauthenticationbypass/">CVE20221040 Sophos XG Firewall Authentication bypass</a>
-
-<a href="https://spaceraccoon.dev/exploitingicalendarpropertiesenterpriseapplications/">You Have One New Appointment: Exploiting iCalendar Properties in Enterprise Applications</a>
-
-<a href="https://maheshbasnet.medium.com/howfuzzingcanboostyoubugbountycareer49e499900aa9">Fuzzing for Bug Bounty Hunting</a>
-
-
-
-<a href="https://medium.com/immunefi/hackingtheblockchainanultimateguide4f34b33c6e8b">Hacking the Blockchain: An Ultimate Guide</a>
-
-<a href="https://medium.com/@taniyatesting11/bountyevaluationgithub15000usdollarsratelimitd6c07d73c948">Bounty Evaluation GitHub = $15,000 US Dollars </a>
-
-<a href="https://starlabs.sg/blog/2022/07gitlabprojectimportrceanalysiscve20222185/">Gitlab Project Import RCE Analysis (CVE20222185)</a>
-
-<a href="https://vulncheck.com/blog/joomlaforrce">Joomla! CVE202323752 to Code Execution</a>
-
-<a href="https://securityintelligence.com/posts/msmqqueuejumperrcevulnerabilitytechnicalanalysis/">MSMQ QueueJumper (RCE Vulnerability): An InDepth Technical Analysis</a>
-
-
-
-<a href="https://curtbraz.medium.com/akonamicodeforvulnchainingcombos1a29d0a27c2a">A Konami Code for Vuln Chaining Combos</a>
-
-<a href="https://medium.com/@amnotacat/log4shellingoogle133700144684269bf8">Log4shell in google $1337.00 </a>
-
-<a href="https://hackerone.com/reports/1377748">2 click Remote Code execution in Evernote Android</a>
-
-<a href="https://github.com/chaosec2021/SpringcloudfunctionSpELRCE">Spring cloud function SpEL RCE</a>
-
-<a href="https://hackerone.com/reports/1679624">Remote Command Execution via Github import</a>
-
-<a href="https://www.sonarsource.com/blog/cactiunauthenticatedremotecodeexecution/">Cacti: Unauthenticated Remote Code Execution</a>
-
-<a href="https://blog.sonatype.com/new0dayspringframeworkvulnerabilityconfirmed">New Spring Framework RCE  Vulnerability Confirmed  What to do?</a>
-
-<a href="https://blog.maass.xyz/springactuatorsecuritypart1stealingsecretsusingspringactuators">Spring Actuator Security, Part 1: Stealing Secrets Using Spring Actuators</a>
-
-<a href="https://blog.maass.xyz/springactuatorsecuritypart2findingactuatorsusingstaticcodeanalysiswithsemgrep">Spring Actuator Security, Part 2: Finding Actuators using Static Code Analysis with semgrep</a>
-
-<a href="https://medium.com/@vivekkashyap0707/myfirstrcefromnatotriagedcve20213064acdd0541c664">My First RCE from N/A to Triaged (CVE2021–3064)</a>
-
-<a href="https://snyk.io/blog/gitpodremotecodeexecutionvulnerabilitywebsockets/">Gitpod remote code execution 0day vulnerability via WebSockets</a>
-
-<a href="https://medium.com/@omar0x01/howiabusedthefileuploadfunctiontogetahighseverityvulnerabilityinbugbounty7cdcf349080b">How I abused the file upload function to get a high severity vulnerability in Bug Bounty</a>
-
-<a href="https://shahjerry33.medium.com/rceviawebdavpowerofput7e1c06c71e60">RCE via WebDav  Power Of PUT</a>
-
-<a href="https://bugcrowd.com/disclosures/7b175e9d8ff047e3bd33a8b1e51aa499/httpdesyncattackrequestsmugglingmasssessionhijacking">HTTP Desync Attack (Request Smuggling)  Mass Session Hijacking</a>
-
-<a href="https://orwaatyat.medium.com/howifoundmultiplebugsonfacebookin1monthandapartformymethodologytools58a677a9040c">How I Found Multiple Bugs On FaceBook In 1 Month And a Part For My Methodology & Tools</a>
-
-<a href="https://www.halborn.com/blog/post/halborndiscoverszerodayimpactingdogecoinand280networks">Halborn Discovers ZeroDay Impacting Dogecoin and 280+ Networks</a>
-
-<a href="https://speakerdeck.com/patrickwardle/youremutedrooted">Local privesc vulnerability in Zoom (for macOS)</a>
-
-<a href="https://tantosec.com/blog/cve202241343/">CVE202241343  RCE via Phar Deserialisation (Dompdf)</a>
-
-<a href="https://blog.ankursundara.com/cookiebugs/">Cookie Bugs  Smuggling & Injection</a>
-
-<a href="https://security.lauritzholtmann.de/advisories/flickraccounttakeover/">Flickr Account Takeover</a>
-
-<a href="https://github.com/ducnt/RCE0dayforGhostScript9.50">RCE 0 day for GhostScript9.50</a>
-
-<a href="https://medium.com/@randyarios/lowhangingfruitsonfacebookgrouproomb8d17c7ea886">Low hanging fruits on Facebook Group Room</a>
-
-<a href="https://hackerone.com/reports/1077136">Denial of Service via Hyperlinks in Posts</a>
+| <a href="https://blog.assetnote.io/2023/02/01/rceinavayaaura/">RCE in Avaya Aura Device Services</a> |
+| <a href="https://jakearchibald.com/2021/cors/">How to win at CORS</a> |
+| <a href="https://blog.abdulrah33m.com/prototypepollutioninpython/">Prototype Pollution in Python</a> |
+| <a href="https://www.wiz.io/blog/attachmeoraclecloudvulnerabilityallowsunauthorizedcrosstenantvolumeaccess">AttachMe: critical OCI vulnerability allows unauthorized access to customer cloud storage volumes </a> |
+| <a href="https://medium.com/@noob.assassin/5kmisconfiguredresetpasswordthatleadstoaccounttakeovernouserinteractionatoe6a36b8ef183">Misconfigured Reset password that leads to Account Takeover (No user Interaction ATO)</> |
+| <a href="https://yogehi.github.io/research/2023/01/04/10cvesmypersonalthoughtsonresearchandcves.html">10 CVEs! My Personal Thoughts On Research And CVEs</a> |
+| <a href="https://medium.com/@Cybervenom/storyaboutescalationofhtmlinjectiontoec2instancecredentialsleake2cbd7343a83">Story about Escalation of HTML Injection to EC2 Instance credentials leak</a> |
+| <a href="https://tutorialboy24.blogspot.com/2022/09/theblindexploitstorulewatchguard.html">The Blind Exploits To Rule Watchguard Firewalls Vulnerabilities</a> |
+| <a href="http://ysamm.com/?p=597">View orders and financial reports lists for any page shop ($500)</a> |
+| <a href="https://ddosify.com/blog/testingtheperformanceofuserauthenticationflow">Testing the Performance of User Authentication Flow</a> |
+| <a href="https://infosecwriteups.com/huntingforprototypepollutionanditsvulnerablecodeonjslibraries5bab2d6dc746">Hunting for Prototype Pollution and it’s vulnerable code on JS libraries</a> |
+| <a href="https://www.hackerone.com/guestbloggovernmentsacrossworldaremandatingvulnerabilitydisclosuresowhyarecompanies">Governments Across The World Are Mandating Vulnerability Disclosure So Why Are Companies Sitting On Their Hands?</a> |
+| <a href="https://medium.com/@shakti.gtp/ifitsafeatureletsabuseitfor75019cfb9848d4b">If It’s a Feature!!! Let’s Abuse It for $750</a> |
+| <a href="https://vedanttekale20.medium.com/storyofmyfirstcashbountyonhackeroneacad282ae962">Story of my first cash bounty on hackerone</a> |
+| <a href="https://vikaran101.medium.com/howimadeitintotheunitednationshalloffameasisleptf567c90be227">How I made it into the United Nations hall of fame as I slept</a> |
+| <a href="https://medium.com/supakiadsm3ez/microsoftbugreportsleadtorankingonmicrosoftmsrcquarterlyleaderboardq32022c6c9f70e2ccd">Microsoft bug reports lead to ranking on Microsoft MSRC Quarterly Leaderboard (Q3 2022)</a> |
+| <a href="https://spaceraccoon.dev/embeddingpayloadsbypassingcontrolsmicrosoftinfopath/">Embedding Payloads and Bypassing Controls in Microsoft InfoPath</a> |
+| <a href="https://blog.stazot.com/sshkeyinjectiongooglecloud/">SSH key injection in Google Cloud Compute Engine (Google VRP)</a> |
+| <a href="https://blog.assetnote.io/2022/09/14/rceinbitbucketserver/">Breaking Bitbucket: Pre Auth Remote Command Execution (CVE202236804)</a> |
+| <a href="https://shahjerry33.medium.com/httpparameterpollutionitscontaminatedagain95c75b0295e1">HTTP Parameter Pollution  It’s Contaminated Again</a> |
+| <a href="https://chaosdb.wiz.io/">Critical Vulnerability in Microsoft Azure Cosmos DB</a> |
+| <a href="https://www.cyberark.com/resources/threatresearchblog/inglouriousdriversajourneyoffindingvulnerabilitiesindrivers">Inglourious Drivers – A Journey of Finding Vulnerabilities in Drivers</a> |
+| <a href="https://spyclub.tech/2022/12/14/unusualcachepoisoningakamais3/">Unusual Cache Poisoning between Akamai and S3 buckets</a> |
+| <a href="https://medium.com/@sazouki/howihackedoneofthebiggestairlineintheworlde7810dc43791">How I hacked one of the biggest Airline in the world</a> |
+| <a href="https://sinsinology.medium.com/bugbountyshorttipsasimageb4075523e4ef">Bug Bounty Short Tips as image</a> |
+| <a href="https://medium.com/pentesternepal/howifoundabuginapplewithinjustin5mind7357237d7a0">How I found a bug in Apple within just in 5min</a> |
+| <a href="https://blog.assetnote.io/2022/06/09/whatsupgoldexploit/">Chaining vulnerabilities to criticality in Progress WhatsUp Gold</a> |
+| <a href="https://blog.nietaanraken.nl/posts/aurpackagesgithubrepojacking">Hijacking Arch Linux Packages by Repo Jacking GitHub Repositories</a> |
+| <a href="https://medium.com/coinmonks/aquickguidetohackprivatevariablesinsolidityb45d5acb89c0">A Quick Guide to Hack private variables in Solidity</a> |
+| <a href="https://medium.com/@0x4kd/googlessomisconfigurationleadingtoaccounttakeovercf9bcf63e76e">Google SSO misconfiguration leading to Account Takeover</a> |
+| <a href="https://vovohelo.medium.com/howifoundmyfirstchromebugcve202121210248a21272248">How I found my first Chrome bug</a> |
+| <a href="https://giraffesecurity.dev/posts/dependabotconfusion/">Dependabot Confusion: Gaining Access to Private GitHub Repositories using Dependabot</a> |
+| <a href="https://lspace.swyx.io/p/reverseprompteng">Reverse Prompt Engineering for Fun and (no) Profit</a> |
+| <a href="https://blog.oversecured.com/TwoweeksofsecuringSamsungdevicesPart2/">The second part of discovered vulnerabilities in preinstalled apps on Samsung devices</a> |
+| <a href="https://sneakymonkey.net/cloudcredentialabuse/">Cloud Metadata  AWS IAM Credential Abuse</a> |
+| <a href="https://www.youtube.com/watch?v=ZUXUz22dCiQ">$300 Google API key leaked to Public on Live Website</a> |
+| <a href="https://amakki.me/fullaccounttakeovervulnerabilityinminecraftf56076c8287d">Full account takeover vulnerability in Minecraft</a> |
+| <a href="https://redhuntlabs.com/blog/5waystoexploitadomaintakeovervulnerability.html">5 Ways to Exploit a Domain Takeover Vulnerability</a> |
+| <a href="https://sinsinology.medium.com/expecttheunexpecteddiscoveringfreshzerodayforbountyd074f3175847">Expect The Unexpected: Discovering fresh ZeroDay for Bounty</a> |
+| <a href="https://unit42.paloaltonetworks.com/jsonwebtokenvulnerabilitycve202223529/">Disclosing a New Vulnerability in JWT Secret Poisoning (CVE202223529)</a> |
+| <a href="https://blog.sonarsource.com/securingdevelopertoolsanewsupplychainattackonphp/">Securing Developer Tools: A New Supply Chain Attack on PHP</a> |
+| <a href="https://neodyme.io/blog/csgo_from_zero_to_0day/">CS:GO : From Zero to 0day </a> |
+| <a href="https://medium.com/@mrempy/howifoundacriticalp1bugin5minutesusingacellphonebugbounty303ebec3edd6">How I found a critical P1 bug in 5 minutes using a cellphone — Bug Bounty</a> |
+| <a href="https://www.youtube.com/watch?v=zNr43szGs">The DeFi Threat Model</a> |
+| <a href="https://research.nccgroup.com/2023/03/01/makingnewconnectionsleveragingciscoanyconnectclienttodropandrunpayloads/">Making New Connections – Leveraging Cisco AnyConnect Client to Drop and Run Payloads</a> |
+| <a href="https://rambo.codes/posts/20221025sirispyiosbugallowedappstoeavesdrop">SiriSpy  iOS bug allowed apps to eavesdrop on your conversations with Siri</a> |
+| <a href="https://haiderm.com/howiwasabletodelete13kmicrosofttranslatorprojects/">How I was able to delete 13k+ Microsoft Translator projects</a> |
+| <a href="https://hackeronehackers.affinity.co/">Leaked H1's Employees Email addresses,meeting info on private bug bounty program</a> |
+| <a href="https://www.ryanpickren.com/safariuxss">Hacking the Apple Webcam (again)</a> |
+| <a href="https://nakedsecurity.sophos.com/2022/08/30/javascriptbugsaplentyinnodejsecosystemfoundautomatically/">JavaScript bugs aplenty in Node.js ecosystem – found automatically</a> |
+| <a href="https://hogarth45.medium.com/bugbountyfiregoals6663a7980984">Bug Bounty FIRE Goals</a> |
+| <a href="https://hackerone.com/reports/1404612">Multiple vulnerability leading to account takeover in TikTok SMB subdomain.</a> |
+| <a href="https://tuhin1729.medium.com/storyofmyhackingdutchgovernment46b7a3c8b75a">Story of my hacking Dutch Government</a> |
+| <a href="https://portswigger.net/dailyswig/gitlabtriagesbugbountyreportedflawswithlatestrelease">GitLab triages bug bountyreported flaws with latest release</a> |
+| <a href="https://portswigger.net/research/bypassingcspwithdanglingiframes">Bypassing CSP with dangling iframes </a> |
+| <a href="https://medium.com/@Hossam.Mesbah/heisalreadyhereprivilegesescalationduetoinvalidatingcurrentusers148069015716">He is already here: Privileges escalation due to invalidating current users</a> |
+| <a href="https://portswigger.net/blog/findingclientsideprototypepollutionwithdominvader">Finding clientside prototype pollution with DOM Invader</a> |
+| <a href="https://scribesecurity.com/blog/githubcachepoisoning/">GitHub Cache Poisoning</a> |
+| <a href="https://www.legitsecurity.com/blog/dosviasoftwaresupplychaininnumerableprojectsexposedtoamarkdownlibraryvulnerability">The MarkdownTime Vulnerability: How to Avoid This DoS Attack on Business Critical Services</a> |
+| <a href="https://ysamm.com/?p=763">Multiple bugs chained to takeover Facebook Accounts which uses Gmail.</a> |
+| <a href="https://secret.club/2022/05/11/fuzzingsolana.html">Earn $200K by fuzzing for a weekend: Part 1</a> |
+| <a href="https://secret.club/2022/05/11/fuzzingsolana2.html">Earn $200K by fuzzing for a weekend: Part 2</a> |
+| <a href="https://jhftss.github.io/CVE202226712ThePOCForSIPBypassIsEvenTweetable/">CVE202226712: The POC for SIPBypass Is Even Tweetable</a> |
+| <a href="https://medium.com/@nanwinata/abigcompanyadminpaneltakeover45009520a6c83430">A Big company Admin Panel takeover $4500</a> |
+| <a href="https://www.sonarsource.com/blog/openemrremotecodeexecutioninyourhealthcaresystem/">OpenEMR  Remote Code Execution in your Healthcare System</a> |
+| <a href="https://blog.viettelcybersecurity.com/cve20221040sophosxgfirewallauthenticationbypass/">CVE20221040 Sophos XG Firewall Authentication bypass</a> |
+| <a href="https://spaceraccoon.dev/exploitingicalendarpropertiesenterpriseapplications/">You Have One New Appointment: Exploiting iCalendar Properties in Enterprise Applications</a> |
+| <a href="https://maheshbasnet.medium.com/howfuzzingcanboostyoubugbountycareer49e499900aa9">Fuzzing for Bug Bounty Hunting</a> |
+| <a href="https://medium.com/immunefi/hackingtheblockchainanultimateguide4f34b33c6e8b">Hacking the Blockchain: An Ultimate Guide</a> |
+| <a href="https://medium.com/@taniyatesting11/bountyevaluationgithub15000usdollarsratelimitd6c07d73c948">Bounty Evaluation GitHub = $15,000 US Dollars </a> |
+| <a href="https://starlabs.sg/blog/2022/07gitlabprojectimportrceanalysiscve20222185/">Gitlab Project Import RCE Analysis (CVE20222185)</a> |
+| <a href="https://vulncheck.com/blog/joomlaforrce">Joomla! CVE202323752 to Code Execution</a> |
+| <a href="https://securityintelligence.com/posts/msmqqueuejumperrcevulnerabilitytechnicalanalysis/">MSMQ QueueJumper (RCE Vulnerability): An InDepth Technical Analysis</a> |
+| <a href="https://curtbraz.medium.com/akonamicodeforvulnchainingcombos1a29d0a27c2a">A Konami Code for Vuln Chaining Combos</a> |
+| <a href="https://medium.com/@amnotacat/log4shellingoogle133700144684269bf8">Log4shell in google $1337.00 </a> |
+| <a href="https://hackerone.com/reports/1377748">2 click Remote Code execution in Evernote Android</a> |
+| <a href="https://github.com/chaosec2021/SpringcloudfunctionSpELRCE">Spring cloud function SpEL RCE</a> |
+| <a href="https://hackerone.com/reports/1679624">Remote Command Execution via Github import</a> |
+| <a href="https://www.sonarsource.com/blog/cactiunauthenticatedremotecodeexecution/">Cacti: Unauthenticated Remote Code Execution</a> |
+| <a href="https://blog.sonatype.com/new0dayspringframeworkvulnerabilityconfirmed">New Spring Framework RCE  Vulnerability Confirmed  What to do?</a> |
+| <a href="https://blog.maass.xyz/springactuatorsecuritypart1stealingsecretsusingspringactuators">Spring Actuator Security, Part 1: Stealing Secrets Using Spring Actuators</a> |
+| <a href="https://blog.maass.xyz/springactuatorsecuritypart2findingactuatorsusingstaticcodeanalysiswithsemgrep">Spring Actuator Security, Part 2: Finding Actuators using Static Code Analysis with semgrep</a> |
+| <a href="https://medium.com/@vivekkashyap0707/myfirstrcefromnatotriagedcve20213064acdd0541c664">My First RCE from N/A to Triaged (CVE2021–3064)</a> |
+| <a href="https://snyk.io/blog/gitpodremotecodeexecutionvulnerabilitywebsockets/">Gitpod remote code execution 0day vulnerability via WebSockets</a> |
+| <a href="https://medium.com/@omar0x01/howiabusedthefileuploadfunctiontogetahighseverityvulnerabilityinbugbounty7cdcf349080b">How I abused the file upload function to get a high severity vulnerability in Bug Bounty</a> |
+| <a href="https://shahjerry33.medium.com/rceviawebdavpowerofput7e1c06c71e60">RCE via WebDav  Power Of PUT</a> |
+| <a href="https://bugcrowd.com/disclosures/7b175e9d8ff047e3bd33a8b1e51aa499/httpdesyncattackrequestsmugglingmasssessionhijacking">HTTP Desync Attack (Request Smuggling)  Mass Session Hijacking</a> |
+| <a href="https://orwaatyat.medium.com/howifoundmultiplebugsonfacebookin1monthandapartformymethodologytools58a677a9040c">How I Found Multiple Bugs On FaceBook In 1 Month And a Part For My Methodology & Tools</a> |
+| <a href="https://www.halborn.com/blog/post/halborndiscoverszerodayimpactingdogecoinand280networks">Halborn Discovers ZeroDay Impacting Dogecoin and 280+ Networks</a> |
+| <a href="https://speakerdeck.com/patrickwardle/youremutedrooted">Local privesc vulnerability in Zoom (for macOS)</a> |
+| <a href="https://tantosec.com/blog/cve202241343/">CVE202241343  RCE via Phar Deserialisation (Dompdf)</a> |
+| <a href="https://blog.ankursundara.com/cookiebugs/">Cookie Bugs  Smuggling & Injection</a> |
+| <a href="https://security.lauritzholtmann.de/advisories/flickraccounttakeover/">Flickr Account Takeover</a> |
+| <a href="https://github.com/ducnt/RCE0dayforGhostScript9.50">RCE 0 day for GhostScript9.50</a> |
+| <a href="https://medium.com/@randyarios/lowhangingfruitsonfacebookgrouproomb8d17c7ea886">Low hanging fruits on Facebook Group Room</a> |
+| <a href="https://hackerone.com/reports/1077136">Denial of Service via Hyperlinks in Posts</a> |
 
 <a href="http://security.googleblog.com/2023/05/googletrustservicesacmeapi_0503894189.html">Google Trust Services ACME API available to all users at no cost</a>
 
@@ -484,35 +384,17 @@
 
 <a href="https://thehackernews.com/2022/05/criticalgemstakeoverbugreportedin.html">Critical Gems Takeover Bug Reported in RubyGems Package Manager</a>
 
-<a href="https://portswigger.net/research/huntingevasivevulnerabilities">Hunting evasive vulnerabilities</a>
-
-<a href="https://www.oxeye.io/blog/vm2sandbreakvulnerabilitycve202236067">Enter "Sandbreak"  Vulnerability In vm2 Sandbox Module Enables Remote Code Execution (CVE202236067)</a>
-
-
-
-
-
-
-
-
-<a href="https://hackerone.com/reports/928255">Ability To Delete User(s) Account Without User Interaction</a>
-
-<a href="http://ysamm.com/?p=603">URLs in img tag aren’t safely embedded. ($500)</a>
-
-<a href="https://saajan.bhujel.cyou/blog/web/20221016howigot10000fromgithubforbypassingfiltrationofhtmltags">How I Got $10,000 From GitHub For Bypassing Filtration oF HTML tags</a>
-
-
-<a href="https://blog.assetnote.io/2021/08/29/exploitinggraphql/">Exploiting GraphQL</a>
-
-<a href="https://hackerone.com/reports/1091303">Low privilege user can read POS PINs via graphql and elevate his privilege</a>
-
-<a href="https://blog.doyensec.com/2021/05/20/graphqlcsrf.html">That single GraphQL issue that you keep missing</a>
-
-<a href="https://www.rapid7.com/blog/post/2022/03/03/cve20214191gitlabgraphqlapiuserenumerationfixed/">CVE20214191: GitLab GraphQL API User Enumeration (FIXED)</a>
-
-<a href="https://github.com/gsmith257cyber/GraphCrawler">GraphQL automated security testing toolkit </a>
-
-<a href="https://rashahacks.com/idoringraphqlqueryleakingprivatephotosofamillionapp2c12c7e9dea7">IDOR in GraphQL Query Leaking Private Photos of a Million $ App</a>
+| <a href="https://portswigger.net/research/huntingevasivevulnerabilities">Hunting evasive vulnerabilities</a> |
+| <a href="https://www.oxeye.io/blog/vm2sandbreakvulnerabilitycve202236067">Enter "Sandbreak"  Vulnerability In vm2 Sandbox Module Enables Remote Code Execution (CVE202236067)</a> |
+| <a href="https://hackerone.com/reports/928255">Ability To Delete User(s) Account Without User Interaction</a> |
+| <a href="http://ysamm.com/?p=603">URLs in img tag aren’t safely embedded. ($500)</a> |
+| <a href="https://saajan.bhujel.cyou/blog/web/20221016howigot10000fromgithubforbypassingfiltrationofhtmltags">How I Got $10,000 From GitHub For Bypassing Filtration oF HTML tags</a> |
+| <a href="https://blog.assetnote.io/2021/08/29/exploitinggraphql/">Exploiting GraphQL</a> |
+| <a href="https://hackerone.com/reports/1091303">Low privilege user can read POS PINs via graphql and elevate his privilege</a> |
+| <a href="https://blog.doyensec.com/2021/05/20/graphqlcsrf.html">That single GraphQL issue that you keep missing</a> |
+| <a href="https://www.rapid7.com/blog/post/2022/03/03/cve20214191gitlabgraphqlapiuserenumerationfixed/">CVE20214191: GitLab GraphQL API User Enumeration (FIXED)</a> |
+| <a href="https://github.com/gsmith257cyber/GraphCrawler">GraphQL automated security testing toolkit </a> |
+| <a href="https://rashahacks.com/idoringraphqlqueryleakingprivatephotosofamillionapp2c12c7e9dea7">IDOR in GraphQL Query Leaking Private Photos of a Million $ App</a> |
 
 
 
