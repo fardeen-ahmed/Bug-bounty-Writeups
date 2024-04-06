@@ -43,7 +43,7 @@
 | <a href="https://github.com/aress31/burpgpt"> BurpGPT </a> | A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type. |
 | <a href="https://caido.io/"> Caido </a> | Lightweight Web Security Auditing Toolkit |
 | <a href="https://securitytrails.com/blog/assetfinder"> AssetFinder </a> | A Handy Subdomain and Domain Discovery Tool</a>
-| <a href="https://github.com/punk-security/secret-magpie-cli">-Secret Magpie </a> | Secret Detection Tool |
+| <a href="https://github.com/punk-security/secret-magpie-cli">Secret Magpie </a> | Secret Detection Tool |
 | <a href="https://googleprojectzero.blogspot.com/2021/04/designing-sockfuzzer-network-syscall.html"> Designing sockfuzzer </a> | A network syscall fuzzer for XNU. |
 | <a href="https://github.com/kosmosec/proto-find">Proto Find </a> | Check if your target is vulnerable for client side prototype pollution |
 | <a href="https://github.com/KathanP19/protoscan">Protoscan </a> | Prototype Pollution Scanner made in Golang. |
