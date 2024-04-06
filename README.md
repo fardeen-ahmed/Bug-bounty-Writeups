@@ -143,61 +143,34 @@
 | <a href="https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2">-Miracle - One Vulnerability To Rule Them All</a> |
 | <a href="https://github.com/morphean-sec/secure-smart-contract-design-principles">-Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts.</a> |
 | <a href="https://portswigger.net/daily-swig/teen-hacker-scoops-4-500-bug-bounty-for-facebook-flaw-that-allowed-attackers-to-unmask-page-admins">-Teen hacker scoops $4,500 bug bounty for Facebook flaw that allowed attackers to unmask page admins</a> |
-
-<A href="https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017">-400$ Bounty again using Google Dorks</a>
-
-<a href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2020">-Top 10 web hacking techniques of 2020 | PortSwigger Research</a>
-<a href="https://technicalsurendra.medium.com/command-injection-all-in-one-blog-52591ad750df">-Command Injection — All in one Blog</a>
-
-<a href="https://manasharsh.medium.com/how-gopher-works-in-escalating-ssrfs-ce6e5459b630">How Gopher works in escalating SSRFs</a>
-
-
-<a href="https://portswigger.net/daily-swig/latest-web-hacking-tools-q3-2021">-Latest web hacking tools – Q3 2021</a>
-<a href="https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure">GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure</a>
-<a href="https://blog.grimm-co.com/2021/11/escalating-xss-to-sainthood-with-nagios.html">-Escalating XSS to Sainthood with Nagios</a>
-
-<a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">-How to Hack APIs in 2021</a>
-  
-<a href="https://akshita-infosec.medium.com/burp-macros-what-why-how-151df8901641">-Burp Macros: What, Why & How?</a>
-
-<a href="https://sicks3c.medium.com/setup-your-private-burp-collaborator-for-ssrf-xxe-fd6cf01c8ca">-Setup Your Private Burp Collaborator for SSRF/XXE</a>
-  
-<a href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo">-Experience Burp Suite Enterprise Edition in a new live demo</a>
-
-<A href="https://www.pavel.gr/blog/dll-hijacking-using-spartacus-outside-of-dllmain">-DLL Hijacking using Spartacus, outside of DllMain</a>
-
-<a href="https://github.com/mrh0wl/Cloudmare">-Cloudflare, Sucuri, Incapsula real IP tracker</a>
-
-<a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a>
-
-<a href="https://devsecopsdocs.com/blog/nuclear-pond/">-Nuclear Pond</a>
-
-<a href="https://blog.securelayer7.net/static-analysis-of-android-application-tools-used-securelayer7/">-OWASP Top 10: Static Analysis of Android Application & Tools Used</a>
-
-<a href="https://github.com/iustin24/chameleon">-Chameleon provides better content discovery by using wappalyzer's set of technology fingerprints alongside custom wordlists tailored to each detected technologies</a>
-
-<a href="https://medium.com/@murami.ike/working-with-a-scope-using-gowitness-4d338b0321ac">-Working with a scope using Gowitness</a>
-
-<a href="https://blog.projectdiscovery.io/implementing-nuclei-into-your-gitlab-ci-cd-pipeline-for-scanning-live-web-applications/">-Implementing Nuclei into your GitLab CI/CD Pipeline for Scanning Live Web Applications</a>
-
-<a href="https://thexssrat.medium.com/what-the-fuzz-the-truth-behind-content-discovery-77cd0c0756e7">-What the fuzz?! — The truth behind content discovery</a>
-
-
-<a href="https://hacknopedia.com/2022/08/17/must-have-browser-add-ons-or-extensions-for-bug-bounty/">-Must Have Browser Extensions for Bug Bounty</a>
-
-<a href="http://security.googleblog.com/2023/05/introducing-new-way-to-buzz-for-ebpf.html">-Introducing a new way to buzz for eBPF vulnerabilities</a>
-
-<a href="https://www.legitsecurity.com/blog/remote-code-execution-vulnerability-in-azure-pipelines-can-lead-to-software-supply-chain-attack">-Remote Code Execution Vulnerability in Azure Pipelines Can Lead To Software Supply Chain Attack</a>
-
-<a href="https://portswigger.net/daily-swig/security-researcher-earns-plaudits-after-discovering-yandex-ssrf-flaw">-Security researcher earns plaudits after discovering Yandex SSRF flaw</a>
-
-<a href="https://medium.com/pentesternepal/how-i-was-able-to-reveal-page-admin-of-almost-any-page-on-facebook-5a8d68253e0c">-How I was able to reveal page admin of almost any page on Facebook</a>
-  
-<a href="https://xkurtph.medium.com/shopify-plugin-bypass-using-client-side-injection-thru-api-implementation-vulnerability-710d25105c8f">-Shopify Plugin Bypass using P3 Client-side injection thru API Implementation Vulnerability</a>
-
-<a href="https://github.com/honoki/bugbounty-openvpn-socks">-Run all your bug bounty VPN profiles in parallel and expose them via multiple local SOCKS proxies.</a>
-
-<a href="https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae">-A tale of zero click account takeover</a>
+| <A href="https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017">400$ Bounty again using Google Dorks</a> |
+| <a href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2020">Top 10 web hacking techniques of 2020 | PortSwigger Research</a> |
+| <a href="https://technicalsurendra.medium.com/command-injection-all-in-one-blog-52591ad750df">Command Injection — All in one Blog</a> |
+| <a href="https://manasharsh.medium.com/how-gopher-works-in-escalating-ssrfs-ce6e5459b630">How Gopher works in escalating SSRFs</a> |
+| <a href="https://portswigger.net/daily-swig/latest-web-hacking-tools-q3-2021">Latest web hacking tools – Q3 2021</a>|
+| <a href="https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure">GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure</a> |
+| <a href="https://blog.grimm-co.com/2021/11/escalating-xss-to-sainthood-with-nagios.html">-Escalating XSS to Sainthood with Nagios</a> |
+| <a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">-How to Hack APIs in 2021</a> |
+| <a href="https://akshita-infosec.medium.com/burp-macros-what-why-how-151df8901641">-Burp Macros: What, Why & How?</a> |
+| <a href="https://sicks3c.medium.com/setup-your-private-burp-collaborator-for-ssrf-xxe-fd6cf01c8ca">-Setup Your Private Burp Collaborator for SSRF/XXE</a> |
+| <a href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo">-Experience Burp Suite Enterprise Edition in a new live demo</a> |
+| <A href="https://www.pavel.gr/blog/dll-hijacking-using-spartacus-outside-of-dllmain">-DLL Hijacking using Spartacus, outside of DllMain</a> |
+| <a href="https://github.com/mrh0wl/Cloudmare">-Cloudflare, Sucuri, Incapsula real IP tracker</a> |
+| <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">-A Brief Introduction to Prototype Pollution</a> |
+| <a href="https://devsecopsdocs.com/blog/nuclear-pond/">-Nuclear Pond</a> |
+| <a href="https://blog.securelayer7.net/static-analysis-of-android-application-tools-used-securelayer7/">-OWASP Top 10: Static Analysis of Android Application & Tools Used</a> |
+| <a href="https://github.com/iustin24/chameleon">-Chameleon provides better content discovery by using wappalyzer's set of technology fingerprints alongside custom wordlists tailored to each detected technologies</a> |
+| <a href="https://medium.com/@murami.ike/working-with-a-scope-using-gowitness-4d338b0321ac">-Working with a scope using Gowitness</a> |
+| <a href="https://blog.projectdiscovery.io/implementing-nuclei-into-your-gitlab-ci-cd-pipeline-for-scanning-live-web-applications/">-Implementing Nuclei into your GitLab CI/CD Pipeline for Scanning Live Web Applications</a> |
+| <a href="https://thexssrat.medium.com/what-the-fuzz-the-truth-behind-content-discovery-77cd0c0756e7">-What the fuzz?! — The truth behind content discovery</a> |
+| <a href="https://hacknopedia.com/2022/08/17/must-have-browser-add-ons-or-extensions-for-bug-bounty/">-Must Have Browser Extensions for Bug Bounty</a> |
+| <a href="http://security.googleblog.com/2023/05/introducing-new-way-to-buzz-for-ebpf.html">-Introducing a new way to buzz for eBPF vulnerabilities</a> |
+| <a href="https://www.legitsecurity.com/blog/remote-code-execution-vulnerability-in-azure-pipelines-can-lead-to-software-supply-chain-attack">-Remote Code Execution Vulnerability in Azure Pipelines Can Lead To Software Supply Chain Attack</a> |
+| <a href="https://portswigger.net/daily-swig/security-researcher-earns-plaudits-after-discovering-yandex-ssrf-flaw">-Security researcher earns plaudits after discovering Yandex SSRF flaw</a> |
+| <a href="https://medium.com/pentesternepal/how-i-was-able-to-reveal-page-admin-of-almost-any-page-on-facebook-5a8d68253e0c">-How I was able to reveal page admin of almost any page on Facebook</a> |
+| <a href="https://xkurtph.medium.com/shopify-plugin-bypass-using-client-side-injection-thru-api-implementation-vulnerability-710d25105c8f">-Shopify Plugin Bypass using P3 Client-side injection thru API Implementation Vulnerability</a> |
+| <a href="https://github.com/honoki/bugbounty-openvpn-socks">-Run all your bug bounty VPN profiles in parallel and expose them via multiple local SOCKS proxies.</a> |
+| <a href="https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae">-A tale of zero click account takeover</a> |
 
 <a href="https://hacktus.tech/subdomain-takeover-leading-to-full-account-takeover">-Subdomain Takeover leading to Full Account Takeover</a>
 
