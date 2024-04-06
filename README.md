@@ -619,12 +619,9 @@
 | Category | Writeup |
 |-----------|-----|
 | Account Takeover | <a href="https://hx01.me/Abusing_Data_Protection_Laws_For_D0xing_and_Account_Takeovers.pdf"> Hx01 Abusing Data Protection Laws For D0xing & Account Takeovers</a> |
-
-<a href="http://ysamm.com/?p=606">-Access employees files in internal CDNs/ Access users modified/deleted content.($12500)</a>
-
-<a href="https://vijetareigns.medium.com/forced-browsing-to-access-admin-panel-214a7defa2a5">-Forced Browsing to Access Admin Panel</a>
-
-<a href="https://medium.com/@botami143/i-found-idor-vulnerability-at-microsoft-subdomain-b89b8777bf8d">-I found IDOR Vulnerability at Microsoft Subdomain</a>
+| IDOR | <a href="http://ysamm.com/?p=606">-Access employees files in internal CDNs/ Access users modified/deleted content.($12500)</a> |
+| IDOR | <a href="https://vijetareigns.medium.com/forced-browsing-to-access-admin-panel-214a7defa2a5">-Forced Browsing to Access Admin Panel</a> | 
+| IDOR | <a href="https://medium.com/@botami143/i-found-idor-vulnerability-at-microsoft-subdomain-b89b8777bf8d">-I found IDOR Vulnerability at Microsoft Subdomain</a> |
 
 <a href="https://medium.com/@tusharsaini484/how-i-found-an-idor-that-led-to-sensitive-information-leak-6055bb121f8">-How I found an IDOR that led to sensitive information leak?</a>
 
