@@ -380,56 +380,33 @@
 
 | Category | Writeup |
 |-----------|-----|
-| Account Takeover | <a href="https://hx01.me/Abusing_Data_Protection_Laws_For_D0xing_and_Account_Takeovers.pdf"> Hx01 Abusing Data Protection Laws For D0xing & Account Takeovers</a> |
+| ATO | <a href="https://hx01.me/Abusing_Data_Protection_Laws_For_D0xing_and_Account_Takeovers.pdf"> Hx01 Abusing Data Protection Laws For D0xing & Account Takeovers</a> |
 | IDOR | <a href="http://ysamm.com/?p=606">Access employees files in internal CDNs/ Access users modified/deleted content.($12500)</a> |
 | IDOR | <a href="https://vijetareigns.medium.com/forcedbrowsingtoaccessadminpanel214a7defa2a5">Forced Browsing to Access Admin Panel</a> | 
 | IDOR | <a href="https://medium.com/@botami143/ifoundidorvulnerabilityatmicrosoftsubdomainb89b8777bf8d">I found IDOR Vulnerability at Microsoft Subdomain</a> |
-
-<a href="https://medium.com/@tusharsaini484/howifoundanidorthatledtosensitiveinformationleak6055bb121f8">How I found an IDOR that led to sensitive information leak?</a>
-
-<a href="https://medium.com/@gonzalocarrascosec/fuzzingidoradmintakeover5343bb8f436e">Fuzzing + IDOR = Admin TakeOver</a>
-
-<a href="https://medium.com/@evan.connelly/postaccounttakeoveraccounttakeoverofinternalteslaaccountsbc720603e67d">Post Account Takeover? Account Takeover of Internal Tesla Accounts</a>
-
-<a href="https://shahjerry33.medium.com/accounttakeoverinsidethetenant6101a3cafbee">Account Takeover  Inside The Tenanth</a>
-
-<a href="https://blog.intigriti.com/2023/02/13/fileattachmentssizedoesmatter/">Helping secure BNB Chain through responsible disclosure</a>
-
-<a href="https://infosecwriteups.com/howiwasabletotakeoveraccountsinwebsitesdealwithgithubasassoprovider294290358e0c">How I was able to take over accounts in websites deal with Github as an SSO provider</a>
-
-<a href="https://medium.com/@gonzxph/accounttakeoverworthof2500e643661f94e9">Account Takeover Worth of $2500</a>
-
-<a href="https://0xmaruf.medium.com/firing8accounttakeovermethods77e892099050">Firing 8 Account Takeover Methods</a>
-
-<a href="https://r0ckinxj3.wordpress.com/2021/10/24/a7500googlesitesidor/">A 7500$ Google sites IDOR</a>
-
-<a href="https://salt.security/blog/travelingwithoauthaccounttakeoveronbookingcom">Traveling with OAuth  Account Takeover on Booking.com</a>
-
-<a href="https://agnihackers.medium.com/otpbypassthroughresponsemanipulationbeeb467359d8">OTP Bypass Through Response Manipulation</a>
-
-<a href="https://ysamm.com/?p=783">Account Takeover in Canvas Apps served in Comet due to failure in CrossWindowMessage Origin validation</a>
-
-<a href="https://sagarsajeev.medium.com/unsubscribeanyusersemailnotificationsviaidor2c2e05b79dac">Unsubscribe any user’s email notifications via IDOR</a>
-
-<a href="https://infosecwriteups.com/idorleadstoleakprivatedetails866563365490">IDOR leads to leak Private Details</a>
-
-<a href="https://bhansalipratish.medium.com/howifoundmyfirstbugidor9c4e52584454">How I found my first bug (IDOR)</a>
-
-<a href="https://medium.com/@h4x0r_dz/23000forauthenticationbypassfileuploadarbitraryfileoverwrite2578b730a5f8">23000$ for Authentication Bypass & File Upload & Arbitrary File Overwrite</a>
-
-<a href="https://protectai.com/blog/hackingaisystemtakeoverexploitinmlflow">Hacking AI: System and Cloud Takeover via MLflow Exploit</a>
-
-<a href="http://security.googleblog.com/2023/04/announcingdepsdevapicritical.html">Announcing the deps.dev API: critical dependency data for secure supply chains</a>
-
-<a href="https://adityashende17.medium.com/idortoinformationdisclosureadminaccounttakeover6aa96798c70b">IDOR to information disclosure + Admin Account Takeover</a> 
-
-<a href="https://junoonbro.medium.com/idorshowtofindidorsinecommercesitesd112bd946fcf">$$$$ IDOR’s — How to find IDORs in Ecommerce sites?</a>
-
-<a href="http://ysamm.com/?p=783">ATO in Canvas Games due to weak cross window message Origin validations ($62,500)</a>
-
-<a href="https://akashvenky091.medium.com/otpbypassingandvulnerabilitiesfromemailfieldsa5c326efa605">OTP Bypassing and Vulnerabilities from EMail fields.</a>
-
-<a href="https://kuldeep.io/posts/pathtraversalparadise/">Path Traversal Paradise</a>
+| IDOR | <a href="https://medium.com/@tusharsaini484/howifoundanidorthatledtosensitiveinformationleak6055bb121f8">How I found an IDOR that led to sensitive information leak?</a> |
+| Chained | <a href="https://medium.com/@gonzalocarrascosec/fuzzingidoradmintakeover5343bb8f436e">Fuzzing + IDOR = Admin TakeOver</a> |
+| ATO | <a href="https://medium.com/@evan.connelly/postaccounttakeoveraccounttakeoverofinternalteslaaccountsbc720603e67d">Post Account Takeover? Account Takeover of Internal Tesla Accounts</a> |
+| ATO | <a href="https://shahjerry33.medium.com/accounttakeoverinsidethetenant6101a3cafbee">Account Takeover  Inside The Tenanth</a> |
+| RDP | <a href="https://blog.intigriti.com/2023/02/13/fileattachmentssizedoesmatter/">Helping secure BNB Chain through responsible disclosure</a> |
+| Account Takeover | <a href="https://infosecwriteups.com/howiwasabletotakeoveraccountsinwebsitesdealwithgithubasassoprovider294290358e0c">How I was able to take over accounts in websites deal with Github as an SSO provider</a> |
+| ATO | <a href="https://medium.com/@gonzxph/accounttakeoverworthof2500e643661f94e9">Account Takeover Worth of $2500</a> |
+| ATO | <a href="https://0xmaruf.medium.com/firing8accounttakeovermethods77e892099050">Firing 8 Account Takeover Methods</a> |
+| IDOR | <a href="https://r0ckinxj3.wordpress.com/2021/10/24/a7500googlesitesidor/">A 7500$ Google sites IDOR</a> |
+| ATO | <a href="https://salt.security/blog/travelingwithoauthaccounttakeoveronbookingcom">Traveling with OAuth  Account Takeover on Booking.com</a> |
+| OAUTH | <a href="https://agnihackers.medium.com/otpbypassthroughresponsemanipulationbeeb467359d8">OTP Bypass Through Response Manipulation</a> |
+| ATO | <a href="https://ysamm.com/?p=783">Account Takeover in Canvas Apps served in Comet due to failure in CrossWindowMessage Origin validation</a> |
+| IDOR | <a href="https://sagarsajeev.medium.com/unsubscribeanyusersemailnotificationsviaidor2c2e05b79dac">Unsubscribe any user’s email notifications via IDOR</a> |
+| Chained | <a href="https://infosecwriteups.com/idorleadstoleakprivatedetails866563365490">IDOR leads to leak Private Details</a> |
+| IDOR | <a href="https://bhansalipratish.medium.com/howifoundmyfirstbugidor9c4e52584454">How I found my first bug (IDOR)</a> |
+| Auth Bypass | <a href="https://medium.com/@h4x0r_dz/23000forauthenticationbypassfileuploadarbitraryfileoverwrite2578b730a5f8">23000$ for Authentication Bypass & File Upload & Arbitrary File Overwrite</a> | 
+| AI | <a href="https://protectai.com/blog/hackingaisystemtakeoverexploitinmlflow">Hacking AI: System and Cloud Takeover via MLflow Exploit</a> | 
+| API | <a href="http://security.googleblog.com/2023/04/announcingdepsdevapicritical.html">Announcing the deps.dev API: critical dependency data for secure supply chains</a> |
+| Chained | <a href="https://adityashende17.medium.com/idortoinformationdisclosureadminaccounttakeover6aa96798c70b">IDOR to information disclosure + Admin Account Takeover</a> |
+| IDOR | <a href="https://junoonbro.medium.com/idorshowtofindidorsinecommercesitesd112bd946fcf">$$$$ IDOR’s — How to find IDORs in Ecommerce sites?</a> |
+| ATO | <a href="http://ysamm.com/?p=783">ATO in Canvas Games due to weak cross window message Origin validations ($62,500)</a> |
+| Chained | <a href="https://akashvenky091.medium.com/otpbypassingandvulnerabilitiesfromemailfieldsa5c326efa605">OTP Bypassing and Vulnerabilities from EMail fields.</a> |
+| Path Traversal | <a href="https://kuldeep.io/posts/pathtraversalparadise/">Path Traversal Paradise</a> | 
 
 <a href="https://sysdig.com/blog/cve202242889text4shell/">Detecting and mitigating CVE202242889 a.k.a. Text4shell</a>
 
