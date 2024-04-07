@@ -367,13 +367,6 @@
 | <a href="https://rashahacks.com/idoringraphqlqueryleakingprivatephotosofamillionapp2c12c7e9dea7">IDOR in GraphQL Query Leaking Private Photos of a Million $ App</a> |
 
 
-
-
-
-
-
-
-
 # OWASP Top 10 WebApplication Issues (Updated)
 
 ## Broken Access Control
@@ -455,15 +448,13 @@
 
 ## Injection Issues / Bugs
 
-<a href="https://m7arman.medium.com/hostheaderinjectionleadtoaccounttakeover2f025a645d13">Host Header Injection Lead To Account Takeover</a>
-
-<a href="https://hackerone.com/reports/1196124">Regular Expression Injection</a>
-
-<a href="https://sudhanshur705.medium.com/exploringtheworldofesiinjectionb86234e66f91">Exploring the World of ESI Injection</a>
-
-<a href="https://medium.com/@sicks3c/taleofxssinangularc5c057a56156">Tale of XSS in Angular</a>
-
-<a href="https://labs.guard.io/xssvulnerabilityfoundinconnectwiseremoteaccessplatformwithgreatpotentialformisusebyscammersa0773da2aacf">XSS Vulnerability Found in ConnectWise Remote Access Platform With Great Potential For Misuse by Scammers</a>
+| Category | Writeup |
+|-----------|-----|
+| HHI | <a href="https://m7arman.medium.com/host-header-injection-lead-to-account-takeover-2f025a645d13">Host Header Injection Lead To Account Takeover</a> |
+| Regex-I | <a href="https://hackerone.com/reports/1196124">Regular Expression Injection</a> |
+| ESI-I | <a href="https://sudhanshur705.medium.com/exploringtheworldofesiinjectionb86234e66f91">Exploring the World of ESI Injection</a> |
+| R-XSS | <a href="https://medium.com/@sicks3c/taleofxssinangularc5c057a56156">Tale of XSS in Angular</a> |
+| Stored <a href="https://labs.guard.io/xss-vulnerability-found-in-connect-wise-remote-access-platform-with-great-potential-form-is-use-by-scammers-a0773da2aacf">XSS Vulnerability Found in ConnectWise Remote Access Platform With Great Potential For Misuse by Scammers</a>
 
 <A href="https://medium.com/@sid0krypt/vuejsreflectedxssfae04c9872d2">Vue JS Reflected XSS</a>
 
