@@ -419,41 +419,23 @@
 | IDOR | <a href="https://asterfiester.medium.com/5000googleidorvulnerabilitywriteupc7b45926abe9">$5000 Google IDOR Vulnerability Writeup</a> |
 | Chained | <a href="https://snapsec.co/blog/2021/09/25/AttackingAccessControlModelsInModernWebApplications.html">Attacking Access Control Models In Modern Web Applications</a> |
 | OAuth | <a href="https://github.blog/20230303githubsecuritylabauditeddatahubhereswhattheyfound/">GitHub Security Lab audited DataHub: Here’s what they found</a> |
-
-<a href="https://medium.com/@mehedishakeel/improperaccesscontrolmythirdfindingonhackerone1455e95b6c8c">Improper Access Control — My Third Finding on Hackerone!</a>
-
-<a href="https://medium.com/@rajeevranjancom/crosssiterequestforgerycsrfattack6949edb9e405">Cross site request forgery (CSRF) attack</a>
-
-
-<a href="https://psfauzi.medium.com/howiget1350fromidorjustless1hours7496bab1a914">How I Get $1350 From IDOR Just Less 1 hours</a>
-
-<a href="https://junoonbro.medium.com/howiearned9000withprivilegeescalationsb187d1f8f4fe">How I earned $9000 with Privilege escalations</a>
-
-<a href="https://psfauzi.medium.com/howiget1350fromidorjustless1hours7496bab1a914">How I Get $1350 From IDOR Just Less 1 hours</a>
-
-<a href="https://hackerone.com/reports/1372216">IDOR in "external status check" API leaks data about any status check on the instance</a>
-
-<a href="https://medium.com/@nvmeeet/4300instagramidorbug20225386cf492cad">4300$ Instagram IDOR Bug (2022)</a>
-
-<a href="https://medium.com/@webresearcher007/howiwasabletodeleteanyusersoauthconnectionsviaidorbf3a8e8e2269">How I was able to delete any users’ OAUTH connections via IDOR</a>
-
-<a href="https://medium.com/@tobydavenn/howiwasabletotakeoveranyusersaccountonamajortelecomswebsite2cd5aa43e3d6">How I was able to takeover any users account on a major telecoms website</a>
-
-<a href="https://www.cobalt.io/blog/cobaltpentestcasestudyoauthredirecttoaccounttakeover">Cobalt Pentest Case Study: OAuth Redirect to Account Takeover</a>
-
-<a href="https://aidilarf.medium.com/idorviagetrequestwhichcansoldalluserproducts2f5bc3ea1650">IDOR via GET Request which can SOLD all User Products</a>
-
-<a href="https://snapsec.co/blog/CORSMisconfigrations/">CORS Misconfigurations</a>
-
-<a href="https://youtu.be/5guMYiQrnUo">Shopify Account Takeover $22,500 Bug Bounty</a>
-
-<a href="https://github.com/yunuscadirci/XboxOneDirectoryTraversal">Xbox One Directory Traversal : Details about directory traversal on Xbox One</a>
-
-<a href="https://blog.intigriti.com/2021/10/13/bugbytes142weirdgooglebugssamlpaddingoracleapachepathtraversalcontinued/">Weird Google bugs, SAML padding Oracle & Apache path traversal continued</a>
-
-<a href="https://www.intruder.io/research/practicalhttpheadersmuggling">Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond</a>
-
-<a href="https://www.youtube.com/watch?v=FzT3Z7tgDSQ">$5,000 YouTube IDOR  Bug Bounty Reports Explained </a>
+| Access Control | <a href="https://medium.com/@mehedishakeel/improperaccesscontrolmythirdfindingonhackerone1455e95b6c8c">Improper Access Control — My Third Finding on Hackerone!</a> |
+| CSRF | <a href="https://medium.com/@rajeevranjancom/crosssiterequestforgerycsrfattack6949edb9e405">Cross site request forgery (CSRF) attack</a> |
+| IDOR | <a href="https://psfauzi.medium.com/howiget1350fromidorjustless1hours7496bab1a914">How I Get $1350 From IDOR Just Less 1 hours</a> |
+| Priv Esc | <a href="https://junoonbro.medium.com/howiearned9000withprivilegeescalationsb187d1f8f4fe">How I earned $9000 with Privilege escalations</a> |
+| IDOR | <a href="https://psfauzi.medium.com/howiget1350fromidorjustless1hours7496bab1a914">How I Get $1350 From IDOR Just Less 1 hours</a> |
+| IDOR | <a href="https://hackerone.com/reports/1372216">IDOR in "external status check" API leaks data about any status check on the instance</a> |
+| IDOR | <a href="https://medium.com/@nvmeeet/4300instagramidorbug20225386cf492cad">4300$ Instagram IDOR Bug (2022)</a> |
+| Chained | <a href="https://medium.com/@webresearcher007/howiwasabletodeleteanyusersoauthconnectionsviaidorbf3a8e8e2269">How I was able to delete any users’ OAUTH connections via IDOR</a> |
+| ATO | <a href="https://medium.com/@tobydavenn/howiwasabletotakeoveranyusersaccountonamajortelecomswebsite2cd5aa43e3d6">How I was able to takeover any users account on a major telecoms website</a> |
+| Chained | <a href="https://www.cobalt.io/blog/cobaltpentestcasestudyoauthredirecttoaccounttakeover">Cobalt Pentest Case Study: OAuth Redirect to Account Takeover</a> |
+| IDOR | <a href="https://aidilarf.medium.com/idorviagetrequestwhichcansoldalluserproducts2f5bc3ea1650">IDOR via GET Request which can SOLD all User Products</a> |
+| CORS | <a href="https://snapsec.co/blog/CORSMisconfigrations/">CORS Misconfigurations</a> |
+| ATO | <a href="https://youtu.be/5guMYiQrnUo">Shopify Account Takeover $22,500 Bug Bounty</a> |
+| Path Travesal | <a href="https://github.com/yunuscadirci/XboxOneDirectoryTraversal">Xbox One Directory Traversal : Details about directory traversal on Xbox One</a> |
+| Path Traversal | <a href="https://blog.intigriti.com/2021/10/13/bugbytes142weirdgooglebugssamlpaddingoracleapachepathtraversalcontinued/">Weird Google bugs, SAML padding Oracle & Apache path traversal continued</a> |
+| HTTP Smuggle | <a href="https://www.intruder.io/research/practicalhttpheadersmuggling">Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond</a> |
+| IDOR | <a href="https://www.youtube.com/watch?v=FzT3Z7tgDSQ">$5,000 YouTube IDOR  Bug Bounty Reports Explained </a> |
 
 
 
@@ -461,15 +443,13 @@
 
 ## Cryptographic Issues / Bugs
 
-<a href="https://i.blackhat.com/USA22/Wednesday/us22KettleBrowserPoweredDesyncAttacks.pdf">BrowserPowered Desync Attacks > A New Frontier in HTTP Request Smuggling</a>
-
-<a href="https://portswigger.net/research/makinghttpheaderinjectioncriticalviaresponsequeuepoisoning">Making HTTP header injection critical via response queue poisoning</a>
-
-<a href="https://mouha.be/sha3bufferoverflow/">SHA3 Buffer Overflow</a>
-
-<a href="https://medium.com/numencyberlabs/analysisandsummaryoftcpipprotocolremotecodeexecutionvulnerabilitycve2022347188fcc28538acf">TCP/IP Vulnerability CVE2022–34718 PoC Restoration and Analysis</a>
-
-<a href="https://securitylabs.datadoghq.com/articles/opensslnovember1vulnerabilities/">The OpenSSL punycode vulnerability (CVE20223602): Overview, detection, exploitation, and remediation</a>
+| Category | Writeup |
+|-----------|-----|
+| HTTP Smuggle | <a href="https://i.blackhat.com/USA22/Wednesday/us22KettleBrowserPoweredDesyncAttacks.pdf">BrowserPowered Desync Attacks > A New Frontier in HTTP Request Smuggling</a> |
+| Chained | <a href="https://portswigger.net/research/makinghttpheaderinjectioncriticalviaresponsequeuepoisoning">Making HTTP header injection critical via response queue poisoning</a> |
+| Cryptographic Failure | <a href="https://mouha.be/sha3bufferoverflow/">SHA3 Buffer Overflow</a> | 
+| Crptographic Failure | <a href="https://medium.com/numencyberlabs/analysisandsummaryoftcpipprotocolremotecodeexecutionvulnerabilitycve2022347188fcc28538acf">TCP/IP Vulnerability CVE2022–34718 PoC Restoration and Analysis</a> |
+| Cryptographic Failure | <a href="https://securitylabs.datadoghq.com/articles/opensslnovember1vulnerabilities/">The OpenSSL punycode vulnerability (CVE20223602): Overview, detection, exploitation, and remediation</a> |
 
 
 
