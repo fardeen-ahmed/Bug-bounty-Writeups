@@ -31,7 +31,7 @@
 | <a href="https://github.com/0x4ndy/clif"> Clif </a> | This is a commandline interface (CLI) application fuzzer, pretty much what wfuzz or ffuf are for web. |
 | <a href="https://github.com/r0oth3x49/ghauri"> Ghauri </a> | This is an advanced crossplatform tool that automates the process of detecting and exploiting SQL injection security flaws |
 | <a href="https://portswigger.net/blog/introducing-dom-invader">DOM Invader </a> | Introducing DOM Invader, DOM XSS just got a whole lot easier to find |
-| <a href="https://github.com/MayankPandey01/JiraLens">JiraLens </a> | Fast and customizable vulnerability scanner For JIRA written in Python |
+| <a href="https://github.com/MayankPandey01/Jira-Lens">JiraLens </a> | Fast and customizable vulnerability scanner For JIRA written in Python |
 | <a href="https://github.com/rotemreiss/uddup"> Urls deduplication </a> | Urls deduplication tool for better recon. |
 | <a href="https://github.com/phith0n/zkar"> ZKar </a> | This is a Java serialization protocol analysis tool implement in Go. |
 | <a href="https://github.com/s0md3v/Smap"> Smap </a> | This is a dropin replacement for Nmap powered by shodan.io |
