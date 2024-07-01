@@ -18,8 +18,8 @@
 | <a href="https://github.com/famasoon/gowhois"> GoWhois </a> |  Whois command implemented by golang with awesome whois servers list </a> |
 | <a href="https://github.com/gwen001/related-domains"> Relateddomains </a> | Find related domains of a given domain</a> |
 | <a href="https://github.com/Ciphey/Ciphey"> Ciphey </a> | Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes.|
-| <a href="https://github.com/edoardottt/csp-recon"> CSPRecon </a> | Discover new target domains using Content Security Policy |
-| <a href="https://github.com/iangcarroll/cookie-monster"> CookieMonster </a> | This helps you detect and abuse vulnerable implementations of stateless sessions |
+| <a href="https://github.com/edoardottt/csprecon"> CSPRecon </a> | Discover new target domains using Content Security Policy |
+| <a href="https://github.com/iangcarroll/cookiemonster"> CookieMonster </a> | This helps you detect and abuse vulnerable implementations of stateless sessions |
 | <a href="https://www.securesystems.de/blog/subdomain-enumeration-with-DNSSEC/"> DNSSEC </a> | Subdomain Enumeration with DNSSEC |
 | <a href="https://medium.com/@kaorrosi/osint-research-with-recon-ng-727661a70ea4"> ReconNG </a> | OSINT Research |
 | <a href="https://github.com/bensoio/posta"> Posta </a> | Crossdocument Messaging security research tool |
