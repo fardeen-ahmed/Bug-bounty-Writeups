@@ -44,7 +44,7 @@
 | <a href="https://github.com/punk-security/secret-magpie">Secret Magpie </a> | Secret Detection Tool |
 | <a href="https://googleprojectzero.blogspot.com/2021/04/designing-sock-fuzzer-network-syscall.html"> Designing sockfuzzer </a> | A network syscall fuzzer for XNU. |
 | <a href="https://github.com/kosmosec/proto-find">Proto Find </a> | Check if your target is vulnerable for client side prototype pollution |
-| <a href="https://github.com/KathanP19/proto-scan">Protoscan </a> | Prototype Pollution Scanner made in Golang. |
+| <a href="https://github.com/KathanP19/protoscan">Protoscan </a> | Prototype Pollution Scanner made in Golang. |
 | <a href="https://github.com/PabloMK7/ENLBufferPwn">BufferPwn </a> | RCE vulnerability in the common network code of several first party Nintendo games since the Nintendo 3DS |
 | <a href="https://blog.intigriti.com/2021/10/05/hacker-tools-crlfuzz/">CRLFuzz </a> | Hacker Tools: Injecting CRLF for bounties </a>
 | <a href="https://portswigger.net/dailyswig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques"> NFT </a> | New differential fuzzing tool reveals novel HTTP request smuggling techniques. |
