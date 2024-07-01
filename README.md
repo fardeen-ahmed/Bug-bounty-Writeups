@@ -1,6 +1,6 @@
 <h1>Awesome BugBounty 👨‍💻 </h1>
 <a href="https://fardeen-ahmed.github.io/">
-  <img src="https://github.com/fardeenahmed/BugbountyWriteups/blob/main/1.png" alt="None" align="center" height="250" width="1000">
+  <img src="https://github.com/fardeen-ahmed/Bug-bounty-Writeups/blob/main/1.png" alt="None" align="center" height="250" width="1000">
 </a>
 <h4>This repository can be used as a reference while performing BugBounty hunting </h4><br>
 
@@ -16,12 +16,12 @@
 | <a href="https://slowmist.medium.com/meta-mask-clickjacking-vulnerability-analysis-f3e7c22ff4d9"> MCVA </a> | MetaMask Clickjacking Vulnerability Analysis</a> |
 | <a href="https://github.com/tristanlatr/burpa"> Burp Automator </a> | A Burp Suite Automation Tool. It provides a high level CLI and Python interfaces to Burp Suite scanner and can be used to setup Dynamic Application Security Testing (DAST) |
 | <a href="https://github.com/famasoon/gowhois"> GoWhois </a> |  Whois command implemented by golang with awesome whois servers list </a> |
-| <a href="https://github.com/gwen001/relateddomains"> Relateddomains </a> | Find related domains of a given domain</a> |
+| <a href="https://github.com/gwen001/related-domains"> Relateddomains </a> | Find related domains of a given domain</a> |
 | <a href="https://github.com/Ciphey/Ciphey"> Ciphey </a> | Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes.|
-| <a href="https://github.com/edoardottt/csprecon"> CSPRecon </a> | Discover new target domains using Content Security Policy |
-| <a href="https://github.com/iangcarroll/cookiemonster"> CookieMonster </a> | This helps you detect and abuse vulnerable implementations of stateless sessions |
-| <a href="https://www.securesystems.de/blog/subdomainenumerationwithDNSSEC/"> DNSSEC </a> | Subdomain Enumeration with DNSSEC |
-| <a href="https://medium.com/@kaorrosi/osintresearchwithreconng727661a70ea4"> ReconNG </a> | OSINT Research |
+| <a href="https://github.com/edoardottt/csp-recon"> CSPRecon </a> | Discover new target domains using Content Security Policy |
+| <a href="https://github.com/iangcarroll/cookie-monster"> CookieMonster </a> | This helps you detect and abuse vulnerable implementations of stateless sessions |
+| <a href="https://www.securesystems.de/blog/subdomain-enumeration-with-DNSSEC/"> DNSSEC </a> | Subdomain Enumeration with DNSSEC |
+| <a href="https://medium.com/@kaorrosi/osint-research-with-recon-ng-727661a70ea4"> ReconNG </a> | OSINT Research |
 | <a href="https://github.com/bensoio/posta"> Posta </a> | Crossdocument Messaging security research tool |
 | <a href="https://github.com/projectdiscovery/katana"> Katana </a> | A nextgeneration crawling and spidering framework. |
 | <a href="https://github.com/silentsignal/burptext4shell"> BurpText4Shell </a> | Test4shell scanner for Burp Suite. |
