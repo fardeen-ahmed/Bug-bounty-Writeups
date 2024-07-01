@@ -65,7 +65,7 @@
 | <a href="https://github.com/Lu1sDV/wafme0w">Wafme0w </a> | A fast and lightweight Web Application Firewall fingerprinting tool. |
 | <a href="https://github.com/r0oth3x49/ghauri">Ghauri </a> | An advanced crossplatform tool that automates the process of detecting and exploiting SQL injection security flaws |
 | <a href="https://github.com/carlospolop/Leakos"> Leakos </a> | Search with gitleaks and trufflehog in the responses of the given URLs or in all the repos of an organization and its members. |
-| <a href="https://github.com/Anofcyber/PyCript"> Pycript </a> | This is a Burp Suite extension that enables users to encrypt and decrypt requests for manual and automated application penetration testing. |
+| <a href="https://github.com/Anof-cyber/Pycript"> Pycript </a> | This is a Burp Suite extension that enables users to encrypt and decrypt requests for manual and automated application penetration testing. |
 | <a href="https://github.com/Josue87/gotator"> Gotator </a> | This is a tool to generate DNS wordlists through permutations. |
 | <a href="https://github.com/michelin/ChopChop">ChopChop </a> | This is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders |
 | <a href="https://iosiro.com/blog/base-runner-exploiting-firebase-datastores">Baserunner</a> | This is a tool for exploring and exploiting Firebase datastores |
