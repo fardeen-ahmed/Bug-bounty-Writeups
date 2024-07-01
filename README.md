@@ -37,7 +37,6 @@
 | <a href="https://github.com/s0md3v/Smap"> Smap </a> | This is a dropin replacement for Nmap powered by shodan.io |
 | <a href="https://github.com/Stonzyy/dumpxss"> DumpXSS </a> | A scanner tool For XSS Vulnerability |
 | <a href="https://github.com/Sh1Yo/x8">x8 </a> | Hidden parameters discovery suite written in Rust |
-| <a href="https://blog.luitjes.it/posts/inject-gpt-most-polite-exploit-ever/"> InjectGPT </a> | The most polite exploit ever |
 | <a href="https://github.com/stark0de/nginxpwner"> Nginxpwner </a> | This is a simple tool to look for common Nginx misconfigurations and vulnerabilities. |
 | <a href="https://github.com/aress31/burpgpt"> BurpGPT </a> | A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running trafficbased analysis of any type. |
 | <a href="https://caido.io/"> Caido </a> | Lightweight Web Security Auditing Toolkit |
