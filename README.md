@@ -22,7 +22,6 @@
 | <a href="https://github.com/iangcarroll/cookiemonster"> CookieMonster </a> | This helps you detect and abuse vulnerable implementations of stateless sessions |
 | <a href="https://www.securesystems.de/blog/subdomain-enumeration-with-DNSSEC/"> DNSSEC </a> | Subdomain Enumeration with DNSSEC |
 | <a href="https://medium.com/@kaorrosi/osint-research-with-recon-ng-727661a70ea4"> ReconNG </a> | OSINT Research |
-| <a href="https://github.com/bensoio/post-a"> Posta </a> | Crossdocument Messaging security research tool |
 | <a href="https://github.com/projectdiscovery/katana"> Katana </a> | A nextgeneration crawling and spidering framework. |
 | <a href="https://github.com/silentsignal/burptext4shell"> BurpText4Shell </a> | Test4shell scanner for Burp Suite. |
 | <a href="https://beinguncommon.medium.com/rust-scan-the-modern-port-scanner-d6d3084e9c82"> RUSTSCAN </a> | THE MODERN PORT SCANNER |
