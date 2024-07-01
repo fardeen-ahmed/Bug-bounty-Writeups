@@ -47,7 +47,7 @@
 | <a href="https://github.com/KathanP19/protoscan">Protoscan </a> | Prototype Pollution Scanner made in Golang. |
 | <a href="https://github.com/PabloMK7/ENLBufferPwn">BufferPwn </a> | RCE vulnerability in the common network code of several first party Nintendo games since the Nintendo 3DS |
 | <a href="https://blog.intigriti.com/2021/10/05/hacker-tools-crlfuzz/">CRLFuzz </a> | Hacker Tools: Injecting CRLF for bounties </a>
-| <a href="https://portswigger.net/dailyswig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques"> NFT </a> | New differential fuzzing tool reveals novel HTTP request smuggling techniques. |
+| <a href="https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques"> NFT </a> | New differential fuzzing tool reveals novel HTTP request smuggling techniques. |
 | <a href="https://github.com/sa7mon/S3Scanner">S3Scanner </a> | Scan for open S3 buckets and dump the contents. |
 | <a href="https://crates.io/crates/kurl"> Kurl </a> | HTTP Requests for security researchers |
 | <a href="https://github.com/dhn/udon">UDON </a> | A simple tool that helps to find assets/domains based on the Google Analytics ID. |
