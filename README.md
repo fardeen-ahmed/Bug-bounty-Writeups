@@ -84,7 +84,6 @@
 | <a href="https://github.com/DigeeX/raider">Raider </a> | Web authentication testing framework |
 | <a href="https://github.com/gokulapap/Reconator">Reconator </a> | Automated Recon for Pentesting & Bug Bounty |
 | <a href="https://github.com/whwlsfb/Log4j2Scan">Log4j2Scan </a> | Log4j2 RCE Passive Scanner plugin for BurpSuite |
-| <a href="https://github.com/rfcst/humble">Humble </a> | A humble, and fast, securityoriented HTTP headers analyzer |
 | <a href="https://github.com/iamnihal/warf"> WARF </a> | This is a Web Application Reconnaissance Framework that helps to gather information about the target. |
 | <a href="https://github.com/m3n0sd0n4ld/GooFuzz">GooFuzz </a> | GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking). |
 | <a href="https://github.com/fingerprintjs/gradejs">GradeJS </a> | This tool analyzes production Webpack bundles without having access to the source code of a website. |
