@@ -98,7 +98,7 @@
 | <a href="https://github.com/elceef/subzuf">subzuf </a> | subzuf is a subdomain bruteforce fuzzer coupled with an immensly simple but effective DNS reponseguided algorithm. |
 | <a href="https://github.com/edoardottt/csprecon">csprecon </a> | Discover new target domains using Content Security Policy |
 | <a href="https://github.com/iamthefrogy/frogy/">Frogy </a> | Using the combination of different subdomain enumeration tools and logic this script tries to identify more subdomains and TLDs in recon. |
-| <a href="https://github.com/xnlh4ck3r/xnLinkFinder">xnLinkFinder </a> | A python tool used to discover endpoints for a given target |
+| <a href="https://github.com/xnl-h4ck3r/xnLinkFinder">xnLinkFinder </a> | A python tool used to discover endpoints for a given target |
 | <a href="https://github.com/MayankPandey01/BrokenLinkHijacker">BLH </a> | BrokenLinkHijacker is a Fast Broken Link Hijacker Tool written in Python |
 | <a href="https://medium.com/@thebugbountyhunter/review-netlasio-for-bugbounty-c062a87b544f">netlas.io </a> | A new search engine for discover, research and monitor any asset. It is so useful for your #bugbounty recon automation. |
 | <a href="https://github.com/punksecurity/secretmagpiecli">SecretMagpie </a> | A secret detection tool that hunts out all the secrets hiding in all your repositories. |
