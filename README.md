@@ -107,7 +107,7 @@
 | <a href="https://github.com/hisxo/JSpector">JSpector </a> | It is a Burp Suite extension that passively crawls JavaScript files and automatically creates issues with URLs and endpoints found on the JS files |
 | <a href="https://blog.projectdiscovery.io/uncover/">Uncover </a> | Quickly discover exposed hosts using multiple search engines |
 | <a href="https://blog.projectdiscovery.io/asnmap/">ASNMap </a> | A Golang CLI tool for speedy reconnaissance using ASN data |
-| <a href="https://github.com/dwisiswant0/godork">Go Dork </a> | The fastest dork scanner written in Go |
+| <a href="https://github.com/dwisiswant0/go-dork">Go Dork </a> | The fastest dork scanner written in Go |
 | <a href="https://github.com/s0md3v/uro">uro </a> | Declutters url lists for crawling/pentesting |
 | <a href="https://github.com/google/clusterfuzzlite">ClusterFuzzLite </a> | Simple continuous fuzzing that runs in CI |
 | <a href="https://github.com/carlospolop/Gorks">Gorks </a> | Google Dorks finally made easy to run without hiding. |
