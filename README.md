@@ -101,7 +101,7 @@
 | <a href="https://github.com/xnl-h4ck3r/xnLinkFinder">xnLinkFinder </a> | A python tool used to discover endpoints for a given target |
 | <a href="https://github.com/MayankPandey01/BrokenLinkHijacker">BLH </a> | BrokenLinkHijacker is a Fast Broken Link Hijacker Tool written in Python |
 | <a href="https://medium.com/@thebugbountyhunter/review-netlasio-for-bugbounty-c062a87b544f">netlas.io </a> | A new search engine for discover, research and monitor any asset. It is so useful for your #bugbounty recon automation. |
-| <a href="https://github.com/punksecurity/secretmagpiecli">SecretMagpie </a> | A secret detection tool that hunts out all the secrets hiding in all your repositories. |
+| <a href="https://github.com/punk-security/secret-magpie">SecretMagpie </a> | A secret detection tool that hunts out all the secrets hiding in all your repositories. |
 | <a href="https://github.com/codingo/bbr">bbr </a> | It is an open source tool to aid in command line driven generation of bug bounty reports based on user provided templates. |
 | <a href="https://oweng.medium.com/introducing-packet-streamer-distributed-packet-capture-for-cloud-native-platforms-3e7f9ac57ab1">PacketStreamer </a> | This is a tool for distributed packet capture for cloudnative platforms |
 | <a href="https://github.com/hisxo/JSpector">JSpector </a> | It is a Burp Suite extension that passively crawls JavaScript files and automatically creates issues with URLs and endpoints found on the JS files |
