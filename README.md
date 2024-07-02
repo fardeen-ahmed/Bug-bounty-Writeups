@@ -89,8 +89,7 @@
 | <a href="https://github.com/fingerprintjs/gradejs">GradeJS </a> | This tool analyzes production Webpack bundles without having access to the source code of a website. |
 | <a href="https://github.com/xnl-h4ck3r/waymore">Waymore </a> | Find way more from the Wayback Machine! |
 | <a href="https://github.com/carlospolop/Pastos">Pastos </a> | Search pastes in tens of webs in seconds with GCSE. |
-| <a href="https://github.com/hisxo/JSpector">JSpector </a> | JSpector is a Burp Suite extension that passively crawls JavaScript files and automatically creates issues with URLs and endpoints found on the JS files. |
-| <a href="https://github.com/gwen001/gitlabsubdomains">gitlabsubdomains </a> | Find subdomains on GitLab |
+| <a href="https://github.com/gwen001/gitlab-subdomains">gitlabsubdomains </a> | Find subdomains on GitLab |
 | <a href="https://github.com/glebarez/cero"> Cero </a> | Scrape domain names from SSL certificates of arbitrary hosts |
 | <a href="https://github.com/s0md3v/Smap">Smap </a> | Passive Nmap like scanner built with shodan.io |
 | <a href="https://github.com/merttasci/csrf-poc-generator">CSRF Generator </a> | This html file creates a csrf poc form to any http request. |
