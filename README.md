@@ -80,7 +80,7 @@
 | <a href="https://github.com/0xmoot/s3sec">S3Sec </a> | Check AWS S3 instances for read/write/delete access |
 | <a href="https://securitytrails.com/blog/uniscan">Uniscan </a> | An RFI, LFI, and RCE Vulnerability Scanner |
 | <a href="https://github.com/bcoles/jira_scan">Jira Scan </a> | This is a simple remote scanner for Atlassian Jira. |
-| <a href="https://spaceraccoon.github.io/webpackexploder/">Webpack Exploder </a> | Unpack the source code of React and other Webpacked Javascript apps! Check out Expanding the Attack Surface. |
+| <a href="https://spaceraccoon.github.io/webpack-exploder/">Webpack Exploder </a> | Unpack the source code of React and other Webpacked Javascript apps! Check out Expanding the Attack Surface. |
 | <a href="https://github.com/DigeeX/raider">Raider </a> | Web authentication testing framework |
 | <a href="https://github.com/gokulapap/Reconator">Reconator </a> | Automated Recon for Pentesting & Bug Bounty |
 | <a href="https://github.com/whwlsfb/Log4j2Scan">Log4j2Scan </a> | Log4j2 RCE Passive Scanner plugin for BurpSuite |
