@@ -87,7 +87,7 @@
 | <a href="https://github.com/iamnihal/warf"> WARF </a> | This is a Web Application Reconnaissance Framework that helps to gather information about the target. |
 | <a href="https://github.com/m3n0sd0n4ld/GooFuzz">GooFuzz </a> | GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking). |
 | <a href="https://github.com/fingerprintjs/gradejs">GradeJS </a> | This tool analyzes production Webpack bundles without having access to the source code of a website. |
-| <a href="https://github.com/xnlh4ck3r/waymore">Waymore </a> | Find way more from the Wayback Machine! |
+| <a href="https://github.com/xnl-h4ck3r/waymore">Waymore </a> | Find way more from the Wayback Machine! |
 | <a href="https://github.com/carlospolop/Pastos">Pastos </a> | Search pastes in tens of webs in seconds with GCSE. |
 | <a href="https://github.com/hisxo/JSpector">JSpector </a> | JSpector is a Burp Suite extension that passively crawls JavaScript files and automatically creates issues with URLs and endpoints found on the JS files. |
 | <a href="https://github.com/CoolerVoid/Mosca"> Mosca </a> | Manual search tool to find bugs like a grep unix command  Beta |
