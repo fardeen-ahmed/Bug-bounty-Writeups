@@ -112,7 +112,7 @@
 | <a href="https://github.com/google/clusterfuzzlite">ClusterFuzzLite </a> | Simple continuous fuzzing that runs in CI |
 | <a href="https://github.com/carlospolop/Gorks">Gorks </a> | Google Dorks finally made easy to run without hiding. |
 | <a href="https://github.com/mosajjal/dnsmonster">dnsmonster </a> | Passive DNS Capture/Monitoring Framework |
-| <a href="https://research.securitum.com/fail-2-ban-remote-code-execution/">fail2ban </a> | Remote Code Execution |
+| <a href="https://research.securitum.com/fail2ban-remote-code-execution/">fail2ban </a> | Remote Code Execution |
 | <a href="https://github.com/dwisiswant0/ppfuzz?tag=v1.0.0">ppfuzz </a> | Prototype Pollution Fuzzer |
 | <a href="https://github.com/roottanishq/userefuzz">userefuzz </a> | UserAgent , XForwardedFor and Referer SQLI Fuzzer |
 | <a href="https://github.com/Sachinv3rma/Astra">Astra </a> | Astra finds urls, endpoints, aws buckets, api keys, tokens, etc from a given url/s |
