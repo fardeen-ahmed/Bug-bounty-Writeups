@@ -68,7 +68,7 @@
 | <a href="https://github.com/Anof-cyber/Pycript"> Pycript </a> | This is a Burp Suite extension that enables users to encrypt and decrypt requests for manual and automated application penetration testing. |
 | <a href="https://github.com/Josue87/gotator"> Gotator </a> | This is a tool to generate DNS wordlists through permutations. |
 | <a href="https://github.com/michelin/ChopChop">ChopChop </a> | This is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders |
-| <a href="https://iosiro.com/blog/base-runner-exploiting-firebase-datastores">Baserunner</a> | This is a tool for exploring and exploiting Firebase datastores |
+| <a href="https://iosiro.com/blog/baserunner-exploiting-firebase-datastores">Baserunner</a> | This is a tool for exploring and exploiting Firebase datastores |
 | <a href="https://github.com/r0075h3ll/Oralyzer">Oralyzer </a> | This a simple python script that probes for Open Redirection vulnerability in a website. It does that by fuzzing the URL that is provided in the input |
 | <a href="https://github.com/roottusk/vapi">vAPI </a> | This is Vulnerable Adversely Programmed Interface which is SelfHostable API that mimics OWASP API Top 10 scenarios in the means of Exercises. |
 | <a href="https://github.com/edoardottt/favirecon">FIVERECON </a> | Use favicon.ico to improve your target recon phase. Quickly detect technologies, WAF, exposed panels, known services. |
