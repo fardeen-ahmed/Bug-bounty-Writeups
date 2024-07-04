@@ -145,7 +145,7 @@
 | <A href="https://www.pavel.gr/blog/dll-hijacking-using-spartacus">DLL Hijacking using Spartacus, outside of DllMain</a> |
 | <a href="https://github.com/mrh0wl/Cloudmare">Cloudflare, Sucuri, Incapsula real IP tracker</a> |
 | <a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">A Brief Introduction to Prototype Pollution</a> |
-| <a href="https://devsecopsdocs.com/blog/nuclearpond/">Nuclear Pond</a> |
+| <a href="https://devsecopsdocs.com/blog/nuclear-pond/">Nuclear Pond</a> |
 | <a href="https://blog.securelayer7.net/staticanalysisofandroidapplicationtoolsusedsecurelayer7/">OWASP Top 10: Static Analysis of Android Application & Tools Used</a> |
 | <a href="https://github.com/iustin24/chameleon">Chameleon provides better content discovery by using wappalyzer's set of technology fingerprints alongside custom wordlists tailored to each detected technologies</a> |
 | <a href="https://medium.com/@murami.ike/workingwithascopeusinggowitness4d338b0321ac">Working with a scope using Gowitness</a> |
