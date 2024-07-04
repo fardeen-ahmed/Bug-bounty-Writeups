@@ -136,8 +136,7 @@
 | <a href="https://portswigger.net/dailyswig/teen-hacker-scoops-4500-bug-bounty-for-facebook-flaw-that-allowed-attackers-to-unmask-page-admins">Teen hacker scoops $4,500 bug bounty for Facebook flaw that allowed attackers to unmask page admins</a> |
 | <A href="https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017">400$ Bounty again using Google Dorks</a> |
 | <a href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2020">Top 10 web hacking techniques of 2020 | PortSwigger Research</a> |
-| <a href="https://technicalsurendra.medium.com/commandinjectionallinoneblog52591ad750df">Command Injection — All in one Blog</a> |
-| <a href="https://manasharsh.medium.com/howgopherworksinescalatingssrfsce6e5459b630">How Gopher works in escalating SSRFs</a> |
+| <a href="https://infosecwriteups.com/how-gopher-works-in-escalating-ssrfs-ce6e5459b630">How Gopher works in escalating SSRFs</a> |
 | <a href="https://portswigger.net/dailyswig/latestwebhackingtoolsq32021">Latest web hacking tools – Q3 2021</a>|
 | <a href="https://www.dig.security/post/gcpcloudsqlvulnerabilityleadstointernalcontaineraccessanddataexposure">GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure</a> |
 | <a href="https://blog.grimmco.com/2021/11/escalatingxsstosainthoodwithnagios.html">Escalating XSS to Sainthood with Nagios</a> |
