@@ -151,7 +151,7 @@
 | <a href="https://medium.com/@murami.ike/working-with-a-scope-using-gowitness-4d338b0321ac">Working with a scope using Gowitness</a> |
 | <a href="https://thexssrat.medium.com/what-the-fuzz-the-truth-behind-content-discovery-77cd0c0756e7">What the fuzz?! — The truth behind content discovery</a> |
 | <a href="https://security.googleblog.com/2023/05/introducing-new-way-to-buzz-for-ebpf.html">Introducing a new way to buzz for eBPF vulnerabilities</a> |
-| <a href="https://www.legitsecurity.com/blog/remotecodeexecutionvulnerabilityinazurepipelinescanleadtosoftwaresupplychainattack">Remote Code Execution Vulnerability in Azure Pipelines Can Lead To Software Supply Chain Attack</a> |
+| <a href="https://securityboulevard.com/2023/03/remote-code-execution-vulnerability-in-azure-pipelines-can-lead-to-software-supply-chain-attack/">Remote Code Execution Vulnerability in Azure Pipelines Can Lead To Software Supply Chain Attack</a> |
 | <a href="https://portswigger.net/dailyswig/securityresearcherearnsplauditsafterdiscoveringyandexssrfflaw">Security researcher earns plaudits after discovering Yandex SSRF flaw</a> |
 | <a href="https://medium.com/pentesternepal/howiwasabletorevealpageadminofalmostanypageonfacebook5a8d68253e0c">How I was able to reveal page admin of almost any page on Facebook</a> |
 | <a href="https://xkurtph.medium.com/shopifypluginbypassusingclientsideinjectionthruapiimplementationvulnerability710d25105c8f">Shopify Plugin Bypass using P3 Clientside injection thru API Implementation Vulnerability</a> |
