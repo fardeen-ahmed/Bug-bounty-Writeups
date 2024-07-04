@@ -149,7 +149,6 @@
 | <a href="https://blog.securelayer7.net/static-analysis-of-android-application-tools-used-securelayer7/">OWASP Top 10: Static Analysis of Android Application & Tools Used</a> |
 | <a href="https://github.com/iustin24/chameleon">Chameleon provides better content discovery by using wappalyzer's set of technology fingerprints alongside custom wordlists tailored to each detected technologies</a> |
 | <a href="https://medium.com/@murami.ike/working-with-a-scope-using-gowitness-4d338b0321ac">Working with a scope using Gowitness</a> |
-| <a href="https://blog.projectdiscovery.io/implementingnucleiintoyourgitlabcicdpipelineforscanninglivewebapplications/">Implementing Nuclei into your GitLab CI/CD Pipeline for Scanning Live Web Applications</a> |
 | <a href="https://thexssrat.medium.com/whatthefuzzthetruthbehindcontentdiscovery77cd0c0756e7">What the fuzz?! — The truth behind content discovery</a> |
 | <a href="https://hacknopedia.com/2022/08/17/musthavebrowseraddonsorextensionsforbugbounty/">Must Have Browser Extensions for Bug Bounty</a> |
 | <a href="http://security.googleblog.com/2023/05/introducingnewwaytobuzzforebpf.html">Introducing a new way to buzz for eBPF vulnerabilities</a> |
