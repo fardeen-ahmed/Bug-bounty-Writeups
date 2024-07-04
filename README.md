@@ -138,7 +138,7 @@
 | <a href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2020">Top 10 web hacking techniques of 2020 | PortSwigger Research</a> |
 | <a href="https://infosecwriteups.com/how-gopher-works-in-escalating-ssrfs-ce6e5459b630">How Gopher works in escalating SSRFs</a> |
 | <a href="https://cloudsecurityalliance.org/blog/2023/09/01/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure">GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure</a> |
-| <a href="https://labs.detectify.com/2021/08/10/howtohackapisin2021/">How to Hack APIs in 2021</a> |
+| <a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">How to Hack APIs in 2021</a> |
 | <a href="https://akshitainfosec.medium.com/burpmacroswhatwhyhow151df8901641">Burp Macros: What, Why & How?</a> |
 | <a href="https://sicks3c.medium.com/setupyourprivateburpcollaboratorforssrfxxefd6cf01c8ca">Setup Your Private Burp Collaborator for SSRF/XXE</a> |
 | <a href="https://portswigger.net/blog/experienceburpsuiteenterpriseeditioninanewlivedemo">Experience Burp Suite Enterprise Edition in a new live demo</a> |
