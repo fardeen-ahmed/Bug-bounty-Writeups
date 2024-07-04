@@ -142,7 +142,7 @@
 | <a href="https://akshitainfosec.medium.com/burp-macros-what-why-how-151df8901641">Burp Macros: What, Why & How?</a> |
 | <a href="https://sicks3c.medium.com/set-up-your-private-burp-collaborator-for-ssrf-xxe-fd6cf01c8ca">Setup Your Private Burp Collaborator for SSRF/XXE</a> |
 | <a href="https://portswigger.net/blog/experience-burp-suite-enterprise-edition-in-a-new-live-demo">Experience Burp Suite Enterprise Edition in a new live demo</a> |
-| <A href="https://www.pavel.gr/blog/dllhijackingusingspartacusoutsideofdllmain">DLL Hijacking using Spartacus, outside of DllMain</a> |
+| <A href="https://www.pavel.gr/blog/dll-hijacking-using-spartacus">DLL Hijacking using Spartacus, outside of DllMain</a> |
 | <a href="https://github.com/mrh0wl/Cloudmare">Cloudflare, Sucuri, Incapsula real IP tracker</a> |
 | <a href="https://mikekitckchan.medium.com/abriefintroductiontoprototypepollutionb154c23b40c5">A Brief Introduction to Prototype Pollution</a> |
 | <a href="https://devsecopsdocs.com/blog/nuclearpond/">Nuclear Pond</a> |
