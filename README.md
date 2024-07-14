@@ -172,7 +172,7 @@
 | <a href="https://portswigger.net/blog/server-side-prototype-pollution-scanner">ServerSide Prototype Pollution Scanner</a> |
 | <a href="https://medium.com/@dhananjaytupe748/fuff-and-seclists-4599b2677f">FUFF and SecLists</a> |
 | <a href="https://www.wiz.io/blog/hells-keychain-supply-chain-attack-in-ibm-cloud-databases-for-postgresql">Hell’s Keychain: Supplychain vulnerability in IBM Cloud Databases for PostgreSQL allows potential for unauthorized database access </a> |
-| <a href="https://www.synacktiv.com/sites/default/files/202303/SynacktivGrailsSpringSecurityCVE202241923.pdf">Improper Privilege Management in Grails Spring Security Core <= 5.1.0 CVE202241923</a> |
+| <a href="https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf">Improper Privilege Management in Grails Spring Security Core <= 5.1.0 CVE202241923</a> |
 | <a href="https://www.tenable.com/blog/cve202141773pathtraversalzerodayinapachehttpserverexploited">CVE202141773: Path Traversal ZeroDay in Apache HTTP Server Exploited</a> |
 | <a href="https://nmochea.medium.com/gcashvulnerabilitywalkthrough697ea22f97c2">Gcash Vulnerability Walkthrough</a> |
 | <a href="https://terjanq.medium.com/wafbypassesvia0daysd4ef1f212ec">WAF bypasses via 0days</a> |
