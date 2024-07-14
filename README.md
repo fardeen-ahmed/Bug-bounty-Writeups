@@ -169,7 +169,7 @@
 | <a href="https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/">Reverse engineering Flutter for Android + Doldrums (Doldrums is a reverse engineering tool for Flutter apps) |
 | <a href ="https://github.com/rscloura/Doldrums">Tool Link = _Doldrum Tool_</a></a> |
 | <a href="https://medium.com/r3dbuck3t/top-10-tips-for-burpsuite-72212d22328f">Top 10 Tips for Burp Suite</a> |
-| <a href="https://portswigger.net/blog/serversideprototypepollutionscanner">ServerSide Prototype Pollution Scanner</a> |
+| <a href="https://portswigger.net/blog/server-side-prototype-pollution-scanner">ServerSide Prototype Pollution Scanner</a> |
 | <a href="https://medium.com/@dhananjaytupe748/fuffandseclists4599b2677f">FUFF and SecLists</a> |
 | <a href="https://codebyter.com/2023/04/16/raybanhacking.html">Now I See You: Uncovering Security Vulnerabilities in Camera Sunglasses</a> |
 | <a href="https://www.wiz.io/blog/hellskeychainsupplychainattackinibmclouddatabasesforpostgresql">Hell’s Keychain: Supplychain vulnerability in IBM Cloud Databases for PostgreSQL allows potential for unauthorized database access </a> |
