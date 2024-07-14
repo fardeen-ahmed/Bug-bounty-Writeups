@@ -173,9 +173,7 @@
 | <a href="https://medium.com/@dhananjaytupe748/fuff-and-seclists-4599b2677f">FUFF and SecLists</a> |
 | <a href="https://www.wiz.io/blog/hells-keychain-supply-chain-attack-in-ibm-cloud-databases-for-postgresql">Hell’s Keychain: Supplychain vulnerability in IBM Cloud Databases for PostgreSQL allows potential for unauthorized database access </a> |
 | <a href="https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf">Improper Privilege Management in Grails Spring Security Core <= 5.1.0 CVE202241923</a> |
-| <a href="https://www.tenable.com/blog/cve202141773pathtraversalzerodayinapachehttpserverexploited">CVE202141773: Path Traversal ZeroDay in Apache HTTP Server Exploited</a> |
-| <a href="https://nmochea.medium.com/gcashvulnerabilitywalkthrough697ea22f97c2">Gcash Vulnerability Walkthrough</a> |
-| <a href="https://terjanq.medium.com/wafbypassesvia0daysd4ef1f212ec">WAF bypasses via 0days</a> |
+| <a href="https://terjanq.medium.com/waf-bypasses-via-0days-d4ef1f212ec">WAF bypasses via 0days</a> |
 | <a href="https://medium.com/@querylab/idorandapikeystokenhardcodeexposed201c73d2d667">IDOR and APIkeys🔑Token Hardcode Exposed</a> |
 | <a href="https://blog.assetnote.io/2023/01/24/yellowfinauthbypasstorce/">Exploiting Hardcoded Keys to achieve RCE in Yellowfin BI</a> |
 | <a href="https://www.rcesecurity.com/2022/07/WordPressTransposhExploitingaBlindSQLInjectionviaXSS/">Here's my story about 8 CVEs resulting in a plugin removal and more than $30,000 in bounties!</a> |
