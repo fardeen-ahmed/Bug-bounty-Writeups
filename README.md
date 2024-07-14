@@ -157,7 +157,7 @@
 | <a href="https://xkurtph.medium.com/shopify-plugin-bypass-using-client-side-injection-thru-api-implementation-vulnerability-710d25105c8f">Shopify Plugin Bypass using P3 Clientside injection thru API Implementation Vulnerability</a> |
 | <a href="https://github.com/honoki/bugbounty-openvpn-socks">Run all your bug bounty VPN profiles in parallel and expose them via multiple local SOCKS proxies.</a> |
 | <a href="https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae">A tale of zero click account takeover</a> |
-| <a href="https://hacktus.tech/subdomaintakeoverleadingtofullaccounttakeover">Subdomain Takeover leading to Full Account Takeover</a> |
+| <a href="https://hacktus.tech/subdomain-takeover-leading-to-full-account-takeover">Subdomain Takeover leading to Full Account Takeover</a> |
 | <a href="https://www.cyberick.com/post/howtofindnewmoredomainsofacompanyreconstuff">How to find new/more domains of a company?  Recon Stuff</a> |
 | <a href="https://n00b.sh/posts/aeskillermobileappdemo/">Decrypting Mobile App Traffic using AES Killer and Frida</a> |
 | <a href="https://burpsuite.guide/blog/howgoodisburpsapiscanning/">How good is Burp's API Scanning?</a> |
