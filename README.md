@@ -155,7 +155,7 @@
 | <a href="https://portswigger.net/daily-swig/security-researcher-earns-plaudits-after-discovering-yandex-ssrf-flaw">Security researcher earns plaudits after discovering Yandex SSRF flaw</a> |
 | <a href="https://medium.com/pentesternepal/how-i-was-able-to-reveal-page-admin-of-almost-any-page-on-facebook-5a8d68253e0c">How I was able to reveal page admin of almost any page on Facebook</a> |
 | <a href="https://xkurtph.medium.com/shopify-plugin-bypass-using-client-side-injection-thru-api-implementation-vulnerability-710d25105c8f">Shopify Plugin Bypass using P3 Clientside injection thru API Implementation Vulnerability</a> |
-| <a href="https://github.com/honoki/bugbountyopenvpnsocks">Run all your bug bounty VPN profiles in parallel and expose them via multiple local SOCKS proxies.</a> |
+| <a href="https://github.com/honoki/bugbounty-openvpn-socks">Run all your bug bounty VPN profiles in parallel and expose them via multiple local SOCKS proxies.</a> |
 | <a href="https://medium.com/pentesternepal/ataleofzeroclickaccounttakeover56b51fdbd7ae">A tale of zero click account takeover</a> |
 | <a href="https://hacktus.tech/subdomaintakeoverleadingtofullaccounttakeover">Subdomain Takeover leading to Full Account Takeover</a> |
 | <a href="https://www.cyberick.com/post/howtofindnewmoredomainsofacompanyreconstuff">How to find new/more domains of a company?  Recon Stuff</a> |
