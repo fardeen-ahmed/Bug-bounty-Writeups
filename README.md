@@ -162,7 +162,7 @@
 | <a href="https://thexssrat.medium.com/csrf-tes-guide-for-bug-bounty-hunters-d14db3462695">CSRF Testing Guide For Bug Bounty Hunters</a> |
 | <a href="https://github.com/Hacker0x01/awesome-hacker-api-tools">A collection of hacker tools using HackerOne's API</a> |
 | <a href="https://hackerone.com/reports/414101">Vulnerabilities in exported activity WebView</a> |
-| <a href="https://offsec.almond.consulting/ghostscriptcve202328879.html">Shell in the Ghost: Ghostscript CVE202328879 writeup</a> |
+| <a href="https://offsec.almond.consulting/ghostscript-cve-2023-28879.html">Shell in the Ghost: Ghostscript CVE202328879 writeup</a> |
 | <a href="https://medium.com/@Sm9l/bugbountyreconhorizontalcorrelationb7c81a32951a">Bug Bounty Recon: Horizontal Correlation</a> |
 | <a href="https://infosecwriteups.com/howifoundmultiplesqlinjectionwithffufandsqlmapinafewminutes2824cd4dfab">How I Found multiple SQL Injection with FFUF and Sqlmap in a few minutes</a> |
 | <a href="https://googleprojectzero.blogspot.com/2021/12/adeepdiveintonsozeroclick.html">A deep dive into an NSO zeroclick iMessage exploit: Remote Code Execution </a> |
