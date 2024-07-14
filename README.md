@@ -166,8 +166,9 @@
 | <a href="https://medium.com/@Sm9l/bug-bounty-recon-horizontal-correlation-b7c81a32951a">Bug Bounty Recon: Horizontal Correlation</a> |
 | <a href="https://infosecwriteups.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-2824cd4dfab">How I Found multiple SQL Injection with FFUF and Sqlmap in a few minutes</a> |
 | <a href="https://medium.com/@sarafsaransh321/how-i-earned-240-from-a-zero-interface-53d244a231f9">How I earned 240$ from a Zero Interface</a> |
-| <a href="https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/">Reverse engineering Flutter for Android + Doldrums (Doldrums is a reverse engineering tool for Flutter apps)<a href ="https://github.com/rscloura/Doldrums">Tool Link = _Doldrum Tool_</a></a> |
-| <a href="https://medium.com/r3dbuck3t/top10tipsforburpsuite72212d22328f">Top 10 Tips for Burp Suite</a> |
+| <a href="https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/">Reverse engineering Flutter for Android + Doldrums (Doldrums is a reverse engineering tool for Flutter apps) |
+| <a href ="https://github.com/rscloura/Doldrums">Tool Link = _Doldrum Tool_</a></a> |
+| <a href="https://medium.com/r3dbuck3t/top-10-tips-for-burpsuite-72212d22328f">Top 10 Tips for Burp Suite</a> |
 | <a href="https://portswigger.net/blog/serversideprototypepollutionscanner">ServerSide Prototype Pollution Scanner</a> |
 | <a href="https://medium.com/@dhananjaytupe748/fuffandseclists4599b2677f">FUFF and SecLists</a> |
 | <a href="https://codebyter.com/2023/04/16/raybanhacking.html">Now I See You: Uncovering Security Vulnerabilities in Camera Sunglasses</a> |
