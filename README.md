@@ -160,7 +160,7 @@
 | <a href="https://hacktus.tech/subdomain-takeover-leading-to-full-account-takeover">Subdomain Takeover leading to Full Account Takeover</a> |
 | <a href="https://n00b.sh/posts/aes-killer-mobile-app-demo/">Decrypting Mobile App Traffic using AES Killer and Frida</a> |
 | <a href="https://thexssrat.medium.com/csrf-tes-guide-for-bug-bounty-hunters-d14db3462695">CSRF Testing Guide For Bug Bounty Hunters</a> |
-| <a href="https://github.com/Hacker0x01/awesomehackerapitools">A collection of hacker tools using HackerOne's API</a> |
+| <a href="https://github.com/Hacker0x01/awesome-hacker-api-tools">A collection of hacker tools using HackerOne's API</a> |
 | <a href="https://hackerone.com/reports/414101">Vulnerabilities in exported activity WebView</a> |
 | <a href="https://offsec.almond.consulting/ghostscriptcve202328879.html">Shell in the Ghost: Ghostscript CVE202328879 writeup</a> |
 | <a href="https://medium.com/@Sm9l/bugbountyreconhorizontalcorrelationb7c81a32951a">Bug Bounty Recon: Horizontal Correlation</a> |
