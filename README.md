@@ -176,7 +176,7 @@
 | <a href="https://terjanq.medium.com/waf-bypasses-via-0days-d4ef1f212ec">WAF bypasses via 0days</a> |
 | <a href="https://medium.com/@querylab/idor-and-api-keys-token-hard-code-exposed-201c73d2d667">IDOR and APIkeys🔑Token Hardcode Exposed</a> |
 | <a href="https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-via-XSS/">Here's my story about 8 CVEs resulting in a plugin removal and more than $30,000 in bounties!</a> |
-| <a href="https://rashahacks.com/howifuzzandhackapi/">How I fuzz and hack APIs?</a> |
+| <a href="https://rashahacks.com/how-i-fuzz-and-hack-api/">How I fuzz and hack APIs?</a> |
 | <a href="https://portswigger.net/dailyswig/prototypepollutionlikebugvariantdiscoveredinpython">Prototype pollutionlike bug variant discovered in Python</a> |
 | <a href="https://trufflesecurity.com/blog/ofcors/index.html">Bypass firewalls with ofCORs and typosquatting</a> |
 | <a href="https://securitylabs.datadoghq.com/articles/iamadmincloudtrailbypass/">AWS CloudTrail vulnerability: Undocumented API allows CloudTrail bypass</a> |
