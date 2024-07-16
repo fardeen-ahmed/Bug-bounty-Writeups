@@ -198,7 +198,7 @@
 | <a href="https://blog.projectdiscovery.io/implementing-nuclei-into-your-gitlab-ci-cd-pipeline-for-scanning-live-web-applications/">Implementing Nuclei into your Bitbucket CI/CD Pipeline for Scanning Live Web Applications</a> |
 | <a href="https://medium.com/@akashtesla/how-to-automate-your-initial-recon-and-extend-asm-using-subscout-a52de14a2b6a">How to automate your initial recon and extend ASM using SubScout</a> |
 | <a href="https://research.aurainfosec.io/pentest/pentah0wnage/">Pentah0wnage: PreAuth RCE in Pentaho Business Analytics Server</a> |
-| <a href="https://omar0x01.medium.com/companybuildingtakeover10a422385390">Full Company Building Takeover</a> |
+| <a href="https://omar0x01.medium.com/company-building-takeover-10a422385390">Full Company Building Takeover</a> |
 | <a href="https://sector7.computest.nl/post/202301xar/">Bad things come in large packages: .pkg signature verification bypass on macOS</a> |
 | <a href="https://blog.impalabs.com/2303_advisory_parallelsdesktop_toolgate.html">Parallels Desktop Toolgate Vulnerability</a> |
 | <a href="https://www.cidersecurity.io/blog/research/howweabusedrepositorywebhookstoaccessinternalcisystemsatscale/">How we Abused Repository Webhooks to Access Internal CI Systems at Scale </a> |
