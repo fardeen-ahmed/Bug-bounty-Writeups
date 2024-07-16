@@ -179,7 +179,7 @@
 | <a href="https://rashahacks.com/how-i-fuzz-and-hack-api/">How I fuzz and hack APIs?</a> |
 | <a href="https://portswigger.net/dailyswig/prototypepollutionlikebugvariantdiscoveredinpython">Prototype pollutionlike bug variant discovered in Python</a> |
 | <a href="https://trufflesecurity.com/blog/ofcors/index.html">Bypass firewalls with ofCORs and typosquatting</a> |
-| <a href="https://securitylabs.datadoghq.com/articles/iamadmincloudtrailbypass/">AWS CloudTrail vulnerability: Undocumented API allows CloudTrail bypass</a> |
+| <a href="https://securitylabs.datadoghq.com/articles/iamadmin-cloudtrail-bypass/">AWS CloudTrail vulnerability: Undocumented API allows CloudTrail bypass</a> |
 | <a href="https://vulncheck.com/blog/cve202247966payload">A Different Payload for CVE202247966</a> |
 | <a href="https://medium.com/@Brian.IsMeta/difficultyofreproducingoldexploitsa613da2c2143">Difficulty of Reproducing Old Exploits (Part 1)</a> |
 | <a href="https://medium.com/@Brian.IsMeta/difficultyofreproducingoldexploitsparttwo3c2db88232e5">Difficulty of Reproducing Old Exploits (Part 2)</a> | 
