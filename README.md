@@ -189,7 +189,7 @@
 | <a href="https://hackerone.com/reports/1439026">Discoverability by phone number/email restriction bypass</a> |
 | <a href="https://slashparity.com/?p=938">GCP Pentesting Guide</a> |
 | <a href="https://www.dsecbypass.com/en/centreon-map-vulnerability/">Centreon map vulnerability</a> |
-| <a href="https://medium.com/@coffeeaddict_exe/500in5minutes45977e89a337">$500 in 5 minutes</a> |
+| <a href="https://medium.com/@coffeeaddict_exe/500-in-5-minutes-45977e89a337">$500 in 5 minutes</a> |
 | <a href="https://medium.com/@poetryoflive/howidesignmyprefectbugbountyautomation117d0292cbad">How I Design My Prefect Bug Bounty Automation (Part 1)</a> |
 | <a href="https://medium.com/@poetryoflive/howidesignmyprefectbugbountyautomation2f27fc5612d9f">How I Design My Prefect Bug Bounty Automation (Part 2)</a> |
 | <a href="https://hackerone.com/reports/1273292">Internal Gitlab Ticket Disclosure via External Slack Channels</a> |
