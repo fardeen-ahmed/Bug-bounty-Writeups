@@ -183,7 +183,7 @@
 | <a href="https://vulncheck.com/blog/cve202247966payload">A Different Payload for CVE202247966</a> |
 | <a href="https://medium.com/@Brian.IsMeta/difficulty-of-reproducing-old-exploits-a613da2c2143">Difficulty of Reproducing Old Exploits (Part 1)</a> |
 | <a href="https://medium.com/@Brian.IsMeta/difficulty-of-reproducing-old-exploits-part-two-3c2db88232e5">Difficulty of Reproducing Old Exploits (Part 2)</a> | 
-| <a href="https://www.immersivelabs.com/blog/wediscoveredmajorvulnerabilitiesincontrolwebpanelhereshowwefoundthem/">We discovered major vulnerabilities in Control Web Panel. Here’s how we found them</a> |
+| <a href="https://www.immersivelabs.com/blog/we-discovered-major-vulnerabilities-in-control-web-panel-heres-how-we-found-them/">We discovered major vulnerabilities in Control Web Panel. Here’s how we found them</a> |
 | <a href="https://srcincite.io/blog/2022/08/09/fromshareddashtorootbashpreauthenticatedrceinvmwarevrealizeoperationsmanager.html">From Shared Dash to Root Bash :: PreAuthenticated RCE in VMWare vRealize Operations Manager</a> |
 | <a href="https://medium.com/@_deshine_/accounttakeoverduetoawscognitomisconfiguration7b092c667ee3">Account Take Over Due To AWS Cognito Misconfiguration</a> |
 | <a href="https://hackerone.com/reports/1439026">Discoverability by phone number/email restriction bypass</a> |
