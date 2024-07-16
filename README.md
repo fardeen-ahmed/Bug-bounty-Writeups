@@ -180,7 +180,7 @@
 | <a href="https://portswigger.net/daily-swig/prototype-pollution-like-bug-variant-discovered-in-python">Prototype pollution like bug variant discovered in Python</a> |
 | <a href="https://trufflesecurity.com/blog/ofcors/index.html">Bypass firewalls with ofCORs and typosquatting</a> |
 | <a href="https://securitylabs.datadoghq.com/articles/iamadmin-cloudtrail-bypass/">AWS CloudTrail vulnerability: Undocumented API allows CloudTrail bypass</a> |
-| <a href="https://vulncheck.com/blog/cve202247966payload">A Different Payload for CVE202247966</a> |
+| <a href="https://vulncheck.com/blog/cve-2022-47966-payload">A Different Payload for CVE202247966</a> |
 | <a href="https://medium.com/@Brian.IsMeta/difficulty-of-reproducing-old-exploits-a613da2c2143">Difficulty of Reproducing Old Exploits (Part 1)</a> |
 | <a href="https://medium.com/@Brian.IsMeta/difficulty-of-reproducing-old-exploits-part-two-3c2db88232e5">Difficulty of Reproducing Old Exploits (Part 2)</a> | 
 | <a href="https://www.immersivelabs.com/blog/we-discovered-major-vulnerabilities-in-control-web-panel-heres-how-we-found-them/">We discovered major vulnerabilities in Control Web Panel. Here’s how we found them</a> |
