@@ -190,10 +190,8 @@
 | <a href="https://slashparity.com/?p=938">GCP Pentesting Guide</a> |
 | <a href="https://www.dsecbypass.com/en/centreon-map-vulnerability/">Centreon map vulnerability</a> |
 | <a href="https://medium.com/@coffeeaddict_exe/500-in-5-minutes-45977e89a337">$500 in 5 minutes</a> |
-| <a href="https://medium.com/@poetryoflive/howidesignmyprefectbugbountyautomation117d0292cbad">How I Design My Prefect Bug Bounty Automation (Part 1)</a> |
-| <a href="https://medium.com/@poetryoflive/howidesignmyprefectbugbountyautomation2f27fc5612d9f">How I Design My Prefect Bug Bounty Automation (Part 2)</a> |
 | <a href="https://hackerone.com/reports/1273292">Internal Gitlab Ticket Disclosure via External Slack Channels</a> |
-| <a href="https://labs.detectify.com/2021/09/30/10typeswebvulnerabilitiesoftenmissed/">10 Types of Web Vulnerabilities that are Often Missed</a> |
+| <a href="https://labs.detectify.com/2021/09/30/10-types-web-vulnerabilities-often-missed/">10 Types of Web Vulnerabilities that are Often Missed</a> |
 | <a href="https://ahmdhalabi.medium.com/ultimatereconnaissanceroadmapforbugbountyhunterspentesters507c9a5374d">Ultimate Reconnaissance RoadMap for Bug Bounty Hunters & Pentesters</a> |
 | <a href="https://www.legitsecurity.com/blog/howtocontinuouslydetectvulnerablejenkinspluginstoavoidasoftwaresupplychainattack">How to Continuously Detect Vulnerable Jenkins Plugins to Avoid a Software Supply Chain Attack</a> |
 | <a href="https://medium.com/@soyelmago/bypassingacreationlimitonfreeaccountsaraceconditionvulnerabilityinbugbountyprogram33e69592d36a">Bypassing a Creation Limit on Free Accounts: A Race Condition Vulnerability in Bug Bounty Program</a> |
