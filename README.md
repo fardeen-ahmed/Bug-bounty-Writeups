@@ -177,7 +177,7 @@
 | <a href="https://medium.com/@querylab/idor-and-api-keys-token-hard-code-exposed-201c73d2d667">IDOR and APIkeys🔑Token Hardcode Exposed</a> |
 | <a href="https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-via-XSS/">Here's my story about 8 CVEs resulting in a plugin removal and more than $30,000 in bounties!</a> |
 | <a href="https://rashahacks.com/how-i-fuzz-and-hack-api/">How I fuzz and hack APIs?</a> |
-| <a href="hhttps://portswigger.net/daily-swig/prototype-pollution-like-bug-variant-discovered-in-python">Prototype pollutionlike bug variant discovered in Python</a> |
+| <a href="https://portswigger.net/daily-swig/prototype-pollution-like-bug-variant-discovered-in-python">Prototype pollution like bug variant discovered in Python</a> |
 | <a href="https://trufflesecurity.com/blog/ofcors/index.html">Bypass firewalls with ofCORs and typosquatting</a> |
 | <a href="https://securitylabs.datadoghq.com/articles/iamadmin-cloudtrail-bypass/">AWS CloudTrail vulnerability: Undocumented API allows CloudTrail bypass</a> |
 | <a href="https://vulncheck.com/blog/cve202247966payload">A Different Payload for CVE202247966</a> |
