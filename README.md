@@ -193,7 +193,7 @@
 | <a href="https://hackerone.com/reports/1273292">Internal Gitlab Ticket Disclosure via External Slack Channels</a> |
 | <a href="https://labs.detectify.com/2021/09/30/10-types-web-vulnerabilities-often-missed/">10 Types of Web Vulnerabilities that are Often Missed</a> |
 | <a href="https://ahmdhalabi.medium.com/ultimate-reconnaissance-roadmap-for-bug-bounty-hunters-pentesters-507c9a5374d">Ultimate Reconnaissance RoadMap for Bug Bounty Hunters & Pentesters</a> |
-| <a href="https://www.legitsecurity.com/blog/howtocontinuouslydetectvulnerablejenkinspluginstoavoidasoftwaresupplychainattack">How to Continuously Detect Vulnerable Jenkins Plugins to Avoid a Software Supply Chain Attack</a> |
+| <a href="https://www.legitsecurity.com/blog/how-to-continuously-detect-vulnerable-jenkins-pluins-to-avoid-a-software-supply-chain-attack">How to Continuously Detect Vulnerable Jenkins Plugins to Avoid a Software Supply Chain Attack</a> |
 | <a href="https://medium.com/@soyelmago/bypassingacreationlimitonfreeaccountsaraceconditionvulnerabilityinbugbountyprogram33e69592d36a">Bypassing a Creation Limit on Free Accounts: A Race Condition Vulnerability in Bug Bounty Program</a> |
 | <a href="https://blog.projectdiscovery.io/implementingnucleiintoyourbitbucketcicdpipelineforscanninglivewebapplications/">Implementing Nuclei into your Bitbucket CI/CD Pipeline for Scanning Live Web Applications</a> |
 | <a href="https://medium.com/@akashtesla/howtoautomateyourinitialreconandextendasmusingsubscouta52de14a2b6a">How to automate your initial recon and extend ASM using SubScout</a> |
