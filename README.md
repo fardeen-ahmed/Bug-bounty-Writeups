@@ -222,8 +222,7 @@
 | <a href="https://medium.com/@shakti.gtp/if-its-a-feature-lets-abuse-it-for-750-19cfb9848d4b">If It’s a Feature!!! Let’s Abuse It for $750</a> |
 | <a href="https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962">Story of my first cash bounty on hackerone</a> |
 | <a href="https://vikaran101.medium.com/how-i-made-it-into-the-united-nations-hall-of-fame-as-i-slept-f567c90be227">How I made it into the United Nations hall of fame as I slept</a> |
-| <a href="https://medium.com/supakiadsm3ez/microsoftbugreportsleadtorankingonmicrosoftmsrcquarterlyleaderboardq32022c6c9f70e2ccd">Microsoft bug reports lead to ranking on Microsoft MSRC Quarterly Leaderboard (Q3 2022)</a> |
-| <a href="https://spaceraccoon.dev/embeddingpayloadsbypassingcontrolsmicrosoftinfopath/">Embedding Payloads and Bypassing Controls in Microsoft InfoPath</a> |
+| <a href="https://spaceraccoon.dev/embedding-payloads-bypassing-controls-microsoft-infopath/">Embedding Payloads and Bypassing Controls in Microsoft InfoPath</a> |
 | <a href="https://blog.stazot.com/sshkeyinjectiongooglecloud/">SSH key injection in Google Cloud Compute Engine (Google VRP)</a> |
 | <a href="https://blog.assetnote.io/2022/09/14/rceinbitbucketserver/">Breaking Bitbucket: Pre Auth Remote Command Execution (CVE202236804)</a> |
 | <a href="https://shahjerry33.medium.com/httpparameterpollutionitscontaminatedagain95c75b0295e1">HTTP Parameter Pollution  It’s Contaminated Again</a> |
