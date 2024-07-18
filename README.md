@@ -217,7 +217,7 @@
 | <a href="https://tutorialboy24.blogspot.com/2022/09/the-blind-exploits-to-rule-watchguard.html">The Blind Exploits To Rule Watchguard Firewalls Vulnerabilities</a> |
 | <a href="http://ysamm.com/?p=597">View orders and financial reports lists for any page shop ($500)</a> |
 | <a href="https://ddosify.com/blog/testing-the-performance-of-user-authentication-flow">Testing the Performance of User Authentication Flow</a> |
-| <a href="https://infosecwriteups.com/huntingforprototypepollutionanditsvulnerablecodeonjslibraries5bab2d6dc746">Hunting for Prototype Pollution and it’s vulnerable code on JS libraries</a> |
+| <a href="https://infosecwriteups.com/hunting-for-prototype-pollution-and-its-vulnerable-code-on-js-libraries-5bab2d6dc746">Hunting for Prototype Pollution and it’s vulnerable code on JS libraries</a> |
 | <a href="https://www.hackerone.com/guestbloggovernmentsacrossworldaremandatingvulnerabilitydisclosuresowhyarecompanies">Governments Across The World Are Mandating Vulnerability Disclosure So Why Are Companies Sitting On Their Hands?</a> |
 | <a href="https://medium.com/@shakti.gtp/ifitsafeatureletsabuseitfor75019cfb9848d4b">If It’s a Feature!!! Let’s Abuse It for $750</a> |
 | <a href="https://vedanttekale20.medium.com/storyofmyfirstcashbountyonhackeroneacad282ae962">Story of my first cash bounty on hackerone</a> |
