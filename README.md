@@ -206,9 +206,8 @@
 | <a href="https://hackerone.com/reports/1501611">An attacker can archive and unarchive any structured scope object on HackerOne</a> |
 | <a href="https://hackerone.com/reports/1295844">Modify inflight data to payment provider Smart2Pay</a> |
 | <a href="https://arxiv.org/pdf/2110.07450.pdf">Bugs in our Pockets: The Risks of ClientSide Scanning</a> |
-| <a href="https://njmulsqb.engineer/2022/05/31/HuntingSourcemapsOnSteroids.html">Hunting Sourcemaps On Steroids</a> |
 | <a href="http://ysamm.com/?p=620">Make recruiting referrals on behalf of employees ($3000)</a> |
-| <a href="https://blog.assetnote.io/2023/02/01/rceinavayaaura/">RCE in Avaya Aura Device Services</a> |
+| <a href="https://blog.assetnote.io/2023/02/01/rce-in-avaya-aura/">RCE in Avaya Aura Device Services</a> |
 | <a href="https://jakearchibald.com/2021/cors/">How to win at CORS</a> |
 | <a href="https://blog.abdulrah33m.com/prototypepollutioninpython/">Prototype Pollution in Python</a> |
 | <a href="https://www.wiz.io/blog/attachmeoraclecloudvulnerabilityallowsunauthorizedcrosstenantvolumeaccess">AttachMe: critical OCI vulnerability allows unauthorized access to customer cloud storage volumes </a> |
