@@ -229,7 +229,7 @@
 | <a href="https://chaosdb.wiz.io/">Critical Vulnerability in Microsoft Azure Cosmos DB</a> |
 | <a href="https://spyclub.tech/2022/12/14/unusual-cache-poisoning-akamai-s3/">Unusual Cache Poisoning between Akamai and S3 buckets</a> |
 | <a href="https://medium.com/@sazouki/how-i-hacked-one-of-the-biggest-airline-in-the-world-e7810dc43791">How I hacked one of the biggest Airline in the world</a> |
-| <a href="https://sinsinology.medium.com/bugbountyshorttipsasimageb4075523e4ef">Bug Bounty Short Tips as image</a> |
+| <a href="https://sinsinology.medium.com/bug-bounty-short-tips-as-image-b4075523e4ef">Bug Bounty Short Tips as image</a> |
 | <a href="https://medium.com/pentesternepal/howifoundabuginapplewithinjustin5mind7357237d7a0">How I found a bug in Apple within just in 5min</a> |
 | <a href="https://blog.assetnote.io/2022/06/09/whatsupgoldexploit/">Chaining vulnerabilities to criticality in Progress WhatsUp Gold</a> |
 | <a href="https://blog.nietaanraken.nl/posts/aurpackagesgithubrepojacking">Hijacking Arch Linux Packages by Repo Jacking GitHub Repositories</a> |
