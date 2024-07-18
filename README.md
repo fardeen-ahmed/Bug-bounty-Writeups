@@ -224,7 +224,7 @@
 | <a href="https://vikaran101.medium.com/how-i-made-it-into-the-united-nations-hall-of-fame-as-i-slept-f567c90be227">How I made it into the United Nations hall of fame as I slept</a> |
 | <a href="https://spaceraccoon.dev/embedding-payloads-bypassing-controls-microsoft-infopath/">Embedding Payloads and Bypassing Controls in Microsoft InfoPath</a> |
 | <a href="https://blog.stazot.com/ssh-key-injection-google-cloud/">SSH key injection in Google Cloud Compute Engine (Google VRP)</a> |
-| <a href="https://blog.assetnote.io/2022/09/14/rceinbitbucketserver/">Breaking Bitbucket: Pre Auth Remote Command Execution (CVE202236804)</a> |
+| <a href="https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/">Breaking Bitbucket: Pre Auth Remote Command Execution (CVE202236804)</a> |
 | <a href="https://shahjerry33.medium.com/httpparameterpollutionitscontaminatedagain95c75b0295e1">HTTP Parameter Pollution  It’s Contaminated Again</a> |
 | <a href="https://chaosdb.wiz.io/">Critical Vulnerability in Microsoft Azure Cosmos DB</a> |
 | <a href="https://www.cyberark.com/resources/threatresearchblog/inglouriousdriversajourneyoffindingvulnerabilitiesindrivers">Inglourious Drivers – A Journey of Finding Vulnerabilities in Drivers</a> |
