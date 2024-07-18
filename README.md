@@ -202,7 +202,7 @@
 | <a href="https://sector7.computest.nl/post/202301xar/">Bad things come in large packages: .pkg signature verification bypass on macOS</a> |
 | <a href="https://blog.impalabs.com/2303_advisory_parallelsdesktop_toolgate.html">Parallels Desktop Toolgate Vulnerability</a> |
 | <a href="https://medium.com/immunefi/aurora-withdrawal-logic-error-bug-fix-review-c5b4e30a9160">Aurora Withdrawal Logic Error Bugfix Review</a> |
-| <a href="https://blog.protekkt.com/blog/basicwebassemblybufferoverflowexploitationexample">Basic WebAssembly buffer overflow exploitation</a> |
+| <a href="https://blog.protekkt.com/blog/basic-webassembly-buffer-overflow-exploitation-example">Basic WebAssembly buffer overflow exploitation</a> |
 | <a href="https://hackerone.com/reports/1501611">An attacker can archive and unarchive any structured scope object on HackerOne</a> |
 | <a href="https://hackerone.com/reports/1295844">Modify inflight data to payment provider Smart2Pay</a> |
 | <a href="https://arxiv.org/pdf/2110.07450.pdf">Bugs in our Pockets: The Risks of ClientSide Scanning</a> |
