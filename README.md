@@ -212,7 +212,7 @@
 | <a href="https://blog.abdulrah33m.com/prototype-pollution-in-python/">Prototype Pollution in Python</a> |
 | <a href="https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access">AttachMe: critical OCI vulnerability allows unauthorized access to customer cloud storage volumes </a> |
 | <a href="https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183">Misconfigured Reset password that leads to Account Takeover (No user Interaction ATO)</> |
-| <a href="https://yogehi.github.io/research/2023/01/04/10cvesmypersonalthoughtsonresearchandcves.html">10 CVEs! My Personal Thoughts On Research And CVEs</a> |
+| <a href="https://yogehi.github.io/research/2023/01/04/10-cves-my-personal-thoughts-on-research-and-cves.html">10 CVEs! My Personal Thoughts On Research And CVEs</a> |
 | <a href="https://medium.com/@Cybervenom/storyaboutescalationofhtmlinjectiontoec2instancecredentialsleake2cbd7343a83">Story about Escalation of HTML Injection to EC2 Instance credentials leak</a> |
 | <a href="https://tutorialboy24.blogspot.com/2022/09/theblindexploitstorulewatchguard.html">The Blind Exploits To Rule Watchguard Firewalls Vulnerabilities</a> |
 | <a href="http://ysamm.com/?p=597">View orders and financial reports lists for any page shop ($500)</a> |
