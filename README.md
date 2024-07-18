@@ -223,7 +223,7 @@
 | <a href="https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962">Story of my first cash bounty on hackerone</a> |
 | <a href="https://vikaran101.medium.com/how-i-made-it-into-the-united-nations-hall-of-fame-as-i-slept-f567c90be227">How I made it into the United Nations hall of fame as I slept</a> |
 | <a href="https://spaceraccoon.dev/embedding-payloads-bypassing-controls-microsoft-infopath/">Embedding Payloads and Bypassing Controls in Microsoft InfoPath</a> |
-| <a href="https://blog.stazot.com/sshkeyinjectiongooglecloud/">SSH key injection in Google Cloud Compute Engine (Google VRP)</a> |
+| <a href="https://blog.stazot.com/ssh-key-injection-google-cloud/">SSH key injection in Google Cloud Compute Engine (Google VRP)</a> |
 | <a href="https://blog.assetnote.io/2022/09/14/rceinbitbucketserver/">Breaking Bitbucket: Pre Auth Remote Command Execution (CVE202236804)</a> |
 | <a href="https://shahjerry33.medium.com/httpparameterpollutionitscontaminatedagain95c75b0295e1">HTTP Parameter Pollution  It’s Contaminated Again</a> |
 | <a href="https://chaosdb.wiz.io/">Critical Vulnerability in Microsoft Azure Cosmos DB</a> |
