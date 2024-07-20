@@ -235,7 +235,7 @@
 | <a href="https://blog.nietaanraken.nl/posts/aur-packages-github-repo-jacking">Hijacking Arch Linux Packages by Repo Jacking GitHub Repositories</a> |
 | <a href="https://medium.com/@0x4kd/google-sso-misconfiguration-leading-to-account-takeover-cf9bcf63e76e">Google SSO misconfiguration leading to Account Takeover</a> |
 | <a href="https://medium.com/techiepedia/how-i-found-my-first-chrome-bug-cve-2021-21210-248a21272248">How I found my first Chrome bug</a> |
-| <a href="https://giraffesecurity.dev/posts/dependabotconfusion/">Dependabot Confusion: Gaining Access to Private GitHub Repositories using Dependabot</a> |
+| <a href="https://giraffesecurity.dev/posts/dependabot-confusion/">Dependabot Confusion: Gaining Access to Private GitHub Repositories using Dependabot</a> |
 | <a href="https://lspace.swyx.io/p/reverseprompteng">Reverse Prompt Engineering for Fun and (no) Profit</a> |
 | <a href="https://blog.oversecured.com/TwoweeksofsecuringSamsungdevicesPart2/">The second part of discovered vulnerabilities in preinstalled apps on Samsung devices</a> |
 | <a href="https://sneakymonkey.net/cloudcredentialabuse/">Cloud Metadata  AWS IAM Credential Abuse</a> |
