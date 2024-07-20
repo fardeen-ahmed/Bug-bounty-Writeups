@@ -246,7 +246,7 @@
 | <a href="https://medium.com/@mrempy/how-i-found-a-critical-p1-bug-in-5-minutes-using-a-cellphone-bug-bounty-303ebec3edd6">How I found a critical P1 bug in 5 minutes using a cellphone — Bug Bounty</a> |
 | <a href="https://www.youtube.com/watch?v=zNr43szGs">The DeFi Threat Model</a> |
 | <a href="https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop">SiriSpy  iOS bug allowed apps to eavesdrop on your conversations with Siri</a> |
-| <a href="https://haiderm.com/howiwasabletodelete13kmicrosofttranslatorprojects/">How I was able to delete 13k+ Microsoft Translator projects</a> |
+| <a href="https://haiderm.com/how-i-was-able-to-delete-13k-microsoft-translator-projects/">How I was able to delete 13k+ Microsoft Translator projects</a> |
 | <a href="https://hackeronehackers.affinity.co/">Leaked H1's Employees Email addresses,meeting info on private bug bounty program</a> |
 | <a href="https://www.ryanpickren.com/safariuxss">Hacking the Apple Webcam (again)</a> |
 | <a href="https://nakedsecurity.sophos.com/2022/08/30/javascriptbugsaplentyinnodejsecosystemfoundautomatically/">JavaScript bugs aplenty in Node.js ecosystem – found automatically</a> |
