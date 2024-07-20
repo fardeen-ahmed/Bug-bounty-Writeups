@@ -245,8 +245,7 @@
 | <a href="https://neodyme.io/blog/csgo_from_zero_to_0day/">CS:GO : From Zero to 0day </a> |
 | <a href="https://medium.com/@mrempy/how-i-found-a-critical-p1-bug-in-5-minutes-using-a-cellphone-bug-bounty-303ebec3edd6">How I found a critical P1 bug in 5 minutes using a cellphone — Bug Bounty</a> |
 | <a href="https://www.youtube.com/watch?v=zNr43szGs">The DeFi Threat Model</a> |
-| <a href="https://research.nccgroup.com/2023/03/01/makingnewconnectionsleveragingciscoanyconnectclienttodropandrunpayloads/">Making New Connections – Leveraging Cisco AnyConnect Client to Drop and Run Payloads</a> |
-| <a href="https://rambo.codes/posts/20221025sirispyiosbugallowedappstoeavesdrop">SiriSpy  iOS bug allowed apps to eavesdrop on your conversations with Siri</a> |
+| <a href="https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop">SiriSpy  iOS bug allowed apps to eavesdrop on your conversations with Siri</a> |
 | <a href="https://haiderm.com/howiwasabletodelete13kmicrosofttranslatorprojects/">How I was able to delete 13k+ Microsoft Translator projects</a> |
 | <a href="https://hackeronehackers.affinity.co/">Leaked H1's Employees Email addresses,meeting info on private bug bounty program</a> |
 | <a href="https://www.ryanpickren.com/safariuxss">Hacking the Apple Webcam (again)</a> |
