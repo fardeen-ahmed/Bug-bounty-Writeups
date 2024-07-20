@@ -240,9 +240,7 @@
 | <a href="https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/">The second part of discovered vulnerabilities in preinstalled apps on Samsung devices</a> |
 | <a href="https://sneakymonkey.net/cloud-credential-abuse/">Cloud Metadata  AWS IAM Credential Abuse</a> |
 | <a href="https://www.youtube.com/watch?v=ZUXUz22dCiQ">$300 Google API key leaked to Public on Live Website</a> |
-| <a href="https://amakki.me/fullaccounttakeovervulnerabilityinminecraftf56076c8287d">Full account takeover vulnerability in Minecraft</a> |
-| <a href="https://redhuntlabs.com/blog/5waystoexploitadomaintakeovervulnerability.html">5 Ways to Exploit a Domain Takeover Vulnerability</a> |
-| <a href="https://sinsinology.medium.com/expecttheunexpecteddiscoveringfreshzerodayforbountyd074f3175847">Expect The Unexpected: Discovering fresh ZeroDay for Bounty</a> |
+| <a href="https://sinsinology.medium.com/expect-the-unexpected-discovering-fresh-zero-day-for-bounty-d074f3175847">Expect The Unexpected: Discovering fresh ZeroDay for Bounty</a> |
 | <a href="https://unit42.paloaltonetworks.com/jsonwebtokenvulnerabilitycve202223529/">Disclosing a New Vulnerability in JWT Secret Poisoning (CVE202223529)</a> |
 | <a href="https://blog.sonarsource.com/securingdevelopertoolsanewsupplychainattackonphp/">Securing Developer Tools: A New Supply Chain Attack on PHP</a> |
 | <a href="https://neodyme.io/blog/csgo_from_zero_to_0day/">CS:GO : From Zero to 0day </a> |
