@@ -233,8 +233,7 @@
 | <a href="https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5-min-d7357237d7a0">How I found a bug in Apple within just in 5min</a> |
 | <a href="https://www.assetnote.io/resources/research/chaining-vulnerabilities-to-criticality-in-progress-whatsup-gold">Chaining vulnerabilities to criticality in Progress WhatsUp Gold</a> |
 | <a href="https://blog.nietaanraken.nl/posts/aur-packages-github-repo-jacking">Hijacking Arch Linux Packages by Repo Jacking GitHub Repositories</a> |
-| <a href="https://medium.com/coinmonks/aquickguidetohackprivatevariablesinsolidityb45d5acb89c0">A Quick Guide to Hack private variables in Solidity</a> |
-| <a href="https://medium.com/@0x4kd/googlessomisconfigurationleadingtoaccounttakeovercf9bcf63e76e">Google SSO misconfiguration leading to Account Takeover</a> |
+| <a href="https://medium.com/@0x4kd/google-sso-misconfiguration-leading-to-account-takeover-cf9bcf63e76e">Google SSO misconfiguration leading to Account Takeover</a> |
 | <a href="https://vovohelo.medium.com/howifoundmyfirstchromebugcve202121210248a21272248">How I found my first Chrome bug</a> |
 | <a href="https://giraffesecurity.dev/posts/dependabotconfusion/">Dependabot Confusion: Gaining Access to Private GitHub Repositories using Dependabot</a> |
 | <a href="https://lspace.swyx.io/p/reverseprompteng">Reverse Prompt Engineering for Fun and (no) Profit</a> |
