@@ -249,7 +249,7 @@
 | <a href="https://haiderm.com/how-i-was-able-to-delete-13k-microsoft-translator-projects/">How I was able to delete 13k+ Microsoft Translator projects</a> |
 | <a href="https://hackeronehackers.affinity.co/">Leaked H1's Employees Email addresses,meeting info on private bug bounty program</a> |
 | <a href="hhttps://www.ryanpickren.com/safari-uxss">Hacking the Apple Webcam (again)</a> |
-| <a href="https://nakedsecurity.sophos.com/2022/08/30/javascriptbugsaplentyinnodejsecosystemfoundautomatically/">JavaScript bugs aplenty in Node.js ecosystem – found automatically</a> |
+| <a href="https://news.sophos.com/en-us/2022/08/30/javascript-bugs-aplenty-in-node-js-ecosystem-found-automatically/">JavaScript bugs aplenty in Node.js ecosystem – found automatically</a> |
 | <a href="https://hogarth45.medium.com/bugbountyfiregoals6663a7980984">Bug Bounty FIRE Goals</a> |
 | <a href="https://hackerone.com/reports/1404612">Multiple vulnerability leading to account takeover in TikTok SMB subdomain.</a> |
 | <a href="https://tuhin1729.medium.com/storyofmyhackingdutchgovernment46b7a3c8b75a">Story of my hacking Dutch Government</a> |
