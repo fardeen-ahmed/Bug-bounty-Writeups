@@ -243,7 +243,7 @@
 | <a href="https://sinsinology.medium.com/expect-the-unexpected-discovering-fresh-zero-day-for-bounty-d074f3175847">Expect The Unexpected: Discovering fresh ZeroDay for Bounty</a> |
 | <a href="https://www.sonarsource.com/blog/securing-developer-tools-a-new-supply-chain-attack-on-php/">Securing Developer Tools: A New Supply Chain Attack on PHP</a> |
 | <a href="https://neodyme.io/blog/csgo_from_zero_to_0day/">CS:GO : From Zero to 0day </a> |
-| <a href="https://medium.com/@mrempy/howifoundacriticalp1bugin5minutesusingacellphonebugbounty303ebec3edd6">How I found a critical P1 bug in 5 minutes using a cellphone — Bug Bounty</a> |
+| <a href="https://medium.com/@mrempy/how-i-found-a-critical-p1-bug-in-5-minutes-using-a-cellphone-bug-bounty-303ebec3edd6">How I found a critical P1 bug in 5 minutes using a cellphone — Bug Bounty</a> |
 | <a href="https://www.youtube.com/watch?v=zNr43szGs">The DeFi Threat Model</a> |
 | <a href="https://research.nccgroup.com/2023/03/01/makingnewconnectionsleveragingciscoanyconnectclienttodropandrunpayloads/">Making New Connections – Leveraging Cisco AnyConnect Client to Drop and Run Payloads</a> |
 | <a href="https://rambo.codes/posts/20221025sirispyiosbugallowedappstoeavesdrop">SiriSpy  iOS bug allowed apps to eavesdrop on your conversations with Siri</a> |
