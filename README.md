@@ -253,7 +253,7 @@
 | <a href="https://hogarth45.medium.com/bug-bounty-fire-goals-6663a7980984">Bug Bounty FIRE Goals</a> |
 | <a href="https://hackerone.com/reports/1404612">Multiple vulnerability leading to account takeover in TikTok SMB subdomain.</a> |
 | <a href="https://tuhin1729.medium.com/story-of-my-hacking-dutch-government-46b7a3c8b75a">Story of my hacking Dutch Government</a> |
-| <a href="https://portswigger.net/research/bypassingcspwithdanglingiframes">Bypassing CSP with dangling iframes </a> |
+| <a href="https://portswigger.net/research/bypassing-csp-with-dangling-iframes">Bypassing CSP with dangling iframes </a> |
 | <a href="https://medium.com/@Hossam.Mesbah/heisalreadyhereprivilegesescalationduetoinvalidatingcurrentusers148069015716">He is already here: Privileges escalation due to invalidating current users</a> |
 | <a href="https://portswigger.net/blog/findingclientsideprototypepollutionwithdominvader">Finding clientside prototype pollution with DOM Invader</a> |
 | <a href="https://scribesecurity.com/blog/githubcachepoisoning/">GitHub Cache Poisoning</a> |
