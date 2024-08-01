@@ -258,8 +258,8 @@
 | <a href="https://scribesecurity.com/blog/github-cache-poisoning/">GitHub Cache Poisoning</a> |
 | <a href="https://www.legitsecurity.com/blog/dos-via-software-supply-chain-innumerable-projects-exposed-to-a-markdown-library-vulnerability">The MarkdownTime Vulnerability: How to Avoid This DoS Attack on Business Critical Services</a> |
 | <a href="https://ysamm.com/?p=763">Multiple bugs chained to takeover Facebook Accounts which uses Gmail.</a> |
-| <a href="https://secret.club/2022/05/11/fuzzingsolana.html">Earn $200K by fuzzing for a weekend: Part 1</a> |
-| <a href="https://secret.club/2022/05/11/fuzzingsolana2.html">Earn $200K by fuzzing for a weekend: Part 2</a> |
+| <a href="https://secret.club/2022/05/11/fuzzing-solana.html">Earn $200K by fuzzing for a weekend: Part 1</a> |
+| <a href="https://secret.club/2022/05/11/fuzzing-solana-2.html">Earn $200K by fuzzing for a weekend: Part 2</a> |
 | <a href="https://jhftss.github.io/CVE202226712ThePOCForSIPBypassIsEvenTweetable/">CVE202226712: The POC for SIPBypass Is Even Tweetable</a> |
 | <a href="https://medium.com/@nanwinata/abigcompanyadminpaneltakeover45009520a6c83430">A Big company Admin Panel takeover $4500</a> |
 | <a href="https://www.sonarsource.com/blog/openemrremotecodeexecutioninyourhealthcaresystem/">OpenEMR  Remote Code Execution in your Healthcare System</a> |
