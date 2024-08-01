@@ -260,7 +260,7 @@
 | <a href="https://ysamm.com/?p=763">Multiple bugs chained to takeover Facebook Accounts which uses Gmail.</a> |
 | <a href="https://secret.club/2022/05/11/fuzzing-solana.html">Earn $200K by fuzzing for a weekend: Part 1</a> |
 | <a href="https://secret.club/2022/05/11/fuzzing-solana-2.html">Earn $200K by fuzzing for a weekend: Part 2</a> |
-| <a href="https://jhftss.github.io/CVE202226712ThePOCForSIPBypassIsEvenTweetable/">CVE202226712: The POC for SIPBypass Is Even Tweetable</a> |
+| <a href="https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/">CVE202226712: The POC for SIPBypass Is Even Tweetable</a> |
 | <a href="https://medium.com/@nanwinata/abigcompanyadminpaneltakeover45009520a6c83430">A Big company Admin Panel takeover $4500</a> |
 | <a href="https://www.sonarsource.com/blog/openemrremotecodeexecutioninyourhealthcaresystem/">OpenEMR  Remote Code Execution in your Healthcare System</a> |
 | <a href="https://blog.viettelcybersecurity.com/cve20221040sophosxgfirewallauthenticationbypass/">CVE20221040 Sophos XG Firewall Authentication bypass</a> |
