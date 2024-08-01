@@ -263,7 +263,7 @@
 | <a href="https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/">CVE202226712: The POC for SIPBypass Is Even Tweetable</a> |
 | <a href="https://medium.com/@nanwinata/a-big-company-admin-panel-takeover-4500-9520a6c83430">A Big company Admin Panel takeover $4500</a> |
 | <a href="https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/">OpenEMR  Remote Code Execution in your Healthcare System</a> |
-| <a href="https://blog.viettelcybersecurity.com/cve20221040sophosxgfirewallauthenticationbypass/">CVE20221040 Sophos XG Firewall Authentication bypass</a> |
+| <a href="https://blog.viettelcybersecurity.com/cve-2022-1040-sophos-xg-firewall-authentication-bypass/">CVE20221040 Sophos XG Firewall Authentication bypass</a> |
 | <a href="https://spaceraccoon.dev/exploitingicalendarpropertiesenterpriseapplications/">You Have One New Appointment: Exploiting iCalendar Properties in Enterprise Applications</a> |
 | <a href="https://maheshbasnet.medium.com/howfuzzingcanboostyoubugbountycareer49e499900aa9">Fuzzing for Bug Bounty Hunting</a> |
 | <a href="https://medium.com/immunefi/hackingtheblockchainanultimateguide4f34b33c6e8b">Hacking the Blockchain: An Ultimate Guide</a> |
