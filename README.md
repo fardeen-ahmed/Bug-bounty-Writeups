@@ -254,7 +254,7 @@
 | <a href="https://hackerone.com/reports/1404612">Multiple vulnerability leading to account takeover in TikTok SMB subdomain.</a> |
 | <a href="https://tuhin1729.medium.com/story-of-my-hacking-dutch-government-46b7a3c8b75a">Story of my hacking Dutch Government</a> |
 | <a href="https://portswigger.net/research/bypassing-csp-with-dangling-iframes">Bypassing CSP with dangling iframes </a> |
-| <a href="https://portswigger.net/blog/findingclientsideprototypepollutionwithdominvader">Finding clientside prototype pollution with DOM Invader</a> |
+| <a href="https://portswigger.net/blog/finding-client-side-prototype-pollution-with-dom-invader">Finding clientside prototype pollution with DOM Invader</a> |
 | <a href="https://scribesecurity.com/blog/githubcachepoisoning/">GitHub Cache Poisoning</a> |
 | <a href="https://www.legitsecurity.com/blog/dosviasoftwaresupplychaininnumerableprojectsexposedtoamarkdownlibraryvulnerability">The MarkdownTime Vulnerability: How to Avoid This DoS Attack on Business Critical Services</a> |
 | <a href="https://ysamm.com/?p=763">Multiple bugs chained to takeover Facebook Accounts which uses Gmail.</a> |
