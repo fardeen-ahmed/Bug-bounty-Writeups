@@ -274,9 +274,8 @@
 | <a href="https://curtbraz.medium.com/a-konami-code-for-vuln-chaining-combos-1a29d0a27c2a">A Konami Code for Vuln Chaining Combos</a> |
 | <a href="https://medium.com/@amnotacat/log4shell-in-google-133700-144684269bf8">Log4shell in google $1337.00 </a> |
 | <a href="https://hackerone.com/reports/1377748">2 click Remote Code execution in Evernote Android</a> |
-| <a href="https://github.com/chaosec2021/SpringcloudfunctionSpELRCE">Spring cloud function SpEL RCE</a> |
 | <a href="https://hackerone.com/reports/1679624">Remote Command Execution via Github import</a> |
-| <a href="https://www.sonarsource.com/blog/cactiunauthenticatedremotecodeexecution/">Cacti: Unauthenticated Remote Code Execution</a> |
+| <a href="https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/">Cacti: Unauthenticated Remote Code Execution</a> |
 | <a href="https://blog.sonatype.com/new0dayspringframeworkvulnerabilityconfirmed">New Spring Framework RCE  Vulnerability Confirmed  What to do?</a> |
 | <a href="https://blog.maass.xyz/springactuatorsecuritypart1stealingsecretsusingspringactuators">Spring Actuator Security, Part 1: Stealing Secrets Using Spring Actuators</a> |
 | <a href="https://blog.maass.xyz/springactuatorsecuritypart2findingactuatorsusingstaticcodeanalysiswithsemgrep">Spring Actuator Security, Part 2: Finding Actuators using Static Code Analysis with semgrep</a> |
