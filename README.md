@@ -272,7 +272,7 @@
 | <a href="https://vulncheck.com/blog/joomla-for-rce">Joomla! CVE202323752 to Code Execution</a> |
 | <a href="https://securityintelligence.com/posts/msmq-queuejumper-rce-vulnerability-technical-analysis/">MSMQ QueueJumper (RCE Vulnerability): An InDepth Technical Analysis</a> |
 | <a href="https://curtbraz.medium.com/a-konami-code-for-vuln-chaining-combos-1a29d0a27c2a">A Konami Code for Vuln Chaining Combos</a> |
-| <a href="https://medium.com/@amnotacat/log4shellingoogle133700144684269bf8">Log4shell in google $1337.00 </a> |
+| <a href="https://medium.com/@amnotacat/log4shell-in-google-133700-144684269bf8">Log4shell in google $1337.00 </a> |
 | <a href="https://hackerone.com/reports/1377748">2 click Remote Code execution in Evernote Android</a> |
 | <a href="https://github.com/chaosec2021/SpringcloudfunctionSpELRCE">Spring cloud function SpEL RCE</a> |
 | <a href="https://hackerone.com/reports/1679624">Remote Command Execution via Github import</a> |
