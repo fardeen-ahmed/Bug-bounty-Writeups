@@ -277,8 +277,8 @@
 | <a href="https://hackerone.com/reports/1679624">Remote Command Execution via Github import</a> |
 | <a href="https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/">Cacti: Unauthenticated Remote Code Execution</a> |
 | <a href="https://blog.sonatype.com/new-0-day-spring-framework-vulnerability-confirmed">New Spring Framework RCE  Vulnerability Confirmed  What to do?</a> |
-| <a href="https://blog.maass.xyz/springactuatorsecuritypart1stealingsecretsusingspringactuators">Spring Actuator Security, Part 1: Stealing Secrets Using Spring Actuators</a> |
-| <a href="https://blog.maass.xyz/springactuatorsecuritypart2findingactuatorsusingstaticcodeanalysiswithsemgrep">Spring Actuator Security, Part 2: Finding Actuators using Static Code Analysis with semgrep</a> |
+| <a href="https://blog.maass.xyz/spring-actuator-security-part-1-stealing-secrets-using-spring-actuators">Spring Actuator Security, Part 1: Stealing Secrets Using Spring Actuators</a> |
+| <a href="https://blog.maass.xyz/spring-actuator-security-part-2-finding-actuators-using-static-code-analysis-with-semgrep">Spring Actuator Security, Part 2: Finding Actuators using Static Code Analysis with semgrep</a> |
 | <a href="https://medium.com/@vivekkashyap0707/myfirstrcefromnatotriagedcve20213064acdd0541c664">My First RCE from N/A to Triaged (CVE2021–3064)</a> |
 | <a href="https://snyk.io/blog/gitpodremotecodeexecutionvulnerabilitywebsockets/">Gitpod remote code execution 0day vulnerability via WebSockets</a> |
 | <a href="https://medium.com/@omar0x01/howiabusedthefileuploadfunctiontogetahighseverityvulnerabilityinbugbounty7cdcf349080b">How I abused the file upload function to get a high severity vulnerability in Bug Bounty</a> |
