@@ -269,7 +269,7 @@
 | <a href="https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b">Hacking the Blockchain: An Ultimate Guide</a> |
 | <a href="https://medium.com/@taniyatesting11/bounty-evaluation-github-15-000-us-dollars-rate-limit-d6c07d73c948">Bounty Evaluation GitHub = $15,000 US Dollars </a> |
 | <a href="https://starlabs.sg/blog/2022/07-gitlab-project-import-rce-analysis-cve-2022-2185/">Gitlab Project Import RCE Analysis (CVE20222185)</a> |
-| <a href="https://vulncheck.com/blog/joomlaforrce">Joomla! CVE202323752 to Code Execution</a> |
+| <a href="https://vulncheck.com/blog/joomla-for-rce">Joomla! CVE202323752 to Code Execution</a> |
 | <a href="https://securityintelligence.com/posts/msmqqueuejumperrcevulnerabilitytechnicalanalysis/">MSMQ QueueJumper (RCE Vulnerability): An InDepth Technical Analysis</a> |
 | <a href="https://curtbraz.medium.com/akonamicodeforvulnchainingcombos1a29d0a27c2a">A Konami Code for Vuln Chaining Combos</a> |
 | <a href="https://medium.com/@amnotacat/log4shellingoogle133700144684269bf8">Log4shell in google $1337.00 </a> |
