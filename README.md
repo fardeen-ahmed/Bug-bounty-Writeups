@@ -296,8 +296,7 @@
 | <a href="https://www.securesystems.de/blog/a-fresh-look-at-user-enumeration-in-microsoft-teams/">A fresh look at user enumeration in Microsoft Teams</a> |
 | <a href="https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/">How I got access to many PIIs through a source code leak</a> |
 | <a href="https://fourcore.io/blogs/f5-big-ip-cve-2022-1388-unauthenticated-rce-exploited-by-attackers">F5 BIGIP Critical Vulnerability Exploited By Attackers To Gain Unauthenticated RCE</> |
-| <a href="https://drive.google.com/file/d/1p1tTTIjg3RoJecYSU3CetvNw6ZZdMXn/view?usp=drivesdk">Hacking the Cloud With SAML</a> |
-| <a href="https://www.flashback.sh/blog/weekenddestroyerwdpr4100rce">WEEKEND DESTROYER  RCE in Western Digital PR4100 NAS</a> |
+| <a href="https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce">WEEKEND DESTROYER  RCE in Western Digital PR4100 NAS</a> |
 | <a href="https://jub0bs.com/posts/20210129greatsamesiteconfusion/">The great SameSite confusion</a> |
 | <a href="https://www.synacktiv.com/publications/persistentphppayloadsinpngshowtoinjectphpcodeinanimageandkeepitthere.html">Persistent PHP payloads in PNGs: How to inject PHP code in an image – and keep it there !</a> |
 | <a href="https://thexssrat.medium.com/howforgotpasswordcancostyouyouraccount2647454258da">How “Forgot Password” can cost you your account</a> |
