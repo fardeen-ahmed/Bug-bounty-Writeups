@@ -302,7 +302,7 @@
 | <a href="https://thexssrat.medium.com/how-forgot-password-can-cost-you-your-account-2647454258da">How “Forgot Password” can cost you your account</a> |
 | <a href="https://rhynorater.github.io/postMessage-Braindump">postMessage Braindump : a brief postMessage testing methodology</a> |
 | <a href="https://sidxparab.gitbook.io/subdomain-enumeration-guide/">Subdomain Enumeration Guide 2021 </a> |
-| <a href="https://www.shockwave.cloud/blog/subdomaintakeoverhowamisconfigureddnsrecordcouldleadtoahugesupplychainattack">Subdomain Takeover: How a Misconfigured DNS Record Could Lead to a Huge Supply Chain Attack</a> |
+| <a href="https://www.shockwave.cloud/blog/subdomain-takeover-how-a-misconfigured-dns-record-could-lead-to-a-huge-supply-chain-attack">Subdomain Takeover: How a Misconfigured DNS Record Could Lead to a Huge Supply Chain Attack</a> |
 | <a href="https://hector0x.medium.com/brokenauthenticationthroughreferralcode25cd0e8bccc2">Full account takeover through referral code</a> |
 | <a href="https://0xjoyghosh.medium.com/informationgatheringscanningforsensitiveinformationreloaded6ff3455e0d4e">Information Gathering&scanning for sensitive information</a> |
 | <a href="https://blog.quarkslab.com/attackingtitanmwithonlyonebyte.html">Attacking Pixel's Titan M with Only One Byte (CVE202220233) and getting 75,000 USD bounty</a> |
