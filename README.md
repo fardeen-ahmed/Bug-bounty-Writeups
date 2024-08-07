@@ -281,7 +281,7 @@
 | <a href="https://blog.maass.xyz/spring-actuator-security-part-2-finding-actuators-using-static-code-analysis-with-semgrep">Spring Actuator Security, Part 2: Finding Actuators using Static Code Analysis with semgrep</a> |
 | <a href="https://medium.com/@vivekkashyap0707/my-first-rce-from-n-a-to-triaged-cve-2021-3064-acdd0541c664">My First RCE from N/A to Triaged (CVE2021–3064)</a> |
 | <a href="https://snyk.io/blog/gitpod-remote-code-execution-vulnerability-websockets/">Gitpod remote code execution 0day vulnerability via WebSockets</a> |
-| <a href="https://medium.com/@omar0x01/howiabusedthefileuploadfunctiontogetahighseverityvulnerabilityinbugbounty7cdcf349080b">How I abused the file upload function to get a high severity vulnerability in Bug Bounty</a> |
+| <a href="https://infosecwriteups.com/how-i-abused-the-file-upload-function-to-get-a-high-severity-vulnerability-in-bug-bounty-7cdcf349080b">How I abused the file upload function to get a high severity vulnerability in Bug Bounty</a> |
 | <a href="https://shahjerry33.medium.com/rceviawebdavpowerofput7e1c06c71e60">RCE via WebDav  Power Of PUT</a> |
 | <a href="https://bugcrowd.com/disclosures/7b175e9d8ff047e3bd33a8b1e51aa499/httpdesyncattackrequestsmugglingmasssessionhijacking">HTTP Desync Attack (Request Smuggling)  Mass Session Hijacking</a> |
 | <a href="https://orwaatyat.medium.com/howifoundmultiplebugsonfacebookin1monthandapartformymethodologytools58a677a9040c">How I Found Multiple Bugs On FaceBook In 1 Month And a Part For My Methodology & Tools</a> |
