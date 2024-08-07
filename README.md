@@ -289,8 +289,7 @@
 | <a href="https://speakerdeck.com/patrickwardle/youre-muted-rooted">Local privesc vulnerability in Zoom (for macOS)</a> |
 | <a href="https://tantosec.com/blog/cve-2022-41343/">CVE202241343  RCE via Phar Deserialisation (Dompdf)</a> |
 | <a href="https://blog.ankursundara.com/cookie-bugs/">Cookie Bugs  Smuggling & Injection</a> |
-| <a href="https://security.lauritzholtmann.de/advisories/flickraccounttakeover/">Flickr Account Takeover</a> |
-| <a href="https://github.com/ducnt/RCE0dayforGhostScript9.50">RCE 0 day for GhostScript9.50</a> |
+| <a href="https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50">RCE 0 day for GhostScript9.50</a> |
 | <a href="https://medium.com/@randyarios/lowhangingfruitsonfacebookgrouproomb8d17c7ea886">Low hanging fruits on Facebook Group Room</a> |
 | <a href="https://hackerone.com/reports/1077136">Denial of Service via Hyperlinks in Posts</a> |
 | <a href="http://security.googleblog.com/2023/05/googletrustservicesacmeapi_0503894189.html">Google Trust Services ACME API available to all users at no cost</a> |
