@@ -299,7 +299,7 @@
 | <a href="https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce">WEEKEND DESTROYER  RCE in Western Digital PR4100 NAS</a> |
 | <a href="https://jub0bs.com/posts/2021-01-29-great-samesite-confusion/">The great SameSite confusion</a> |
 | <a href="https://www.synacktiv.com/en/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html">Persistent PHP payloads in PNGs: How to inject PHP code in an image – and keep it there !</a> |
-| <a href="https://thexssrat.medium.com/howforgotpasswordcancostyouyouraccount2647454258da">How “Forgot Password” can cost you your account</a> |
+| <a href="https://thexssrat.medium.com/how-forgot-password-can-cost-you-your-account-2647454258da">How “Forgot Password” can cost you your account</a> |
 | <a href="https://rhynorater.github.io/postMessageBraindump">postMessage Braindump : a brief postMessage testing methodology</a> |
 | <a href="https://sidxparab.gitbook.io/subdomainenumerationguide/">Subdomain Enumeration Guide 2021 </a> |
 | <a href="https://www.shockwave.cloud/blog/subdomaintakeoverhowamisconfigureddnsrecordcouldleadtoahugesupplychainattack">Subdomain Takeover: How a Misconfigured DNS Record Could Lead to a Huge Supply Chain Attack</a> |
