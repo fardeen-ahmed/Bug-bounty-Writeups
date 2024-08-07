@@ -292,7 +292,7 @@
 | <a href="https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50">RCE 0 day for GhostScript9.50</a> |
 | <a href="https://randyarios.medium.com/low-hanging-fruits-on-facebook-group-room-b8d17c7ea886">Low hanging fruits on Facebook Group Room</a> |
 | <a href="https://hackerone.com/reports/1077136">Denial of Service via Hyperlinks in Posts</a> |
-| <a href="http://security.googleblog.com/2023/05/googletrustservicesacmeapi_0503894189.html">Google Trust Services ACME API available to all users at no cost</a> |
+| <a href="http://security.googleblog.com/2023/05/google-trust-services-acme-api_0503894189.html">Google Trust Services ACME API available to all users at no cost</a> |
 | <a href="https://www.securesystems.de/blog/afreshlookatuserenumerationinmicrosoftteams/">A fresh look at user enumeration in Microsoft Teams</a> |
 | <a href="https://phoenixsec.io/2022/06/17/ZenaCookieMonsteRCE.html">CookieMonsteRCE  XSS to RCE Exploitation in Zena 4.2.1</a> |
 | <a href="https://supras.io/howigotaccesstomanypiisthroughasourcecodeleak/">How I got access to many PIIs through a source code leak</a> |
