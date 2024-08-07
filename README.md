@@ -294,8 +294,7 @@
 | <a href="https://hackerone.com/reports/1077136">Denial of Service via Hyperlinks in Posts</a> |
 | <a href="http://security.googleblog.com/2023/05/google-trust-services-acme-api_0503894189.html">Google Trust Services ACME API available to all users at no cost</a> |
 | <a href="https://www.securesystems.de/blog/a-fresh-look-at-user-enumeration-in-microsoft-teams/">A fresh look at user enumeration in Microsoft Teams</a> |
-| <a href="https://phoenixsec.io/2022/06/17/ZenaCookieMonsteRCE.html">CookieMonsteRCE  XSS to RCE Exploitation in Zena 4.2.1</a> |
-| <a href="https://supras.io/howigotaccesstomanypiisthroughasourcecodeleak/">How I got access to many PIIs through a source code leak</a> |
+| <a href="https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/">How I got access to many PIIs through a source code leak</a> |
 | <a href="https://fourcore.io/blogs/f5bigipcve20221388unauthenticatedrceexploitedbyattackers">F5 BIGIP Critical Vulnerability Exploited By Attackers To Gain Unauthenticated RCE</> |
 | <a href="https://drive.google.com/file/d/1p1tTTIjg3RoJecYSU3CetvNw6ZZdMXn/view?usp=drivesdk">Hacking the Cloud With SAML</a> |
 | <a href="https://www.flashback.sh/blog/weekenddestroyerwdpr4100rce">WEEKEND DESTROYER  RCE in Western Digital PR4100 NAS</a> |
