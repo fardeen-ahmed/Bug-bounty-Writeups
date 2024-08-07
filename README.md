@@ -285,7 +285,7 @@
 | <a href="https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60">RCE via WebDav  Power Of PUT</a> |
 | <a href="https://bugcrowd.com/disclosures/7b175e9d8ff047e3bd33a8b1e51aa499/http-desync-attack-request-smuggling-mass-session-hijacking">HTTP Desync Attack (Request Smuggling)  Mass Session Hijacking</a> |
 | <a href="https://orwaatyat.medium.com/how-i-found-multiple-bugs-on-facebook-in-1-month-and-a-part-for-my-methodology-tools-58a677a9040c">How I Found Multiple Bugs On FaceBook In 1 Month And a Part For My Methodology & Tools</a> |
-| <a href="https://www.halborn.com/blog/post/halborndiscoverszerodayimpactingdogecoinand280networks">Halborn Discovers ZeroDay Impacting Dogecoin and 280+ Networks</a> |
+| <a href="https://www.halborn.com/blog/post/halborn-discovers-zero-day-impacting-dogecoin-and-280-networks">Halborn Discovers ZeroDay Impacting Dogecoin and 280+ Networks</a> |
 | <a href="https://speakerdeck.com/patrickwardle/youremutedrooted">Local privesc vulnerability in Zoom (for macOS)</a> |
 | <a href="https://tantosec.com/blog/cve202241343/">CVE202241343  RCE via Phar Deserialisation (Dompdf)</a> |
 | <a href="https://blog.ankursundara.com/cookiebugs/">Cookie Bugs  Smuggling & Injection</a> |
