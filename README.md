@@ -282,7 +282,7 @@
 | <a href="https://medium.com/@vivekkashyap0707/my-first-rce-from-n-a-to-triaged-cve-2021-3064-acdd0541c664">My First RCE from N/A to Triaged (CVE2021–3064)</a> |
 | <a href="https://snyk.io/blog/gitpod-remote-code-execution-vulnerability-websockets/">Gitpod remote code execution 0day vulnerability via WebSockets</a> |
 | <a href="https://infosecwriteups.com/how-i-abused-the-file-upload-function-to-get-a-high-severity-vulnerability-in-bug-bounty-7cdcf349080b">How I abused the file upload function to get a high severity vulnerability in Bug Bounty</a> |
-| <a href="https://shahjerry33.medium.com/rceviawebdavpowerofput7e1c06c71e60">RCE via WebDav  Power Of PUT</a> |
+| <a href="https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60">RCE via WebDav  Power Of PUT</a> |
 | <a href="https://bugcrowd.com/disclosures/7b175e9d8ff047e3bd33a8b1e51aa499/httpdesyncattackrequestsmugglingmasssessionhijacking">HTTP Desync Attack (Request Smuggling)  Mass Session Hijacking</a> |
 | <a href="https://orwaatyat.medium.com/howifoundmultiplebugsonfacebookin1monthandapartformymethodologytools58a677a9040c">How I Found Multiple Bugs On FaceBook In 1 Month And a Part For My Methodology & Tools</a> |
 | <a href="https://www.halborn.com/blog/post/halborndiscoverszerodayimpactingdogecoinand280networks">Halborn Discovers ZeroDay Impacting Dogecoin and 280+ Networks</a> |
