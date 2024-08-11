@@ -119,6 +119,7 @@
 | <a href="https://github.com/projectdiscovery/cloudlist"> Cloudlist </a> | This is a tool for listing Assets from multiple Cloud Providers |
 | <a href="https://github.com/as0ler/r2flutch">r2flutch </a> | A tool to decrypt iOS apps using r2frida |
 | <a href="https://shahjerry33.medium.com/shodan-dorks-the-gods-eye-f224f9b3984f">Shodan Dorks </a> | The H4CK3R God’s Eye |
+| <a href="https://github.com/mqst/gouge">Gouge </a> | Gouge is a simple Burp extension to extract or gouge all URLs which are seen in JS files as you visit different websites/webpages in Burp Suite |
 | <a href="https://github.com/musana/mx-takeover">mxtakeover </a> | This tool focuses DNS MX records and detects misconfigured MX records. |
 
 
