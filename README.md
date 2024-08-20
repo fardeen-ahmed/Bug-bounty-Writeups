@@ -304,7 +304,7 @@
 | <a href="https://rhynorater.github.io/postMessage-Braindump">postMessage Braindump : a brief postMessage testing methodology</a> |
 | <a href="https://sidxparab.gitbook.io/subdomain-enumeration-guide/">Subdomain Enumeration Guide 2021 </a> |
 | <a href="https://www.shockwave.cloud/blog/subdomain-takeover-how-a-misconfigured-dns-record-could-lead-to-a-huge-supply-chain-attack">Subdomain Takeover: How a Misconfigured DNS Record Could Lead to a Huge Supply Chain Attack</a> |
-| <a href="https://hector0x.medium.com/brokenauthenticationthroughreferralcode25cd0e8bccc2">Full account takeover through referral code</a> |
+| <a href="https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2">Full account takeover through referral code</a> |
 | <a href="https://0xjoyghosh.medium.com/informationgatheringscanningforsensitiveinformationreloaded6ff3455e0d4e">Information Gathering&scanning for sensitive information</a> |
 | <a href="https://blog.quarkslab.com/attackingtitanmwithonlyonebyte.html">Attacking Pixel's Titan M with Only One Byte (CVE202220233) and getting 75,000 USD bounty</a> |
 | <a href="https://www.synacktiv.com/en/publications/cicdsecretsextractiontipsandtricks.html">CI/CD SECRETS EXTRACTION, TIPS AND TRICKS</a> |
@@ -419,7 +419,7 @@
 | R-XSS | <a href="https://medium.com/@sicks3c/taleofxssinangularc5c057a56156">Tale of XSS in Angular</a> |
 | Stored | <a href="https://labs.guard.io/xss-vulnerability-found-in-connect-wise-remote-access-platform-with-great-potential-form-is-use-by-scammers-a0773da2aacf">XSS Vulnerability Found in ConnectWise Remote Access Platform With Great Potential For Misuse by Scammers</a>
 
-<A href="https://medium.com/@sid0krypt/vuejsreflectedxssfae04c9872d2">Vue JS Reflected XSS</a>
+<a href="https://medium.com/@sid0krypt/vuejsreflectedxssfae04c9872d2">Vue JS Reflected XSS</a>
 
 <a href="https://securitylab.github.com/advisories/GHSL2022059_GHSL2022060_Owncloud_Android_app/">SQL injection vulnerabilities in Owncloud Android app  CVE202324804, CVE202323948</a>
 
