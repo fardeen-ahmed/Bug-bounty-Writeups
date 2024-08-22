@@ -306,7 +306,7 @@
 | <a href="https://www.shockwave.cloud/blog/subdomain-takeover-how-a-misconfigured-dns-record-could-lead-to-a-huge-supply-chain-attack">Subdomain Takeover: How a Misconfigured DNS Record Could Lead to a Huge Supply Chain Attack</a> |
 | <a href="https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2">Full account takeover through referral code</a> |
 | <a href="https://0xjoyghosh.medium.com/information-gathering-scanning-for-sensitive-information-reloaded-6ff3455e0d4e">Information Gathering&scanning for sensitive information</a> |
-| <a href="https://blog.quarkslab.com/attackingtitanmwithonlyonebyte.html">Attacking Pixel's Titan M with Only One Byte (CVE202220233) and getting 75,000 USD bounty</a> |
+| <a href="https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html">Attacking Pixel's Titan M with Only One Byte (CVE202220233) and getting 75,000 USD bounty</a> |
 | <a href="https://www.synacktiv.com/en/publications/cicdsecretsextractiontipsandtricks.html">CI/CD SECRETS EXTRACTION, TIPS AND TRICKS</a> |
 | <a href="https://ssddisclosure.com/ssdadvisorykeriomailboxtakeover/">SSD ADVISORY – KERIO MAILBOX TAKEOVER</a> |
 | <a href="https://3bodymo.medium.com/theeasiest2500igotitfrombugbountyprogram8f47ea4aff22">The easiest $2500 I got it from bug bounty program</a> |
