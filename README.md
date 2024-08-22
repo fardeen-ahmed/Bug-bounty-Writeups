@@ -310,7 +310,7 @@
 | <a href="https://www.synacktiv.com/en/publications/cicd-secrets-extraction-tips-and-tricks.html">CI/CD SECRETS EXTRACTION, TIPS AND TRICKS</a> |
 | <a href="https://ssd-disclosure.com/ssd-advisory-kerio-mailbox-takeover/">SSD ADVISORY – KERIO MAILBOX TAKEOVER</a> |
 | <a href="https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22">The easiest $2500 I got it from bug bounty program</a> |
-| <a href="https://amineaboud.medium.com/discloseleadsformdetailsofanyfacebookbusinessaccountorfacebookpagebugbounty7ecae6cff312">Disclose leads form details of any Facebook Business Account or Facebook Page</a> |
+| <a href="https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bugbounty-7ecae6cff312">Disclose leads form details of any Facebook Business Account or Facebook Page</a> |
 | <a href="https://www.ghostccamm.com/blog/multi_strapi_vulns/">Multiple Critical Vulnerabilities in Strapi Versions <=4.7.1</a> |
 | <a href="https://eslam.io/posts/ejsserversidetemplateinjectionrce/">EJS, Server side template injection RCE (CVE202229078)  writeup</a> |
 | <a href="https://blog.ryotak.me/post/cdnjsremotecodeexecutionen/">Remote code execution in cdnjs of Cloudflare</a> |
