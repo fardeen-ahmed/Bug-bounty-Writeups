@@ -318,14 +318,12 @@
 | <a href="https://blog.sonarsource.com/mybb-remote-code-execution-chain">MyBB Remote Code Execution Chain</a> |
 | <a href="https://thehackernews.com/2022/05/critical-gems-takeover-bug-reported-in.html">Critical Gems Takeover Bug Reported in RubyGems Package Manager</a> |
 | <a href="https://portswigger.net/research/hunting-evasive-vulnerabilities">Hunting evasive vulnerabilities</a> |
-| <a href="https://www.oxeye.io/blog/vm2sandbreakvulnerabilitycve202236067">Enter "Sandbreak"  Vulnerability In vm2 Sandbox Module Enables Remote Code Execution (CVE202236067)</a> |
 | <a href="https://hackerone.com/reports/928255">Ability To Delete User(s) Account Without User Interaction</a> |
 | <a href="http://ysamm.com/?p=603">URLs in img tag aren’t safely embedded. ($500)</a> |
-| <a href="https://saajan.bhujel.cyou/blog/web/20221016howigot10000fromgithubforbypassingfiltrationofhtmltags">How I Got $10,000 From GitHub For Bypassing Filtration oF HTML tags</a> |
-| <a href="https://blog.assetnote.io/2021/08/29/exploitinggraphql/">Exploiting GraphQL</a> |
+| <a href="https://blog.assetnote.io/2021/08/29/exploiting-graphql/">Exploiting GraphQL</a> |
 | <a href="https://hackerone.com/reports/1091303">Low privilege user can read POS PINs via graphql and elevate his privilege</a> |
-| <a href="https://blog.doyensec.com/2021/05/20/graphqlcsrf.html">That single GraphQL issue that you keep missing</a> |
-| <a href="https://www.rapid7.com/blog/post/2022/03/03/cve20214191gitlabgraphqlapiuserenumerationfixed/">CVE20214191: GitLab GraphQL API User Enumeration (FIXED)</a> |
+| <a href="https://blog.doyensec.com/2021/05/20/graphql-csrf.html">That single GraphQL issue that you keep missing</a> |
+| <a href="https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/">CVE20214191: GitLab GraphQL API User Enumeration (FIXED)</a> |
 | <a href="https://github.com/gsmith257cyber/GraphCrawler">GraphQL automated security testing toolkit </a> |
 | <a href="https://rashahacks.com/idoringraphqlqueryleakingprivatephotosofamillionapp2c12c7e9dea7">IDOR in GraphQL Query Leaking Private Photos of a Million $ App</a> |
 
