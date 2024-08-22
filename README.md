@@ -308,7 +308,7 @@
 | <a href="https://0xjoyghosh.medium.com/information-gathering-scanning-for-sensitive-information-reloaded-6ff3455e0d4e">Information Gathering&scanning for sensitive information</a> |
 | <a href="https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html">Attacking Pixel's Titan M with Only One Byte (CVE202220233) and getting 75,000 USD bounty</a> |
 | <a href="https://www.synacktiv.com/en/publications/cicd-secrets-extraction-tips-and-tricks.html">CI/CD SECRETS EXTRACTION, TIPS AND TRICKS</a> |
-| <a href="https://ssddisclosure.com/ssdadvisorykeriomailboxtakeover/">SSD ADVISORY – KERIO MAILBOX TAKEOVER</a> |
+| <a href="https://ssd-disclosure.com/ssd-advisory-kerio-mailbox-takeover/">SSD ADVISORY – KERIO MAILBOX TAKEOVER</a> |
 | <a href="https://3bodymo.medium.com/theeasiest2500igotitfrombugbountyprogram8f47ea4aff22">The easiest $2500 I got it from bug bounty program</a> |
 | <a href="https://amineaboud.medium.com/discloseleadsformdetailsofanyfacebookbusinessaccountorfacebookpagebugbounty7ecae6cff312">Disclose leads form details of any Facebook Business Account or Facebook Page</a> |
 | <a href="https://www.ghostccamm.com/blog/multi_strapi_vulns/">Multiple Critical Vulnerabilities in Strapi Versions <=4.7.1</a> |
