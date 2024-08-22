@@ -317,7 +317,7 @@
 | <a href="https://hackerone.com/reports/1125425">RCE via unsafe inline Kramdown options when rendering certain Wiki pages</a> |
 | <a href="https://blog.sonarsource.com/mybb-remote-code-execution-chain">MyBB Remote Code Execution Chain</a> |
 | <a href="https://thehackernews.com/2022/05/critical-gems-takeover-bug-reported-in.html">Critical Gems Takeover Bug Reported in RubyGems Package Manager</a> |
-| <a href="https://portswigger.net/research/huntingevasivevulnerabilities">Hunting evasive vulnerabilities</a> |
+| <a href="https://portswigger.net/research/hunting-evasive-vulnerabilities">Hunting evasive vulnerabilities</a> |
 | <a href="https://www.oxeye.io/blog/vm2sandbreakvulnerabilitycve202236067">Enter "Sandbreak"  Vulnerability In vm2 Sandbox Module Enables Remote Code Execution (CVE202236067)</a> |
 | <a href="https://hackerone.com/reports/928255">Ability To Delete User(s) Account Without User Interaction</a> |
 | <a href="http://ysamm.com/?p=603">URLs in img tag aren’t safely embedded. ($500)</a> |
