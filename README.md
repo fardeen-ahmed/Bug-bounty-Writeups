@@ -337,7 +337,7 @@
 | IDOR | <a href="http://ysamm.com/?p=606">Access employees files in internal CDNs/ Access users modified/deleted content.($12500)</a> |
 | IDOR | <a href="https://vijetareigns.medium.com/forced-browsing-to-access-admin-panel-214a7defa2a5">Forced Browsing to Access Admin Panel</a> | 
 | IDOR | <a href="https://medium.com/@botami143/i-found-idor-vulnerability-at-microsoft-subdomain-b89b8777bf8d">I found IDOR Vulnerability at Microsoft Subdomain</a> |
-| IDOR | <a href="https://medium.com/@tusharsaini484/howifoundanidorthatledtosensitiveinformationleak6055bb121f8">How I found an IDOR that led to sensitive information leak?</a> |
+| IDOR | <a href="https://medium.com/@tusharsaini484/how-i-foundan-idor-that-led-to-sensitive-information-leak-6055bb121f8">How I found an IDOR that led to sensitive information leak?</a> |
 | Chained | <a href="https://medium.com/@gonzalocarrascosec/fuzzingidoradmintakeover5343bb8f436e">Fuzzing + IDOR = Admin TakeOver</a> |
 | ATO | <a href="https://medium.com/@evan.connelly/postaccounttakeoveraccounttakeoverofinternalteslaaccountsbc720603e67d">Post Account Takeover? Account Takeover of Internal Tesla Accounts</a> |
 | ATO | <a href="https://shahjerry33.medium.com/accounttakeoverinsidethetenant6101a3cafbee">Account Takeover  Inside The Tenanth</a> |
