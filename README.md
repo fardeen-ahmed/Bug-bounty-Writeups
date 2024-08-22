@@ -340,7 +340,7 @@
 | IDOR | <a href="https://medium.com/@tusharsaini484/how-i-found-an-idor-that-led-to-sensitive-information-leak-6055bb121f8">How I found an IDOR that led to sensitive information leak?</a> |
 | Chained | <a href="https://medium.com/@gonzalocarrascosec/fuzzing-idor-admin-takeover-5343bb8f436e">Fuzzing + IDOR = Admin TakeOver</a> |
 | ATO | <a href="https://medium.com/@evan.connelly/post-account-takeover-account-takeover-of-internal-tesla-accounts-bc720603e67d">Post Account Takeover? Account Takeover of Internal Tesla Accounts</a> |
-| ATO | <a href="https://shahjerry33.medium.com/accounttakeoverinsidethetenant6101a3cafbee">Account Takeover  Inside The Tenanth</a> |
+| ATO | <a href="https://shahjerry33.medium.com/account-takeover-inside-the-tenant-6101a3cafbee">Account Takeover  Inside The Tenanth</a> |
 | RDP | <a href="https://blog.intigriti.com/2023/02/13/fileattachmentssizedoesmatter/">Helping secure BNB Chain through responsible disclosure</a> |
 | Account Takeover | <a href="https://infosecwriteups.com/howiwasabletotakeoveraccountsinwebsitesdealwithgithubasassoprovider294290358e0c">How I was able to take over accounts in websites deal with Github as an SSO provider</a> |
 | ATO | <a href="https://medium.com/@gonzxph/accounttakeoverworthof2500e643661f94e9">Account Takeover Worth of $2500</a> |
