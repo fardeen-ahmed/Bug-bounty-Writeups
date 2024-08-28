@@ -347,14 +347,14 @@
 | ATO | <a href="https://0xmaruf.medium.com/firing-8-account-takeover-methods-77e892099050">Firing 8 Account Takeover Methods</a> |
 | IDOR | <a href="https://r0ckinxj3.wordpress.com/2021/10/24/a-7500-google-sites-idor/">A 7500$ Google sites IDOR</a> |
 | ATO | <a href="https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com">Traveling with OAuth  Account Takeover on Booking.com</a> |
-| OAUTH | <a href="https://agnihackers.medium.com/otpbypassthroughresponsemanipulationbeeb467359d8">OTP Bypass Through Response Manipulation</a> |
+| OAUTH | <a href="https://agnihackers.medium.com/otp-bypass-through-response-manipulation-beeb467359d8">OTP Bypass Through Response Manipulation</a> |
 | ATO | <a href="https://ysamm.com/?p=783">Account Takeover in Canvas Apps served in Comet due to failure in CrossWindowMessage Origin validation</a> |
-| IDOR | <a href="https://sagarsajeev.medium.com/unsubscribeanyusersemailnotificationsviaidor2c2e05b79dac">Unsubscribe any user’s email notifications via IDOR</a> |
-| Chained | <a href="https://infosecwriteups.com/idorleadstoleakprivatedetails866563365490">IDOR leads to leak Private Details</a> |
-| IDOR | <a href="https://bhansalipratish.medium.com/howifoundmyfirstbugidor9c4e52584454">How I found my first bug (IDOR)</a> |
-| Auth Bypass | <a href="https://medium.com/@h4x0r_dz/23000forauthenticationbypassfileuploadarbitraryfileoverwrite2578b730a5f8">23000$ for Authentication Bypass & File Upload & Arbitrary File Overwrite</a> | 
-| AI | <a href="https://protectai.com/blog/hackingaisystemtakeoverexploitinmlflow">Hacking AI: System and Cloud Takeover via MLflow Exploit</a> | 
-| API | <a href="http://security.googleblog.com/2023/04/announcingdepsdevapicritical.html">Announcing the deps.dev API: critical dependency data for secure supply chains</a> |
+| IDOR | <a href="https://sagarsajeev.medium.com/unsubscribe-any-users-email-notifications-via-idor-2c2e05b79dac">Unsubscribe any user’s email notifications via IDOR</a> |
+| Chained | <a href="https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490">IDOR leads to leak Private Details</a> |
+| IDOR | <a href="https://bhansalipratish.medium.com/how-i-found-my-first-bug-idor-9c4e52584454">How I found my first bug (IDOR)</a> |
+| Auth Bypass | <a href="https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8">23000$ for Authentication Bypass & File Upload & Arbitrary File Overwrite</a> | 
+| AI | <a href="https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow">Hacking AI: System and Cloud Takeover via MLflow Exploit</a> | 
+| API | <a href="https://security.googleblog.com/2023/04/announcing-depsdev-api-critical.html">Announcing the deps.dev API: critical dependency data for secure supply chains</a> |
 | Chained | <a href="https://adityashende17.medium.com/idortoinformationdisclosureadminaccounttakeover6aa96798c70b">IDOR to information disclosure + Admin Account Takeover</a> |
 | IDOR | <a href="https://junoonbro.medium.com/idorshowtofindidorsinecommercesitesd112bd946fcf">$$$$ IDOR’s — How to find IDORs in Ecommerce sites?</a> |
 | ATO | <a href="http://ysamm.com/?p=783">ATO in Canvas Games due to weak cross window message Origin validations ($62,500)</a> |
