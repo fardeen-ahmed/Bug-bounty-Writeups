@@ -346,7 +346,7 @@
 | ATO | <a href="https://medium.com/@gonzxph/account-takeover-worth-of-2500-e643661f94e9">Account Takeover Worth of $2500</a> |
 | ATO | <a href="https://0xmaruf.medium.com/firing-8-account-takeover-methods-77e892099050">Firing 8 Account Takeover Methods</a> |
 | IDOR | <a href="https://r0ckinxj3.wordpress.com/2021/10/24/a-7500-google-sites-idor/">A 7500$ Google sites IDOR</a> |
-| ATO | <a href="https://salt.security/blog/travelingwithoauthaccounttakeoveronbookingcom">Traveling with OAuth  Account Takeover on Booking.com</a> |
+| ATO | <a href="https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com">Traveling with OAuth  Account Takeover on Booking.com</a> |
 | OAUTH | <a href="https://agnihackers.medium.com/otpbypassthroughresponsemanipulationbeeb467359d8">OTP Bypass Through Response Manipulation</a> |
 | ATO | <a href="https://ysamm.com/?p=783">Account Takeover in Canvas Apps served in Comet due to failure in CrossWindowMessage Origin validation</a> |
 | IDOR | <a href="https://sagarsajeev.medium.com/unsubscribeanyusersemailnotificationsviaidor2c2e05b79dac">Unsubscribe any user’s email notifications via IDOR</a> |
