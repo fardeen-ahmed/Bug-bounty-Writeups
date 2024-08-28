@@ -356,10 +356,10 @@
 | AI | <a href="https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow">Hacking AI: System and Cloud Takeover via MLflow Exploit</a> | 
 | API | <a href="https://security.googleblog.com/2023/04/announcing-depsdev-api-critical.html">Announcing the deps.dev API: critical dependency data for secure supply chains</a> |
 | Chained | <a href="https://adityashende17.medium.com/idor-to-information-disclosure-admin-account-takeover-6aa96798c70b">IDOR to information disclosure + Admin Account Takeover</a> |
-| IDOR | <a href="https://junoonbro.medium.com/idorshowtofindidorsinecommercesitesd112bd946fcf">$$$$ IDOR’s — How to find IDORs in Ecommerce sites?</a> |
+| IDOR | <a href="https://junoonbro.medium.com/idors-how-to-find-idors-in-ecommerce-sites-d112bd946fcf">$$$$ IDOR’s — How to find IDORs in Ecommerce sites?</a> |
 | ATO | <a href="http://ysamm.com/?p=783">ATO in Canvas Games due to weak cross window message Origin validations ($62,500)</a> |
-| Chained | <a href="https://akashvenky091.medium.com/otpbypassingandvulnerabilitiesfromemailfieldsa5c326efa605">OTP Bypassing and Vulnerabilities from EMail fields.</a> |
-| Path Traversal | <a href="https://kuldeep.io/posts/pathtraversalparadise/">Path Traversal Paradise</a> | 
+| Chained | <a href="https://akashvenky091.medium.com/otp-bypassing-and-vulnerabilities-from-email-fields-a5c326efa605">OTP Bypassing and Vulnerabilities from EMail fields.</a> |
+| Path Traversal | <a href="https://kuldeep.io/posts/path-traversal-paradise/">Path Traversal Paradise</a> | 
 | RCE | <a href="https://sysdig.com/blog/cve202242889text4shell/">Detecting and mitigating CVE202242889 a.k.a. Text4shell</a> |
 | WAF | <a href="https://medium.com/@divyanshsharma2401/bypassingwaffor2222f99b80cfdb9b">Bypassing WAF for $2222</a> |
 | Path Traversal | <a href="https://yilmazcanyigit.medium.com/cve20196238applexardirectorytraversalvulnerability9a32ba8b3b7d">CVE2019–6238: Apple XAR directory traversal vulnerability</a> |
