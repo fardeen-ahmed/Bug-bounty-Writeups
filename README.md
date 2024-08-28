@@ -355,7 +355,7 @@
 | Auth Bypass | <a href="https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8">23000$ for Authentication Bypass & File Upload & Arbitrary File Overwrite</a> | 
 | AI | <a href="https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow">Hacking AI: System and Cloud Takeover via MLflow Exploit</a> | 
 | API | <a href="https://security.googleblog.com/2023/04/announcing-depsdev-api-critical.html">Announcing the deps.dev API: critical dependency data for secure supply chains</a> |
-| Chained | <a href="https://adityashende17.medium.com/idortoinformationdisclosureadminaccounttakeover6aa96798c70b">IDOR to information disclosure + Admin Account Takeover</a> |
+| Chained | <a href="https://adityashende17.medium.com/idor-to-information-disclosure-admin-account-takeover-6aa96798c70b">IDOR to information disclosure + Admin Account Takeover</a> |
 | IDOR | <a href="https://junoonbro.medium.com/idorshowtofindidorsinecommercesitesd112bd946fcf">$$$$ IDOR’s — How to find IDORs in Ecommerce sites?</a> |
 | ATO | <a href="http://ysamm.com/?p=783">ATO in Canvas Games due to weak cross window message Origin validations ($62,500)</a> |
 | Chained | <a href="https://akashvenky091.medium.com/otpbypassingandvulnerabilitiesfromemailfieldsa5c326efa605">OTP Bypassing and Vulnerabilities from EMail fields.</a> |
