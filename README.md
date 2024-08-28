@@ -360,7 +360,7 @@
 | ATO | <a href="http://ysamm.com/?p=783">ATO in Canvas Games due to weak cross window message Origin validations ($62,500)</a> |
 | Chained | <a href="https://akashvenky091.medium.com/otp-bypassing-and-vulnerabilities-from-email-fields-a5c326efa605">OTP Bypassing and Vulnerabilities from EMail fields.</a> |
 | Path Traversal | <a href="https://kuldeep.io/posts/path-traversal-paradise/">Path Traversal Paradise</a> | 
-| RCE | <a href="https://sysdig.com/blog/cve202242889text4shell/">Detecting and mitigating CVE202242889 a.k.a. Text4shell</a> |
+| RCE | <a href="https://sysdig.com/blog/cve-2022-42889-text4shell/">Detecting and mitigating CVE202242889 a.k.a. Text4shell</a> |
 | WAF | <a href="https://medium.com/@divyanshsharma2401/bypassingwaffor2222f99b80cfdb9b">Bypassing WAF for $2222</a> |
 | Path Traversal | <a href="https://yilmazcanyigit.medium.com/cve20196238applexardirectorytraversalvulnerability9a32ba8b3b7d">CVE2019–6238: Apple XAR directory traversal vulnerability</a> |
 | Rate Limit | <a href="https://medium.com/@manavbankatwala29/uniqueratelimitbypassworth18006e2947c7d972">Unique Rate limit bypass worth 1800$</a> |
