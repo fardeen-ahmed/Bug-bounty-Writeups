@@ -2,7 +2,7 @@
 <a href="https://fardeen-ahmed.github.io/">
   <img src="https://github.com/fardeen-ahmed/Bug-bounty-Writeups/blob/main/1.png" alt="None" align="center" height="250" width="1000">
 </a>
-<h4>This repository can be used as a reference while performing BugBounty hunting </h4><br>
+<h4>This repository can be used as a reference while performing Bug-Bounty hunting </h4><br>
 
 | Basic Tools | Description |
 |-----------|-----|
