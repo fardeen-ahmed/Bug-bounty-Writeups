@@ -363,7 +363,7 @@
 | RCE | <a href="https://sysdig.com/blog/cve-2022-42889-text4shell/">Detecting and mitigating CVE202242889 a.k.a. Text4shell</a> |
 | WAF | <a href="https://medium.com/@divyanshsharma2401/bypassing-waf-for-2222-f99b80cfdb9b">Bypassing WAF for $2222</a> |
 | Path Traversal | <a href="https://yilmazcanyigit.medium.com/cve-2019-6238-apple-xar-directory-traversal-vulnerability-9a32ba8b3b7d">CVE2019–6238: Apple XAR directory traversal vulnerability</a> |
-| Rate Limit | <a href="https://medium.com/@manavbankatwala29/uniqueratelimitbypassworth18006e2947c7d972">Unique Rate limit bypass worth 1800$</a> |
+| Rate Limit | <a href="https://medium.com/@manavbankatwala29/unique-rate-limit-bypass-worth-1800-6e2947c7d972">Unique Rate limit bypass worth 1800$</a> |
 | IDOR | <a href="https://encodedguy.medium.com/600foridorfileorfolderdownload243166452dad">$600 for IDOR (File or Folder Download)</a> |
 | Podcast | <a href="https://dayzerosec.com/podcast/202.html">202  A SNIProxy Bug and a Samsung NPU Double Free</a> |
 | IDOR | <a href="https://amitlt.medium.com/astoryofidorwhichleadstoprivacyviolation78c1b4c710fb">A Story of IDOR which leads to privacy violation…$$$</a> |
