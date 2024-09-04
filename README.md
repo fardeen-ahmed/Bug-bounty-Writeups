@@ -368,10 +368,7 @@
 | Podcast | <a href="https://dayzerosec.com/podcast/202.html">202  A SNIProxy Bug and a Samsung NPU Double Free</a> |
 | IDOR | <a href="https://amitlt.medium.com/a-story-of-idor-which-leads-to-privacy-violation-78c1b4c710fb">A Story of IDOR which leads to privacy violation…$$$</a> |
 | IDOR | <a href="https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431">How I found my first IDOR in HackerOne</a> |
-| IDOR | <a href="https://asterfiester.medium.com/5000googleidorvulnerabilitywriteupc7b45926abe9">$5000 Google IDOR Vulnerability Writeup</a> |
-| Chained | <a href="https://snapsec.co/blog/2021/09/25/AttackingAccessControlModelsInModernWebApplications.html">Attacking Access Control Models In Modern Web Applications</a> |
-| OAuth | <a href="https://github.blog/20230303githubsecuritylabauditeddatahubhereswhattheyfound/">GitHub Security Lab audited DataHub: Here’s what they found</a> |
-| Access Control | <a href="https://medium.com/@mehedishakeel/improperaccesscontrolmythirdfindingonhackerone1455e95b6c8c">Improper Access Control — My Third Finding on Hackerone!</a> |
+| Access Control | <a href="https://medium.com/@mehedishakeel/improper-access-control-my-third-finding-on-hackerone-1455e95b6c8c">Improper Access Control — My Third Finding on Hackerone!</a> |
 | CSRF | <a href="https://medium.com/@rajeevranjancom/crosssiterequestforgerycsrfattack6949edb9e405">Cross site request forgery (CSRF) attack</a> |
 | IDOR | <a href="https://psfauzi.medium.com/howiget1350fromidorjustless1hours7496bab1a914">How I Get $1350 From IDOR Just Less 1 hours</a> |
 | Priv Esc | <a href="https://junoonbro.medium.com/howiearned9000withprivilegeescalationsb187d1f8f4fe">How I earned $9000 with Privilege escalations</a> |
