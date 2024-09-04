@@ -366,7 +366,7 @@
 | Rate Limit | <a href="https://medium.com/@manavbankatwala29/unique-rate-limit-bypass-worth-1800-6e2947c7d972">Unique Rate limit bypass worth 1800$</a> |
 | IDOR | <a href="https://encodedguy.medium.com/600-for-idor-file-or-folder-download-243166452dad">$600 for IDOR (File or Folder Download)</a> |
 | Podcast | <a href="https://dayzerosec.com/podcast/202.html">202  A SNIProxy Bug and a Samsung NPU Double Free</a> |
-| IDOR | <a href="https://amitlt.medium.com/astoryofidorwhichleadstoprivacyviolation78c1b4c710fb">A Story of IDOR which leads to privacy violation…$$$</a> |
+| IDOR | <a href="https://amitlt.medium.com/a-story-of-idor-which-leads-to-privacy-violation-78c1b4c710fb">A Story of IDOR which leads to privacy violation…$$$</a> |
 | IDOR | <a href="https://hopesamples.blogspot.com/2022/09/idorleadstoremovingmembersfromany.html">IDOR leads to removing members from any Google Chat Space</a> |
 | IDOR | <a href="https://n1ghtmar3.medium.com/howifoundmyfirstidorinhackerone5d5f17bb431">How I found my first IDOR in HackerOne</a> |
 | IDOR | <a href="https://asterfiester.medium.com/5000googleidorvulnerabilitywriteupc7b45926abe9">$5000 Google IDOR Vulnerability Writeup</a> |
