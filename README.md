@@ -380,7 +380,7 @@
 | CORS | <a href="https://blog.snapsec.co/attacking-cors/">Attacking CORS Misconfigurations in Modern Web Apps</a> |
 | ATO | <a href="https://youtu.be/5guMYiQrnUo">Shopify Account Takeover $22,500 Bug Bounty</a> |
 | Path Traversal | <a href="https://blog.intigriti.com/2021/10/13/bug-bytes-142-weird-google-bugs-saml-padding-oracle-apache-path-traversal-continued/">Weird Google bugs, SAML padding Oracle & Apache path traversal continued</a> |
-| HTTP Smuggle | <a href="https://www.intruder.io/research/practicalhttpheadersmuggling">Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond</a> |
+| HTTP Smuggle | <a href="https://www.intruder.io/research/practical-http-header-smuggling">Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond</a> |
 | IDOR | <a href="https://www.youtube.com/watch?v=FzT3Z7tgDSQ">$5,000 YouTube IDOR  Bug Bounty Reports Explained </a> |
 
 
