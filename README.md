@@ -377,7 +377,7 @@
 | Chained | <a href="https://medium.com/@webresearcher007/how-i-was-able-to-delete-any-users-oauth-connections-via-idor-bf3a8e8e2269">How I was able to delete any users’ OAUTH connections via IDOR</a> |
 | Chained | <a href="https://www.cobalt.io/blog/cobalt-pentest-case-study-oauth-redirect-to-account-takeover">Cobalt Pentest Case Study: OAuth Redirect to Account Takeover</a> |
 | IDOR | <a href="https://aidilarf.medium.com/idor-via-get-request-which-can-sold-all-user-products-2f5bc3ea1650">IDOR via GET Request which can SOLD all User Products</a> |
-| CORS | <a href="https://snapsec.co/blog/CORSMisconfigrations/">CORS Misconfigurations</a> |
+| CORS | <a href="https://blog.snapsec.co/attacking-cors/">Attacking CORS Misconfigurations in Modern Web Apps</a> |
 | ATO | <a href="https://youtu.be/5guMYiQrnUo">Shopify Account Takeover $22,500 Bug Bounty</a> |
 | Path Travesal | <a href="https://github.com/yunuscadirci/XboxOneDirectoryTraversal">Xbox One Directory Traversal : Details about directory traversal on Xbox One</a> |
 | Path Traversal | <a href="https://blog.intigriti.com/2021/10/13/bugbytes142weirdgooglebugssamlpaddingoracleapachepathtraversalcontinued/">Weird Google bugs, SAML padding Oracle & Apache path traversal continued</a> |
