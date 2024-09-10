@@ -372,10 +372,9 @@
 | CSRF | <a href="https://medium.com/@rajeevranjancom/cross-site-request-forgery-csrf-attack-6949edb9e405">Cross site request forgery (CSRF) attack</a> |
 | IDOR | <a href="https://psfauzi.medium.com/how-i-get-1350-from-idor-just-less-1-hours-7496bab1a914">How I Get $1350 From IDOR Just Less 1 hours</a> |
 | Priv Esc | <a href="https://junoonbro.medium.com/how-i-earned-9000-with-privilege-escalations-b187d1f8f4fe">How I earned $9000 with Privilege escalations</a> |
-| IDOR | <a href="https://psfauzi.medium.com/howiget1350fromidorjustless1hours7496bab1a914">How I Get $1350 From IDOR Just Less 1 hours</a> |
 | IDOR | <a href="https://hackerone.com/reports/1372216">IDOR in "external status check" API leaks data about any status check on the instance</a> |
 | IDOR | <a href="https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad">4300$ Instagram IDOR Bug (2022)</a> |
-| Chained | <a href="https://medium.com/@webresearcher007/howiwasabletodeleteanyusersoauthconnectionsviaidorbf3a8e8e2269">How I was able to delete any users’ OAUTH connections via IDOR</a> |
+| Chained | <a href="https://medium.com/@webresearcher007/how-i-was-able-to-delete-any-users-oauth-connections-via-idor-bf3a8e8e2269">How I was able to delete any users’ OAUTH connections via IDOR</a> |
 | ATO | <a href="https://medium.com/@tobydavenn/howiwasabletotakeoveranyusersaccountonamajortelecomswebsite2cd5aa43e3d6">How I was able to takeover any users account on a major telecoms website</a> |
 | Chained | <a href="https://www.cobalt.io/blog/cobaltpentestcasestudyoauthredirecttoaccounttakeover">Cobalt Pentest Case Study: OAuth Redirect to Account Takeover</a> |
 | IDOR | <a href="https://aidilarf.medium.com/idorviagetrequestwhichcansoldalluserproducts2f5bc3ea1650">IDOR via GET Request which can SOLD all User Products</a> |
