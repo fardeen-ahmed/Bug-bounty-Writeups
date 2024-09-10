@@ -371,7 +371,7 @@
 | Access Control | <a href="https://medium.com/@mehedishakeel/improper-access-control-my-third-finding-on-hackerone-1455e95b6c8c">Improper Access Control — My Third Finding on Hackerone!</a> |
 | CSRF | <a href="https://medium.com/@rajeevranjancom/cross-site-request-forgery-csrf-attack-6949edb9e405">Cross site request forgery (CSRF) attack</a> |
 | IDOR | <a href="https://psfauzi.medium.com/how-i-get-1350-from-idor-just-less-1-hours-7496bab1a914">How I Get $1350 From IDOR Just Less 1 hours</a> |
-| Priv Esc | <a href="https://junoonbro.medium.com/howiearned9000withprivilegeescalationsb187d1f8f4fe">How I earned $9000 with Privilege escalations</a> |
+| Priv Esc | <a href="https://junoonbro.medium.com/how-i-earned-9000-with-privilege-escalations-b187d1f8f4fe">How I earned $9000 with Privilege escalations</a> |
 | IDOR | <a href="https://psfauzi.medium.com/howiget1350fromidorjustless1hours7496bab1a914">How I Get $1350 From IDOR Just Less 1 hours</a> |
 | IDOR | <a href="https://hackerone.com/reports/1372216">IDOR in "external status check" API leaks data about any status check on the instance</a> |
 | IDOR | <a href="https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad">4300$ Instagram IDOR Bug (2022)</a> |
