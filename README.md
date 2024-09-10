@@ -379,8 +379,7 @@
 | IDOR | <a href="https://aidilarf.medium.com/idor-via-get-request-which-can-sold-all-user-products-2f5bc3ea1650">IDOR via GET Request which can SOLD all User Products</a> |
 | CORS | <a href="https://blog.snapsec.co/attacking-cors/">Attacking CORS Misconfigurations in Modern Web Apps</a> |
 | ATO | <a href="https://youtu.be/5guMYiQrnUo">Shopify Account Takeover $22,500 Bug Bounty</a> |
-| Path Travesal | <a href="https://github.com/yunuscadirci/XboxOneDirectoryTraversal">Xbox One Directory Traversal : Details about directory traversal on Xbox One</a> |
-| Path Traversal | <a href="https://blog.intigriti.com/2021/10/13/bugbytes142weirdgooglebugssamlpaddingoracleapachepathtraversalcontinued/">Weird Google bugs, SAML padding Oracle & Apache path traversal continued</a> |
+| Path Traversal | <a href="https://blog.intigriti.com/2021/10/13/bug-bytes-142-weird-google-bugs-saml-padding-oracle-apache-path-traversal-continued/">Weird Google bugs, SAML padding Oracle & Apache path traversal continued</a> |
 | HTTP Smuggle | <a href="https://www.intruder.io/research/practicalhttpheadersmuggling">Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond</a> |
 | IDOR | <a href="https://www.youtube.com/watch?v=FzT3Z7tgDSQ">$5,000 YouTube IDOR  Bug Bounty Reports Explained </a> |
 
