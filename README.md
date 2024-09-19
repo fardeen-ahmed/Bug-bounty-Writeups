@@ -407,8 +407,7 @@
 | ESI-I | <a href="https://sudhanshur705.medium.com/exploringtheworldofesiinjectionb86234e66f91">Exploring the World of ESI Injection</a> |
 | R-XSS | <a href="https://medium.com/@sicks3c/taleofxssinangularc5c057a56156">Tale of XSS in Angular</a> |
 | Stored | <a href="https://labs.guard.io/xss-vulnerability-found-in-connect-wise-remote-access-platform-with-great-potential-form-is-use-by-scammers-a0773da2aacf">XSS Vulnerability Found in ConnectWise Remote Access Platform With Great Potential For Misuse by Scammers</a>
-
-<a href="https://medium.com/@sid0krypt/vue-js-reflected-xss-fae04c9872d2">Vue JS Reflected XSS</a>
+| R-XSS |<a href="https://medium.com/@sid0krypt/vue-js-reflected-xss-fae04c9872d2">Vue JS Reflected XSS</a>
 
 <a href="https://securitylab.github.com/advisories/GHSL2022059_GHSL2022060_Owncloud_Android_app/">SQL injection vulnerabilities in Owncloud Android app  CVE202324804, CVE202323948</a>
 
