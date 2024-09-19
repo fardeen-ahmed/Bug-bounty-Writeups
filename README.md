@@ -394,7 +394,7 @@
 | Chained | <a href="https://portswigger.net/research/making-http-header-injection-critical-via-response-queue-poisoning">Making HTTP header injection critical via response queue poisoning</a> |
 | Cryptographic Failure | <a href="https://mouha.be/sha-3-buffer-overflow/">SHA3 Buffer Overflow</a> | 
 | Crptographic Failure | <a href="https://medium.com/numen-cyber-labs/analysis-and-summary-of-tcp-ip-protocol-remote-code-execution-vulnerability-cve-2022-34718-8fcc28538acf">TCP/IP Vulnerability CVE2022–34718 PoC Restoration and Analysis</a> |
-| Cryptographic Failure | <a href="https://securitylabs.datadoghq.com/articles/opensslnovember1vulnerabilities/">The OpenSSL punycode vulnerability (CVE20223602): Overview, detection, exploitation, and remediation</a> |
+| Cryptographic Failure | <a href="https://securitylabs.datadoghq.com/articles/openssl-november-1-vulnerabilities/">The OpenSSL punycode vulnerability (CVE20223602): Overview, detection, exploitation, and remediation</a> |
 
 
 
