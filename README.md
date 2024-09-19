@@ -409,10 +409,8 @@
 | Stored | <a href="https://labs.guard.io/xss-vulnerability-found-in-connect-wise-remote-access-platform-with-great-potential-form-is-use-by-scammers-a0773da2aacf">XSS Vulnerability Found in ConnectWise Remote Access Platform With Great Potential For Misuse by Scammers</a>
 | R-XSS |<a href="https://medium.com/@sid0krypt/vue-js-reflected-xss-fae04c9872d2">Vue JS Reflected XSS</a>
 | SQL-I |<a href="https://securitylab.github.com/advisories/GHSL-2022-059_GHSL-2022-060_Owncloud_Android_app/">SQL injection vulnerabilities in Owncloud Android app  CVE202324804, CVE202323948</a>
-
 | PHP-I |<a href="https://karmainsecurity.com/exploiting-an-nday-vbulletin-php-object-injection">Exploiting an Nday vBulletin PHP Object Injection Vulnerability</a>
-
-<a href="https://portswigger.net/research/findingdompolyglotxssinpaypaltheeasyway">Finding DOM Polyglot XSS in PayPal the Easy Way </a>
+| DOM-XSS |<a href="https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way">Finding DOM Polyglot XSS in PayPal the Easy Way </a>
 
 <a href="https://lethanhphucpk.medium.com/bugbountyxsswithmarkdownexploitfixonopensource1baecebe9645">XSS with Markdown — Exploit & Fix on OpenSource</a>
 
