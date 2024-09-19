@@ -408,8 +408,7 @@
 | R-XSS | <a href="https://medium.com/@sicks3c/taleofxssinangularc5c057a56156">Tale of XSS in Angular</a> |
 | Stored | <a href="https://labs.guard.io/xss-vulnerability-found-in-connect-wise-remote-access-platform-with-great-potential-form-is-use-by-scammers-a0773da2aacf">XSS Vulnerability Found in ConnectWise Remote Access Platform With Great Potential For Misuse by Scammers</a>
 | R-XSS |<a href="https://medium.com/@sid0krypt/vue-js-reflected-xss-fae04c9872d2">Vue JS Reflected XSS</a>
-
-<a href="https://securitylab.github.com/advisories/GHSL2022059_GHSL2022060_Owncloud_Android_app/">SQL injection vulnerabilities in Owncloud Android app  CVE202324804, CVE202323948</a>
+| SQL-I |<a href="https://securitylab.github.com/advisories/GHSL-2022-059_GHSL-2022-060_Owncloud_Android_app/">SQL injection vulnerabilities in Owncloud Android app  CVE202324804, CVE202323948</a>
 
 <a href="https://karmainsecurity.com/exploitinganndayvbulletinphpobjectinjection">Exploiting an Nday vBulletin PHP Object Injection Vulnerability</a>
 
