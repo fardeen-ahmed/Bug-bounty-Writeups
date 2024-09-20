@@ -412,12 +412,8 @@
 | PHP-I |<a href="https://karmainsecurity.com/exploiting-an-nday-vbulletin-php-object-injection">Exploiting an Nday vBulletin PHP Object Injection Vulnerability</a>
 | DOM-XSS |<a href="https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way">Finding DOM Polyglot XSS in PayPal the Easy Way </a>
 | Stored-XSS |<a href="https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645">XSS with Markdown — Exploit & Fix on OpenSource</a>
-
-<a href="https://bugcrowd.com/disclosures/aac249ea-fe92-4b43-98e9-dda021c0ff4d/postmessage-xss-in-tesla-payment-page">postMessage XSS in Tesla Payment page </a>
-
-<a href="https://medium.com/@_ip_/23xssthroughthefrontdoorgitlabfc4b6799e743">XSS Through The FrontDoor @ GitLab</a>
-
-<a href="https://portswigger.net/dailyswig/htmlparserbugtriggerschromiumxsssecurityflaw">HTML parser bug triggers Chromium XSS security flaw</a>
+| Stored-XSS |<a href="https://bugcrowd.com/disclosures/aac249ea-fe92-4b43-98e9-dda021c0ff4d/postmessage-xss-in-tesla-payment-page">postMessage XSS in Tesla Payment page </a>
+| DOM XSS |<a href="https://portswigger.net/daily-swig/html-parser-bug-triggers-chromium-xss-security-flaw">HTML parser bug triggers Chromium XSS security flaw</a>
 
 <a href="https://www.trustedsec.com/blog/scrapinglogincredentialswithxss/">SCRAPING LOGIN CREDENTIALS WITH XSS </a>
 
