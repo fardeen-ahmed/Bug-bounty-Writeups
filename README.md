@@ -413,7 +413,7 @@
 | DOM-XSS |<a href="https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way">Finding DOM Polyglot XSS in PayPal the Easy Way </a>
 | Stored-XSS |<a href="https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645">XSS with Markdown — Exploit & Fix on OpenSource</a>
 
-<a href="https://bugcrowd.com/disclosures/aac249eafe924b4398e9dda021c0ff4d/postmessagexssinteslapaymentpage">postMessage XSS in Tesla Payment page </a>
+<a href="https://bugcrowd.com/disclosures/aac249ea-fe92-4b43-98e9-dda021c0ff4d/postmessage-xss-in-tesla-payment-page">postMessage XSS in Tesla Payment page </a>
 
 <a href="https://medium.com/@_ip_/23xssthroughthefrontdoorgitlabfc4b6799e743">XSS Through The FrontDoor @ GitLab</a>
 
