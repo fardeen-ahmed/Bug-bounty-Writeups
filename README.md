@@ -417,8 +417,7 @@
 | DOM-XSS |<a href="https://medium.com/@haroonhameed_76621/a-775-worth-of-cookies-reflected-dom-based-xss-bug-bounty-poc-3e7720c78fbe">A $$$ worth of cookies! | Reflected DOMBased XSS | Bug Bounty POC</a>
 | Simple XSS |<a href="https://portswigger.net/daily-swig/email-platform-zimbra-issues-hotfix-for-xss-vulnerability-under-active-exploitation">Email platform Zimbra issues hotfix for XSS vulnerability under active exploitation</a>
 | SQL-I |<a href="https://omar0x01.medium.com/cve-2022-38627-a-journey-through-sqlite-injection-to-compromise-the-whole-enterprise-building-15cebd072ed6">CVE202238627: A journey through SQLite Injection to compromise the whole enterprise building</a>
-
-<a href="https://hackerone.com/reports/1196958">Clipboard DOMbased XSS</a>
+| DOM-XSS |<a href="https://hackerone.com/reports/1196958">Clipboard DOMbased XSS</a>
 
 <a href="https://medium.com/@armaanpathan/exploitingdombasedxssviamisconfiguredpostmessagefunctionbfc794969a0a">Exploiting DOM Based XSS via Misconfigured postMessage() Function</a>
 
