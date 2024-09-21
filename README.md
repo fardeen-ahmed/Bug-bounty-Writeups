@@ -419,10 +419,7 @@
 | SQL-I |<a href="https://omar0x01.medium.com/cve-2022-38627-a-journey-through-sqlite-injection-to-compromise-the-whole-enterprise-building-15cebd072ed6">CVE202238627: A journey through SQLite Injection to compromise the whole enterprise building</a>
 | DOM-XSS |<a href="https://hackerone.com/reports/1196958">Clipboard DOMbased XSS</a>
 | DOM-XSS |<a href="https://medium.com/@armaanpathan/exploiting-dom-based-xss-via-misconfigured-postmessage-function-bfc794969a0a">Exploiting DOM Based XSS via Misconfigured postMessage() Function</a>
-
-<a href="https://medium.com/@tobydavenn/storedxsstootherusersviamessagese033239821b5">Stored XSS To Other Users Via Messages</a>
-
-<a href="https://sl4x0.medium.com/howifoundxssonadminpagewithoutloginfe165a5f89c2">How I found XSS on Admin Page without login!</a>
+| R-XSS |<a href="https://sl4x0.medium.com/how-i-found-xss-on-admin-page-without-login-fe165a5f89c2">How I found XSS on Admin Page without login!</a>
 
 <a href="https://0u.ma/5">Cache Poisoning via SelfXSS + Path Parameter</a>
 
