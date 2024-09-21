@@ -418,8 +418,7 @@
 | Simple XSS |<a href="https://portswigger.net/daily-swig/email-platform-zimbra-issues-hotfix-for-xss-vulnerability-under-active-exploitation">Email platform Zimbra issues hotfix for XSS vulnerability under active exploitation</a>
 | SQL-I |<a href="https://omar0x01.medium.com/cve-2022-38627-a-journey-through-sqlite-injection-to-compromise-the-whole-enterprise-building-15cebd072ed6">CVE202238627: A journey through SQLite Injection to compromise the whole enterprise building</a>
 | DOM-XSS |<a href="https://hackerone.com/reports/1196958">Clipboard DOMbased XSS</a>
-
-<a href="https://medium.com/@armaanpathan/exploitingdombasedxssviamisconfiguredpostmessagefunctionbfc794969a0a">Exploiting DOM Based XSS via Misconfigured postMessage() Function</a>
+| DOM-XSS |<a href="https://medium.com/@armaanpathan/exploiting-dom-based-xss-via-misconfigured-postmessage-function-bfc794969a0a">Exploiting DOM Based XSS via Misconfigured postMessage() Function</a>
 
 <a href="https://medium.com/@tobydavenn/storedxsstootherusersviamessagese033239821b5">Stored XSS To Other Users Via Messages</a>
 
