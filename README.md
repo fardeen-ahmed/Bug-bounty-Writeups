@@ -415,10 +415,7 @@
 | Stored-XSS |<a href="https://bugcrowd.com/disclosures/aac249ea-fe92-4b43-98e9-dda021c0ff4d/postmessage-xss-in-tesla-payment-page">postMessage XSS in Tesla Payment page </a>
 | DOM XSS |<a href="https://portswigger.net/daily-swig/html-parser-bug-triggers-chromium-xss-security-flaw">HTML parser bug triggers Chromium XSS security flaw</a>
 | DOM-XSS |<a href="https://medium.com/@haroonhameed_76621/a-775-worth-of-cookies-reflected-dom-based-xss-bug-bounty-poc-3e7720c78fbe">A $$$ worth of cookies! | Reflected DOMBased XSS | Bug Bounty POC</a>
-
-<a href="https://infosecwriteups.com/howiwasabletofind50crosssitescriptingxsssecurityvulnerabilitiesonbugcrowdpublicba33db2b0ab1">How I was able to find 50+ Crosssite scripting (XSS) Security Vulnerabilities on Bugcrowd Public Program</a>
-
-<a href="https://portswigger.net/dailyswig/emailplatformzimbraissueshotfixforxssvulnerabilityunderactiveexploitation">Email platform Zimbra issues hotfix for XSS vulnerability under active exploitation</a>
+| Simple XSS |<a href="https://portswigger.net/daily-swig/email-platform-zimbra-issues-hotfix-for-xss-vulnerability-under-active-exploitation">Email platform Zimbra issues hotfix for XSS vulnerability under active exploitation</a>
 
 <a href="https://omar0x01.medium.com/cve202238627ajourneythroughsqliteinjectiontocompromisethewholeenterprisebuilding15cebd072ed6">CVE202238627: A journey through SQLite Injection to compromise the whole enterprise building</a>
 
