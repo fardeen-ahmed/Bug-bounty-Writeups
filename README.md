@@ -414,12 +414,7 @@
 | Stored-XSS |<a href="https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645">XSS with Markdown — Exploit & Fix on OpenSource</a>
 | Stored-XSS |<a href="https://bugcrowd.com/disclosures/aac249ea-fe92-4b43-98e9-dda021c0ff4d/postmessage-xss-in-tesla-payment-page">postMessage XSS in Tesla Payment page </a>
 | DOM XSS |<a href="https://portswigger.net/daily-swig/html-parser-bug-triggers-chromium-xss-security-flaw">HTML parser bug triggers Chromium XSS security flaw</a>
-
-<a href="https://www.trustedsec.com/blog/scrapinglogincredentialswithxss/">SCRAPING LOGIN CREDENTIALS WITH XSS </a>
-
-<a href="https://github.com/AnkitCuriosity/WriteUps/blob/main/XSSI%20(Cross%20Site%20Script%20Inclusion)%20to%20Steal%20AccessToken%20and%20More.md">XSSI (Cross Site Script Inclusion) to Steal AccessToken and More</a>
-
-<a href="https://medium.com/@haroonhameed_76621/a775worthofcookiesreflecteddombasedxssbugbountypoc3e7720c78fbe">A $$$ worth of cookies! | Reflected DOMBased XSS | Bug Bounty POC</a>
+| DOM-XSS |<a href="https://medium.com/@haroonhameed_76621/a-775-worth-of-cookies-reflected-dom-based-xss-bug-bounty-poc-3e7720c78fbe">A $$$ worth of cookies! | Reflected DOMBased XSS | Bug Bounty POC</a>
 
 <a href="https://infosecwriteups.com/howiwasabletofind50crosssitescriptingxsssecurityvulnerabilitiesonbugcrowdpublicba33db2b0ab1">How I was able to find 50+ Crosssite scripting (XSS) Security Vulnerabilities on Bugcrowd Public Program</a>
 
