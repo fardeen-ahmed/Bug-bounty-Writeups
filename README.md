@@ -427,8 +427,7 @@
 | C-I |<a href="https://medium.com/@omidxrz/command-injection-by-changing-the-logo-2d730887ab6c">The Tale of a Command Injection by Changing the Logo</a>
 | R-XSS |<a href="https://hackerone.com/reports/1367642">Reflected Cross Site Scripting (XSS) on one.newrelic.com</a>
 | XSS |<a href="https://portswigger.net/research/new-xss-vectors">New XSS vectors</a>
-
-<a href="https://medium.com/@marvelmaniac/themostunderratedinjectionofalltimecypherinjectionfa2018ba0de8">The most underrated injection of all time — CYPHER INJECTION. How I found and exploited it && 2000$ bounty !</a>
+| Cypher-I |<a href="https://medium.com/@marvelmaniac/the-most-underrated-injection-of-all-time-cypher-injection-fa2018ba0de8">The most underrated injection of all time — CYPHER INJECTION. How I found and exploited it && 2000$ bounty !</a>
 
 <a href="https://hackerone.com/reports/1558010">Blind XSS in app.pullrequest.com/████████ via /reviews/ratings/{uuid}</a>
 
