@@ -429,8 +429,7 @@
 | XSS |<a href="https://portswigger.net/research/new-xss-vectors">New XSS vectors</a>
 | Cypher-I |<a href="https://medium.com/@marvelmaniac/the-most-underrated-injection-of-all-time-cypher-injection-fa2018ba0de8">The most underrated injection of all time — CYPHER INJECTION. How I found and exploited it && 2000$ bounty !</a>
 | Blind-XSS |<a href="https://hackerone.com/reports/1558010">Blind XSS in app.pullrequest.com/████████ via /reviews/ratings/{uuid}</a>
-
-<a href="https://www.vidocsecurity.com/blog/hackingswaggeruifromxsstoaccounttakeovers/">Hacking SwaggerUI  from XSS to account takeovers</a>
+| Chained |<a href="https://blog.vidocsecurity.com/blog/hacking-swagger-ui-from-xss-to-account-takeovers/">Hacking SwaggerUI  from XSS to account takeovers</a>
 
 <a href="https://medium.com/@M0X0101/howiwasabletostealuserscredentialsviaswaggeruidomxsse84255eb8c96">How I was able to steal users credentials via Swagger UI DOMXSS</a>
 
