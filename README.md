@@ -425,10 +425,8 @@
 | SQL-I |<a href="https://thevillagehacker.medium.com/time-based-sql-injection-to-dumping-the-database-da0e5bcaa9df">TimeBased SQL Injection to Dumping the Database</a>
 | Security Misconfiguration |<a href="https://medium.com/@siratsami71/1500-worth-slack-vulnerability-bypass-invite-accept-process-8204e5431d52">[1500$ Worth — Slack] vulnerability, bypass invite accept process</a>
 | C-I |<a href="https://medium.com/@omidxrz/command-injection-by-changing-the-logo-2d730887ab6c">The Tale of a Command Injection by Changing the Logo</a>
-
-<a href="https://hackerone.com/reports/1367642">Reflected Cross Site Scripting (XSS) on one.newrelic.com</a>
-
-<a href="https://portswigger.net/research/newxssvectors">New XSS vectors</a>
+| R-XSS |<a href="https://hackerone.com/reports/1367642">Reflected Cross Site Scripting (XSS) on one.newrelic.com</a>
+| XSS |<a href="https://portswigger.net/research/new-xss-vectors">New XSS vectors</a>
 
 <a href="https://medium.com/@marvelmaniac/themostunderratedinjectionofalltimecypherinjectionfa2018ba0de8">The most underrated injection of all time — CYPHER INJECTION. How I found and exploited it && 2000$ bounty !</a>
 
