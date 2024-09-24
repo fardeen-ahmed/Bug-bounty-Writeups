@@ -421,8 +421,7 @@
 | DOM-XSS |<a href="https://medium.com/@armaanpathan/exploiting-dom-based-xss-via-misconfigured-postmessage-function-bfc794969a0a">Exploiting DOM Based XSS via Misconfigured postMessage() Function</a>
 | R-XSS |<a href="https://sl4x0.medium.com/how-i-found-xss-on-admin-page-without-login-fe165a5f89c2">How I found XSS on Admin Page without login!</a>
 | SQL-I |<a href="https://c0nqr0r.medium.com/error-based-sql-injection-with-waf-bypass-manual-exploit-100-bab36b769005">Error based SQL Injection with WAF bypass manual Exploit 100%</a>
-
-<a href="https://medium.com/@abhijeetbiswas_/xsscrosssitescriptingviaxforwardedhostheader20be114d4254">XSS via XForwardedHost header</a>
+| XSS |<a href="https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254">XSS via X-Forwarded-Host header</a>
 
 <a href="https://thevillagehacker.medium.com/timebasedsqlinjectiontodumpingthedatabaseda0e5bcaa9df">TimeBased SQL Injection to Dumping the Database</a>
 
