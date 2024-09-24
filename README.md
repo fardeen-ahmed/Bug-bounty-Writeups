@@ -431,8 +431,7 @@
 | Blind-XSS |<a href="https://hackerone.com/reports/1558010">Blind XSS in app.pullrequest.com/████████ via /reviews/ratings/{uuid}</a>
 | Chained |<a href="https://blog.vidocsecurity.com/blog/hacking-swagger-ui-from-xss-to-account-takeovers/">Hacking SwaggerUI  from XSS to account takeovers</a>
 | DOM-XSS |<a href="https://medium.com/@M0X0101/how-i-was-able-to-steal-users-credentials-via-swagger-ui-dom-xss-e84255eb8c96">How I was able to steal users credentials via Swagger UI DOMXSS</a>
-
-<a href="https://spaceraccoon.dev/analyzingclipboardeventlistenersstoredxss/">I Hope This Sticks: Analyzing ClipboardEvent Listeners for Stored XSS</a>
+| Stored-XSS |<a href="https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss/">I Hope This Sticks: Analyzing ClipboardEvent Listeners for Stored XSS</a>
 
 <a href="https://hackerone.com/reports/1212067">Stored XSS in markdown via the DesignReferenceFilter</a>
 
