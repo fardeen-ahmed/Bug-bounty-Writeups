@@ -424,8 +424,7 @@
 | XSS |<a href="https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254">XSS via X-Forwarded-Host header</a>
 | SQL-I |<a href="https://thevillagehacker.medium.com/time-based-sql-injection-to-dumping-the-database-da0e5bcaa9df">TimeBased SQL Injection to Dumping the Database</a>
 | Security Misconfiguration |<a href="https://medium.com/@siratsami71/1500-worth-slack-vulnerability-bypass-invite-accept-process-8204e5431d52">[1500$ Worth — Slack] vulnerability, bypass invite accept process</a>
-
-<a href="https://medium.com/@omidxrz/commandinjectionbychangingthelogo2d730887ab6c">The Tale of a Command Injection by Changing the Logo</a>
+| C-I |<a href="https://medium.com/@omidxrz/command-injection-by-changing-the-logo-2d730887ab6c">The Tale of a Command Injection by Changing the Logo</a>
 
 <a href="https://hackerone.com/reports/1367642">Reflected Cross Site Scripting (XSS) on one.newrelic.com</a>
 
