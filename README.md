@@ -420,12 +420,7 @@
 | DOM-XSS |<a href="https://hackerone.com/reports/1196958">Clipboard DOMbased XSS</a>
 | DOM-XSS |<a href="https://medium.com/@armaanpathan/exploiting-dom-based-xss-via-misconfigured-postmessage-function-bfc794969a0a">Exploiting DOM Based XSS via Misconfigured postMessage() Function</a>
 | R-XSS |<a href="https://sl4x0.medium.com/how-i-found-xss-on-admin-page-without-login-fe165a5f89c2">How I found XSS on Admin Page without login!</a>
-
-<a href="https://0u.ma/5">Cache Poisoning via SelfXSS + Path Parameter</a>
-
-<a href="https://godiego.tech/posts/STO/">Subdomain Takeover in Azure: making a PoC</a>
-
-<a href="https://c0nqr0r.medium.com/errorbasedsqlinjectionwithwafbypassmanualexploit100bab36b769005">Error based SQL Injection with WAF bypass manual Exploit 100%</a>
+| SQL-I |<a href="https://c0nqr0r.medium.com/error-based-sql-injection-with-waf-bypass-manual-exploit-100-bab36b769005">Error based SQL Injection with WAF bypass manual Exploit 100%</a>
 
 <a href="https://medium.com/@abhijeetbiswas_/xsscrosssitescriptingviaxforwardedhostheader20be114d4254">XSS via XForwardedHost header</a>
 
