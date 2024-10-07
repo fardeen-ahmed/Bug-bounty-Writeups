@@ -439,8 +439,7 @@
 | DOM-XSS |<a href="https://svennergr.github.io/writeups/google/ads_dom_xss/">Stumbling across a DOM XSS on google.com</a>
 | Stored-XSS |<a href="https://threatpost.com/xss-bug-seopress-wordpress-plugin/168702/">XSS Bug in SEOPress WordPress Plugin Allows Site Takeover</a>
 | Chained |<a href="https://medium.com/tenable-techblog/stored-xss-to-rce-chain-as-system-in-manageengine-servicedesk-plus-493c10f3e444">Stored XSS to RCE Chain as SYSTEM in ManageEngine ServiceDesk Plus</a>
-
-<a href="https://blog.nietaanraken.nl/posts/githubpagescommandinjection/">Command Injection in the GitHub Pages Build Pipeline</a>
+| C-I |<a href="https://blog.nietaanraken.nl/posts/github-pages-command-injection/">Command Injection in the GitHub Pages Build Pipeline</a>
 
 <a href="https://hackerone.com/reports/1504410">XSS via Mod Log Removed Post</a>
 
