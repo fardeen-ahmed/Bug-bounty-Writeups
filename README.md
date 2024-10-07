@@ -435,8 +435,7 @@
 | Stored-XSS |<a href="https://hackerone.com/reports/1212067">Stored XSS in markdown via the DesignReferenceFilter</a>
 | Stored-XSS |<a href="https://hackerone.com/reports/977697">StoredXSS in merge requests</a>
 | Rare Case |<a href="https://apth3hack3r.medium.com/xss-through-base64-encoded-json-4b0d96e5ccd4">XSS through base64 encoded JSON </a>
-
-<a href="https://medium.com/@bored.engineer/xssonaccountleagueoflegendscomviaeasyxdm201675bcf9d582b5">XSS on account[dot]leagueoflegends[dot]com via easyXDM [2016]</a>
+| Stored-XSS |<a href="https://medium.com/bored-engineer/xss-on-account-leagueoflegends-com-via-easyxdm-2016-75bcf9d582b5">XSS on account[dot]leagueoflegends[dot]com via easyXDM [2016]</a>
 
 <a href="https://patchstack.com/database/vulnerability/wpappninja/wordpresswpmobileappandroidandiosmobileapplicationplugin1113crosssitescriptingxssvulnerability">XSS vulnerability discovered in Android and iOS WordPress app plugin WPMobile.App (CVE202322702) </a>
 
