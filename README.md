@@ -440,8 +440,7 @@
 | Stored-XSS |<a href="https://threatpost.com/xss-bug-seopress-wordpress-plugin/168702/">XSS Bug in SEOPress WordPress Plugin Allows Site Takeover</a>
 | Chained |<a href="https://medium.com/tenable-techblog/stored-xss-to-rce-chain-as-system-in-manageengine-servicedesk-plus-493c10f3e444">Stored XSS to RCE Chain as SYSTEM in ManageEngine ServiceDesk Plus</a>
 | C-I |<a href="https://blog.nietaanraken.nl/posts/github-pages-command-injection/">Command Injection in the GitHub Pages Build Pipeline</a>
-
-<a href="https://hackerone.com/reports/1504410">XSS via Mod Log Removed Post</a>
+| Chained |<a href="https://hackerone.com/reports/1504410">XSS via Mod Log Removed Post</a>
 
 <a href="https://m3ez.medium.com/reflectedxssleadsto3000bugbountyrewardsfrommicrosoftformsefe34fc6b261">Reflected XSS Leads to 3,000$ Bug Bounty Rewards from Microsoft Forms</a>
 
