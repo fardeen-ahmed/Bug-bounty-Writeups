@@ -446,12 +446,8 @@
 | Stored-XSS |<a href="https://hackerone.com/reports/1481207">Stored XSS in Notes (with CSP bypass for gitlab.com)</a>
 | XSS |<a href="https://medium.com/@fpatrik/how-i-found-an-xss-vulnerability-via-using-emojis-7ad72de49209">How I found an XSS vulnerability via using emojis</a>
 | Stored-XSS |<a href="https://jasminderpalsingh.info/stored-xss-in-google-doubleclick-studio-google-research-grant/">Stored XSS in Google Doubleclick Studio</a>
-
-<a href="https://0xkasper.com/articles/moodlesqlinjectionbrokenaccesscontrol">Moodle: Blind SQL Injection (CVE202136393) and Broken Access Control (CVE202136397)</a>
-
-<a href="https://eslam3kl.medium.com/sqlinjectionatspotifyd19e0861ddf0">SQL Injection at Spotify</a>
-
-<a href="https://omar0x01.medium.com/orangearbitrarycommandexecution75ba7f283d53">Orange Arbitrary Command Execution</a>
+| SQL-I |<a href="https://0xkasper.com/articles/moodle-sql-injection-broken-access-control">Moodle: Blind SQL Injection (CVE202136393) and Broken Access Control (CVE202136397)</a>
+| RCE |<a href="https://infosecwriteups.com/orange-arbitrary-command-execution-75ba7f283d53">Orange Arbitrary Command Execution</a>
 
 <a href="https://omar0x01.medium.com/howifoundmultiplesqlinjectionsin5minutesinbugbounty40155964c498">How I Found Multiple SQL Injections in 5 Minutes in Bug Bounty</a>
 
