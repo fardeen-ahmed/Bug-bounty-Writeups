@@ -449,8 +449,7 @@
 | SQL-I |<a href="https://0xkasper.com/articles/moodle-sql-injection-broken-access-control">Moodle: Blind SQL Injection (CVE202136393) and Broken Access Control (CVE202136397)</a>
 | RCE |<a href="https://infosecwriteups.com/orange-arbitrary-command-execution-75ba7f283d53">Orange Arbitrary Command Execution</a>
 | SQL-I |<a href="https://infosecwriteups.com/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498">How I Found Multiple SQL Injections in 5 Minutes in Bug Bounty</a>
-
-<a href="https://flattsecurity.medium.com/findinganunseensqlinjectionbybypassingescapefunctionsinmysqljsmysql90b27f6542b4">Finding an unseen SQL Injection by bypassing escape functions in mysqljs/mysql</a>
+| SQL-I |<a href="https://flattsecurity.medium.com/finding-an-unseen-sql-injection-by-bypassing-escape-functions-in-mysqljs-mysql-90b27f6542b4">Finding an unseen SQL Injection by bypassing escape functions in mysqljs/mysql</a>
 
 <a href="https://blog.sonarsource.com/wordpressstoredxssvulnerability">WordPress 5.8.2 Stored XSS Vulnerability</a>
 
