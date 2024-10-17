@@ -450,8 +450,7 @@
 | RCE |<a href="https://infosecwriteups.com/orange-arbitrary-command-execution-75ba7f283d53">Orange Arbitrary Command Execution</a>
 | SQL-I |<a href="https://infosecwriteups.com/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498">How I Found Multiple SQL Injections in 5 Minutes in Bug Bounty</a>
 | SQL-I |<a href="https://flattsecurity.medium.com/finding-an-unseen-sql-injection-by-bypassing-escape-functions-in-mysqljs-mysql-90b27f6542b4">Finding an unseen SQL Injection by bypassing escape functions in mysqljs/mysql</a>
-
-<a href="https://blog.sonarsource.com/wordpressstoredxssvulnerability">WordPress 5.8.2 Stored XSS Vulnerability</a>
+| Stored-XSS |<a href="https://www.sonarsource.com/blog/wordpress-stored-xss-vulnerability/">WordPress 5.8.2 Stored XSS Vulnerability</a>
 
 <a href="https://octagon.net/blog/2022/03/02/apachejspwikipreauthxsstoato/">CVE202224948: Apache JSPWiki preauth Stored XSS to ATO</a>
 
