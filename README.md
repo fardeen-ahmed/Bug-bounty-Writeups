@@ -444,8 +444,7 @@
 | R-XSS |<a href="https://infosecwriteups.com/reflected-xss-leads-to-3-000-bug-bounty-rewards-from-microsoft-forms-efe34fc6b261">Reflected XSS Leads to 3,000$ Bug Bounty Rewards from Microsoft Forms</a>
 | Chained |<a href="https://palant.info/2022/08/24/attack-surface-of-extension-pages/">Attack surface of extension pages</a>
 | Stored-XSS |<a href="https://hackerone.com/reports/1481207">Stored XSS in Notes (with CSP bypass for gitlab.com)</a>
-
-<a href="https://medium.com/@fpatrik/howifoundanxssvulnerabilityviausingemojis7ad72de49209">How I found an XSS vulnerability via using emojis</a>
+| XSS |<a href="https://medium.com/@fpatrik/how-i-found-an-xss-vulnerability-via-using-emojis-7ad72de49209">How I found an XSS vulnerability via using emojis</a>
 
 
 <a href="https://jasminderpalsingh.info/storedxssingoogledoubleclickstudiogoogleresearchgrant/">Stored XSS in Google Doubleclick Studio</a>
