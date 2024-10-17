@@ -445,9 +445,7 @@
 | Chained |<a href="https://palant.info/2022/08/24/attack-surface-of-extension-pages/">Attack surface of extension pages</a>
 | Stored-XSS |<a href="https://hackerone.com/reports/1481207">Stored XSS in Notes (with CSP bypass for gitlab.com)</a>
 | XSS |<a href="https://medium.com/@fpatrik/how-i-found-an-xss-vulnerability-via-using-emojis-7ad72de49209">How I found an XSS vulnerability via using emojis</a>
-
-
-<a href="https://jasminderpalsingh.info/storedxssingoogledoubleclickstudiogoogleresearchgrant/">Stored XSS in Google Doubleclick Studio</a>
+| Stored-XSS |<a href="https://jasminderpalsingh.info/stored-xss-in-google-doubleclick-studio-google-research-grant/">Stored XSS in Google Doubleclick Studio</a>
 
 <a href="https://0xkasper.com/articles/moodlesqlinjectionbrokenaccesscontrol">Moodle: Blind SQL Injection (CVE202136393) and Broken Access Control (CVE202136397)</a>
 
