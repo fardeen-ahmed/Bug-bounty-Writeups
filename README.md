@@ -453,8 +453,7 @@
 | Stored-XSS |<a href="https://www.sonarsource.com/blog/wordpress-stored-xss-vulnerability/">WordPress 5.8.2 Stored XSS Vulnerability</a>
 | Chained |<a href="https://octagon.net/blog/2022/03/02/apache-jspwiki-preauth-xss-to-ato/">CVE202224948: Apache JSPWiki preauth Stored XSS to ATO</a>
 | Stored-XSS |<a href="https://sapt.medium.com/stored-xss-non-privileged-user-to-anyone-using-qr-code-dfeb0bd98a5">Stored XSS: NonPrivileged User to Anyone Using QR Code</a>
-
-<a href="https://jlajara.gitlab.io/Javascript_Hoisting_in_XSS_Scenarios">Javascript Hoisting in XSS Scenarios</a>
+| Chained |<a href="https://jlajara.gitlab.io/Javascript_Hoisting_in_XSS_Scenarios">Javascript Hoisting in XSS Scenarios</a>
 
 <a href="https://mtechghost.medium.com/storedxssvulnerabilityinmicrosoftbookinge593de3344e0">Stored XSS vulnerability in Microsoft booking</a>
 
