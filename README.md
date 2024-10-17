@@ -442,8 +442,7 @@
 | C-I |<a href="https://blog.nietaanraken.nl/posts/github-pages-command-injection/">Command Injection in the GitHub Pages Build Pipeline</a>
 | Chained |<a href="https://hackerone.com/reports/1504410">XSS via Mod Log Removed Post</a>
 | R-XSS |<a href="https://infosecwriteups.com/reflected-xss-leads-to-3-000-bug-bounty-rewards-from-microsoft-forms-efe34fc6b261">Reflected XSS Leads to 3,000$ Bug Bounty Rewards from Microsoft Forms</a>
-
-<a href="https://palant.info/2022/08/24/attacksurfaceofextensionpages/">Attack surface of extension pages</a>
+| Chained |<a href="https://palant.info/2022/08/24/attack-surface-of-extension-pages/">Attack surface of extension pages</a>
 
 <a href="https://hackerone.com/reports/1481207">Stored XSS in Notes (with CSP bypass for gitlab.com)</a>
 
