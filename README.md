@@ -461,8 +461,7 @@
 | OGNL-I |<a href="https://github.com/lleavesl/CVE-2021-26084">CVE202126084，Atlassian Confluence OGNL</a>
 | Redash |<a href="https://ian.sh/redash">Exploiting Redash instances with CVE-2021-41192</a>
 | Stored-XSS |<a href="https://hamzadzworm.medium.com/5000-for-apple-stored-xss-and-another-blind-xss-still-under-review-e9f6f5a76eb1">5000$ for Apple Stored Xss And Another Blind Xss Still under review</a>
-
-<a href="https://hackerone.com/reports/1424094">Web Cache Poisoning leads to Stored XSS</a>
+| Chained |<a href="https://hackerone.com/reports/1424094">Web Cache Poisoning leads to Stored XSS</a>
 
 <a href="https://hackerone.com/reports/1322104">XSS on tiktok.com</a>
 
