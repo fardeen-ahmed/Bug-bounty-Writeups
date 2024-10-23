@@ -454,8 +454,7 @@
 | Chained |<a href="https://octagon.net/blog/2022/03/02/apache-jspwiki-preauth-xss-to-ato/">CVE202224948: Apache JSPWiki preauth Stored XSS to ATO</a>
 | Stored-XSS |<a href="https://sapt.medium.com/stored-xss-non-privileged-user-to-anyone-using-qr-code-dfeb0bd98a5">Stored XSS: NonPrivileged User to Anyone Using QR Code</a>
 | Chained |<a href="https://jlajara.gitlab.io/Javascript_Hoisting_in_XSS_Scenarios">Javascript Hoisting in XSS Scenarios</a>
-
-<a href="https://mtechghost.medium.com/storedxssvulnerabilityinmicrosoftbookinge593de3344e0">Stored XSS vulnerability in Microsoft booking</a>
+| Stored-XSS |<a href="https://mtechghost.medium.com/stored-xss-vulnerability-in-microsoft-booking-e593de3344e0">Stored XSS vulnerability in Microsoft booking</a>
 
 <a href="https://palisade.consulting/blog/rariblevulnerability">Palisade identifies Wormable CrossSite Scripting Vulnerability affecting Rarible’s NFT Marketplace</a>
 
