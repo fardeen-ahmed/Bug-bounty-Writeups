@@ -463,8 +463,7 @@
 | Stored-XSS |<a href="https://hamzadzworm.medium.com/5000-for-apple-stored-xss-and-another-blind-xss-still-under-review-e9f6f5a76eb1">5000$ for Apple Stored Xss And Another Blind Xss Still under review</a>
 | Chained |<a href="https://hackerone.com/reports/1424094">Web Cache Poisoning leads to Stored XSS</a>
 | Stored-XSS |<a href="https://hackerone.com/reports/1322104">XSS on tiktok.com</a>
-
-<a href="http://ysamm.com/?p=779">DOMXSS in Instant Games due to improper verifications ($62,500?)</a>
+| DOM-XSS |<a href="https://ysamm.com/?p=779">DOM-XSS in Instant Games due to improper verifications ($62,500?)</a>
 
 <a href="https://hackerone.com/reports/1087061">StoredXSS on wiki pages</a>
 
