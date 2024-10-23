@@ -458,9 +458,7 @@
 | XSS |<a href="https://palisade.consulting/blog/rarible-vulnerability">Palisade identifies Wormable CrossSite Scripting Vulnerability affecting Rarible’s NFT Marketplace</a>
 | R-XSS |<a href="https://gosecure.ai/blog/2022/07/13/tableau-server-leaks-sensitive-information-from-reflected-xss/">Tableau Server Leaks Sensitive Information From Reflected XSS</a>
 | CSS-I |<a href="https://sanderwind.medium.com/unleashing-the-power-of-css-injection-the-access-key-to-an-internal-api-789b166d0527">Unleashing the power of CSS injection: The access key to an internal API</a>
-
-
-<a href="https://github.com/lleavesl/CVE202126084">CVE202126084，Atlassian Confluence OGNL</a>
+| OGNL-I |<a href="https://github.com/lleavesl/CVE-2021-26084">CVE202126084，Atlassian Confluence OGNL</a>
 
 <a href="https://ian.sh/redash">Exploiting Redash instances with CVE202141192</a>
 
