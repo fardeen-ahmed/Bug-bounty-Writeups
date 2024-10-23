@@ -457,8 +457,7 @@
 | Stored-XSS |<a href="https://mtechghost.medium.com/stored-xss-vulnerability-in-microsoft-booking-e593de3344e0">Stored XSS vulnerability in Microsoft booking</a>
 | XSS |<a href="https://palisade.consulting/blog/rarible-vulnerability">Palisade identifies Wormable CrossSite Scripting Vulnerability affecting Rarible’s NFT Marketplace</a>
 | R-XSS |<a href="https://gosecure.ai/blog/2022/07/13/tableau-server-leaks-sensitive-information-from-reflected-xss/">Tableau Server Leaks Sensitive Information From Reflected XSS</a>
-
-<a href="https://sanderwind.medium.com/unleashingthepowerofcssinjectiontheaccesskeytoaninternalapi789b166d0527">Unleashing the power of CSS injection: The access key to an internal API</a>
+| CSS-I |<a href="https://sanderwind.medium.com/unleashing-the-power-of-css-injection-the-access-key-to-an-internal-api-789b166d0527">Unleashing the power of CSS injection: The access key to an internal API</a>
 
 
 <a href="https://github.com/lleavesl/CVE202126084">CVE202126084，Atlassian Confluence OGNL</a>
