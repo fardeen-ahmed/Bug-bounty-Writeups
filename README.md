@@ -460,8 +460,7 @@
 | CSS-I |<a href="https://sanderwind.medium.com/unleashing-the-power-of-css-injection-the-access-key-to-an-internal-api-789b166d0527">Unleashing the power of CSS injection: The access key to an internal API</a>
 | OGNL-I |<a href="https://github.com/lleavesl/CVE-2021-26084">CVE202126084，Atlassian Confluence OGNL</a>
 | Redash |<a href="https://ian.sh/redash">Exploiting Redash instances with CVE-2021-41192</a>
-
-<a href="https://medium.com/@hamzadzworm/5000forapplestoredxssandanotherblindxssstillunderreviewe9f6f5a76eb1">5000$ for Apple Stored Xss And Another Blind Xss Still under review</a>
+| Stored-XSS |<a href="https://hamzadzworm.medium.com/5000-for-apple-stored-xss-and-another-blind-xss-still-under-review-e9f6f5a76eb1">5000$ for Apple Stored Xss And Another Blind Xss Still under review</a>
 
 <a href="https://hackerone.com/reports/1424094">Web Cache Poisoning leads to Stored XSS</a>
 
