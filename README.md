@@ -456,8 +456,7 @@
 | Chained |<a href="https://jlajara.gitlab.io/Javascript_Hoisting_in_XSS_Scenarios">Javascript Hoisting in XSS Scenarios</a>
 | Stored-XSS |<a href="https://mtechghost.medium.com/stored-xss-vulnerability-in-microsoft-booking-e593de3344e0">Stored XSS vulnerability in Microsoft booking</a>
 | XSS |<a href="https://palisade.consulting/blog/rarible-vulnerability">Palisade identifies Wormable CrossSite Scripting Vulnerability affecting Rarible’s NFT Marketplace</a>
-
-<a href="https://www.gosecure.net/blog/2022/07/13/tableauserverleakssensitiveinformationfromreflectedxss/">Tableau Server Leaks Sensitive Information From Reflected XSS</a>
+| R-XSS |<a href="https://gosecure.ai/blog/2022/07/13/tableau-server-leaks-sensitive-information-from-reflected-xss/">Tableau Server Leaks Sensitive Information From Reflected XSS</a>
 
 <a href="https://sanderwind.medium.com/unleashingthepowerofcssinjectiontheaccesskeytoaninternalapi789b166d0527">Unleashing the power of CSS injection: The access key to an internal API</a>
 
