@@ -480,16 +480,11 @@
 | SQL-I |<a href="https://infosecwriteups.com/fun-sql-injection-mod-security-bypass-644b54b0c445">Fun sql injection — mod_security bypass/a>
 | SQL-I |<a href="https://www.techncyber.com/2022/07/sql-injection-at-authorization-token.html">Exploiting SQL Injection at Authorization token</a>
 | SQL-I |<a href="https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/">Stranger Strings: An exploitable flaw in SQLite</a>
+| SQL-I |<a href="https://medium.com/@touseefgul/a-500-sql-injection-in-ikea-es-my-first-finding-on-hackerone-cf15c4ecd5a6">A 500$ SQL Injection Bug in .IKEA.es — My First Finding on Hackerone!</a>
+| SQL-I |<a href="https://www.varonis.com/blog/zendesk-sql-injection-and-access-flaws">Varonis Threat Labs Discovers SQLi and Access Flaws in Zendesk</a>
+| Prompt-I |<a href="https://www.nccgroup.com/us/research-blog/exploring-prompt-injection-attacks/">Exploring Prompt Injection Attacks</a>
+| C-I |<a href="https://www.nccgroup.com/us/research-blog/puckungfu-a-netgear-wan-command-injection/">Puckungfu: A NETGEAR WAN Command Injection</a>
   
-<a href="https://medium.com/@touseefgul/a500sqlinjectioninikeaesmyfirstfindingonhackeronecf15c4ecd5a6">A 500$ SQL Injection Bug in .IKEA.es — My First Finding on Hackerone!</a>
-  
-<a href="https://www.varonis.com/blog/zendesksqlinjectionandaccessflaws">Varonis Threat Labs Discovers SQLi and Access Flaws in Zendesk</a>
-
-<a href="https://research.nccgroup.com/2022/12/05/exploringpromptinjectionattacks/">Exploring Prompt Injection Attacks</a>
-  
-<a href="https://research.nccgroup.com/2022/12/22/puckungfuanetgearwancommandinjection/">Puckungfu: A NETGEAR WAN Command Injection</a>
-  
-
 
 
 
