@@ -479,8 +479,7 @@
 | SQL-I |<a href="https://hector0x.medium.com/easy-sqli-in-amazon-subsidiary-using-sqlmap-ff469013671b">Easy SQLi in Amazon subsidiary using Sqlmap</a>
 | SQL-I |<a href="https://infosecwriteups.com/fun-sql-injection-mod-security-bypass-644b54b0c445">Fun sql injection — mod_security bypass/a>
 | SQL-I |<a href="https://www.techncyber.com/2022/07/sql-injection-at-authorization-token.html">Exploiting SQL Injection at Authorization token</a>
-  
-<a href="https://blog.trailofbits.com/2022/10/25/sqlitevulnerabilityjuly2022libraryapi/">Stranger Strings: An exploitable flaw in SQLite</a>
+| SQL-I |<a href="https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/">Stranger Strings: An exploitable flaw in SQLite</a>
   
 <a href="https://medium.com/@touseefgul/a500sqlinjectioninikeaesmyfirstfindingonhackeronecf15c4ecd5a6">A 500$ SQL Injection Bug in .IKEA.es — My First Finding on Hackerone!</a>
   
