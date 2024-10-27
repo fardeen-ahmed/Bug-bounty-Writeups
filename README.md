@@ -467,10 +467,7 @@
 | Stored-XSS |<a href="https://hackerone.com/reports/1087061">Stored-XSS on wiki pages</a>
 | Stored-XSS |<a href="https://hackerone.com/reports/1280002">Stored XSS via Mermaid Prototype Pollution vulnerability</a>
 | U-XSS |<A href="https://fluidattacks.com/blog/uxss-to-account-takeover-rushbet/">UXSS to Account Takeover in Rushbet</a>
-
-<a href="https://youtu.be/RtJXgGb3uJ0">Stored XSS in Wordpress.com</a>
-
-<a href="https://maordayanofficial.medium.com/storedxssattrellocomef2e3d1ed24b">Stored XSS at Trello</a>
+| Stored-XSS |<a href="https://maordayanofficial.medium.com/stored-xss-at-trello-com-ef2e3d1ed24b">Stored XSS at Trello</a>
 
 <a href="https://medium.com/@mohameddhanish98/astoryofdomxss852b6ed3bb5f">A Story of DOM XSS</a>
 
