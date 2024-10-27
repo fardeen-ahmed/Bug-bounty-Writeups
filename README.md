@@ -474,8 +474,7 @@
 | XSS |<a href="https://portswigger.net/daily-swig/google-roulette-developer-console-trick-can-trigger-xss-in-chromium-browsers">Google Roulette: Developer console trick can trigger XSS in Chromium browsers</a>
 | Creative XSS |<a href="https://medium.com/@youghourtaghannei/postmessage-xss-vulnerability-on-private-program-18e773e1a1ba">PostMessage Xss vulnerability on private program</a>
 | DOM-XSS |<a href="https://infosecwriteups.com/how-i-found-dom-based-xss-on-microsoft-msrc-and-how-they-fixed-it-8b71a6020c82">How I found DOMBased XSS on Microsoft MSRC and How they fixed it</a>
-
-<a href="https://ysamm.com/?p=779">DOMXSS in Instant Games due to improper verification of supplied URLs</a>
+| DOM-XSS |<a href="https://ysamm.com/?p=779">DOMXSS in Instant Games due to improper verification of supplied URLs</a>
 
 <a href="https://medium.com/@haroonhameed_76621/winningqrwithdombasedxssbugbountypoc4b4048cf285d">Winning QR with DOMBased XSS | Bug Bounty POC</a>
 
