@@ -466,8 +466,7 @@
 | DOM-XSS |<a href="https://ysamm.com/?p=779">DOM-XSS in Instant Games due to improper verifications ($62,500?)</a>
 | Stored-XSS |<a href="https://hackerone.com/reports/1087061">Stored-XSS on wiki pages</a>
 | Stored-XSS |<a href="https://hackerone.com/reports/1280002">Stored XSS via Mermaid Prototype Pollution vulnerability</a>
-
-<A href="https://fluidattacks.com/blog/uxsstoaccounttakeoverrushbet/">UXSS to Account Takeover in Rushbet</a>
+| U-XSS |<A href="https://fluidattacks.com/blog/uxss-to-account-takeover-rushbet/">UXSS to Account Takeover in Rushbet</a>
 
 <a href="https://youtu.be/RtJXgGb3uJ0">Stored XSS in Wordpress.com</a>
 
