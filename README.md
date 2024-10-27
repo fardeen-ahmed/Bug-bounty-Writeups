@@ -477,9 +477,7 @@
 | DOM-XSS |<a href="https://ysamm.com/?p=779">DOMXSS in Instant Games due to improper verification of supplied URLs</a>
 | DOM-XSS |<a href="https://medium.com/@haroonhameed_76621/winning-qr-with-dom-based-xss-bug-bounty-poc-4b4048cf285d">Winning QR with DOMBased XSS | Bug Bounty POC</a>
 | SQL-I |<a href="https://hector0x.medium.com/easy-sqli-in-amazon-subsidiary-using-sqlmap-ff469013671b">Easy SQLi in Amazon subsidiary using Sqlmap</a>
-
-
-<a href="https://y000o.medium.com/funsqlinjectionmodsecuritybypass644b54b0c445">Fun sql injection — mod_security bypass/a>
+| SQL-I |<a href="https://infosecwriteups.com/fun-sql-injection-mod-security-bypass-644b54b0c445">Fun sql injection — mod_security bypass/a>
   
 <a href="https://www.verizonmedia.com/insights/promotionpublic004">SQL Injection Bugs on All Verizon Media Assets</a>
   
