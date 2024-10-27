@@ -472,8 +472,7 @@
 | XSS |<a href="https://infosecwriteups.com/got-another-xss-using-double-encoding-e6493a9f7368">Got Another XSS using Double Encoding</a>
 | Stored-XSs |<a href="https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee">SVG based Stored XSS</a>
 | XSS |<a href="https://portswigger.net/daily-swig/google-roulette-developer-console-trick-can-trigger-xss-in-chromium-browsers">Google Roulette: Developer console trick can trigger XSS in Chromium browsers</a>
-
-<a href="https://medium.com/@youghourtaghannei/postmessagexssvulnerabilityonprivateprogram18e773e1a1ba">PostMessage Xss vulnerability on private program</a>
+| Creative XSS |<a href="https://medium.com/@youghourtaghannei/postmessage-xss-vulnerability-on-private-program-18e773e1a1ba">PostMessage Xss vulnerability on private program</a>
 
 <a href="https://m3ez.medium.com/howifounddombasedxssonmicrosoftmsrcandhowtheyfixedit8b71a6020c82">How I found DOMBased XSS on Microsoft MSRC and How they fixed it</a>
 
