@@ -491,6 +491,8 @@
 
 ## Insecure Design 
 
+| Category | Writeup |
+|-----------|-----|
 | Chained |<a href="https://ahmed8magdy.medium.com/file-upload-to-rce-538bb4128062">File Upload to RCE</a>
 | Chained |<a href="https://sm4rty.medium.com/hunting-for-bugs-in-file-upload-feature-c3b364fb01ba">Hunting for Bugs in File Upload Feature</a>
 
