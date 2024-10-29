@@ -498,8 +498,7 @@
 | Param Tampering |<a href="https://portswigger.net/daily-swig/http-request-smuggling-bug-patched-in-mitmproxy">HTTP request smuggling bug patched in mitmproxy</a>
 | Shift-Left Abuse |<a href="https://hackerone.com/reports/1372667">Able to steal bearer token from deep link</a>
 | Shell |<a href="https://text.tchncs.de/ioi/backdooring-electron-applications">Backdooring Electron Applications</a>
-
-<a href="https://medium.com/@shabarkin/unsafecontentloadingelectronjs76296b6ac028">Unsafe content loading [Electron JS]</a>
+| Shift-Left Abuse |<a href="https://shabarkin.medium.com/unsafe-content-loading-electron-js-76296b6ac028">Unsafe content loading [Electron JS]</a>
   
 <a href="https://fluidattacks.com/blog/accounttakeoverkayak/">Account Takeover in KAYAK</a>
 
