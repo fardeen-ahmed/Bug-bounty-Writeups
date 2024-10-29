@@ -500,8 +500,7 @@
 | Shell |<a href="https://text.tchncs.de/ioi/backdooring-electron-applications">Backdooring Electron Applications</a>
 | Shift-Left Abuse |<a href="https://shabarkin.medium.com/unsafe-content-loading-electron-js-76296b6ac028">Unsafe content loading [Electron JS]</a>
 | ATO |<a href="https://fluidattacks.com/blog/account-takeover-kayak/">Account Takeover in KAYAK</a>
-
-<a href="https://www.synacktiv.com/en/publications/phpfilterchainsfilereadfromerrorbasedoracle.html">PHP FILTER CHAINS: FILE READ FROM ERRORBASED ORACLE</a>
+| Chained |<a href="https://www.synacktiv.com/en/publications/php-filter-chains-file-read-from-error-based-oracle.html">PHP FILTER CHAINS: FILE READ FROM ERRORBASED ORACLE</a>
 
 <a href="https://joonas.fi/2021/08/samlisinsecurebydesign/">SAML is insecure by design</a>
 
