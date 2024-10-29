@@ -502,8 +502,7 @@
 | ATO |<a href="https://fluidattacks.com/blog/account-takeover-kayak/">Account Takeover in KAYAK</a>
 | Chained |<a href="https://www.synacktiv.com/en/publications/php-filter-chains-file-read-from-error-based-oracle.html">PHP FILTER CHAINS: FILE READ FROM ERRORBASED ORACLE</a>
 | Shift-Left Abuse |<a href="https://joonas.fi/2021/08/saml-is-insecure-by-design/">SAML is insecure by design</a>
-
-<a href="https://blog.trailofbits.com/2023/02/21/vscodeextensionescapevulnerability/?utm_source=hivefive&utm_medium=email">Escaping misconfigured VSCode extensions</a>
+| Shift-Left Abuse |<a href="https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/">Escaping misconfigured VSCode extensions</a>
 
 <a href="https://medium.com/@Mrcyberwarrior/exploitingactivityinmediumandroidappe2e6f3553eef">Trigger custom URL in Medium Android app</a>
 
