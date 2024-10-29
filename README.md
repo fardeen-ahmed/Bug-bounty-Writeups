@@ -492,8 +492,7 @@
 ## Insecure Design 
 
 | Chained |<a href="https://ahmed8magdy.medium.com/file-upload-to-rce-538bb4128062">File Upload to RCE</a>
-
-<a href="https://sm4rty.medium.com/huntingforbugsinfileuploadfeaturec3b364fb01ba">Hunting for Bugs in File Upload Feature</a>
+| Chained |<a href="https://sm4rty.medium.com/hunting-for-bugs-in-file-upload-feature-c3b364fb01ba">Hunting for Bugs in File Upload Feature</a>
 
 <a href="https://amakki.me/howimade15kfromremotecodeexecutionvulnerability2e1b14b3902a">How i made 15k$ from Remote Code Execution Vulnerability</a>
 
