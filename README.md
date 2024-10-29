@@ -503,8 +503,7 @@
 | Chained |<a href="https://www.synacktiv.com/en/publications/php-filter-chains-file-read-from-error-based-oracle.html">PHP FILTER CHAINS: FILE READ FROM ERRORBASED ORACLE</a>
 | Shift-Left Abuse |<a href="https://joonas.fi/2021/08/saml-is-insecure-by-design/">SAML is insecure by design</a>
 | Shift-Left Abuse |<a href="https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/">Escaping misconfigured VSCode extensions</a>
-
-<a href="https://medium.com/@Mrcyberwarrior/exploitingactivityinmediumandroidappe2e6f3553eef">Trigger custom URL in Medium Android app</a>
+| Shift-Left Abuse |<a href="https://infosecwriteups.com/exploiting-activity-in-medium-android-app-e2e6f3553eef">Trigger custom URL in Medium Android app</a>
 
 <a href="https://hackerone.com/reports/1167753">Add new managed stores without permission</a>
 
