@@ -491,7 +491,7 @@
 
 ## Insecure Design 
 
-<a href="https://ahmed8magdy.medium.com/fileuploadtorce538bb4128062">File Upload to RCE</a>
+| Chained |<a href="https://ahmed8magdy.medium.com/file-upload-to-rce-538bb4128062">File Upload to RCE</a>
 
 <a href="https://sm4rty.medium.com/huntingforbugsinfileuploadfeaturec3b364fb01ba">Hunting for Bugs in File Upload Feature</a>
 
