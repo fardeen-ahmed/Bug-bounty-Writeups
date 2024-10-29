@@ -496,8 +496,7 @@
 | Chained |<a href="https://ahmed8magdy.medium.com/file-upload-to-rce-538bb4128062">File Upload to RCE</a>
 | Chained |<a href="https://sm4rty.medium.com/hunting-for-bugs-in-file-upload-feature-c3b364fb01ba">Hunting for Bugs in File Upload Feature</a>
 | Param Tampering |<a href="https://portswigger.net/daily-swig/http-request-smuggling-bug-patched-in-mitmproxy">HTTP request smuggling bug patched in mitmproxy</a>
-
-<a href="https://hackerone.com/reports/1372667">Able to steal bearer token from deep link</a>
+| Shift-Left Abuse |<a href="https://hackerone.com/reports/1372667">Able to steal bearer token from deep link</a>
 
 <a href="https://text.tchncs.de/ioi/backdooringelectronapplications">Backdooring Electron Applications</a>
 
