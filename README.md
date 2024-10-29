@@ -497,8 +497,7 @@
 | Chained |<a href="https://sm4rty.medium.com/hunting-for-bugs-in-file-upload-feature-c3b364fb01ba">Hunting for Bugs in File Upload Feature</a>
 | Param Tampering |<a href="https://portswigger.net/daily-swig/http-request-smuggling-bug-patched-in-mitmproxy">HTTP request smuggling bug patched in mitmproxy</a>
 | Shift-Left Abuse |<a href="https://hackerone.com/reports/1372667">Able to steal bearer token from deep link</a>
-
-<a href="https://text.tchncs.de/ioi/backdooringelectronapplications">Backdooring Electron Applications</a>
+| Shell |<a href="https://text.tchncs.de/ioi/backdooring-electron-applications">Backdooring Electron Applications</a>
 
 <a href="https://medium.com/@shabarkin/unsafecontentloadingelectronjs76296b6ac028">Unsafe content loading [Electron JS]</a>
   
