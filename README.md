@@ -516,8 +516,7 @@
 | Stack Attack |<a href="https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html">Exploiting CVE-2022-42703  Bringing back the stack attack</a>
 | MFA Bypass |<a href="https://medium.com/pentesternepal/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c">Two Factor Authentication Bypass On Facebook</a>
 | File Corruption |<a href="https://nmochea.medium.com/arbitrary-file-corruption-end-to-end-encrypted-messaging-application-674963dceef8">Arbitrary File Corruption: End  to  End Encrypted Messaging Application</a>
-
-<a href="https://www.exploitsecurity.io/post/cve202333383authenticationbypassviaanoutofboundsreadvulnerability">CVE202333383 : Authentication Bypass via an outofbounds read vulnerability</a>
+| Chained |<a href="https://www.exploitsecurity.io/post/cve-2023-33383-authentication-bypass-via-an-out-of-bounds-read-vulnerability">CVE202333383 : Authentication Bypass via an outofbounds read vulnerability</a>
 
 <a href="https://redcanary.com/blog/fuzzing/">Fuzzing Golang msgpack for fun and panic</a>
   
