@@ -511,8 +511,7 @@
 | FI Bypass |<a href="https://systemweakness.com/bypassing-file-upload-restriction-using-magic-bytes-eb13e801f264">Bypassing File Upload Restriction using Magic Bytes</a>
 | Shift Left failure |<a href="https://akashhamal0x01.medium.com/design-flaw-a-tale-of-permanent-dos-a9ef05181083">Design Flaw : A Tale of Permanent DOS (Informative > Triaged)</a>
 | RCE |<a href="https://www.assetnote.io/resources/research/bypass-iis-authorisation-with-this-one-weird-trick-three-rces-and-two-auth-bypasses-in-sitecore-9-3">Bypass IIS Authorisation with this One Weird Trick  Three RCEs and Two Auth Bypasses in Sitecore 9.3</a>
-  
-<a href="https://medium.com/@aditya043k/oauthmisconfigurationleadstofullaccounttakeoverd93c0d0fb66c">OAUTH Misconfiguration leads to Full Account Takeover</a>
+| Chained |<a href="https://infosecwriteups.com/oauth-misconfiguration-leads-to-full-account-takeover-22b032cb6732">OAUTH Misconfiguration leads to Full Account Takeover</a>
 
 <a href="https://blog.nietaanraken.nl/posts/gitubpopularrepositorynamespaceretirementbypass/">Hijacking GitHub Repositories by Deleting and Restoring Them</a>
 
