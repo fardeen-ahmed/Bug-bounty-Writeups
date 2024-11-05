@@ -781,7 +781,6 @@
 
 | Category | Writeup |
 |-----------|-----|
-
 | Outdated Package |<a href="https://redcanary.com/blog/testing-and-validation/fuzzing/">Fuzzing Golang msgpack for fun and panic</a>
 
 <a href="https://blog.sonarsource.com/zabbixcasestudyofunsafesessionstorage">Zabbix  A Case Study of Unsafe Session Storage </a>
