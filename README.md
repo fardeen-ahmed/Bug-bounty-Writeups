@@ -509,8 +509,7 @@
 | LFI |<a href="https://blog.snapsec.co/attacking-file-uploads-in-modern-web-applications/">Attacking File Uploads in Modern Web Applications</a>
 | ATO |<a href="https://medium.com/@kshunya/full-account-takeover-via-open-redirection-41c167db46">Full Account Takeover via Open Redirection </a>
 | FI Bypass |<a href="https://systemweakness.com/bypassing-file-upload-restriction-using-magic-bytes-eb13e801f264">Bypassing File Upload Restriction using Magic Bytes</a>
-  
-<a href="https://akashhamal0x01.medium.com/designflawataleofpermanentdosa9ef05181083">Design Flaw : A Tale of Permanent DOS (Informative > Triaged)</a>
+| Shift Left failure |<a href="https://akashhamal0x01.medium.com/design-flaw-a-tale-of-permanent-dos-a9ef05181083">Design Flaw : A Tale of Permanent DOS (Informative > Triaged)</a>
 
 <a href="https://blog.assetnote.io/2023/05/10/sitecoreroundtwo/">Bypass IIS Authorisation with this One Weird Trick  Three RCEs and Two Auth Bypasses in Sitecore 9.3</a>
   
