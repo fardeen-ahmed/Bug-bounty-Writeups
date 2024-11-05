@@ -518,7 +518,6 @@
 | File Corruption |<a href="https://nmochea.medium.com/arbitrary-file-corruption-end-to-end-encrypted-messaging-application-674963dceef8">Arbitrary File Corruption: End  to  End Encrypted Messaging Application</a>
 | Chained |<a href="https://www.exploitsecurity.io/post/cve-2023-33383-authentication-bypass-via-an-out-of-bounds-read-vulnerability">CVE202333383 : Authentication Bypass via an outofbounds read vulnerability</a>
 
-<a href="https://redcanary.com/blog/fuzzing/">Fuzzing Golang msgpack for fun and panic</a>
   
 <a href="https://blog.assetnote.io/2022/05/03/hackingabankusingdotcmsrce/">Hacking a Bank by Finding a 0day in DotCMS</a>
 
@@ -779,6 +778,12 @@
 
 
 ## Vulnerable and Outdated Components
+
+| Category | Writeup |
+|-----------|-----|
+
+| Outdated Package |<a href="https://redcanary.com/blog/testing-and-validation/fuzzing/">Fuzzing Golang msgpack for fun and panic</a>
+
 <a href="https://blog.sonarsource.com/zabbixcasestudyofunsafesessionstorage">Zabbix  A Case Study of Unsafe Session Storage </a>
 
 <a href="https://blog.assetnote.io/2022/02/20/logicflawdynamicwebrce/">Logic Flaw Leading to RCE in Dynamicweb 9.5.0  9.12.7</a>
