@@ -526,10 +526,10 @@
 | Shift-Left failure |<a href="https://infosecwriteups.com/laravel-8-x-image-upload-bypass-zero-day-852bd806019b">Laravel 8.x image upload bypass</a>
 | Shift-Left failure |<a href="https://infosecwriteups.com/how-i-made-15-000-by-hacking-caching-servers-part-1-5541712a61c3">How I Made $16,500 Hacking CDN Caching Servers — Part 1</a>
 | Shift-Left failure |<a href="https://infosecwriteups.com/how-i-made-16-500-hacking-cdn-caching-servers-part-2-4995ece4c6e6">How I Made $16,500 Hacking CDN Caching Servers — Part 2</a>
+| Shift-Left failure |<a href="https://infosecwriteups.com/how-i-made-16-500-hacking-cdn-caching-servers-part-3-91f9d836e046">How I Made $16,500 Hacking CDN Caching Servers — Part 3</a>
+| Shift-Left failure |<a href="https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-i-submitting-i-d-da78142f032d">Bypassing default visibility for newlyadded email in Facebook(Part I  Submitting I.D)</a>
+| Shift-Left failure |<a href="https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-ii-trusted-contacts-36176eeb103">Bypassing default visibility for newly-added email in Facebook(Part II - Trusted Contacts)</a>
 
-<a href="https://infosecwriteups.com/how-i-made-16-500-hacking-cdn-caching-servers-part-3-91f9d836e046">How I Made $16,500 Hacking CDN Caching Servers — Part 3</a>
-
-<a href="https://medium.com/@Kntjrld/bypassingdefaultvisibilityfornewlyaddedemailinfacebookpartisubmittingidda78142f032d">Bypassing default visibility for newlyadded email in Facebook(Part I  Submitting I.D)</a>
 
 <a href="https://portswigger.net/dailyswig/deserializedwebsecurityrounduptwitter2fabacklashgodaddysuffersyearslongattackcampaignandxsshunteraddse2eencryption">Deserialized web security roundup: Twitter 2FA backlash, GoDaddy suffers yearslong attack campaign, and XSS Hunter adds e2e encryption</a>
 
