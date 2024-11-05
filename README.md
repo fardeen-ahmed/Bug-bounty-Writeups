@@ -510,8 +510,7 @@
 | ATO |<a href="https://medium.com/@kshunya/full-account-takeover-via-open-redirection-41c167db46">Full Account Takeover via Open Redirection </a>
 | FI Bypass |<a href="https://systemweakness.com/bypassing-file-upload-restriction-using-magic-bytes-eb13e801f264">Bypassing File Upload Restriction using Magic Bytes</a>
 | Shift Left failure |<a href="https://akashhamal0x01.medium.com/design-flaw-a-tale-of-permanent-dos-a9ef05181083">Design Flaw : A Tale of Permanent DOS (Informative > Triaged)</a>
-
-<a href="https://blog.assetnote.io/2023/05/10/sitecoreroundtwo/">Bypass IIS Authorisation with this One Weird Trick  Three RCEs and Two Auth Bypasses in Sitecore 9.3</a>
+| RCE |<a href="https://www.assetnote.io/resources/research/bypass-iis-authorisation-with-this-one-weird-trick-three-rces-and-two-auth-bypasses-in-sitecore-9-3">Bypass IIS Authorisation with this One Weird Trick  Three RCEs and Two Auth Bypasses in Sitecore 9.3</a>
   
 <a href="https://medium.com/@aditya043k/oauthmisconfigurationleadstofullaccounttakeoverd93c0d0fb66c">OAUTH Misconfiguration leads to Full Account Takeover</a>
 
