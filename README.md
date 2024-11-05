@@ -508,8 +508,7 @@
 | Microservices |<a href="https://infosecwriteups.com/hacking-microservices-for-fun-and-bounty-5cc302769e94">Hacking Microservices For Fun and Bounty</a>
 | LFI |<a href="https://blog.snapsec.co/attacking-file-uploads-in-modern-web-applications/">Attacking File Uploads in Modern Web Applications</a>
 | ATO |<a href="https://medium.com/@kshunya/full-account-takeover-via-open-redirection-41c167db46">Full Account Takeover via Open Redirection </a>
-
-<a href="https://medium.com/@thehemdeep/bypassingfileuploadrestrictionusingmagicbyteseb13e801f264">Bypassing File Upload Restriction using Magic Bytes</a>
+| FI Bypass |<a href="https://systemweakness.com/bypassing-file-upload-restriction-using-magic-bytes-eb13e801f264">Bypassing File Upload Restriction using Magic Bytes</a>
   
 <a href="https://akashhamal0x01.medium.com/designflawataleofpermanentdosa9ef05181083">Design Flaw : A Tale of Permanent DOS (Informative > Triaged)</a>
 
