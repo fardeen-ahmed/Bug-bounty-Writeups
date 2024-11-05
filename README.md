@@ -509,7 +509,7 @@
 | LFI |<a href="https://blog.snapsec.co/attacking-file-uploads-in-modern-web-applications/">Attacking File Uploads in Modern Web Applications</a>
 | ATO |<a href="https://medium.com/@kshunya/full-account-takeover-via-open-redirection-41c167db46">Full Account Takeover via Open Redirection </a>
 | FI Bypass |<a href="https://systemweakness.com/bypassing-file-upload-restriction-using-magic-bytes-eb13e801f264">Bypassing File Upload Restriction using Magic Bytes</a>
-| Shift Left failure |<a href="https://akashhamal0x01.medium.com/design-flaw-a-tale-of-permanent-dos-a9ef05181083">Design Flaw : A Tale of Permanent DOS (Informative > Triaged)</a>
+| Shift-Left failure |<a href="https://akashhamal0x01.medium.com/design-flaw-a-tale-of-permanent-dos-a9ef05181083">Design Flaw : A Tale of Permanent DOS (Informative > Triaged)</a>
 | RCE |<a href="https://www.assetnote.io/resources/research/bypass-iis-authorisation-with-this-one-weird-trick-three-rces-and-two-auth-bypasses-in-sitecore-9-3">Bypass IIS Authorisation with this One Weird Trick  Three RCEs and Two Auth Bypasses in Sitecore 9.3</a>
 | Chained |<a href="https://infosecwriteups.com/oauth-misconfiguration-leads-to-full-account-takeover-22b032cb6732">OAUTH Misconfiguration leads to Full Account Takeover</a>
 | Repo Jacking |<a href="https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/">Hijacking GitHub Repositories by Deleting and Restoring Them</a>
@@ -523,10 +523,7 @@
 | Path Manipulation |<a href="https://www.erasec.be/blog/client-side-path-manipulation/">Practical Example Of Client Side Path Manipulation</a>
 | Log4J |<a href="https://portswigger.net/daily-swig/finding-nbsp-the-next-log4j-nbsp-openssfs-brian-behlendorf-on-pivoting-to-a-risk-centred-view-of-open-source-development">Finding the next Log4j – OpenSSF’s Brian Behlendorf on pivoting to a ‘riskcentred view’ of open source development</a>
 | ATO |<a href="https://ysamm.com/?p=777">Account takeover of Facebook/Oculus accounts due to FirstParty access_token stealing</a>
-
-
-
-<a href="https://hoseinvita.medium.com/laravel8ximageuploadbypasszeroday852bd806019b">Laravel 8.x image upload bypass</a>
+| Shift-Left Failure |<a href="https://infosecwriteups.com/laravel-8-x-image-upload-bypass-zero-day-852bd806019b">Laravel 8.x image upload bypass</a>
 
 
 <a href="https://medium.com/@bxmbn/howimade15000byhackingcachingserverspart15541712a61c3">How I Made $16,500 Hacking CDN Caching Servers — Part 1</a>
