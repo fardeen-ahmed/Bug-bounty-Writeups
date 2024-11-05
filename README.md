@@ -506,10 +506,7 @@
 | Shift-Left Abuse |<a href="https://infosecwriteups.com/exploiting-activity-in-medium-android-app-e2e6f3553eef">Trigger custom URL in Medium Android app</a>
 | Chained |<a href="https://hackerone.com/reports/1167753">Add new managed stores without permission</a>
 | Microservices |<a href="https://infosecwriteups.com/hacking-microservices-for-fun-and-bounty-5cc302769e94">Hacking Microservices For Fun and Bounty</a>
-
-<a href="https://medium.com/@_ip_/33cachepoisoninglateralmovementgitlab9c6288708576">Cache Poisoning & Lateral Movement @ GitLab</a>
-
-<a href="https://snapsec.co/blog/AttackingFileUploadsinModernWebApps/">Attacking File Uploads in Modern Web Applications</a>
+| LFI |<a href="https://blog.snapsec.co/attacking-file-uploads-in-modern-web-applications/">Attacking File Uploads in Modern Web Applications</a>
 
 <a href="https://medium.com/@vflexo/fullaccounttakeoverviaopenredirection41c167db46">Full Account Takeover via Open Redirection </a>
 
