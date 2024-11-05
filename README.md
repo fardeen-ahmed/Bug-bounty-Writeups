@@ -520,8 +520,7 @@
 | Zero-Day |<a href="https://www.assetnote.io/resources/research/hacking-a-bank-by-finding-a-0day-in-dotcms">Hacking a Bank by Finding a 0day in DotCMS</a>
 | Server-Side |<a href="https://blog.orange.tw/posts/2022-08-lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis/">Let's Dance in the Cache Destabilizing Hash Table on Microsoft IIS!</a>
 | Poisoning |<a href="https://www.legitsecurity.com/blog/artifact-poisoning-vulnerability-discovered-in-rust">Novel Pipeline Vulnerability Discovered; Rust Found Vulnerable</a>
-  
-<a href="https://erasec.be/blog/clientsidepathmanipulation/">Practical Example Of Client Side Path Manipulation</a>
+| Path Manipulation |<a href="https://www.erasec.be/blog/client-side-path-manipulation/">Practical Example Of Client Side Path Manipulation</a>
   
 <a href="https://portswigger.net/dailyswig/findingnbspthenextlog4jnbspopenssfsbrianbehlendorfonpivotingtoariskcentredviewofopensourcedevelopment">Finding the next Log4j – OpenSSF’s Brian Behlendorf on pivoting to a ‘riskcentred view’ of open source development</a>
 
