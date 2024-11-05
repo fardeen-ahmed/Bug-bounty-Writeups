@@ -523,14 +523,11 @@
 | Path Manipulation |<a href="https://www.erasec.be/blog/client-side-path-manipulation/">Practical Example Of Client Side Path Manipulation</a>
 | Log4J |<a href="https://portswigger.net/daily-swig/finding-nbsp-the-next-log4j-nbsp-openssfs-brian-behlendorf-on-pivoting-to-a-risk-centred-view-of-open-source-development">Finding the next Log4j – OpenSSF’s Brian Behlendorf on pivoting to a ‘riskcentred view’ of open source development</a>
 | ATO |<a href="https://ysamm.com/?p=777">Account takeover of Facebook/Oculus accounts due to FirstParty access_token stealing</a>
-| Shift-Left Failure |<a href="https://infosecwriteups.com/laravel-8-x-image-upload-bypass-zero-day-852bd806019b">Laravel 8.x image upload bypass</a>
+| Shift-Left failure |<a href="https://infosecwriteups.com/laravel-8-x-image-upload-bypass-zero-day-852bd806019b">Laravel 8.x image upload bypass</a>
+| Shift-Left failure |<a href="https://infosecwriteups.com/how-i-made-15-000-by-hacking-caching-servers-part-1-5541712a61c3">How I Made $16,500 Hacking CDN Caching Servers — Part 1</a>
+| Shift-Left failure |<a href="https://infosecwriteups.com/how-i-made-16-500-hacking-cdn-caching-servers-part-2-4995ece4c6e6">How I Made $16,500 Hacking CDN Caching Servers — Part 2</a>
 
-
-<a href="https://medium.com/@bxmbn/howimade15000byhackingcachingserverspart15541712a61c3">How I Made $16,500 Hacking CDN Caching Servers — Part 1</a>
-
-<a href="https://medium.com/@bxmbn/howimade16500hackingcdncachingserverspart24995ece4c6e6">How I Made $16,500 Hacking CDN Caching Servers — Part 2</a>
-
-<a href="https://medium.com/@bxmbn/howimade16500hackingcdncachingserverspart391f9d836e046">How I Made $16,500 Hacking CDN Caching Servers — Part 3</a>
+<a href="https://infosecwriteups.com/how-i-made-16-500-hacking-cdn-caching-servers-part-3-91f9d836e046">How I Made $16,500 Hacking CDN Caching Servers — Part 3</a>
 
 <a href="https://medium.com/@Kntjrld/bypassingdefaultvisibilityfornewlyaddedemailinfacebookpartisubmittingidda78142f032d">Bypassing default visibility for newlyadded email in Facebook(Part I  Submitting I.D)</a>
 
