@@ -529,23 +529,10 @@
 | Shift-Left failure |<a href="https://infosecwriteups.com/how-i-made-16-500-hacking-cdn-caching-servers-part-3-91f9d836e046">How I Made $16,500 Hacking CDN Caching Servers — Part 3</a>
 | Shift-Left failure |<a href="https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-i-submitting-i-d-da78142f032d">Bypassing default visibility for newlyadded email in Facebook(Part I  Submitting I.D)</a>
 | Shift-Left failure |<a href="https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-ii-trusted-contacts-36176eeb103">Bypassing default visibility for newly-added email in Facebook(Part II - Trusted Contacts)</a>
-
-
-<a href="https://portswigger.net/dailyswig/deserializedwebsecurityrounduptwitter2fabacklashgodaddysuffersyearslongattackcampaignandxsshunteraddse2eencryption">Deserialized web security roundup: Twitter 2FA backlash, GoDaddy suffers yearslong attack campaign, and XSS Hunter adds e2e encryption</a>
-
-<a href="https://medium.com/@Kntjrld/bypassingdefaultvisibilityfornewlyaddedemailinfacebookpartiitrustedcontacts36176eeb103">Bypassing default visibility for newlyadded email in Facebook(Part II  Trusted Contacts)</a>
-
-<a href="https://hackerone.com/reports/170552">Slack integration setup lacks CSRF protection</a>
-
-<a href="https://elinfosec.com/2022/myfirstreportonhackeronealogicflawinnpm/">My first report on HackerOne: A logic flaw in npm</a>
-
-<a href="https://hackerone.com/reports/1065500">Multiple bugs leads to RCE on TikTok for Android</a>
-
-<A href="http://ysamm.com/?p=627">Leaking Facebook user information to external websites ($2000)</a>
-  
-
-  
-
+| Chained |<a href="https://portswigger.net/daily-swig/deserialized-web-security-roundup-twitter-2fa-backlash-godaddy-suffers-years-long-attack-campaign-and-xss-hunter-adds-e2e-encryption">Deserialized web security roundup: Twitter 2FA backlash, GoDaddy suffers yearslong attack campaign, and XSS Hunter adds e2e encryption</a>
+| Shift-Left Abuse |<a href="https://hackerone.com/reports/170552">Slack integration setup lacks CSRF protection</a>
+| RCE |<a href="https://hackerone.com/reports/1065500">Multiple bugs leads to RCE on TikTok for Android</a>
+| SID |<a href="http://ysamm.com/?p=627">Leaking Facebook user information to external websites ($2000)</a>
 
 
 
