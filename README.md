@@ -507,8 +507,7 @@
 | Chained |<a href="https://hackerone.com/reports/1167753">Add new managed stores without permission</a>
 | Microservices |<a href="https://infosecwriteups.com/hacking-microservices-for-fun-and-bounty-5cc302769e94">Hacking Microservices For Fun and Bounty</a>
 | LFI |<a href="https://blog.snapsec.co/attacking-file-uploads-in-modern-web-applications/">Attacking File Uploads in Modern Web Applications</a>
-
-<a href="https://medium.com/@vflexo/fullaccounttakeoverviaopenredirection41c167db46">Full Account Takeover via Open Redirection </a>
+| ATO |<a href="https://medium.com/@kshunya/full-account-takeover-via-open-redirection-41c167db46">Full Account Takeover via Open Redirection </a>
 
 <a href="https://medium.com/@thehemdeep/bypassingfileuploadrestrictionusingmagicbyteseb13e801f264">Bypassing File Upload Restriction using Magic Bytes</a>
   
