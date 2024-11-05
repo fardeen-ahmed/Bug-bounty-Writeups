@@ -505,8 +505,7 @@
 | Shift-Left Abuse |<a href="https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/">Escaping misconfigured VSCode extensions</a>
 | Shift-Left Abuse |<a href="https://infosecwriteups.com/exploiting-activity-in-medium-android-app-e2e6f3553eef">Trigger custom URL in Medium Android app</a>
 | Chained |<a href="https://hackerone.com/reports/1167753">Add new managed stores without permission</a>
-
-<a href="https://mayank01.medium.com/hackingmicroservicesforfunandbounty5cc302769e94">Hacking Microservices For Fun and Bounty</a>
+| Microservices |<a href="https://infosecwriteups.com/hacking-microservices-for-fun-and-bounty-5cc302769e94">Hacking Microservices For Fun and Bounty</a>
 
 <a href="https://medium.com/@_ip_/33cachepoisoninglateralmovementgitlab9c6288708576">Cache Poisoning & Lateral Movement @ GitLab</a>
 
