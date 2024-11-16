@@ -539,7 +539,9 @@
 
 ## Security Misconfiguration
 
-<a href="https://xcheater.medium.com/allaboutpasswordresetvulnerabilities3bba86ffedc7">All about Password Reset vulnerabilities</a>
+| Category | Writeup |
+|-----------|-----|
+| Password | <a href="https://infosecwriteups.com/all-about-password-reset-vulnerabilities-3bba86ffedc7">All about Password Reset vulnerabilities</a>
 
 <a href="https://security.humanativaspa.it/nothingnewunderthesun/">Nothing new under the Sun – Discovering and exploiting a CDE bug chain</a>
 
