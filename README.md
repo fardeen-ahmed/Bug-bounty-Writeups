@@ -542,8 +542,7 @@
 | Category | Writeup |
 |-----------|-----|
 | Password | <a href="https://infosecwriteups.com/all-about-password-reset-vulnerabilities-3bba86ffedc7">All about Password Reset vulnerabilities</a>
-
-<a href="https://security.humanativaspa.it/nothingnewunderthesun/">Nothing new under the Sun – Discovering and exploiting a CDE bug chain</a>
+| Chained | <a href="https://security.humanativaspa.it/nothing-new-under-the-sun/">Nothing new under the Sun – Discovering and exploiting a CDE bug chain</a>
 
 <a href="https://medium.com/@moSec/howihackedthousandofsubdomains6aa43b92282c">How I hacked thousand of subdomains</a>
 
