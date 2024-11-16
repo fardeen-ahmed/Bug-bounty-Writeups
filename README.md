@@ -543,14 +543,9 @@
 |-----------|-----|
 | Password | <a href="https://infosecwriteups.com/all-about-password-reset-vulnerabilities-3bba86ffedc7">All about Password Reset vulnerabilities</a>
 | Chained | <a href="https://security.humanativaspa.it/nothing-new-under-the-sun/">Nothing new under the Sun – Discovering and exploiting a CDE bug chain</a>
-
-<a href="https://medium.com/@moSec/howihackedthousandofsubdomains6aa43b92282c">How I hacked thousand of subdomains</a>
-
-<a href="https://github.com/WeAreCloudar/s3accountsearch">S3 Account Search</a>
-
-<a href="https://spyclub.tech/2022/12/14/unusualcachepoisoningakamais3/">Unusual Cache Poisoning between Akamai and S3 buckets</a>
-  
-<a href="https://medium.com/@nanwinata/oldrceworth33621af0cd70c459">Old RCE worth $3362</a>
+| Subdomain Takeover | <a href="https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c">How I hacked thousand of subdomains</a>
+| S3 Recon |<a href="https://github.com/WeAreCloudar/s3-account-search">S3 Account Search</a>
+| RCE |<a href="https://medium.com/@nanwinata/old-rce-worth-3362-1af0cd70c459">Old RCE worth $3362</a>
 
 <a href="https://yaseenzubair.medium.com/webcachepoisoningworthite7c6d88797b1">WebCache Poisoning $$$? Worth it?</a>
   
