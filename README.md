@@ -548,8 +548,7 @@
 | RCE |<a href="https://medium.com/@nanwinata/old-rce-worth-3362-1af0cd70c459">Old RCE worth $3362</a>
 | Web-Cache |<a href="https://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1">WebCache Poisoning $$$? Worth it?</a>
 | Misconfiguration |<a href="https://infosecwriteups.com/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52">How I Scored 1K Bounty Using Waybackurls</a>
-
-<a href="https://xcheater.medium.com/allaboutcsrfflaw7d525be39587">All About CSRF Flaw</a>
+| CSRF |<a href="https://xcheater.medium.com/all-about-csrf-flaw-7d525be39587">All About CSRF Flaw</a>
 
 <a href="https://samcurry.net/pointscom/">Leaked Secrets and Unlimited Miles: Hacking the Largest Airline and Hotel Rewards Platform</a>
   
