@@ -546,8 +546,7 @@
 | Subdomain Takeover | <a href="https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c">How I hacked thousand of subdomains</a>
 | S3 Recon |<a href="https://github.com/WeAreCloudar/s3-account-search">S3 Account Search</a>
 | RCE |<a href="https://medium.com/@nanwinata/old-rce-worth-3362-1af0cd70c459">Old RCE worth $3362</a>
-
-<a href="https://yaseenzubair.medium.com/webcachepoisoningworthite7c6d88797b1">WebCache Poisoning $$$? Worth it?</a>
+| Web-Cache |<a href="https://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1">WebCache Poisoning $$$? Worth it?</a>
   
 <a href="https://medium.com/@sicks3c/howiscored1kbountyusingwaybackurls717d9673ca52">How I Scored 1K Bounty Using Waybackurls</a>
 
