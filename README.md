@@ -555,8 +555,7 @@
 | Chained |<a href="https://medium.com/@mukundbhuva/account-takeover-due-to-cognito-misconfiguration-earns-me-xxxx-3a7b8bb9a619">Account Takeover Due to Cognito Misconfiguration Earns Me €xxxx</a>
 | Shift-Left |<a href="https://pvs-studio.com/en/blog/posts/csharp/1038/">Converting string to enum at the cost of 50 GB: let's analyze the CVE-2020-36620 vulnerability</a>
 | Misconfiguration |<a href="https://portswigger.net/research/detecting-web-message-misconfigurations-for-cross-domain-credential-theft">Detecting web message misconfigurations for crossdomain credential theft</a>
-
-<a href="https://blog.pksecurity.io/2023/01/16/2022microsoftteamsrce.html">2022 Microsoft Teams RCE</a>
+| RCE |<a href="https://blog.pksecurity.io/2023/01/16/2022-microsoft-teams-rce.html">2022 Microsoft Teams RCE</a>
 
 <a href="https://semgrep.dev/blog/2022/xmlsecurityinjava">XML Security in Java  Java XML security issues and how to address them</a>
 
