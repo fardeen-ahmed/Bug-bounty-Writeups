@@ -553,8 +553,7 @@
 | Misconfiguration |<a href="https://www.alevsk.com/2022/11/system-misconfiguration-is-the-number-one-vulnerability-at-least-for-mastodon/">System misconfiguration is the number one vulnerability, at least for Mastodon</a>
 | Chained |<a href="https://medium.com/@levshmelevv/10-000-bounty-for-exposed-git-to-rce-304c7e1f54">$10.000 bounty for exposed .git to RCE</a>
 | Chained |<a href="https://medium.com/@mukundbhuva/account-takeover-due-to-cognito-misconfiguration-earns-me-xxxx-3a7b8bb9a619">Account Takeover Due to Cognito Misconfiguration Earns Me €xxxx</a>
-
-<a href="https://pvsstudio.com/en/blog/posts/csharp/1038/">Converting string to enum at the cost of 50 GB: let's analyze the CVE202036620 vulnerability</a>
+| Shift-Left |<a href="https://pvs-studio.com/en/blog/posts/csharp/1038/">Converting string to enum at the cost of 50 GB: let's analyze the CVE-2020-36620 vulnerability</a>
   
 <a href="https://portswigger.net/research/detectingwebmessagemisconfigurationsforcrossdomaincredentialtheft">Detecting web message misconfigurations for crossdomain credential theft</a>
 
