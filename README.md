@@ -557,8 +557,7 @@
 | Misconfiguration |<a href="https://portswigger.net/research/detecting-web-message-misconfigurations-for-cross-domain-credential-theft">Detecting web message misconfigurations for crossdomain credential theft</a>
 | RCE |<a href="https://blog.pksecurity.io/2023/01/16/2022-microsoft-teams-rce.html">2022 Microsoft Teams RCE</a>
 | Chained |<a href="https://semgrep.dev/blog/2023/xml-security-in-java/">XML Security in Java  Java XML security issues and how to address them</a>
-
-<a href="https://www.jhaddix.com/post/the100millionpersondatadisclosure">The 100+ Million Person Data Disclosure</a>
+| PII |<a href="https://www.jhaddix.com/post/the-100-million-person-data-disclosure">The 100+ Million Person Data Disclosure</a>
   
 <a href="https://ltidi.medium.com/theuntoldsendbirdmisconfigurations1496d252bc69">The Untold SendBird Misconfigurations</a>  
   
