@@ -552,10 +552,7 @@
 | Recon + Exploitation |<a href="https://samcurry.net/points-com">Leaked Secrets and Unlimited Miles: Hacking the Largest Airline and Hotel Rewards Platform</a>
 | Misconfiguration |<a href="https://www.alevsk.com/2022/11/system-misconfiguration-is-the-number-one-vulnerability-at-least-for-mastodon/">System misconfiguration is the number one vulnerability, at least for Mastodon</a>
 | Chained |<a href="https://medium.com/@levshmelevv/10-000-bounty-for-exposed-git-to-rce-304c7e1f54">$10.000 bounty for exposed .git to RCE</a>
-
-<a href="https://www.legitsecurity.com/blog/exposingsecretsviasdlctoolsthesonarqubecase">Exposing Secrets Via SDLC Tools: The SonarQube Case</a>
-  
-<a href="https://medium.com/@mukundbhuva/accounttakeoverduetocognitomisconfigurationearnsmexxxx3a7b8bb9a619">Account Takeover Due to Cognito Misconfiguration Earns Me €xxxx</a>
+| Chained |<a href="https://medium.com/@mukundbhuva/account-takeover-due-to-cognito-misconfiguration-earns-me-xxxx-3a7b8bb9a619">Account Takeover Due to Cognito Misconfiguration Earns Me €xxxx</a>
 
 <a href="https://pvsstudio.com/en/blog/posts/csharp/1038/">Converting string to enum at the cost of 50 GB: let's analyze the CVE202036620 vulnerability</a>
   
