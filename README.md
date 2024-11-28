@@ -560,8 +560,7 @@
 | PII |<a href="https://www.jhaddix.com/post/the-100-million-person-data-disclosure">The 100+ Million Person Data Disclosure</a>
 | Misconfiguration |<a href="https://ltidi.medium.com/the-untold-sendbird-misconfigurations-1496d252bc69">The Untold SendBird Misconfigurations</a>  
 | Path Traversal |<a href="https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html">PRACTICAL CLIENT SIDE PATH TRAVERSAL ATTACKS</a>
-  
-<a href="https://tomforb.es/infosysleakedfulladminaccessawskeysonpypiforoverayear/">Infosys leaked FullAdminAccess AWS keys on PyPi for over a year</a>
+| Chained |<a href="https://tomforb.es/blog/infosys-leak/">Infosys leaked Full Admin Access AWS keys on PyPi for over a year</a>
 
 <a href="https://hackerone.com/reports/1497169">CSRF protection bypass in GitHub Enterprise management console</a>
 
