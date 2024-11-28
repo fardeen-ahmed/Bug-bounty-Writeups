@@ -559,8 +559,7 @@
 | Chained |<a href="https://semgrep.dev/blog/2023/xml-security-in-java/">XML Security in Java  Java XML security issues and how to address them</a>
 | PII |<a href="https://www.jhaddix.com/post/the-100-million-person-data-disclosure">The 100+ Million Person Data Disclosure</a>
 | Misconfiguration |<a href="https://ltidi.medium.com/the-untold-sendbird-misconfigurations-1496d252bc69">The Untold SendBird Misconfigurations</a>  
-  
-<a href="https://mrmedi.github.io/research/2022/11/04/practicalclientsidepathtraversalattacks.html">PRACTICAL CLIENT SIDE PATH TRAVERSAL ATTACKS</a>
+| Path Traversal |<a href="https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html">PRACTICAL CLIENT SIDE PATH TRAVERSAL ATTACKS</a>
   
 <a href="https://tomforb.es/infosysleakedfulladminaccessawskeysonpypiforoverayear/">Infosys leaked FullAdminAccess AWS keys on PyPi for over a year</a>
 
