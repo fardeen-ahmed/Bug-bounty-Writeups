@@ -569,8 +569,7 @@
 | RCE |<a href="https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/">OpenEMR  Remote Code Execution in your Healthcare System</a>
 | Chained |<a href="https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc">Common Nginx Misconfiguration leads to Path Traversal</a>
 | JAVA XML |<a href="https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html">Gregor Samsa: Exploiting Java's XML Signature Verification</a>
-  
-<a href="https://shubhdeepp.medium.com/howigotapplehalloffame3d86f858c05f">How I got Apple Hall Of Fame !</a>
+| Bypass |<a href="https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f">How I got Apple Hall Of Fame !</a>
 
 <a href="https://simonwillison.net/2023/May/2/promptinjectionexplained/">Prompt injection explained, with video, slides, and a transcript</a>
 
