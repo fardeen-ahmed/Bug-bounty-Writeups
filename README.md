@@ -562,8 +562,7 @@
 | Path Traversal |<a href="https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html">PRACTICAL CLIENT SIDE PATH TRAVERSAL ATTACKS</a>
 | Chained |<a href="https://tomforb.es/blog/infosys-leak/">Infosys leaked Full Admin Access AWS keys on PyPi for over a year</a>
 | CSRF |<a href="">CSRF protection bypass in GitHub Enterprise management console</a>
-
-<a href="https://hackcommander.github.io/bugbounty4/">TE.TE HTTP request smuggling obfuscating the TE header</a>
+| Request Smuggling |<a href="https://hackcommander.github.io/posts/2023/05/03/te-te-http-request-smuggling-obfuscating-te-header/">TE.TE HTTP request smuggling obfuscating the TE header</a>
 
 <a href="https://medium.com/@valluvarsploit/fastlysubdomaintakeover2000217bb180730f">Fastly Subdomain Takeover $2000</a>
   
