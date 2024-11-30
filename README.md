@@ -570,8 +570,7 @@
 | Chained |<a href="https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc">Common Nginx Misconfiguration leads to Path Traversal</a>
 | JAVA XML |<a href="https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html">Gregor Samsa: Exploiting Java's XML Signature Verification</a>
 | Bypass |<a href="https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f">How I got Apple Hall Of Fame !</a>
-
-<a href="https://simonwillison.net/2023/May/2/promptinjectionexplained/">Prompt injection explained, with video, slides, and a transcript</a>
+| Prompt Injection |<a href="https://simonwillison.net/2023/May/2/prompt-injection-explained/">Prompt injection explained, with video, slides, and a transcript</a>
 
 <a href="https://blog.oversecured.com/AndroidExploringvulnerabilitiesinWebResourceResponse/">How to exploit insecure WebResourceResponse configurations + an example vulnerability in Amazon apps</a>
   
