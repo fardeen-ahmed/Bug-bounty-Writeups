@@ -561,8 +561,7 @@
 | Misconfiguration |<a href="https://ltidi.medium.com/the-untold-sendbird-misconfigurations-1496d252bc69">The Untold SendBird Misconfigurations</a>  
 | Path Traversal |<a href="https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html">PRACTICAL CLIENT SIDE PATH TRAVERSAL ATTACKS</a>
 | Chained |<a href="https://tomforb.es/blog/infosys-leak/">Infosys leaked Full Admin Access AWS keys on PyPi for over a year</a>
-
-<a href="https://hackerone.com/reports/1497169">CSRF protection bypass in GitHub Enterprise management console</a>
+| CSRF |<a href="">CSRF protection bypass in GitHub Enterprise management console</a>
 
 <a href="https://hackcommander.github.io/bugbounty4/">TE.TE HTTP request smuggling obfuscating the TE header</a>
 
