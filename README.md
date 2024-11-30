@@ -566,8 +566,7 @@
 | Domain Takeover |<a href="https://infosecwriteups.com/fastly-subdomain-takeover-2000-217bb180730f">Fastly Subdomain Takeover $2000</a>
 | Misconfiguration |<a href="https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp">Stealing passwords from infosec Mastodon  without bypassing CSP</a>
 | Deserialization |<a href="https://www.ambionics.io/blog/vbulletin-unserializable-but-unreachable">UNSERIALIZABLE, BUT UNREACHABLE: REMOTE CODE EXECUTION ON VBULLETIN</a>
-
-<a href="https://www.sonarsource.com/blog/openemrremotecodeexecutioninyourhealthcaresystem/">OpenEMR  Remote Code Execution in your Healthcare System</a>
+| RCE |<a href="https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/">OpenEMR  Remote Code Execution in your Healthcare System</a>
 
 <a href="https://systemweakness.com/commonnginxmisconfigurationleadstopathtraversald58701e997bc">Common Nginx Misconfiguration leads to Path Traversal</a>
   
