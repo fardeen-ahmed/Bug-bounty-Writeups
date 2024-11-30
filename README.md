@@ -568,8 +568,7 @@
 | Deserialization |<a href="https://www.ambionics.io/blog/vbulletin-unserializable-but-unreachable">UNSERIALIZABLE, BUT UNREACHABLE: REMOTE CODE EXECUTION ON VBULLETIN</a>
 | RCE |<a href="https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/">OpenEMR  Remote Code Execution in your Healthcare System</a>
 | Chained |<a href="https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc">Common Nginx Misconfiguration leads to Path Traversal</a>
-  
-<a href="https://googleprojectzero.blogspot.com/2022/11/gregorsamsaexploitingjavaxml.html">Gregor Samsa: Exploiting Java's XML Signature Verification</a>
+| JAVA XML |<a href="https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html">Gregor Samsa: Exploiting Java's XML Signature Verification</a>
   
 <a href="https://shubhdeepp.medium.com/howigotapplehalloffame3d86f858c05f">How I got Apple Hall Of Fame !</a>
 
