@@ -564,8 +564,7 @@
 | CSRF |<a href="">CSRF protection bypass in GitHub Enterprise management console</a>
 | Request Smuggling |<a href="https://hackcommander.github.io/posts/2023/05/03/te-te-http-request-smuggling-obfuscating-te-header/">TE.TE HTTP request smuggling obfuscating the TE header</a>
 | Domain Takeover |<a href="https://infosecwriteups.com/fastly-subdomain-takeover-2000-217bb180730f">Fastly Subdomain Takeover $2000</a>
-  
-<a href="https://portswigger.net/research/stealingpasswordsfrominfosecmastodonwithoutbypassingcsp">Stealing passwords from infosec Mastodon  without bypassing CSP</a>
+| Misconfiguration |<a href="https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp">Stealing passwords from infosec Mastodon  without bypassing CSP</a>
 
 <a href="https://www.ambionics.io/blog/vbulletinunserializablebutunreachable">UNSERIALIZABLE, BUT UNREACHABLE: REMOTE CODE EXECUTION ON VBULLETIN</a>
 
