@@ -578,8 +578,7 @@
 | Functionality Bug |<a href="https://hackerone.com/reports/1102764">Lack of URL normalization renders BlockedPreviews feature ineffectual</a>
 | Bypass |<a href="https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c">Bypass Premium Account Payment (GetPocket)</a>
 | Chained |<a href="https://infosecwriteups.com/manipulating-the-websocket-handshake-to-exploit-vulnerabilities-7f8dc3504e9c">Manipulating the WebSocket handshake to exploit vulnerabilities</a>
-  
-<a href="https://www.whitesourcesoftware.com/resources/blog/awstargetedbyapackagebackfillattack/">AWS Targeted by a Package Backfill Attack</a>
+| Cloud |<a href="https://www.mend.io/blog/aws-targeted-by-a-package-backfill-attack/">AWS Targeted by a Package Backfill Attack</a>
 
 <a href="https://www.intruder.io/research/serversideprototypepollution">Detecting ServerSide Prototype Pollution</a>
 
