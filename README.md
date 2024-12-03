@@ -572,10 +572,7 @@
 | Bypass |<a href="https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f">How I got Apple Hall Of Fame !</a>
 | Prompt Injection |<a href="https://simonwillison.net/2023/May/2/prompt-injection-explained/">Prompt injection explained, with video, slides, and a transcript</a>
 | POC |<a href="https://github.com/numanturle/CVE-2022-44877">Centos Web Panel 7 Unauthenticated Remote Code Execution  CVE202244877</a>
-
-<a href="https://www.hackerone.com/bestpractices/preventingcompromisedpasswordreusehackeronecom">Preventing compromised password reuse on HackerOne.com </a>
-
-<a href="https://jub0bs.com/posts/20220208cve202221703writeup/">CVE202221703: crossorigin request forgery against Grafana</a>
+| CORS |<a href="https://jub0bs.com/posts/2022-02-08-cve-2022-21703-writeup/">CVE-2022-21703: crossorigin request forgery against Grafana</a>
 
 <a href="https://apapedulimu.click/storyofidorongoogleproduct/">2 CSRF 1 IDOR on Google Marketing Platform</a>
 
