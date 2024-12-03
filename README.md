@@ -579,8 +579,7 @@
 | Bypass |<a href="https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c">Bypass Premium Account Payment (GetPocket)</a>
 | Chained |<a href="https://infosecwriteups.com/manipulating-the-websocket-handshake-to-exploit-vulnerabilities-7f8dc3504e9c">Manipulating the WebSocket handshake to exploit vulnerabilities</a>
 | Cloud |<a href="https://www.mend.io/blog/aws-targeted-by-a-package-backfill-attack/">AWS Targeted by a Package Backfill Attack</a>
-
-<a href="https://www.intruder.io/research/serversideprototypepollution">Detecting ServerSide Prototype Pollution</a>
+| SSPP |<a href="https://www.intruder.io/research/server-side-prototype-pollution">Detecting ServerSide Prototype Pollution</a>
 
 <a href="https://hackerone.com/reports/1122408">CSRF on /api/graphql allows executing mutations through GET requests</a>
 
