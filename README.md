@@ -573,8 +573,7 @@
 | Prompt Injection |<a href="https://simonwillison.net/2023/May/2/prompt-injection-explained/">Prompt injection explained, with video, slides, and a transcript</a>
 | POC |<a href="https://github.com/numanturle/CVE-2022-44877">Centos Web Panel 7 Unauthenticated Remote Code Execution  CVE202244877</a>
 | CORS |<a href="https://jub0bs.com/posts/2022-02-08-cve-2022-21703-writeup/">CVE-2022-21703: crossorigin request forgery against Grafana</a>
-
-<a href="https://apapedulimu.click/storyofidorongoogleproduct/">2 CSRF 1 IDOR on Google Marketing Platform</a>
+| Multiple |<a href="https://apapedulimu.click/story-of-idor-on-google-product/">2 CSRF 1 IDOR on Google Marketing Platform</a>
 
 <a href="https://blog.projectdiscovery.io/phphttpserversourcedisclosure/">PHP Development Server <= 7.4.21  Remote Source Disclosure</a>
 
