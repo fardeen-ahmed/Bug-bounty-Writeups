@@ -575,8 +575,7 @@
 | CORS |<a href="https://jub0bs.com/posts/2022-02-08-cve-2022-21703-writeup/">CVE-2022-21703: crossorigin request forgery against Grafana</a>
 | Multiple |<a href="https://apapedulimu.click/story-of-idor-on-google-product/">2 CSRF 1 IDOR on Google Marketing Platform</a>
 | S.I.D |<a href="https://projectdiscovery.io/blog/php-http-server-source-disclosure">PHP Development Server <= 7.4.21  Remote Source Disclosure</a>
-
-<a href="https://hackerone.com/reports/1102764">Lack of URL normalization renders BlockedPreviews feature ineffectual</a>
+| Functionality Bug |<a href="https://hackerone.com/reports/1102764">Lack of URL normalization renders BlockedPreviews feature ineffectual</a>
   
 <a href="https://medium.com/@querylab/bypasspremiumaccountpaymentgetpocketd813b249687c">Bypass Premium Account Payment (GetPocket)</a>
 
