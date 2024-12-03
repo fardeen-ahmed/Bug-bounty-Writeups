@@ -582,8 +582,6 @@
 | SSPP |<a href="https://www.intruder.io/research/server-side-prototype-pollution">Detecting ServerSide Prototype Pollution</a>
 | CSRF |<a href="https://hackerone.com/reports/1122408">CSRF on /api/graphql allows executing mutations through GET requests</a>
 
-<a href="https://blog.niksthehacker.com/xxeinpublictransportticketingmobileapp81ae245c01a1">XXE in Public Transport Ticketing Mobile APP</a>
-
 <a href="https://medium.com/@botami143/ihavefoundmicrosoftsubdomainwebsitedatabaselistdatabaseusernamepassword1dab07d0c8ea">I have Found Microsoft Subdomain Website database list, database username, password </a>
   
 <a href="https://bugcrowd.com/disclosures/f7ce85040152483bbbf3fb9b759f9f89/criticallocalfilereadinelectrondesktopapp">Critical Local File Read in Electron Desktop App</a>
