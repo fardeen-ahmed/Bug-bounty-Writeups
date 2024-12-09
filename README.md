@@ -584,10 +584,7 @@
 | SID|<a href="https://medium.com/@botami143/i-have-found-microsoft-subdomain-website-database-list-database-username-password-1dab07d0c8ea">I have Found Microsoft Subdomain Website database list, database username, password </a>
 | File Read |<a href="https://bugcrowd.com/disclosures/f7ce8504-0152-483b-bbf3-fb9b759f9f89/critical-local-file-read-in-electron-desktop-app">Critical Local File Read in Electron Desktop App</a>
 | Prototype Pollution |<a href="https://securityonline.info/cve-2022-46175-json5-prototype-pollution-vulnerability/">CVE-2022-46175: JSON5 Prototype Pollution Vulnerability</a>
-  
-<a href="https://hackerone.com/reports/1596663">Admin can create a hidden admin account which even the owner can not detect and remove and do administrative actions on the application.</a>
-
-<a href="https://adityashende17.medium.com/hijackingaccountswithhostmanipulationusingcollaborator969f3234b29f">Hijacking accounts with host manipulation using collaborator</a>
+| ATO |<a href="https://kongsec.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">Hijacking accounts with host manipulation using collaborator</a>
 
 <a href="https://portswigger.net/research/serversideprototypepollution">Serverside prototype pollution: Blackbox detection without the DoS</a>
 
@@ -785,6 +782,8 @@
 
 <a href="https://blog.dixitaditya.com/pwningaserverusingmarkdown">Pwning a Server using Markdown</a>
 
+<a href="https://hackerone.com/reports/1596663">Admin can create a hidden admin account which even the owner can not detect and remove and do administrative actions on the application.</a>
+
 <a href="https://medium.com/pentesternepal/howifoundabuginapplewithinjustin5mind7357237d7a0">How I found a bug in Apple within just in 5min</a>
   
 <a href="https://blog.impalabs.com/2212_advisory_huaweisecurityhypervisor.html">Huawei Security Hypervisor Vulnerability</a>
@@ -823,7 +822,7 @@
 
   
   
-## ServerSide Request Forgery
+## Server Side Request Forgery
 
 <a href="https://bugs.xdavidhu.me/google/2021/12/31/fixingtheunfixablestoryofagooglecloudssrf/">Story of a Google Cloud SSRF</a>
 
