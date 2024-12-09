@@ -587,8 +587,7 @@
 | ATO |<a href="https://kongsec.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">Hijacking accounts with host manipulation using collaborator</a>
 | Prototype Polllution |<a href="https://portswigger.net/research/server-side-prototype-pollution">Server-side prototype pollution: Blackbox detection without the DoS</a>
 | Misconfiguration |<a href="https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf">Demographic Misconfiguration on Facebook live </a>
-
-<a href="https://blog.assetnote.io/2023/02/02/preauthrceasperafaspex/">PreAuth RCE in Aspera Faspex: Case Guide for Auditing Ruby on Rails</a>
+| RCE |<a href="https://www.assetnote.io/resources/research/pre-auth-rce-in-aspera-faspex-case-guide-for-auditing-ruby-on-rails">PreAuth RCE in Aspera Faspex: Case Guide for Auditing Ruby on Rails</a>
 
 <a href="https://threatpost.com/valvebugunlimitedfunds/168710/">Critical Valve Bug Lets Gamers Add Unlimited Funds to Steam Wallets</a>
 
