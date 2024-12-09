@@ -583,8 +583,7 @@
 | CSRF |<a href="https://hackerone.com/reports/1122408">CSRF on /api/graphql allows executing mutations through GET requests</a>
 | SID|<a href="https://medium.com/@botami143/i-have-found-microsoft-subdomain-website-database-list-database-username-password-1dab07d0c8ea">I have Found Microsoft Subdomain Website database list, database username, password </a>
 | File Read |<a href="https://bugcrowd.com/disclosures/f7ce8504-0152-483b-bbf3-fb9b759f9f89/critical-local-file-read-in-electron-desktop-app">Critical Local File Read in Electron Desktop App</a>
-  
-<a href="https://securityonline.info/cve202246175json5prototypepollutionvulnerability/">CVE202246175: JSON5 Prototype Pollution Vulnerability</a>
+| Prototype Pollution |<a href="https://securityonline.info/cve-2022-46175-json5-prototype-pollution-vulnerability/">CVE-2022-46175: JSON5 Prototype Pollution Vulnerability</a>
   
 <a href="https://hackerone.com/reports/1596663">Admin can create a hidden admin account which even the owner can not detect and remove and do administrative actions on the application.</a>
 
