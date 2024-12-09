@@ -582,8 +582,7 @@
 | SSPP |<a href="https://www.intruder.io/research/server-side-prototype-pollution">Detecting ServerSide Prototype Pollution</a>
 | CSRF |<a href="https://hackerone.com/reports/1122408">CSRF on /api/graphql allows executing mutations through GET requests</a>
 | SID|<a href="https://medium.com/@botami143/i-have-found-microsoft-subdomain-website-database-list-database-username-password-1dab07d0c8ea">I have Found Microsoft Subdomain Website database list, database username, password </a>
-  
-<a href="https://bugcrowd.com/disclosures/f7ce85040152483bbbf3fb9b759f9f89/criticallocalfilereadinelectrondesktopapp">Critical Local File Read in Electron Desktop App</a>
+| File Read |<a href="https://bugcrowd.com/disclosures/f7ce8504-0152-483b-bbf3-fb9b759f9f89/critical-local-file-read-in-electron-desktop-app">Critical Local File Read in Electron Desktop App</a>
   
 <a href="https://securityonline.info/cve202246175json5prototypepollutionvulnerability/">CVE202246175: JSON5 Prototype Pollution Vulnerability</a>
   
