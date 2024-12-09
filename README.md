@@ -585,8 +585,7 @@
 | File Read |<a href="https://bugcrowd.com/disclosures/f7ce8504-0152-483b-bbf3-fb9b759f9f89/critical-local-file-read-in-electron-desktop-app">Critical Local File Read in Electron Desktop App</a>
 | Prototype Pollution |<a href="https://securityonline.info/cve-2022-46175-json5-prototype-pollution-vulnerability/">CVE-2022-46175: JSON5 Prototype Pollution Vulnerability</a>
 | ATO |<a href="https://kongsec.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">Hijacking accounts with host manipulation using collaborator</a>
-
-<a href="https://portswigger.net/research/serversideprototypepollution">Serverside prototype pollution: Blackbox detection without the DoS</a>
+| Prototype Polllution |<a href="https://portswigger.net/research/server-side-prototype-pollution">Server-side prototype pollution: Blackbox detection without the DoS</a>
 
 <a href="https://prajwoldhungana487.medium.com/demographicmisconfiguration9359910c6fcf">Demographic Misconfiguration on Facebook live </a>
 
