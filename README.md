@@ -586,8 +586,7 @@
 | Prototype Pollution |<a href="https://securityonline.info/cve-2022-46175-json5-prototype-pollution-vulnerability/">CVE-2022-46175: JSON5 Prototype Pollution Vulnerability</a>
 | ATO |<a href="https://kongsec.medium.com/hijacking-accounts-with-host-manipulation-using-collaborator-969f3234b29f">Hijacking accounts with host manipulation using collaborator</a>
 | Prototype Polllution |<a href="https://portswigger.net/research/server-side-prototype-pollution">Server-side prototype pollution: Blackbox detection without the DoS</a>
-
-<a href="https://prajwoldhungana487.medium.com/demographicmisconfiguration9359910c6fcf">Demographic Misconfiguration on Facebook live </a>
+| Misconfiguration |<a href="https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf">Demographic Misconfiguration on Facebook live </a>
 
 <a href="https://blog.assetnote.io/2023/02/02/preauthrceasperafaspex/">PreAuth RCE in Aspera Faspex: Case Guide for Auditing Ruby on Rails</a>
 
