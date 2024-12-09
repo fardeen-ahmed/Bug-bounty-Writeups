@@ -588,10 +588,8 @@
 | Prototype Polllution |<a href="https://portswigger.net/research/server-side-prototype-pollution">Server-side prototype pollution: Blackbox detection without the DoS</a>
 | Misconfiguration |<a href="https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf">Demographic Misconfiguration on Facebook live </a>
 | RCE |<a href="https://www.assetnote.io/resources/research/pre-auth-rce-in-aspera-faspex-case-guide-for-auditing-ruby-on-rails">PreAuth RCE in Aspera Faspex: Case Guide for Auditing Ruby on Rails</a>
-
-<a href="https://threatpost.com/valvebugunlimitedfunds/168710/">Critical Valve Bug Lets Gamers Add Unlimited Funds to Steam Wallets</a>
-
-<a href="https://medium.com/@hacxyk/howwespoofedensdomains52acea2079f6">How we spoofed ENS domains for $15k</a>
+| Chained |<a href="https://threatpost.com/valve-bug-unlimited-funds/168710/">Critical Valve Bug Lets Gamers Add Unlimited Funds to Steam Wallets</a>
+| Spoof |<a href="https://medium.com/@hacxyk/how-we-spoofed-ens-domains-52acea2079f6">How we spoofed ENS domains for $15k</a>
 
 <a href="https://hackingthe.cloud/aws/generalknowledge/aws_organizations_defaults/">AWS Organizations Defaults</a>
 
