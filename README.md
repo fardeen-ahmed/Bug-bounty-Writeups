@@ -597,8 +597,7 @@
 | Chained |<a href="https://ysamm.com/?p=629">Enumerate internal cached URLs which lead to data exposure</a>
 | Chained |<a href="https://ysamm.com/?p=625">Open redirect in Instagram.com ($500)</a>
 | Redirect |<a href="https://g0dl3v3l.com/open-redirect-vulnerability-some-common-payloads-fd1dcd73541c">Open Redirect Vulnerability & Some Common Payloads</a>
-
-<a href="https://proviesec.medium.com/brokenlinkhijackingwhatitisandhowtogetbountieswithitca64db6a3f74">Broken Link hijacking — What it is and how to get bounties with it!</a>
+| BLH |<a href="https://proviesec.medium.com/broken-link-hijacking-what-it-is-and-how-to-get-bounties-with-it-ca64db6a3f74">Broken Link hijacking — What it is and how to get bounties with it!</a>
   
 <a href="https://cramppet.github.io/regulator/index.html">A unique method of subdomain enumeration</a>
 
