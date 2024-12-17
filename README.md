@@ -590,7 +590,7 @@
 | RCE |<a href="https://www.assetnote.io/resources/research/pre-auth-rce-in-aspera-faspex-case-guide-for-auditing-ruby-on-rails">PreAuth RCE in Aspera Faspex: Case Guide for Auditing Ruby on Rails</a>
 | Chained |<a href="https://threatpost.com/valve-bug-unlimited-funds/168710/">Critical Valve Bug Lets Gamers Add Unlimited Funds to Steam Wallets</a>
 | Spoof |<a href="https://medium.com/@hacxyk/how-we-spoofed-ens-domains-52acea2079f6">How we spoofed ENS domains for $15k</a>
-| AWS |<a href="https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/">AWS Organizations Defaults</a>
+| Cloud |<a href="https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/">AWS Organizations Defaults</a>
 | Dependency Confusion |<a href="https://hackerone.com/reports/1104874">Basecamp disclosed on HackerOne: Insecure Bundler configuration</a>
 | Chained |<a href="https://notifybugme.medium.com/exploiting-s3-bucket-with-path-folder-to-access-pii-info-of-a-bank-91d8563cb45">Exploiting S3 bucket with path folder to Access PII info of A BANK</a>
 | Chained |<a href="https://z3r0tru5t.medium.com/open-redirect-to-account-takeover-f1405cbdf2d">Open Redirect to Account Takeover</a>  
@@ -599,9 +599,7 @@
 | Redirect |<a href="https://g0dl3v3l.com/open-redirect-vulnerability-some-common-payloads-fd1dcd73541c">Open Redirect Vulnerability & Some Common Payloads</a>
 | BLH |<a href="https://proviesec.medium.com/broken-link-hijacking-what-it-is-and-how-to-get-bounties-with-it-ca64db6a3f74">Broken Link hijacking — What it is and how to get bounties with it!</a>
 | Recon |<a href="https://cramppet.github.io/regulator/index.html">A unique method of subdomain enumeration</a>
-
-
-<a href="https://blog.appsecco.com/exploitingweakconfigurationsingoogleidentityplatformcbddbd0e71e3">Exploiting weak configurations in Google Cloud Identity Platform</a>
+| Cloud |<a href="https://blog.appsecco.com/exploiting-weak-configurations-in-google-identity-platform-cbddbd0e71e3">Exploiting weak configurations in Google Cloud Identity Platform</a>
   
 <a href="https://blog.talosintelligence.com/2022/10/vulnspotlightvcenter.html">VMware vCenter Server Platform Services Controller Unsafe Deserialization vulnerability</a>
 
