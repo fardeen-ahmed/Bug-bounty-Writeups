@@ -591,8 +591,7 @@
 | Chained |<a href="https://threatpost.com/valve-bug-unlimited-funds/168710/">Critical Valve Bug Lets Gamers Add Unlimited Funds to Steam Wallets</a>
 | Spoof |<a href="https://medium.com/@hacxyk/how-we-spoofed-ens-domains-52acea2079f6">How we spoofed ENS domains for $15k</a>
 | AWS |<a href="https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/">AWS Organizations Defaults</a>
-
-<a href="https://hackerone.com/reports/1104874">Basecamp disclosed on HackerOne: Insecure Bundler configuration</a>
+| Dependency Confusion |<a href="https://hackerone.com/reports/1104874">Basecamp disclosed on HackerOne: Insecure Bundler configuration</a>
 
 <a href="https://notifybugme.medium.com/exploitings3bucketwithpathfoldertoaccesspiiinfoofabank91d8563cb45">Exploiting S3 bucket with path folder to Access PII info of A BANK</a>
 
