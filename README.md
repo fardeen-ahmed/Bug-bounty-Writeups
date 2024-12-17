@@ -595,8 +595,7 @@
 | Chained |<a href="https://notifybugme.medium.com/exploiting-s3-bucket-with-path-folder-to-access-pii-info-of-a-bank-91d8563cb45">Exploiting S3 bucket with path folder to Access PII info of A BANK</a>
 | Chained |<a href="https://z3r0tru5t.medium.com/open-redirect-to-account-takeover-f1405cbdf2d">Open Redirect to Account Takeover</a>  
 | Chained |<a href="https://ysamm.com/?p=629">Enumerate internal cached URLs which lead to data exposure</a>
-
-<a href="http://ysamm.com/?p=625">Open redirect in Instagram.com ($500)</a>
+| Chained |<a href="https://ysamm.com/?p=625">Open redirect in Instagram.com ($500)</a>
 
 <a href="https://medium.com/@Bhichher/openredirectvulnerabilitysomecommonpayloadsfd1dcd73541c">Open Redirect Vulnerability & Some Common Payloads</a>
 
