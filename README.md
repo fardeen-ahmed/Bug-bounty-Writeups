@@ -596,8 +596,7 @@
 | Chained |<a href="https://z3r0tru5t.medium.com/open-redirect-to-account-takeover-f1405cbdf2d">Open Redirect to Account Takeover</a>  
 | Chained |<a href="https://ysamm.com/?p=629">Enumerate internal cached URLs which lead to data exposure</a>
 | Chained |<a href="https://ysamm.com/?p=625">Open redirect in Instagram.com ($500)</a>
-
-<a href="https://medium.com/@Bhichher/openredirectvulnerabilitysomecommonpayloadsfd1dcd73541c">Open Redirect Vulnerability & Some Common Payloads</a>
+| Redirect |<a href="https://g0dl3v3l.com/open-redirect-vulnerability-some-common-payloads-fd1dcd73541c">Open Redirect Vulnerability & Some Common Payloads</a>
 
 <a href="https://proviesec.medium.com/brokenlinkhijackingwhatitisandhowtogetbountieswithitca64db6a3f74">Broken Link hijacking — What it is and how to get bounties with it!</a>
   
