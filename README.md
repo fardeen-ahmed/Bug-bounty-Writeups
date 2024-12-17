@@ -600,8 +600,7 @@
 | BLH |<a href="https://proviesec.medium.com/broken-link-hijacking-what-it-is-and-how-to-get-bounties-with-it-ca64db6a3f74">Broken Link hijacking — What it is and how to get bounties with it!</a>
 | Recon |<a href="https://cramppet.github.io/regulator/index.html">A unique method of subdomain enumeration</a>
 | Cloud |<a href="https://blog.appsecco.com/exploiting-weak-configurations-in-google-identity-platform-cbddbd0e71e3">Exploiting weak configurations in Google Cloud Identity Platform</a>
-  
-<a href="https://blog.talosintelligence.com/2022/10/vulnspotlightvcenter.html">VMware vCenter Server Platform Services Controller Unsafe Deserialization vulnerability</a>
+| Deserialization |<a href="https://talosintelligence.com/vulnerability_reports/TALOS-2022-1587">VMware vCenter Server Platform Services Controller Unsafe Deserialization vulnerability</a>
 
 <a href="https://blog.wpsec.com/wordpressxxeinmedialibrarycve202129447/">WordPress XXE Vulnerability in Media Library – CVE202129447 </a>
   
