@@ -601,11 +601,8 @@
 | Recon |<a href="https://cramppet.github.io/regulator/index.html">A unique method of subdomain enumeration</a>
 | Cloud |<a href="https://blog.appsecco.com/exploiting-weak-configurations-in-google-identity-platform-cbddbd0e71e3">Exploiting weak configurations in Google Cloud Identity Platform</a>
 | Deserialization |<a href="https://talosintelligence.com/vulnerability_reports/TALOS-2022-1587">VMware vCenter Server Platform Services Controller Unsafe Deserialization vulnerability</a>
-| XXE |<a href="https://blog.wpsec.com/wordpress-xxe-in-media-library-cve-2021-29447/">WordPress XXE Vulnerability in Media Library – CVE202129447 </a>
-  
-<a href="https://blog.huli.tw/2022/07/11/en/googlectf2022horkoswriteup/">Insecure Deserialization in JavaScript: GoogleCTF 2022 Web/HORKOS Writeup</a>
-
-<a href="https://www.horizon3.ai/veeambackupandreplicationcve202327532deepdive/">Veeam Backup and Replication CVE202327532 Deep Dive</a>
+| CVE |<a href="https://blog.wpsec.com/wordpress-xxe-in-media-library-cve-2021-29447/">WordPress XXE Vulnerability in Media Library – CVE-2021-29447 </a>
+| CVE |<a href="https://www.horizon3.ai/attack-research/attack-blogs/veeam-backup-and-replication-cve-2023-27532-deep-dive">Veeam Backup and Replication CVE-2023-27532 Deep Dive</a>
 
 
 <a href="https://mikekitckchan.medium.com/abriefintroductiontoprototypepollutionb154c23b40c5">A Brief Introduction to Prototype Pollution</a>
