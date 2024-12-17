@@ -598,8 +598,7 @@
 | Chained |<a href="https://ysamm.com/?p=625">Open redirect in Instagram.com ($500)</a>
 | Redirect |<a href="https://g0dl3v3l.com/open-redirect-vulnerability-some-common-payloads-fd1dcd73541c">Open Redirect Vulnerability & Some Common Payloads</a>
 | BLH |<a href="https://proviesec.medium.com/broken-link-hijacking-what-it-is-and-how-to-get-bounties-with-it-ca64db6a3f74">Broken Link hijacking — What it is and how to get bounties with it!</a>
-  
-<a href="https://cramppet.github.io/regulator/index.html">A unique method of subdomain enumeration</a>
+| Recon |<a href="https://cramppet.github.io/regulator/index.html">A unique method of subdomain enumeration</a>
 
 
 <a href="https://blog.appsecco.com/exploitingweakconfigurationsingoogleidentityplatformcbddbd0e71e3">Exploiting weak configurations in Google Cloud Identity Platform</a>
