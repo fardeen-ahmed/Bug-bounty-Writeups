@@ -601,8 +601,7 @@
 | Recon |<a href="https://cramppet.github.io/regulator/index.html">A unique method of subdomain enumeration</a>
 | Cloud |<a href="https://blog.appsecco.com/exploiting-weak-configurations-in-google-identity-platform-cbddbd0e71e3">Exploiting weak configurations in Google Cloud Identity Platform</a>
 | Deserialization |<a href="https://talosintelligence.com/vulnerability_reports/TALOS-2022-1587">VMware vCenter Server Platform Services Controller Unsafe Deserialization vulnerability</a>
-
-<a href="https://blog.wpsec.com/wordpressxxeinmedialibrarycve202129447/">WordPress XXE Vulnerability in Media Library – CVE202129447 </a>
+| XXE |<a href="https://blog.wpsec.com/wordpress-xxe-in-media-library-cve-2021-29447/">WordPress XXE Vulnerability in Media Library – CVE202129447 </a>
   
 <a href="https://blog.huli.tw/2022/07/11/en/googlectf2022horkoswriteup/">Insecure Deserialization in JavaScript: GoogleCTF 2022 Web/HORKOS Writeup</a>
 
