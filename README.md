@@ -592,8 +592,7 @@
 | Spoof |<a href="https://medium.com/@hacxyk/how-we-spoofed-ens-domains-52acea2079f6">How we spoofed ENS domains for $15k</a>
 | AWS |<a href="https://hackingthe.cloud/aws/general-knowledge/aws_organizations_defaults/">AWS Organizations Defaults</a>
 | Dependency Confusion |<a href="https://hackerone.com/reports/1104874">Basecamp disclosed on HackerOne: Insecure Bundler configuration</a>
-
-<a href="https://notifybugme.medium.com/exploitings3bucketwithpathfoldertoaccesspiiinfoofabank91d8563cb45">Exploiting S3 bucket with path folder to Access PII info of A BANK</a>
+| Chained |<a href="https://notifybugme.medium.com/exploiting-s3-bucket-with-path-folder-to-access-pii-info-of-a-bank-91d8563cb45">Exploiting S3 bucket with path folder to Access PII info of A BANK</a>
 
 <a href="https://z3r0tru5t.medium.com/openredirecttoaccounttakeoverf1405cbdf2d">Open Redirect to Account Takeover</a>  
 
