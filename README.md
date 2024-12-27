@@ -611,18 +611,14 @@
 | XXE |<a href="https://rajanagori.medium.com/a-long-story-of-xxe-vulnerability-6a9a33276602">A Long Story of XXE Vulnerability!!</a>
 | Priv Escalation |<a href="https://flatt.tech/reports/210401_pwn2own/">Pwn2Own Local Escalation of Privilege Category</a>
 | RCE |<a href="https://swordbytes.com/blog/security-advisory-overwolf-1-click-remote-code-execution-cve-2021-33501/">Overwolf 1Click Remote Code Execution CVE-2021-33501</a>
+| MFA Bypass |<a href="https://www.varonis.com/blog/box-mfa-bypass-totp">Bypassing Box’s Timebased OneTime Password MFA</a>
+| AWS |<a href="https://securitylabs.datadoghq.com/articles/bypass-cloudtrail-aws-service-catalog-and-other/">Bypassing CloudTrail in AWS Service Catalog, and Other Logging Research</a>
+| ATO |<a href="https://portswigger.net/daily-swig/add-yourself-as-super-admin-researcher-details-easy-to-exploit-bug-that-exposed-gsuite-accounts-to-full-takeover">‘Add yourself as super admin’ – Researcher details easytoexploit bug that exposed GSuite accounts to full takeover</a>
+| Critical |<a href="https://blog.thalium.re/posts/deserialization-bug-through-rdp-smart-card-extension/">Remote Deserialization Bug in Microsoft's RDP Client through Smart Card Extension (CVE202138666) Bounty award: $5,000.</a>
 
-<a href="https://www.varonis.com/blog/boxmfabypasstotp/">Bypassing Box’s Timebased OneTime Password MFA</a>
-
-<a href="https://securitylabs.datadoghq.com/articles/bypasscloudtrailawsservicecatalogandother/">Bypassing CloudTrail in AWS Service Catalog, and Other Logging Research</a>
-
-<a href="https://portswigger.net/dailyswig/addyourselfassuperadminresearcherdetailseasytoexploitbugthatexposedgsuiteaccountstofulltakeover">‘Add yourself as super admin’ – Researcher details easytoexploit bug that exposed GSuite accounts to full takeover</a>
-
-<a href="https://thalium.github.io/blog/posts/deserializationbugthroughrdpsmartcardextension/">Remote Deserialization Bug in Microsoft's RDP Client through Smart Card Extension (CVE202138666) Bounty award: $5,000.</a>
-
-<a href="https://claroty.com/2022/01/10/blogresearchexploitingurlparsingconfusion/">Exploiting URL Parsing Confusion Vulnerabilities</a>
+<a href="https://claroty.com/team82/research/exploiting-url-parsing-confusion">Exploiting URL Parsing Confusion Vulnerabilities</a>
   
-<a href="https://amakki.me/howimade15kfromremotecodeexecutionvulnerability2e1b14b3902a">How i made 15k$ from Remote Code Execution Vulnerability</a>
+<a href="">How i made 15k$ from Remote Code Execution Vulnerability</a>
   
 <a href="https://palisade.consulting/blog/linkhijackingbinancesshortlinksthroughappsflyer">Link hijacking Binance’s shortlinks through AppsFlyer</a>
 
