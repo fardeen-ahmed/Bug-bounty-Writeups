@@ -607,8 +607,7 @@
 | CORS |<a href="https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c">CORS misconfig that worths USD200</a>
 | Insecure Design |<a href="https://hackerone.com/reports/1256375">Blog posts atom feed of a store with password protection can be accessed by anyone</a>
 | Critical |<a href="https://medium.com/immunefi/enzyme-finance-price-oracle-manipulation-bug-fix-postmortem-4e1f3d4201b5">Enzyme Finance Price Oracle Manipulation Bug Fix Postmortem</a>
-  
-<a href="https://labs.withsecure.com/publications/prototypepollutionprimerforpentestersandprogrammers">Prototype Pollution Primer for Pentesters and Programmers </a>
+| Prototype Pollution |<a href="https://labs.withsecure.com/publications/prototype-pollution-primer-for-pentesters-and-programmers">Prototype Pollution Primer for Pentesters and Programmers </a>
   
 <a href="https://rajanagori.medium.com/alongstoryofxxevulnerability6a9a33276602">A Long Story of XXE Vulnerability!!</a>
 
