@@ -604,8 +604,7 @@
 | CVE |<a href="https://blog.wpsec.com/wordpress-xxe-in-media-library-cve-2021-29447/">WordPress XXE Vulnerability in Media Library – CVE-2021-29447 </a>
 | CVE |<a href="https://www.horizon3.ai/attack-research/attack-blogs/veeam-backup-and-replication-cve-2023-27532-deep-dive">Veeam Backup and Replication CVE-2023-27532 Deep Dive</a>
 | Prototype Pollution |<a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">A Brief Introduction to Prototype Pollution</a>
-
-<a href="https://mikekitckchan.medium.com/corsmisconfigthatworthsusd2004696eda5ab4c">CORS misconfig that worths USD200</a>
+| CORS |<a href="https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c">CORS misconfig that worths USD200</a>
 
 <a href="https://hackerone.com/reports/1256375">Blog posts atom feed of a store with password protection can be accessed by anyone</a>
 
