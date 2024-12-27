@@ -609,8 +609,7 @@
 | Critical |<a href="https://medium.com/immunefi/enzyme-finance-price-oracle-manipulation-bug-fix-postmortem-4e1f3d4201b5">Enzyme Finance Price Oracle Manipulation Bug Fix Postmortem</a>
 | Prototype Pollution |<a href="https://labs.withsecure.com/publications/prototype-pollution-primer-for-pentesters-and-programmers">Prototype Pollution Primer for Pentesters and Programmers </a>
 | XXE |<a href="https://rajanagori.medium.com/a-long-story-of-xxe-vulnerability-6a9a33276602">A Long Story of XXE Vulnerability!!</a>
-
-<a href="https://flatt.tech/reports/210401_pwn2own/">Pwn2Own Local Escalation of Privilege Category</a>
+| Priv Escalation |<a href="https://flatt.tech/reports/210401_pwn2own/">Pwn2Own Local Escalation of Privilege Category</a>
   
 <a href="https://swordbytes.com/blog/securityadvisoryoverwolf1clickremotecodeexecutioncve202133501/">Overwolf 1Click Remote Code Execution  CVE202133501</a>
 
