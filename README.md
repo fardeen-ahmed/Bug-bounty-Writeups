@@ -610,8 +610,7 @@
 | Prototype Pollution |<a href="https://labs.withsecure.com/publications/prototype-pollution-primer-for-pentesters-and-programmers">Prototype Pollution Primer for Pentesters and Programmers </a>
 | XXE |<a href="https://rajanagori.medium.com/a-long-story-of-xxe-vulnerability-6a9a33276602">A Long Story of XXE Vulnerability!!</a>
 | Priv Escalation |<a href="https://flatt.tech/reports/210401_pwn2own/">Pwn2Own Local Escalation of Privilege Category</a>
-  
-<a href="https://swordbytes.com/blog/securityadvisoryoverwolf1clickremotecodeexecutioncve202133501/">Overwolf 1Click Remote Code Execution  CVE202133501</a>
+| RCE |<a href="https://swordbytes.com/blog/security-advisory-overwolf-1-click-remote-code-execution-cve-2021-33501/">Overwolf 1Click Remote Code Execution CVE-2021-33501</a>
 
 <a href="https://www.varonis.com/blog/boxmfabypasstotp/">Bypassing Box’s Timebased OneTime Password MFA</a>
 
