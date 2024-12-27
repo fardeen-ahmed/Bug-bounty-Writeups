@@ -603,9 +603,7 @@
 | Deserialization |<a href="https://talosintelligence.com/vulnerability_reports/TALOS-2022-1587">VMware vCenter Server Platform Services Controller Unsafe Deserialization vulnerability</a>
 | CVE |<a href="https://blog.wpsec.com/wordpress-xxe-in-media-library-cve-2021-29447/">WordPress XXE Vulnerability in Media Library – CVE-2021-29447 </a>
 | CVE |<a href="https://www.horizon3.ai/attack-research/attack-blogs/veeam-backup-and-replication-cve-2023-27532-deep-dive">Veeam Backup and Replication CVE-2023-27532 Deep Dive</a>
-
-
-<a href="https://mikekitckchan.medium.com/abriefintroductiontoprototypepollutionb154c23b40c5">A Brief Introduction to Prototype Pollution</a>
+| Prototype Pollution |<a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">A Brief Introduction to Prototype Pollution</a>
 
 <a href="https://mikekitckchan.medium.com/corsmisconfigthatworthsusd2004696eda5ab4c">CORS misconfig that worths USD200</a>
 
