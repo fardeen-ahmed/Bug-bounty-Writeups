@@ -605,10 +605,8 @@
 | CVE |<a href="https://www.horizon3.ai/attack-research/attack-blogs/veeam-backup-and-replication-cve-2023-27532-deep-dive">Veeam Backup and Replication CVE-2023-27532 Deep Dive</a>
 | Prototype Pollution |<a href="https://mikekitckchan.medium.com/a-brief-introduction-to-prototype-pollution-b154c23b40c5">A Brief Introduction to Prototype Pollution</a>
 | CORS |<a href="https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c">CORS misconfig that worths USD200</a>
-
-<a href="https://hackerone.com/reports/1256375">Blog posts atom feed of a store with password protection can be accessed by anyone</a>
-
-<a href="https://medium.com/immunefi/enzymefinancepriceoraclemanipulationbugfixpostmortem4e1f3d4201b5">Enzyme Finance Price Oracle Manipulation Bug Fix Postmortem</a>
+| Insecure Design |<a href="https://hackerone.com/reports/1256375">Blog posts atom feed of a store with password protection can be accessed by anyone</a>
+| Critical |<a href="https://medium.com/immunefi/enzyme-finance-price-oracle-manipulation-bug-fix-postmortem-4e1f3d4201b5">Enzyme Finance Price Oracle Manipulation Bug Fix Postmortem</a>
   
 <a href="https://labs.withsecure.com/publications/prototypepollutionprimerforpentestersandprogrammers">Prototype Pollution Primer for Pentesters and Programmers </a>
   
