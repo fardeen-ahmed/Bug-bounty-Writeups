@@ -620,8 +620,7 @@
 | Domain Takeover |<a href="https://0xelmalky.medium.com/subdomain-takeover-via-flywheel-447a71d77396">Subdomain Takeover Via Flywheel</a>
 | SID |<a href="https://hackerone.com/reports/1087489">Github access token exposure</a>
 | ATO |<a href="https://medium.com/techiepedia/how-i-was-able-to-takeover-any-account-on-foxit-com-7a08efa0144f">How I was able to Takeover Accounts on Foxit.com</a>
-
-<a href="https://blog.infiltrateops.io/hackingappletwosuccessfulexploitsandpositivethoughtsontheirbugbountyprogram963efe7518f6">Hacking Apple: Two Successful Exploits and Positive Thoughts on their Bug Bounty Program</a>
+| Apple |<a href="https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6">Hacking Apple: Two Successful Exploits and Positive Thoughts on their Bug Bounty Program</a>
   
 <a href="https://www.whitesourcesoftware.com/resources/blog/prototypepollutionvulnerabilities/">The Complete Guide to Prototype Pollution Vulnerabilities </a>
   
