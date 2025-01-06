@@ -618,8 +618,7 @@
 | Confusion |<a href="https://claroty.com/team82/research/exploiting-url-parsing-confusion">Exploiting URL Parsing Confusion Vulnerabilities</a>
 | VA |<a href="https://medium.com/@cy1337/vulnerability-analysis-with-ghidra-scripting-ccf416cfa56d">Vulnerability Analysis with Ghidra Scripting</a>
 | Domain Takeover |<a href="https://0xelmalky.medium.com/subdomain-takeover-via-flywheel-447a71d77396">Subdomain Takeover Via Flywheel</a>
-  
-<a href="https://hackerone.com/reports/1087489">Github access token exposure</a>
+| SID |<a href="https://hackerone.com/reports/1087489">Github access token exposure</a>
 
 <a href="https://gonzx.medium.com/howiwasabletotakeoveranyaccountonfoxitcom7a08efa0144f">How I was able to Takeover Accounts on Foxit.com</a>
 
