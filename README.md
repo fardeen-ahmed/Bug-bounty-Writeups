@@ -615,8 +615,7 @@
 | AWS |<a href="https://securitylabs.datadoghq.com/articles/bypass-cloudtrail-aws-service-catalog-and-other/">Bypassing CloudTrail in AWS Service Catalog, and Other Logging Research</a>
 | ATO |<a href="https://portswigger.net/daily-swig/add-yourself-as-super-admin-researcher-details-easy-to-exploit-bug-that-exposed-gsuite-accounts-to-full-takeover">‘Add yourself as super admin’ – Researcher details easytoexploit bug that exposed GSuite accounts to full takeover</a>
 | Critical |<a href="https://blog.thalium.re/posts/deserialization-bug-through-rdp-smart-card-extension/">Remote Deserialization Bug in Microsoft's RDP Client through Smart Card Extension (CVE202138666) Bounty award: $5,000.</a>
-
-<a href="https://claroty.com/team82/research/exploiting-url-parsing-confusion">Exploiting URL Parsing Confusion Vulnerabilities</a>
+| Confusion |<a href="https://claroty.com/team82/research/exploiting-url-parsing-confusion">Exploiting URL Parsing Confusion Vulnerabilities</a>
   
 <a href="">How i made 15k$ from Remote Code Execution Vulnerability</a>
   
