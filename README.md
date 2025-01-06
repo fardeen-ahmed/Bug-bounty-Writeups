@@ -617,10 +617,7 @@
 | Critical |<a href="https://blog.thalium.re/posts/deserialization-bug-through-rdp-smart-card-extension/">Remote Deserialization Bug in Microsoft's RDP Client through Smart Card Extension (CVE202138666) Bounty award: $5,000.</a>
 | Confusion |<a href="https://claroty.com/team82/research/exploiting-url-parsing-confusion">Exploiting URL Parsing Confusion Vulnerabilities</a>
 | VA |<a href="https://medium.com/@cy1337/vulnerability-analysis-with-ghidra-scripting-ccf416cfa56d">Vulnerability Analysis with Ghidra Scripting</a>
-
-<a href="https://security.lauritzholtmann.de/advisories/flickraccounttakeover/">Flickr Account Takeover</a>
-  
-<a href="https://0xelmalky.medium.com/subdomaintakeoverviaflywheel447a71d77396">Subdomain Takeover Via Flywheel</a>
+| Domain Takeover |<a href="https://0xelmalky.medium.com/subdomain-takeover-via-flywheel-447a71d77396">Subdomain Takeover Via Flywheel</a>
   
 <a href="https://hackerone.com/reports/1087489">Github access token exposure</a>
 
