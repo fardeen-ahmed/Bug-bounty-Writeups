@@ -622,12 +622,7 @@
 | ATO |<a href="https://medium.com/techiepedia/how-i-was-able-to-takeover-any-account-on-foxit-com-7a08efa0144f">How I was able to Takeover Accounts on Foxit.com</a>
 | Apple |<a href="https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6">Hacking Apple: Two Successful Exploits and Positive Thoughts on their Bug Bounty Program</a>
 | PP |<a href="https://www.mend.io/blog/prototype-pollution-vulnerabilities/">The Complete Guide to Prototype Pollution Vulnerabilities </a>
-  
-<a href="https://www.zapstiko.com/misconfiguredresetpasswordthatleadstoaccounttakeover/">Misconfigured Reset password that leads to Account Takeover</a>
-  
-<a href="https://sicks3c.medium.com/fromausertoadminaccess9f44ae1dedc0">From A User To Admin Access</a>
-  
-<a href="https://inakcf.medium.com/2fabypassviaforcedbrowsing9e511dfdb8df">2FA Bypass via Forced Browsing</a>
+| Chained |<a href="https://inakcf.medium.com/2fa-bypass-via-forced-browsing-9e511dfdb8df">2FA Bypass via Forced Browsing</a>
   
 <a href="https://sensepost.com/blog/2021/duotwofactorauthenticationbypass/">Duo Twofactor Authentication Bypass</a>
   
