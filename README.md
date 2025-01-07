@@ -625,8 +625,7 @@
 | Chained |<a href="https://inakcf.medium.com/2fa-bypass-via-forced-browsing-9e511dfdb8df">2FA Bypass via Forced Browsing</a>
 | Chained |<a href="https://sensepost.com/blog/2021/duo-two-factor-authentication-bypass/">Duo Twofactor Authentication Bypass</a>
 | Chained |<a href="https://medium.com/@kalvik/account-takeover-a-bonus-vulnerability-3c2dc4e607ea">Account Takeover + A Bonus Vulnerability</a>
-  
-<a href="https://infosecwriteups.com/crosssitewebsockethijackingcswshce2a6b0747fc">CrossSite WebSocket Hijacking (CSWSH)</a>
+| Websocket |<a href="https://infosecwriteups.com/cross-site-websocket-hijacking-cswsh-ce2a6b0747fc">CrossSite WebSocket Hijacking (CSWSH)</a>
   
 
 
