@@ -644,8 +644,7 @@
 | Category | Writeup |
 |-----------|-----|
 | Outdated Package |<a href="https://redcanary.com/blog/testing-and-validation/fuzzing/">Fuzzing Golang msgpack for fun and panic</a>
-
-<a href="https://blog.sonarsource.com/zabbixcasestudyofunsafesessionstorage">Zabbix  A Case Study of Unsafe Session Storage </a>
+| Session |<a href="https://blog.sonarsource.com/zabbix-case-study-of-unsafe-session-storage">Zabbix  A Case Study of Unsafe Session Storage </a>
 
 <a href="https://blog.assetnote.io/2022/02/20/logicflawdynamicwebrce/">Logic Flaw Leading to RCE in Dynamicweb 9.5.0  9.12.7</a>
 
