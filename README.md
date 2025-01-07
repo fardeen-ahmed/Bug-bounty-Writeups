@@ -623,8 +623,7 @@
 | Apple |<a href="https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6">Hacking Apple: Two Successful Exploits and Positive Thoughts on their Bug Bounty Program</a>
 | PP |<a href="https://www.mend.io/blog/prototype-pollution-vulnerabilities/">The Complete Guide to Prototype Pollution Vulnerabilities </a>
 | Chained |<a href="https://inakcf.medium.com/2fa-bypass-via-forced-browsing-9e511dfdb8df">2FA Bypass via Forced Browsing</a>
-  
-<a href="https://sensepost.com/blog/2021/duotwofactorauthenticationbypass/">Duo Twofactor Authentication Bypass</a>
+| Chained |<a href="https://sensepost.com/blog/2021/duo-two-factor-authentication-bypass/">Duo Twofactor Authentication Bypass</a>
   
 <a href="https://blog.niksthehacker.com/accounttakeoversbelievetheunbelievablebb98a0c251a4">Account Takeovers — Believe the Unbelievable</a>
   
