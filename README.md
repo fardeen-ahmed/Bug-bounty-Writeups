@@ -624,10 +624,7 @@
 | PP |<a href="https://www.mend.io/blog/prototype-pollution-vulnerabilities/">The Complete Guide to Prototype Pollution Vulnerabilities </a>
 | Chained |<a href="https://inakcf.medium.com/2fa-bypass-via-forced-browsing-9e511dfdb8df">2FA Bypass via Forced Browsing</a>
 | Chained |<a href="https://sensepost.com/blog/2021/duo-two-factor-authentication-bypass/">Duo Twofactor Authentication Bypass</a>
-  
-<a href="https://blog.niksthehacker.com/accounttakeoversbelievetheunbelievablebb98a0c251a4">Account Takeovers — Believe the Unbelievable</a>
-  
-<a href="https://medium.com/@kalvik/accounttakeoverabonusvulnerability3c2dc4e607ea">Account Takeover + A Bonus Vulnerability</a>
+| Chained |<a href="https://medium.com/@kalvik/account-takeover-a-bonus-vulnerability-3c2dc4e607ea">Account Takeover + A Bonus Vulnerability</a>
   
 <a href="https://infosecwriteups.com/crosssitewebsockethijackingcswshce2a6b0747fc">CrossSite WebSocket Hijacking (CSWSH)</a>
   
