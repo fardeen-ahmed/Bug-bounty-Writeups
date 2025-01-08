@@ -646,8 +646,7 @@
 | Outdated Package |<a href="https://redcanary.com/blog/testing-and-validation/fuzzing/">Fuzzing Golang msgpack for fun and panic</a>
 | Session |<a href="https://blog.sonarsource.com/zabbix-case-study-of-unsafe-session-storage">Zabbix  A Case Study of Unsafe Session Storage </a>
 | CVE |<a href="https://github.com/hakivvi/CVE-2022-29464">WSO2 RCE (CVE202229464) exploit and writeup</a>
-  
-<a href="https://boschko.ca/tenda_ac1200_router/">Vulnerabilities in Tenda's W15Ev2 AC1200 Router</a>
+| Wireless |<a href="https://boschko.ca/tenda_ac1200_router/">Vulnerabilities in Tenda's W15Ev2 AC1200 Router</a>
 
 <a href="https://googleprojectzero.blogspot.com/2022/12/exploitingCVE202242703bringingbackthestackattack.html">Exploiting CVE202242703  Bringing back the stack attack</a>
 
