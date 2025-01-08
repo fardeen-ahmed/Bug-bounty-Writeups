@@ -645,12 +645,7 @@
 |-----------|-----|
 | Outdated Package |<a href="https://redcanary.com/blog/testing-and-validation/fuzzing/">Fuzzing Golang msgpack for fun and panic</a>
 | Session |<a href="https://blog.sonarsource.com/zabbix-case-study-of-unsafe-session-storage">Zabbix  A Case Study of Unsafe Session Storage </a>
-
-<a href="https://blog.assetnote.io/2022/02/20/logicflawdynamicwebrce/">Logic Flaw Leading to RCE in Dynamicweb 9.5.0  9.12.7</a>
-
-<a href="https://www.cyberkl.com/cvelist/cvedetail/24">Writeup for an iOS 15 exploit that can achieve kernel</a>
-  
-<a href="https://github.com/hakivvi/CVE202229464">WSO2 RCE (CVE202229464) exploit and writeup</a>
+| CVE |<a href="https://github.com/hakivvi/CVE-2022-29464">WSO2 RCE (CVE202229464) exploit and writeup</a>
   
 <a href="https://boschko.ca/tenda_ac1200_router/">Vulnerabilities in Tenda's W15Ev2 AC1200 Router</a>
 
