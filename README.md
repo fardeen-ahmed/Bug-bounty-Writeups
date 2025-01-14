@@ -662,8 +662,7 @@
 | BAC |<a href="https://systemweakness.com/broken-authentication-login-with-google-b170fbb4b6d0">Broken Authentication Login With Google</a>
 | IAM |<a href="https://hackerone.com/reports/1552110">OAUTH2 bearer notchecked for connection reuse</a>
 | Bypass |<a href="https://vaibhavgaikwad1712.medium.com/2fa-bypass-using-response-manipulation-29d6c2583936">2fa Bypass Using Response Manipulation</a>
-
-<a href="https://bilalabdulmuqeet.medium.com/bruteforcingotpviabypassingratelimitc5ee6b25c2a8">OTP bruteforce via rate limit bypass</a>
+| OTP Bypass |<a href="https://systemweakness.com/brute-forcing-otp-via-bypassing-rate-limit-c5ee6b25c2a8">OTP bruteforce via rate limit bypass</a>
 
 <a href="https://anugrahsr.github.io/posts/10Passwordresetflaws/">10 Password Reset Flaws</a>
 
