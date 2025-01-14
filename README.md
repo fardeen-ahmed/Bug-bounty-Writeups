@@ -657,10 +657,7 @@
 | Category | Writeup |
 |-----------|-----|
 | IAM | <a href="https://hackerone.com/reports/921780">Improper Authentication  any user can login as other user with otp/logout & otp/login</a>
-
-<a href="https://medium.com/@TutorialBoy24/asummaryofoauth20attackmethods36834805c631">A Summary of OAuth 2.0 Attack Methods</a>
-  
-<a href="https://medium.com/@elsherifx00/howtotestforjwtattacks513da89abe94">How to test for JWT attacks</a>
+| JWT |<a href="https://systemweakness.com/how-to-test-for-jwt-attacks-513da89abe94">How to test for JWT attacks</a>
 
 <a href="https://rammk01.medium.com/bypassedthesubscriptionandgotthecertification27c571c2f383">Bypassed the subscription and got the certification</a>
   
