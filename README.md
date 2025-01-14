@@ -661,8 +661,7 @@
 | Insecure Design |<a href="https://infosecwriteups.com/bypassed-the-subscription-and-got-the-certification-27c571c2f383">Bypassed the subscription and got the certification</a>
 | BAC |<a href="https://systemweakness.com/broken-authentication-login-with-google-b170fbb4b6d0">Broken Authentication Login With Google</a>
 | IAM |<a href="https://hackerone.com/reports/1552110">OAUTH2 bearer notchecked for connection reuse</a>
-
-<a href="https://vaibhavgaikwad1712.medium.com/2fabypassusingresponsemanipulation29d6c2583936">2fa Bypass Using Response Manipulation</a>
+| Bypass |<a href="https://vaibhavgaikwad1712.medium.com/2fa-bypass-using-response-manipulation-29d6c2583936">2fa Bypass Using Response Manipulation</a>
 
 <a href="https://bilalabdulmuqeet.medium.com/bruteforcingotpviabypassingratelimitc5ee6b25c2a8">OTP bruteforce via rate limit bypass</a>
 
