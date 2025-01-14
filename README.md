@@ -660,10 +660,7 @@
 | JWT |<a href="https://systemweakness.com/how-to-test-for-jwt-attacks-513da89abe94">How to test for JWT attacks</a>
 | Insecure Design |<a href="https://infosecwriteups.com/bypassed-the-subscription-and-got-the-certification-27c571c2f383">Bypassed the subscription and got the certification</a>
 | BAC |<a href="https://systemweakness.com/broken-authentication-login-with-google-b170fbb4b6d0">Broken Authentication Login With Google</a>
-
-<a href="https://portswigger.net/dailyswig/securityresearcherfindsdangerousbuginchromiumnabs15000bounty">Security researcher finds dangerous bug in Chromium, nabs $15,000 bounty</a>
-  
-<a href="https://hackerone.com/reports/1552110">OAUTH2 bearer notchecked for connection reuse</a>
+| IAM |<a href="https://hackerone.com/reports/1552110">OAUTH2 bearer notchecked for connection reuse</a>
 
 <a href="https://vaibhavgaikwad1712.medium.com/2fabypassusingresponsemanipulation29d6c2583936">2fa Bypass Using Response Manipulation</a>
 
