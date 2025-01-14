@@ -654,7 +654,9 @@
 
 ## Identification and Authentication Issues / Bugs
 
-<a href="https://hackerone.com/reports/921780">Improper Authentication  any user can login as other user with otp/logout & otp/login</a>
+| Category | Writeup |
+|-----------|-----|
+| IAM | <a href="https://hackerone.com/reports/921780">Improper Authentication  any user can login as other user with otp/logout & otp/login</a>
 
 <a href="https://medium.com/@TutorialBoy24/asummaryofoauth20attackmethods36834805c631">A Summary of OAuth 2.0 Attack Methods</a>
   
