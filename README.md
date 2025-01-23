@@ -663,8 +663,7 @@
 | IAM |<a href="https://hackerone.com/reports/1552110">OAUTH2 bearer notchecked for connection reuse</a>
 | Bypass |<a href="https://vaibhavgaikwad1712.medium.com/2fa-bypass-using-response-manipulation-29d6c2583936">2fa Bypass Using Response Manipulation</a>
 | OTP Bypass |<a href="https://systemweakness.com/brute-forcing-otp-via-bypassing-rate-limit-c5ee6b25c2a8">OTP bruteforce via rate limit bypass</a>
-
-<a href="https://anugrahsr.github.io/posts/10Passwordresetflaws/">10 Password Reset Flaws</a>
+| Password Flaw |<a href="https://anugrahsr.github.io/posts/10-Password-reset-flaws/">10 Password Reset Flaws</a>
 
 <a href="https://hackerone.com/reports/1245762">Account Takeover via SMS Authentication Flow</a>
 
