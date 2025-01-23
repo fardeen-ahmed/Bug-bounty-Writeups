@@ -668,8 +668,7 @@
 | Bypass |<a href="https://aravind07.medium.com/bypassing-login-page-in-2-mins-5b773d46f4d">Bypassing Login Page in 2 Mins</a>
 | RCE |<a href="https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/">PreAuth RCE in Moodle Part I  PHP Object Injection in Shibboleth Module</a>
 | RCE |<a href="https://haxolot.com/posts/2022/moodle_pre_auth_shibboleth_rce_part2/">PreAuth RCE in Moodle Part II  Session Hijack in Moodle's Shibboleth</a>
-
-<a href="https://newrouge.medium.com/webcachepoisoningataleofchainingunkeyedinputs6e3cb026bd23">Web Cache Poisoning: A Tale of chaining unkeyed inputs</a>
+| Web-Cache |<a href="https://infosecwriteups.com/web-cache-poisoning-a-tale-of-chaining-unkeyed-inputs-6e3cb026bd23">Web Cache Poisoning: A Tale of chaining unkeyed inputs</a>
 
 <a href="https://medium.com/@sajan.dhakate/exploitingjsonwebtokenjwt73d172b5bc02">EXPLOITING JSON WEB TOKEN [JWT]</a>
 
