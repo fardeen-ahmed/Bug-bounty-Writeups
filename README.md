@@ -665,8 +665,7 @@
 | OTP Bypass |<a href="https://systemweakness.com/brute-forcing-otp-via-bypassing-rate-limit-c5ee6b25c2a8">OTP bruteforce via rate limit bypass</a>
 | Password Flaw |<a href="https://anugrahsr.github.io/posts/10-Password-reset-flaws/">10 Password Reset Flaws</a>
 | Chained |<a href="https://hackerone.com/reports/1245762">Account Takeover via SMS Authentication Flow</a>
-
-<a href="https://aravind07.medium.com/bypassingloginpagein2mins5b773d46f4d">Bypassing Login Page in 2 Mins</a>
+| Bypass |<a href="https://aravind07.medium.com/bypassing-login-page-in-2-mins-5b773d46f4d">Bypassing Login Page in 2 Mins</a>
 
 <a href="https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/">PreAuth RCE in Moodle Part I  PHP Object Injection in Shibboleth Module</a>
 
