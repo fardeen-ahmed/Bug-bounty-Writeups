@@ -385,8 +385,6 @@
 
 
 
-
-
 ## Cryptographic Issues / Bugs
 
 | Category | Writeup |
@@ -487,8 +485,6 @@
   
 
 
-
-
 ## Insecure Design 
 
 | Category | Writeup |
@@ -533,8 +529,6 @@
 | Shift-Left Abuse |<a href="https://hackerone.com/reports/170552">Slack integration setup lacks CSRF protection</a>
 | RCE |<a href="https://hackerone.com/reports/1065500">Multiple bugs leads to RCE on TikTok for Android</a>
 | SID |<a href="http://ysamm.com/?p=627">Leaking Facebook user information to external websites ($2000)</a>
-
-
 
 
 ## Security Misconfiguration
@@ -629,16 +623,6 @@
   
 
 
-
-
-
-
-
-
-
-
-
-
 ## Vulnerable and Outdated Components
 
 | Category | Writeup |
@@ -677,18 +661,6 @@
 | Chained |<a href="https://blog.dixitaditya.com/oauth-account-takeover">Exploiting OAuth: Journey to Account Takeover </a>
 | Chained |<a href="https://infosecwriteups.com/a-tale-of-0-click-account-takeover-and-2fa-bypass-b369cd70e42f">A tale of 0Click Account Takeover and 2FA Bypass</a>
 | Cache Poisoning |<a href="https://youst.in/posts/cache-poisoning-at-scale/">Cache Poisoning at Scale</a>
-  
-<a href="https://blog.dixitaditya.com/2021/11/19/accounttakeoverchain.html">Exploiting OAuth: Journey to Account Takeover</a>
-  
-<a href="https://www.youtube.com/watch?v=Fzx7OWZId6U">Account Takeover using OAuth Misconfiguration | Badoo Bug Bounty $300</a>
-  
-
-  
-
-
-
-
-
 
 
 ## Software and Data Integrity Failure
@@ -720,7 +692,6 @@
 <a href="https://portswigger.net/dailyswig/vulnerabilityinawsappsyncallowedunauthorizedaccesstocloudresources">Vulnerability in AWS AppSync allowed unauthorized access to cloud resources</a>
 
 <a href="https://blog.lightspin.io/awsecrpublicvulnerability">AWS ECR Public Vulnerability</a>
-
   
 <a href="https://portswigger.net/dailyswig/melisplatformcmspatchedforcriticalrceflaw">Melis Platform CMS patched for critical RCE flaw</a>
 
