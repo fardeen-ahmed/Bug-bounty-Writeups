@@ -676,8 +676,7 @@
 | Rate Limit |<a href="https://4bdoz.medium.com/trick-to-bypass-rate-limit-of-password-reset-functionality-a9923d3d7c4b">Trick to bypass rate limit of password reset functionality</a>
 | Chained |<a href="https://blog.dixitaditya.com/oauth-account-takeover">Exploiting OAuth: Journey to Account Takeover </a>
 | Chained |<a href="https://infosecwriteups.com/a-tale-of-0-click-account-takeover-and-2fa-bypass-b369cd70e42f">A tale of 0Click Account Takeover and 2FA Bypass</a>
-  
-<a href="https://youst.in/posts/cachepoisoningatscale/">Cache Poisoning at Scale</a>
+| Cache Poisoning |<a href="https://youst.in/posts/cache-poisoning-at-scale/">Cache Poisoning at Scale</a>
   
 <a href="https://blog.dixitaditya.com/2021/11/19/accounttakeoverchain.html">Exploiting OAuth: Journey to Account Takeover</a>
   
