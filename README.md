@@ -672,8 +672,7 @@
 | JWT |<a href="https://medium.com/@sajan.dhakate/exploiting-json-web-token-jwt-73d172b5bc02">EXPLOITING JSON WEB TOKEN [JWT]</a>
 | RCE |<a href="https://www.onekey.com/resource/security-advisory-remote-command-execution-in-binwalk">Security Advisory: Remote Command Execution in binwalk</a>
 | OAuth |<a href="https://infosecwriteups.com/oauth-2-0-hacking-67e5d2b9b495">OAuth 2.0 Hacking</a>
-
-<a href="https://thehackernews.com/2022/01/researchersbypasssmsbasedmulti.html">Researchers Bypass SMSbased MultiFactor Authentication Protecting Box Accounts</a>
+| Bypass |<a href="https://thehackernews.com/2022/01/researchers-bypass-sms-based-multi.html">Researchers Bypass SMSbased MultiFactor Authentication Protecting Box Accounts</a>
 
 <a href="https://4bdoz.medium.com/tricktobypassratelimitofpasswordresetfunctionalitya9923d3d7c4b">Trick to bypass rate limit of password reset functionality</a>
   
