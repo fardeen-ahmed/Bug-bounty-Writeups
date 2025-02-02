@@ -673,8 +673,7 @@
 | RCE |<a href="https://www.onekey.com/resource/security-advisory-remote-command-execution-in-binwalk">Security Advisory: Remote Command Execution in binwalk</a>
 | OAuth |<a href="https://infosecwriteups.com/oauth-2-0-hacking-67e5d2b9b495">OAuth 2.0 Hacking</a>
 | Bypass |<a href="https://thehackernews.com/2022/01/researchers-bypass-sms-based-multi.html">Researchers Bypass SMSbased MultiFactor Authentication Protecting Box Accounts</a>
-
-<a href="https://4bdoz.medium.com/tricktobypassratelimitofpasswordresetfunctionalitya9923d3d7c4b">Trick to bypass rate limit of password reset functionality</a>
+| Rate Limit |<a href="https://4bdoz.medium.com/trick-to-bypass-rate-limit-of-password-reset-functionality-a9923d3d7c4b">Trick to bypass rate limit of password reset functionality</a>
   
 <a href="https://blog.dixitaditya.com/2021/11/19/accounttakeoverchain.html">Exploiting OAuth: Journey to Account Takeover </a>
   
