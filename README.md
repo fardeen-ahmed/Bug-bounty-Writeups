@@ -674,8 +674,7 @@
 | OAuth |<a href="https://infosecwriteups.com/oauth-2-0-hacking-67e5d2b9b495">OAuth 2.0 Hacking</a>
 | Bypass |<a href="https://thehackernews.com/2022/01/researchers-bypass-sms-based-multi.html">Researchers Bypass SMSbased MultiFactor Authentication Protecting Box Accounts</a>
 | Rate Limit |<a href="https://4bdoz.medium.com/trick-to-bypass-rate-limit-of-password-reset-functionality-a9923d3d7c4b">Trick to bypass rate limit of password reset functionality</a>
-  
-<a href="https://blog.dixitaditya.com/2021/11/19/accounttakeoverchain.html">Exploiting OAuth: Journey to Account Takeover </a>
+| Chained |<a href="https://blog.dixitaditya.com/oauth-account-takeover">Exploiting OAuth: Journey to Account Takeover </a>
   
 <a href="https://medium.com/@fatnassifiras45/ataleof0clickaccounttakeoverand2fabypassb369cd70e42f">A tale of 0Click Account Takeover and 2FA Bypass</a>
   
