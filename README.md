@@ -687,7 +687,7 @@
 ## Security Logging and Monitoring
 | Category | Writeup |
 |-----------|-----|  
-| JQT Secret |<a href="https://ssd-disclosure.com/ssd-advisory-cisco-secure-manager-appliance-jwt_api_impl-hardcoded-jwt-secret-elevation-of-privilege/">SSD Advisory – Cisco Secure Manager Appliance jwt_api_impl Hardcoded JWT Secret Elevation of Privilege</a>
+| JWT Secret |<a href="https://ssd-disclosure.com/ssd-advisory-cisco-secure-manager-appliance-jwt_api_impl-hardcoded-jwt-secret-elevation-of-privilege/">SSD Advisory – Cisco Secure Manager Appliance jwt_api_impl Hardcoded JWT Secret Elevation of Privilege</a>
 | Log Recon |<a href="https://beny23.github.io/posts/harvesting_logs_for_fun_and_profit/">Harvesting Logs for Fun and Profit</a>
 
   
