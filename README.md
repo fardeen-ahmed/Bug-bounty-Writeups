@@ -672,10 +672,7 @@
 | SAML |<a href="https://tutorialboy24.blogspot.com/2022/11/a-brief-introduction-to-saml-security.html">A Brief Introduction to SAML Security Vector</a>
 | Integration failure |<a href="https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md">Hacking Google Drive Integrations</a> 
 | Dependency Confusion |<a href="https://dhiyaneshgeek.github.io/web/security/2021/09/04/dependency-confusion/">Dependency Confusion</a>
-
-<a href="https://hacksys.io/blogs/adobereaderresetformcaggrcecve202321608">Adobe Acrobat Reader  resetForm  CAgg UaF  RCE Exploit  CVE202321608</a>
-
-<a href="https://medium.com/@bababounty99/raceconditionresultedinusingthefeaturewhichwassupposedtobeobtainedaftersubscription2bfe968d358c">Race Condition — Resulted in using the feature which was supposed to be obtained after subscription.</a>
+| Race Condition |<a href="https://medium.com/@bababounty99/race-condition-resulted-in-using-the-feature-which-was-supposed-to-be-obtained-after-subscription-2bfe968d358c">Race Condition — Resulted in using the feature which was supposed to be obtained after subscription.</a>
   
 <a href="https://medium.com/@shabarkin/1clickrceinelectronapplications79b52e1fe8b8">1click RCE in Electron Applications</a>
 
