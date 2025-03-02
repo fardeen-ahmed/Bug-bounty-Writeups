@@ -665,7 +665,7 @@
 
 ## Software and Data Integrity Failure
 
-<a href="https://blog.dixitaditya.com/pwningaserverusingmarkdown">Pwning a Server using Markdown</a>
+| Software failure |<a href="https://blog.dixitaditya.com/pwning-a-server-using-markdown">Pwning a Server using Markdown</a>
 
 <a href="https://hackerone.com/reports/1596663">Admin can create a hidden admin account which even the owner can not detect and remove and do administrative actions on the application.</a>
 
