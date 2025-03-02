@@ -674,8 +674,7 @@
 | Dependency Confusion |<a href="https://dhiyaneshgeek.github.io/web/security/2021/09/04/dependency-confusion/">Dependency Confusion</a>
 | Race Condition |<a href="https://medium.com/@bababounty99/race-condition-resulted-in-using-the-feature-which-was-supposed-to-be-obtained-after-subscription-2bfe968d358c">Race Condition — Resulted in using the feature which was supposed to be obtained after subscription.</a>
 | RCE |<a href="https://shabarkin.medium.com/1-click-rce-in-electron-applications-79b52e1fe8b8">1click RCE in Electron Applications</a>
-
-<a href="https://medium.com/@jacopotediosi/worldwideserversidecachepoisoningonallakamaiedgenodes50kbountyearnedf97d80f3922b">Worldwide Serverside Cache Poisoning on All Akamai Edge Nodes ($50K+ Bounty Earned)</a> 
+| SSCP |<a href="https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b">Worldwide Serverside Cache Poisoning on All Akamai Edge Nodes ($50K+ Bounty Earned)</a> 
   
 <a href="https://securitylabs.datadoghq.com/articles/appsyncvulnerabilitydisclosure/">A Confused Deputy Vulnerability in AWS AppSync</a>
   
