@@ -670,8 +670,7 @@
 | XSS |<a href="https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0">How I found a bug in Apple within just in 5min</a>
 | Hypervisor |<a href="https://blog.impalabs.com/2212_advisory_huawei-security-hypervisor.html">Huawei Security Hypervisor Vulnerability</a>
 | SAML |<a href="https://tutorialboy24.blogspot.com/2022/11/a-brief-introduction-to-saml-security.html">A Brief Introduction to SAML Security Vector</a>
-
-<a href="https://github.com/httpvoid/writeups/blob/main/HackingGoogleDriveIntegrations.md">Hacking Google Drive Integrations</a>
+| Integration failure |<a href="https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md">Hacking Google Drive Integrations</a>
 
 <a href="https://dhiyaneshgeek.github.io/web/security/2021/09/04/dependencyconfusion/">Dependency Confusion</a>
 
