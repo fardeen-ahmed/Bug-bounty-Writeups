@@ -668,8 +668,7 @@
 | Software failure |<a href="https://blog.dixitaditya.com/pwning-a-server-using-markdown">Pwning a Server using Markdown</a>
 | Software failure |<a href="https://hackerone.com/reports/1596663">Admin can create a hidden admin account which even the owner can not detect and remove and do administrative actions on the application.</a>
 | XSS |<a href="https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0">How I found a bug in Apple within just in 5min</a>
-  
-<a href="https://blog.impalabs.com/2212_advisory_huaweisecurityhypervisor.html">Huawei Security Hypervisor Vulnerability</a>
+| Hypervisor |<a href="https://blog.impalabs.com/2212_advisory_huawei-security-hypervisor.html">Huawei Security Hypervisor Vulnerability</a>
   
 <a href="https://tutorialboy24.blogspot.com/2022/11/abriefintroductiontosamlsecurity.html">A Brief Introduction to SAML Security Vector</a>
 
