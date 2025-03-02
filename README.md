@@ -684,7 +684,7 @@
 
 ## Security Logging and Monitoring
   
-<a href="https://ssddisclosure.com/ssdadvisoryciscosecuremanagerappliancejwt_api_implhardcodedjwtsecretelevationofprivilege/">SSD Advisory – Cisco Secure Manager Appliance jwt_api_impl Hardcoded JWT Secret Elevation of Privilege</a>
+| JQT Secret |<a href="https://ssd-disclosure.com/ssd-advisory-cisco-secure-manager-appliance-jwt_api_impl-hardcoded-jwt-secret-elevation-of-privilege/">SSD Advisory – Cisco Secure Manager Appliance jwt_api_impl Hardcoded JWT Secret Elevation of Privilege</a>
 
 <a href="https://beny23.github.io/posts/harvesting_logs_for_fun_and_profit/">Harvesting Logs for Fun and Profit</a>
 
