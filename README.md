@@ -677,10 +677,7 @@
 | SSCP |<a href="https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b">Worldwide Serverside Cache Poisoning on All Akamai Edge Nodes ($50K+ Bounty Earned)</a> 
 | AWS |<a href="https://securitylabs.datadoghq.com/articles/appsync-vulnerability-disclosure/">A Confused Deputy Vulnerability in AWS AppSync</a>
 | AWS |<a href="https://portswigger.net/daily-swig/vulnerability-in-aws-appsync-allowed-unauthorized-access-to-cloud-resources">Vulnerability in AWS AppSync allowed unauthorized access to cloud resources</a>
-
-<a href="https://blog.lightspin.io/awsecrpublicvulnerability">AWS ECR Public Vulnerability</a>
-  
-<a href="https://portswigger.net/dailyswig/melisplatformcmspatchedforcriticalrceflaw">Melis Platform CMS patched for critical RCE flaw</a>
+| CMS |<a href="https://portswigger.net/daily-swig/melis-platform-cms-patched-for-critical-rce-flaw">Melis Platform CMS patched for critical RCE flaw</a>
 
 
 
