@@ -673,8 +673,7 @@
 | Integration failure |<a href="https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md">Hacking Google Drive Integrations</a> 
 | Dependency Confusion |<a href="https://dhiyaneshgeek.github.io/web/security/2021/09/04/dependency-confusion/">Dependency Confusion</a>
 | Race Condition |<a href="https://medium.com/@bababounty99/race-condition-resulted-in-using-the-feature-which-was-supposed-to-be-obtained-after-subscription-2bfe968d358c">Race Condition — Resulted in using the feature which was supposed to be obtained after subscription.</a>
-  
-<a href="https://medium.com/@shabarkin/1clickrceinelectronapplications79b52e1fe8b8">1click RCE in Electron Applications</a>
+| RCE |<a href="https://shabarkin.medium.com/1-click-rce-in-electron-applications-79b52e1fe8b8">1click RCE in Electron Applications</a>
 
 <a href="https://medium.com/@jacopotediosi/worldwideserversidecachepoisoningonallakamaiedgenodes50kbountyearnedf97d80f3922b">Worldwide Serverside Cache Poisoning on All Akamai Edge Nodes ($50K+ Bounty Earned)</a> 
   
