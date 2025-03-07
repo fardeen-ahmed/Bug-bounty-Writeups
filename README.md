@@ -701,10 +701,7 @@
 | File-based SSRF |<a href="https://hackerone.com/reports/1092230">FogBugz import attachment full SSRF requiring vulnerability </a>
 | Blind SSRF |<a href="https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/#confluence">A Glossary of Blind SSRF Chains</a>
 | Recon SSRF |<a href="https://labs.detectify.com/security-guidance/ssrf-vulnerabilities-and-where-to-find-them/">SSRF vulnerabilities and where to find them</a>
-
-<a href="https://hoyahaxa.blogspot.com/2021/04/ssrfincoldfusioncfmltagsand.html">SSRF in ColdFusion/CFML Tags and Functions</a>
-
-<a href="https://blog.assetnote.io/2022/01/17/workspaceoneaccessssrf/">Stealing administrative JWT's through post auth SSRF (CVE202122056)</a>
+| Chained |<a href="https://www.assetnote.io/resources/research/stealing-administrative-jwts-through-post-auth-ssrf-cve-2021-22056">Stealing administrative JWT's through post auth SSRF (CVE-2021-22056)</a>
 
 <a href="https://pwn.vg/articles/202105/ssrfinpdfrendererusingsvg">SSRF in PDF Renderer using SVG</a>
 
