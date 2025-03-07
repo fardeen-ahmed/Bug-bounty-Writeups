@@ -699,8 +699,7 @@
 | Bypass SSRF |<a href="https://blog.deesee.xyz/fuzzing/security/2021/02/26/ssrf-bypassing-hostname-restrictions-fuzzing.html">SSRF: Bypassing hostname restrictions with fuzzing</a>
 | Chained |<a href="https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530">Just Gopher It: Escalating a Blind SSRF to RCE for $15k</a>
 | File-based SSRF |<a href="https://hackerone.com/reports/1092230">FogBugz import attachment full SSRF requiring vulnerability </a>
-
-<a href="https://twitter.com/infosec_au/status/1434328794861432834">Updated the Blind SSRF Glossary for a list of payloads that call back to an SSRF canary for the Confluence OGNL injection RCE</a>
+| Blind SSRF |<a href="https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/#confluence">A Glossary of Blind SSRF Chains</a>
   
 <a href="https://labs.detectify.com/2022/09/23/ssrfvulnsandwheretofindthem/">SSRF vulnerabilities and where to find them</a>
 
