@@ -693,8 +693,9 @@
   
   
 ## Server Side Request Forgery
-
-<a href="https://bugs.xdavidhu.me/google/2021/12/31/fixingtheunfixablestoryofagooglecloudssrf/">Story of a Google Cloud SSRF</a>
+| Category | Writeup |
+|-----------|-----| 
+| SSRF |<a href="https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/">Story of a Google Cloud SSRF</a>
 
 <a href="https://blog.deesee.xyz/fuzzing/security/2021/02/26/ssrfbypassinghostnamerestrictionsfuzzing.html">SSRF: Bypassing hostname restrictions with fuzzing</a>
 
