@@ -702,10 +702,7 @@
 | Blind SSRF |<a href="https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/#confluence">A Glossary of Blind SSRF Chains</a>
 | Recon SSRF |<a href="https://labs.detectify.com/security-guidance/ssrf-vulnerabilities-and-where-to-find-them/">SSRF vulnerabilities and where to find them</a>
 | Chained |<a href="https://www.assetnote.io/resources/research/stealing-administrative-jwts-through-post-auth-ssrf-cve-2021-22056">Stealing administrative JWT's through post auth SSRF (CVE-2021-22056)</a>
-
-<a href="https://pwn.vg/articles/202105/ssrfinpdfrendererusingsvg">SSRF in PDF Renderer using SVG</a>
-
-<a href="https://blog.assetnote.io/2021/12/26/chainedssrfwebsphere/">Turning bad SSRF to good SSRF: Websphere Portal</a>
+| SSRF |<a href="https://www.assetnote.io/resources/research/turning-bad-ssrf-to-good-ssrf-websphere-portal-cve-2021-27748">Turning bad SSRF to good SSRF: Websphere Portal</a>
 
 <a href="https://hackerone.com/reports/941178">SSRF for kubeapiserver cloudprovider scene</a>
 
