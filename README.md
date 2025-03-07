@@ -700,8 +700,7 @@
 | Chained |<a href="https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530">Just Gopher It: Escalating a Blind SSRF to RCE for $15k</a>
 | File-based SSRF |<a href="https://hackerone.com/reports/1092230">FogBugz import attachment full SSRF requiring vulnerability </a>
 | Blind SSRF |<a href="https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/#confluence">A Glossary of Blind SSRF Chains</a>
-  
-<a href="https://labs.detectify.com/2022/09/23/ssrfvulnsandwheretofindthem/">SSRF vulnerabilities and where to find them</a>
+| Recon SSRF |<a href="https://labs.detectify.com/security-guidance/ssrf-vulnerabilities-and-where-to-find-them/">SSRF vulnerabilities and where to find them</a>
 
 <a href="https://hoyahaxa.blogspot.com/2021/04/ssrfincoldfusioncfmltagsand.html">SSRF in ColdFusion/CFML Tags and Functions</a>
 
