@@ -695,9 +695,8 @@
 ## Server Side Request Forgery
 | Category | Writeup |
 |-----------|-----| 
-| SSRF |<a href="https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/">Story of a Google Cloud SSRF</a>
-
-<a href="https://blog.deesee.xyz/fuzzing/security/2021/02/26/ssrfbypassinghostnamerestrictionsfuzzing.html">SSRF: Bypassing hostname restrictions with fuzzing</a>
+| Cloud SSRF |<a href="https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/">Story of a Google Cloud SSRF</a>
+| Bypass SSRF |<a href="https://blog.deesee.xyz/fuzzing/security/2021/02/26/ssrf-bypassing-hostname-restrictions-fuzzing.html">SSRF: Bypassing hostname restrictions with fuzzing</a>
 
 <a href="https://sirleeroyjenkins.medium.com/justgopheritescalatingablindssrftorcefor15kf5329a974530">Just Gopher It: Escalating a Blind SSRF to RCE for $15k</a>
 
