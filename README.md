@@ -703,8 +703,7 @@
 | Recon SSRF |<a href="https://labs.detectify.com/security-guidance/ssrf-vulnerabilities-and-where-to-find-them/">SSRF vulnerabilities and where to find them</a>
 | Chained |<a href="https://www.assetnote.io/resources/research/stealing-administrative-jwts-through-post-auth-ssrf-cve-2021-22056">Stealing administrative JWT's through post auth SSRF (CVE-2021-22056)</a>
 | SSRF |<a href="https://www.assetnote.io/resources/research/turning-bad-ssrf-to-good-ssrf-websphere-portal-cve-2021-27748">Turning bad SSRF to good SSRF: Websphere Portal</a>
-
-<a href="https://hackerone.com/reports/941178">SSRF for kubeapiserver cloudprovider scene</a>
+| SSRF |<a href="https://hackerone.com/reports/941178">SSRF for kubeapiserver cloudprovider scene</a>
 
 <a href="https://hackerone.com/reports/1189367">Full read SSRF that can leak aws metadata and local file inclusion (www.evernote.com)</a>
 
