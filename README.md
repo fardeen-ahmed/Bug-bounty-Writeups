@@ -708,16 +708,7 @@
 | SSRF |<a href="https://portswigger.net/daily-swig/java-rmi-services-often-vulnerable-to-ssrf-attacks-research">Java RMI services often vulnerable to SSRF attacks – research</a>
 | SSRF |<a href="https://www.shielder.com/advisories/cisco-broadworks-commpilot-ssrf/">Cisco BroadWorks CommPilot Application Software Unauthenticated ServerSide Request Forgery (CVE202220951)</a>
 | SSRF |<a href="https://goteleport.com/blog/ssrf-attacks/">SSRF Attack Examples and Mitigations</a>
-
-<a href="https://xelkomy.medium.com/easyssrffromwaybackmachineedf946486120">Easy SSRF from Wayback Machine</a>
-
-<a href="https://medium.com/@raymondlind/ssrflfiinuploadsfeature321d83b93ec0">SSRF & LFI In Uploads Feature</a>
-
-<a href="https://blog.neolex.dev/13/">Critical SSRF on Evernote</a>
-  
-<a href="https://medium.com/@tobydavenn/bypassingssrfprotections45e5e3ac31e9">Bypassing SSRF Protections</a>
-
-<a href="https://thehemdeep.medium.com/crosssiteportattackinwild9d2f6af36455">Cross Site Port Attack in Wild</a>
+| CSPA |<a href="https://thehemdeep.medium.com/cross-site-port-attack-in-wild-9d2f6af36455">Cross Site Port Attack in Wild</a>
   
 <a href="https://blog.assetnote.io/2022/04/27/vmwareworkspaceoneuemssrf/">Encrypting our way to SSRF in VMWare Workspace One UEM (CVE202122054)</a>
   
