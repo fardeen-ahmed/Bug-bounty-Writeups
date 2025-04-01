@@ -705,10 +705,7 @@
 | SSRF |<a href="https://www.assetnote.io/resources/research/turning-bad-ssrf-to-good-ssrf-websphere-portal-cve-2021-27748">Turning bad SSRF to good SSRF: Websphere Portal</a>
 | SSRF |<a href="https://hackerone.com/reports/941178">SSRF for kubeapiserver cloudprovider scene</a>
 | SSRF |<a href="https://hackerone.com/reports/1189367">Full read SSRF that can leak aws metadata and local file inclusion (www.evernote.com)</a>
-
-<a href="https://xhzeem.me/posts/SSRFinPDFexportwithPhantomJs/read/">SSRF in PDF export with PhantomJs </a>
-
-<a href="https://portswigger.net/dailyswig/javarmiservicesoftenvulnerabletossrfattacksresearch">Java RMI services often vulnerable to SSRF attacks – research</a>
+| SSRF |<a href="https://portswigger.net/daily-swig/java-rmi-services-often-vulnerable-to-ssrf-attacks-research">Java RMI services often vulnerable to SSRF attacks – research</a>
   
 <a href="https://www.shielder.com/advisories/ciscobroadworkscommpilotssrf/">Cisco BroadWorks CommPilot Application Software Unauthenticated ServerSide Request Forgery (CVE202220951)</a>
   
