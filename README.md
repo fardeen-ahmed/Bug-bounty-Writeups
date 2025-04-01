@@ -706,8 +706,7 @@
 | SSRF |<a href="https://hackerone.com/reports/941178">SSRF for kubeapiserver cloudprovider scene</a>
 | SSRF |<a href="https://hackerone.com/reports/1189367">Full read SSRF that can leak aws metadata and local file inclusion (www.evernote.com)</a>
 | SSRF |<a href="https://portswigger.net/daily-swig/java-rmi-services-often-vulnerable-to-ssrf-attacks-research">Java RMI services often vulnerable to SSRF attacks – research</a>
-  
-<a href="https://www.shielder.com/advisories/ciscobroadworkscommpilotssrf/">Cisco BroadWorks CommPilot Application Software Unauthenticated ServerSide Request Forgery (CVE202220951)</a>
+| SSRF |<a href="https://www.shielder.com/advisories/cisco-broadworks-commpilot-ssrf/">Cisco BroadWorks CommPilot Application Software Unauthenticated ServerSide Request Forgery (CVE202220951)</a>
   
 <a href="https://blog.securelayer7.net/wondercms313vulnerabletoauthenticatedserversiderequestforgery/">WonderCMS 3.1.3 Vulnerable To Authenticated ServerSide Request Forgery – CVE202035313</a>
   
