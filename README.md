@@ -713,8 +713,7 @@
 | SSRF |<a href="https://medium.com/@rramgattie/securing-pdf-generators-against-ssrf-vulnerabilities-b8f9b061c14b">Securing PDF Generators Against SSRF Vulnerabilities</a>
 | CMS-SSRF |<a href="https://www.sonarsource.com/blog/wordpress-core-unauthenticated-blind-ssrf/">WordPress Core  Unauthenticated Blind SSRF</a>
 | SSRF Recon |<a href="https://systemweakness.com/bug-bounty-how-i-found-an-ssrf-reconnaissance-7b1821a1b1fd">Bug Bounty { How I found an SSRF ( Reconnaissance ) }</a>
-  
-<a href="https://spidersilk.com/news/cloudismorefunwithanssrf">Cloud is more fun with an SSRF</a>
+| Cloud SSRF |<a href="https://spidersilk.com/news/cloud-is-more-fun-with-an-ssrf">Cloud is more fun with an SSRF</a>
 
 <a href="https://blog.yeswehack.com/talentdevelopment/serversideprototypepollutionhowtodetectandexploit/">Server side prototype pollution, how to detect and exploit</a>
   
