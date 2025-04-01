@@ -707,10 +707,7 @@
 | SSRF |<a href="https://hackerone.com/reports/1189367">Full read SSRF that can leak aws metadata and local file inclusion (www.evernote.com)</a>
 | SSRF |<a href="https://portswigger.net/daily-swig/java-rmi-services-often-vulnerable-to-ssrf-attacks-research">Java RMI services often vulnerable to SSRF attacks – research</a>
 | SSRF |<a href="https://www.shielder.com/advisories/cisco-broadworks-commpilot-ssrf/">Cisco BroadWorks CommPilot Application Software Unauthenticated ServerSide Request Forgery (CVE202220951)</a>
-  
-<a href="https://blog.securelayer7.net/wondercms313vulnerabletoauthenticatedserversiderequestforgery/">WonderCMS 3.1.3 Vulnerable To Authenticated ServerSide Request Forgery – CVE202035313</a>
-  
-<a href="https://goteleport.com/blog/ssrfattacks/">SSRF Attack Examples and Mitigations</a>
+| SSRF |<a href="https://goteleport.com/blog/ssrf-attacks/">SSRF Attack Examples and Mitigations</a>
 
 <a href="https://xelkomy.medium.com/easyssrffromwaybackmachineedf946486120">Easy SSRF from Wayback Machine</a>
 
