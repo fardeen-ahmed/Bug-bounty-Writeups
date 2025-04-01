@@ -722,7 +722,9 @@
 
 
 # Chained Issues / Chained Bugs : 
-<a href="https://medium.com/@tushar.tilak.sharma/ataleofopenredirectiontostoredxss6ad426ae9d43">A Tale of Open Redirection to Stored XSS</a>
+| Category | Writeup |
+|-----------|-----| 
+| Chained |<a href="https://medium.com/@tushar.tilak.sharma/a-tale-of-open-redirection-to-stored-xss-6ad426ae9d43">A Tale of Open Redirection to Stored XSS</a>
 
 <a href="https://medium.com/@faique/storyofa1kbountyssrfd5c4868680f5">Story of a $1k bounty — SSRF to leaking access token and other sensitive information</a>  
 
