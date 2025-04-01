@@ -714,8 +714,7 @@
 | CMS-SSRF |<a href="https://www.sonarsource.com/blog/wordpress-core-unauthenticated-blind-ssrf/">WordPress Core  Unauthenticated Blind SSRF</a>
 | SSRF Recon |<a href="https://systemweakness.com/bug-bounty-how-i-found-an-ssrf-reconnaissance-7b1821a1b1fd">Bug Bounty { How I found an SSRF ( Reconnaissance ) }</a>
 | Cloud SSRF |<a href="https://spidersilk.com/news/cloud-is-more-fun-with-an-ssrf">Cloud is more fun with an SSRF</a>
-
-<a href="https://blog.yeswehack.com/talentdevelopment/serversideprototypepollutionhowtodetectandexploit/">Server side prototype pollution, how to detect and exploit</a>
+| SSRF |<a href="https://blog.yeswehack.com/talent-development/server-side-prototype-pollution-how-to-detect-and-exploit/">Server side prototype pollution, how to detect and exploit</a>
   
 <a href="https://medium.com/@basubanakar/ssrfviadnsrebindingcve20224096b7bf75928bb2">SSRF via DNS Rebinding (CVE2022–4096)</a>
 
