@@ -711,8 +711,7 @@
 | CSPA |<a href="https://thehemdeep.medium.com/cross-site-port-attack-in-wild-9d2f6af36455">Cross Site Port Attack in Wild</a>
 | SSRF |<a href="https://gccybermonks.com/posts/ssrfvision/">Another vision for SSRF</a>
 | SSRF |<a href="https://medium.com/@rramgattie/securing-pdf-generators-against-ssrf-vulnerabilities-b8f9b061c14b">Securing PDF Generators Against SSRF Vulnerabilities</a>
-  
-<a href="https://blog.sonarsource.com/wordpresscoreunauthenticatedblindssrf/">WordPress Core  Unauthenticated Blind SSRF</a>
+| CMS-SSRF |<a href="https://www.sonarsource.com/blog/wordpress-core-unauthenticated-blind-ssrf/">WordPress Core  Unauthenticated Blind SSRF</a>
   
 <a href="https://srahulceh.medium.com/bugbountyhowifoundanssrfreconnaissance7b1821a1b1fd">Bug Bounty { How I found an SSRF ( Reconnaissance ) }</a>
   
