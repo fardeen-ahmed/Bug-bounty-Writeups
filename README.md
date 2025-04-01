@@ -709,10 +709,7 @@
 | SSRF |<a href="https://www.shielder.com/advisories/cisco-broadworks-commpilot-ssrf/">Cisco BroadWorks CommPilot Application Software Unauthenticated ServerSide Request Forgery (CVE202220951)</a>
 | SSRF |<a href="https://goteleport.com/blog/ssrf-attacks/">SSRF Attack Examples and Mitigations</a>
 | CSPA |<a href="https://thehemdeep.medium.com/cross-site-port-attack-in-wild-9d2f6af36455">Cross Site Port Attack in Wild</a>
-  
-<a href="https://blog.assetnote.io/2022/04/27/vmwareworkspaceoneuemssrf/">Encrypting our way to SSRF in VMWare Workspace One UEM (CVE202122054)</a>
-  
-<a href="https://gccybermonks.com/posts/ssrfvision/">Another vision for SSRF</a>
+| SSRF |<a href="https://gccybermonks.com/posts/ssrfvision/">Another vision for SSRF</a>
 
 <a href="https://medium.com/@rramgattie/securingpdfgeneratorsagainstssrfvulnerabilitiesb8f9b061c14b">Securing PDF Generators Against SSRF Vulnerabilities</a>
   
