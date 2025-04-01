@@ -715,8 +715,7 @@
 | SSRF Recon |<a href="https://systemweakness.com/bug-bounty-how-i-found-an-ssrf-reconnaissance-7b1821a1b1fd">Bug Bounty { How I found an SSRF ( Reconnaissance ) }</a>
 | Cloud SSRF |<a href="https://spidersilk.com/news/cloud-is-more-fun-with-an-ssrf">Cloud is more fun with an SSRF</a>
 | SSRF |<a href="https://blog.yeswehack.com/talent-development/server-side-prototype-pollution-how-to-detect-and-exploit/">Server side prototype pollution, how to detect and exploit</a>
-  
-<a href="https://medium.com/@basubanakar/ssrfviadnsrebindingcve20224096b7bf75928bb2">SSRF via DNS Rebinding (CVE2022–4096)</a>
+| SSRF |<a href="https://infosecwriteups.com/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2">SSRF via DNS Rebinding (CVE-2022–4096)</a>
 
 
 
