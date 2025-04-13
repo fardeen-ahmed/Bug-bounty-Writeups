@@ -726,12 +726,7 @@
 |-----------|-----| 
 | Chained |<a href="https://medium.com/@tushar.tilak.sharma/a-tale-of-open-redirection-to-stored-xss-6ad426ae9d43">A Tale of Open Redirection to Stored XSS</a>
 | Chained |<a href="https://infosecwriteups.com/story-of-a-1k-bounty-ssrf-d5c4868680f5">Story of a $1k bounty — SSRF to leaking access token and other sensitive information</a>  
-
-<a href="https://medium.com/@TutorialBoy24/thestoryof3bugsthatleadtounauthorizedrcepascomsystemsd2dcb0410f3b">The story of 3 bugs that lead to Unauthorized RCE — Pascom Systems</a>
-
-<a href="https://www.ukusormus.com/bypassingcloudflarewafxssviasqlinjection/">Bypassing Cloudflare WAF: XSS via SQL Injection</a>
-  
-<a href="https://medium.com/@moSec/crlftoaccounttakeoverchainingbugs21a25dfa1cdf">CRLF to Account takeover (chaining bugs)</a>
+| Chained |<a href="https://medium.com/@moSec/crlf-to-account-takeover-chaining-bugs-21a25dfa1cdf">CRLF to Account takeover (chaining bugs)</a>
 
 <a href="https://portswigger.net/dailyswig/internetbugbountyhighseverityvulnerabilityinapachehttpservercouldleadtorce">Internet Bug Bounty: High severity vulnerability in Apache HTTP Server could lead to RCE</a>
   
