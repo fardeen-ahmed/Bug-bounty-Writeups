@@ -727,8 +727,7 @@
 | Chained |<a href="https://medium.com/@tushar.tilak.sharma/a-tale-of-open-redirection-to-stored-xss-6ad426ae9d43">A Tale of Open Redirection to Stored XSS</a>
 | Chained |<a href="https://infosecwriteups.com/story-of-a-1k-bounty-ssrf-d5c4868680f5">Story of a $1k bounty — SSRF to leaking access token and other sensitive information</a>  
 | Chained |<a href="https://medium.com/@moSec/crlf-to-account-takeover-chaining-bugs-21a25dfa1cdf">CRLF to Account takeover (chaining bugs)</a>
-
-<a href="https://portswigger.net/dailyswig/internetbugbountyhighseverityvulnerabilityinapachehttpservercouldleadtorce">Internet Bug Bounty: High severity vulnerability in Apache HTTP Server could lead to RCE</a>
+| Chained |<a href="https://portswigger.net/daily-swig/internet-bug-bounty-high-severity-vulnerability-in-apache-http-server-could-lead-to-rce">Internet Bug Bounty: High severity vulnerability in Apache HTTP Server could lead to RCE</a>
   
 <a href="https://www.invicti.com/blog/websecurity/ssrfvulnerabilitiescausedbysniproxymisconfigurations/">SSRF vulnerabilities caused by SNI proxy misconfigurations</a>
   
