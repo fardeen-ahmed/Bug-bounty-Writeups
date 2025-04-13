@@ -732,10 +732,7 @@
 | Chained |<a href="https://www.sonarsource.com/blog/checkmk-rce-chain-3/">Checkmk: Remote Code Execution by Chaining Multiple Bugs (3/3)</a>
 | Chained |<a href="https://www.assetnote.io/resources/research/exploiting-static-site-generators-when-static-is-not-actually-static">Exploiting Static Site Generators: When Static Is Not Actually Static</a>
 | Chained |<a href="https://infosecwriteups.com/cve-2022-42710-a-journey-through-xxe-to-stored-xss-851d74dfe917">CVE-2022–42710: A journey through XXE to StoredXSS</a>
-
-<a href="https://claroty.com/team82/research/jsonsecurityoffabusingjsonbasedsqltobypasswaf">Abusing JSONBased SQL to Bypass WAF</a>
-  
-<a href="https://ssddisclosure.com/ssdadvisorygalaxystoreapplicationsinstallationlaunchingwithoutuserinteraction/">SSD Advisory – Galaxy Store Applications Installation/Launching without User Interaction</a>
+| Chained |<a href="https://ssd-disclosure.com/ssd-advisory-galaxy-store-applications-installation-launching-without-user-interaction/">SSD Advisory – Galaxy Store Applications Installation/Launching without User Interaction</a>
 
 <a href="https://sl4x0.medium.com/researchbypasscsrfprotectionwxss710faf20000">Research | Bypass CSRF Protection w/ XSS</a>
 
