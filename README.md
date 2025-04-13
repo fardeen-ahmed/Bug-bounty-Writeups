@@ -729,8 +729,7 @@
 | Chained |<a href="https://medium.com/@moSec/crlf-to-account-takeover-chaining-bugs-21a25dfa1cdf">CRLF to Account takeover (chaining bugs)</a>
 | Chained |<a href="https://portswigger.net/daily-swig/internet-bug-bounty-high-severity-vulnerability-in-apache-http-server-could-lead-to-rce">Internet Bug Bounty: High severity vulnerability in Apache HTTP Server could lead to RCE</a>
 | Chained |<a href="https://www.invicti.com/blog/web-security/ssrf-vulnerabilities-caused-by-sni-proxy-misconfigurations/">SSRF vulnerabilities caused by SNI proxy misconfigurations</a>
-  
-<a href="https://blog.sonarsource.com/checkmkrcechain3/">Checkmk: Remote Code Execution by Chaining Multiple Bugs (3/3)</a>
+| Chained |<a href="https://www.sonarsource.com/blog/checkmk-rce-chain-3/">Checkmk: Remote Code Execution by Chaining Multiple Bugs (3/3)</a>
   
 <a href="https://blog.assetnote.io/2022/10/28/exploitingstaticsitegenerators/">Exploiting Static Site Generators: When Static Is Not Actually Static</a>
   
