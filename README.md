@@ -733,10 +733,7 @@
 | Chained |<a href="https://www.assetnote.io/resources/research/exploiting-static-site-generators-when-static-is-not-actually-static">Exploiting Static Site Generators: When Static Is Not Actually Static</a>
 | Chained |<a href="https://infosecwriteups.com/cve-2022-42710-a-journey-through-xxe-to-stored-xss-851d74dfe917">CVE-2022–42710: A journey through XXE to StoredXSS</a>
 | Chained |<a href="https://ssd-disclosure.com/ssd-advisory-galaxy-store-applications-installation-launching-without-user-interaction/">SSD Advisory – Galaxy Store Applications Installation/Launching without User Interaction</a>
-
-<a href="https://sl4x0.medium.com/researchbypasscsrfprotectionwxss710faf20000">Research | Bypass CSRF Protection w/ XSS</a>
-
-<a href="https://h1pmnh.github.io/post/writeup_spring_el_waf_bypass/">RCE via SSTI on Spring Boot Error Page with Akamai WAF Bypass</a>
+| Advance Chained |<a href="https://h1pmnh.github.io/post/writeup_spring_el_waf_bypass/">RCE via SSTI on Spring Boot Error Page with Akamai WAF Bypass</a>
   
 <a href="https://portswigger.net/dailyswig/prototypepollutionprojectyieldsanotherparseserverrce">Prototype pollution project yields another Parse Server RCE</a>
   
