@@ -739,10 +739,7 @@
 | Chained |<a href="https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html">PreAuth RCE with CodeQL in Under 20 Minutes</a>
 | Chained |<a href="https://emily.id.au/tailscale">CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You</a>
 | Chained |<a href="https://portswigger.net/daily-swig/nodebb-prototype-pollution-flaw-could-lead-to-account-takeover">NodeBB prototype pollution flaw could lead to account takeover</a>
-  
-<a href="https://hdwsec.fr/blog/20221109netgear/">NETGEAR NIGHTHAWK R7000P AWS_JSON UNAUTHENTICATED DOUBLE STACK OVERFLOW VULNERABILITY </a>
-
-<a href="https://medium.com/@LIL__NIX/thestoryofarceonajavawebapplication2e400cddcd1e">The Story of a RCE on a Java Web Application</a>
+| Chained |<a href="https://infosecwriteups.com/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e">The Story of a RCE on a Java Web Application</a>
 
 <a href="https://medium.com/cidersec/bypassingrequiredreviewsusinggithubactions6e1b29135cc7">Bypassing required reviews using GitHub Actions</a>
 
