@@ -735,8 +735,7 @@
 | Chained |<a href="https://ssd-disclosure.com/ssd-advisory-galaxy-store-applications-installation-launching-without-user-interaction/">SSD Advisory – Galaxy Store Applications Installation/Launching without User Interaction</a>
 | Advance Chained |<a href="https://h1pmnh.github.io/post/writeup_spring_el_waf_bypass/">RCE via SSTI on Spring Boot Error Page with Akamai WAF Bypass</a>
 | Chained |<a href="https://portswigger.net/daily-swig/prototype-pollution-project-yields-another-parse-server-rce">Prototype pollution project yields another Parse Server RCE</a>
-  
-<a href="https://portswigger.net/research/hijackingserviceworkersviadomclobbering">Hijacking service workers via DOM Clobbering</a>
+| Chained |<a href="https://portswigger.net/research/hijacking-service-workers-via-dom-clobbering">Hijacking service workers via DOM Clobbering</a>
   
 <a href="https://frycos.github.io/vulns4free/2022/12/02/rcein20minutes.html">PreAuth RCE with CodeQL in Under 20 Minutes</a>
   
