@@ -741,8 +741,7 @@
 | Chained |<a href="https://portswigger.net/daily-swig/nodebb-prototype-pollution-flaw-could-lead-to-account-takeover">NodeBB prototype pollution flaw could lead to account takeover</a>
 | Chained |<a href="https://infosecwriteups.com/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e">The Story of a RCE on a Java Web Application</a>
 | Chained |<a href="https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7">Bypassing required reviews using GitHub Actions</a>
-
-<a href="https://medium.com/@haroonhameed_76621/achievingremotecodeexecutionviaunrestrictedfileupload6050f360c218">Achieving Remote Code Execution via Unrestricted File Upload</a>
+| Chaiined |<a href="https://medium.com/@haroonhameed_76621/achieving-remote-code-execution-via-unrestricted-file-upload-6050f360c218">Achieving Remote Code Execution via Unrestricted File Upload</a>
   
 <a href="https://0xmahmoudjo0.medium.com/adminaccounttakeoverviaweirdpasswordresetfunctionality166ce90b1e58">Admin account takeover via weird Password Reset Functionality</a>
 
