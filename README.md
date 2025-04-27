@@ -737,8 +737,7 @@
 | Chained |<a href="https://portswigger.net/daily-swig/prototype-pollution-project-yields-another-parse-server-rce">Prototype pollution project yields another Parse Server RCE</a>
 | Chained |<a href="https://portswigger.net/research/hijacking-service-workers-via-dom-clobbering">Hijacking service workers via DOM Clobbering</a>
 | Chained |<a href="https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html">PreAuth RCE with CodeQL in Under 20 Minutes</a>
-  
-<a href="https://emily.id.au/tailscale">CVE202241924  RCE in Tailscale, DNS Rebinding, and You</a>
+| Chained |<a href="https://emily.id.au/tailscale">CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You</a>
 
 <a href="https://portswigger.net/dailyswig/nodebbprototypepollutionflawcouldleadtoaccounttakeover">NodeBB prototype pollution flaw could lead to account takeover</a>
   
