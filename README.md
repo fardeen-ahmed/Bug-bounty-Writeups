@@ -758,8 +758,7 @@
 | Series |<a href="https://blog.bricked.tech/posts/tmnf/part1/">Hacking TMNF: Part 1  Fuzzing the game server</a>
 | Series |<a href="https://blog.bricked.tech/posts/tmnf/part2/">Hacking TMNF: Part 2  Exploiting a blind format string</a>
 | Chained |<a href="https://medium.com/@BrownBearSec/bug-bounty-recon-vertical-correlation-and-the-secret-to-succeeding-cdd532c777c9">Bug Bounty Recon: Vertical Correlation (and the secret to succeeding)</a>
- 
-<a href="https://www.wordfence.com/blog/2022/02/criticalvulnerabilitiesinphpeverywhereallowremotecodeexecution/">Critical Vulnerabilities in PHP Everywhere Allow Remote Code Execution</a>
+| Chained |<a href="https://www.wordfence.com/blog/2022/02/critical-vulnerabilities-in-php-everywhere-allow-remote-code-execution/">Critical Vulnerabilities in PHP Everywhere Allow Remote Code Execution</a>
 
 <a href="https://blog.intigriti.com/2021/10/06/bugbytes141seshgremlinattackrceviapasswordfieldpwningxmlsecforinfodisclosureandbounties/">Sesh Gremlin attack, RCE via password field & Pwning XMLSec for info disclosure and bounties</a>
   
