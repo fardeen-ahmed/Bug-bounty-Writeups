@@ -747,8 +747,7 @@
 | Chained |<a href="https://blog.niksthehacker.com/chaining-path-traversal-with-ssrf-to-disclose-internal-git-repo-data-in-a-bank-asset-8af4de6f12e">Chaining Path Traversal with SSRF to disclose internal git repo data in a Bank Asset</a>
 | Product |<a href="https://blog.doyensec.com/2022/10/27/jupytervscode.html">Visual Studio Code Jupyter Notebook RCE</a>
 | Chained |<a href="https://swarm.ptsecurity.com/exploiting-arbitrary-object-instantiations/">Exploiting Arbitrary Object Instantiations in PHP without Custom Classes</a>
-  
-<a href="https://vulndev.io/2022/09/09/browser-exploitation-firefox-oob-to-rce/">Browser Exploitation: Firefox OOB to RCE</a>
+| Chained |<a href="https://vuln.dev/browser-exploitation-firefox-oob-to-rce/">Browser Exploitation: Firefox OOB to RCE</a>
 | Chained |<a href="https://positive.security/blog/dompdf-rce">From XSS to RCE (dompdf 0day)</a>
 | Bypass |<a href="https://portswigger.net/research/bypassing-firefoxs-html-sanitizer-api">Bypassing Firefox's HTML Sanitizer API</a>
 | Chained |<a href="https://hackerone.com/reports/1439593">Arbitrary file read via the bulk imports UploadsPipeline </a>
