@@ -751,16 +751,8 @@
 <a href="https://vulndev.io/2022/09/09/browser-exploitation-firefox-oob-to-rce/">Browser Exploitation: Firefox OOB to RCE</a>
 | Chained |<a href="https://positive.security/blog/dompdf-rce">From XSS to RCE (dompdf 0day)</a>
 | Bypass |<a href="https://portswigger.net/research/bypassing-firefoxs-html-sanitizer-api">Bypassing Firefox's HTML Sanitizer API</a>
-
-<A href="http://ysamm.com/?p=621">Access private information about SparkAR effect owners who has a publicly viewable portfolio ($1500)</a>
-
-<a href="https://mrkrhyxyz.medium.com/taggedusercoulddeletefacebookstoryd7f9cdde92aa">Tagged User Could Delete Facebook Story</a>
-
-<a href="https://hackerone.com/reports/1439593">Arbitrary file read via the bulk imports UploadsPipeline </a>
-
-<a href="https://medium.com/@tobydavenn/howiwasabletotakeoveranyaccountononeofeuropeslargestmediacompaniese8d25e59c08">How I Was Able To TakeOver Any Account On One Of Europe's Largest Media Companies</a>
-  
-<a href="https://0xacb.com/2022/11/21/recollapse/">Fuzzing the web for mysterious bugs</a>
+| Chained |<a href="https://hackerone.com/reports/1439593">Arbitrary file read via the bulk imports UploadsPipeline </a>
+| Interesting Fuzz |<a href="https://0xacb.com/2022/11/21/recollapse/">Fuzzing the web for mysterious bugs</a>
 
 <a href="https://frycos.github.io/vulns4free/2022/12/02/rcein20minutes.html">PreAuth RCE with CodeQL in Under 20 Minutes </a>
   
