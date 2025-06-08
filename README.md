@@ -757,11 +757,8 @@
 | Chained |<a href="https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980">Facebook SMS Captcha Was Vulnerable to CSRF Attack</a>
 | Series |<a href="https://blog.bricked.tech/posts/tmnf/part1/">Hacking TMNF: Part 1  Fuzzing the game server</a>
 | Series |<a href="https://blog.bricked.tech/posts/tmnf/part2/">Hacking TMNF: Part 2  Exploiting a blind format string</a>
-
-<a href="https://bountyget.medium.com/rceonstarbuckssingaporeandmorefor5600926c930bb61e">RCE on Starbucks Singapore and more for $5600</a>
-
-<a href="https://medium.com/@Sm9l/bugbountyreconverticalcorrelationandthesecrettosucceedingcdd532c777c9">Bug Bounty Recon: Vertical Correlation (and the secret to succeeding)</a>
-
+| Chained |<a href="https://medium.com/@BrownBearSec/bug-bounty-recon-vertical-correlation-and-the-secret-to-succeeding-cdd532c777c9">Bug Bounty Recon: Vertical Correlation (and the secret to succeeding)</a>
+ 
 <a href="https://www.wordfence.com/blog/2022/02/criticalvulnerabilitiesinphpeverywhereallowremotecodeexecution/">Critical Vulnerabilities in PHP Everywhere Allow Remote Code Execution</a>
 
 <a href="https://blog.intigriti.com/2021/10/06/bugbytes141seshgremlinattackrceviapasswordfieldpwningxmlsecforinfodisclosureandbounties/">Sesh Gremlin attack, RCE via password field & Pwning XMLSec for info disclosure and bounties</a>
