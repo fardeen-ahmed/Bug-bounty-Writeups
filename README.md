@@ -750,8 +750,7 @@
   
 <a href="https://vulndev.io/2022/09/09/browser-exploitation-firefox-oob-to-rce/">Browser Exploitation: Firefox OOB to RCE</a>
 | Chained |<a href="https://positive.security/blog/dompdf-rce">From XSS to RCE (dompdf 0day)</a>
-  
-<a href="https://portswigger.net/research/bypassingfirefoxshtmlsanitizerapi">Bypassing Firefox's HTML Sanitizer API</a>
+| Bypass |<a href="https://portswigger.net/research/bypassing-firefoxs-html-sanitizer-api">Bypassing Firefox's HTML Sanitizer API</a>
 
 <A href="http://ysamm.com/?p=621">Access private information about SparkAR effect owners who has a publicly viewable portfolio ($1500)</a>
 
