@@ -744,12 +744,9 @@
 | Chaiined |<a href="https://medium.com/@haroonhameed_76621/achieving-remote-code-execution-via-unrestricted-file-upload-6050f360c218">Achieving Remote Code Execution via Unrestricted File Upload</a>
 | Chained |<a href="https://0xmahmoudjo0.medium.com/admin-account-takeover-via-weird-password-reset-functionality-166ce90b1e58">Admin account takeover via weird Password Reset Functionality</a>
 | Chained |<a href="https://portswigger.net/daily-swig/node-js-was-vulnerable-to-a-novel-http-request-smuggling-technique">Node.js was vulnerable to a novel HTTP request smuggling technique</a>
-  
-<a href="https://blog.niksthehacker.com/chainingpathtraversalwithssrftodiscloseinternalgitrepodatainabankasset8af4de6f12e">Chaining Path Traversal with SSRF to disclose internal git repo data in a Bank Asset</a>
-  
-<a href="https://blog.doyensec.com/2022/10/27/jupytervscode.html">Visual Studio Code Jupyter Notebook RCE</a>
-  
-<a href="https://swarm.ptsecurity.com/exploitingarbitraryobjectinstantiations/">Exploiting Arbitrary Object Instantiations in PHP without Custom Classes</a>
+| Chained |<a href="https://blog.niksthehacker.com/chaining-path-traversal-with-ssrf-to-disclose-internal-git-repo-data-in-a-bank-asset-8af4de6f12e">Chaining Path Traversal with SSRF to disclose internal git repo data in a Bank Asset</a>
+| Product |<a href="https://blog.doyensec.com/2022/10/27/jupytervscode.html">Visual Studio Code Jupyter Notebook RCE</a>
+| Chained |<a href="https://swarm.ptsecurity.com/exploiting-arbitrary-object-instantiations/">Exploiting Arbitrary Object Instantiations in PHP without Custom Classes</a>
   
 <a href="https://vulndev.io/2022/09/09/browserexploitationfirefoxoobtorce/">Browser Exploitation: Firefox OOB to RCE</a>
 
