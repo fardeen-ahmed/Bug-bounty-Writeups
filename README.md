@@ -755,10 +755,8 @@
 | Interesting Fuzz |<a href="https://0xacb.com/2022/11/21/recollapse/">Fuzzing the web for mysterious bugs</a>
 | Chained |<a href="https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html">PreAuth RCE with CodeQL in Under 20 Minutes </a>
 | Chained |<a href="https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980">Facebook SMS Captcha Was Vulnerable to CSRF Attack</a>
- 
-<a href="https://blog.bricked.tech/posts/tmnf/part1/">Hacking TMNF: Part 1  Fuzzing the game server</a>
-
-<a href="https://blog.bricked.tech/posts/tmnf/part2/">Hacking TMNF: Part 2  Exploiting a blind format string</a>
+| Series |<a href="https://blog.bricked.tech/posts/tmnf/part1/">Hacking TMNF: Part 1  Fuzzing the game server</a>
+| Series |<a href="https://blog.bricked.tech/posts/tmnf/part2/">Hacking TMNF: Part 2  Exploiting a blind format string</a>
 
 <a href="https://bountyget.medium.com/rceonstarbuckssingaporeandmorefor5600926c930bb61e">RCE on Starbucks Singapore and more for $5600</a>
 
