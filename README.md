@@ -753,8 +753,7 @@
 | Bypass |<a href="https://portswigger.net/research/bypassing-firefoxs-html-sanitizer-api">Bypassing Firefox's HTML Sanitizer API</a>
 | Chained |<a href="https://hackerone.com/reports/1439593">Arbitrary file read via the bulk imports UploadsPipeline </a>
 | Interesting Fuzz |<a href="https://0xacb.com/2022/11/21/recollapse/">Fuzzing the web for mysterious bugs</a>
-
-<a href="https://frycos.github.io/vulns4free/2022/12/02/rcein20minutes.html">PreAuth RCE with CodeQL in Under 20 Minutes </a>
+| Chained |<a href="https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html">PreAuth RCE with CodeQL in Under 20 Minutes </a>
   
 <a href="https://lokeshdlk77.medium.com/facebooksmscaptchawasvulnerabletocsrfattack8db537b1e980">Facebook SMS Captcha Was Vulnerable to CSRF Attack</a>
  
