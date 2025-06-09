@@ -763,8 +763,7 @@
 | Chained |<a href="https://hackerone.com/reports/584603">RCE on CS:GO client using unsanitized entity ID in EntityMsg message</a>
 | Chained |<a href="https://github.com/TommyTeaVee/ios_15_rce">Remote Code Execution V1 For iOS 15 sent through airdrop after the device was connected to a trusted host</a>
 | Chained |<a href="https://medium.com/@kojodaprogrammer/full-account-takeover-ato-a-tale-of-two-bugs-d1b3765ff1de">Full Account takeover (ATO) — a tale of two bugs</a>
-
-<a href="https://www.gosecure.net/blog/2021/10/19/ascientificnotationbuginmysqlleftawswafclientsvulnerabletosqlinjection/">A Scientific Notation Bug in MySQL left AWS WAF Clients Vulnerable to SQL Injection</a>
+| Chained |<a href="https://gosecure.ai/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/">A Scientific Notation Bug in MySQL left AWS WAF Clients Vulnerable to SQL Injection</a>
 
   
 <a href="https://notifybugme.medium.com/chaininganblindssrfbugtogetanrce92c09de3c0ba">Chaining an Blind SSRF bug to Get an RCE</a>
