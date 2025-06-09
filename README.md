@@ -769,8 +769,7 @@
 | Chained |<a href="https://infosecwriteups.com/exploiting-password-reset-poisoning-b748797f0661">Exploiting Password Reset Poisoning for account takeover and max bounty!</a>
 | Chained |<a href="https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md">CVE202126084 Remote Code Execution on Confluence Servers</a>
 | Chained |<a href="https://www.lrqa.com/en/cyber-labs/exploiting-onlyoffice-web-sockets-for-unauthenticated-remote-code-execution/">CVE-2021-43444 to 43449: Exploiting ONLYOFFICE Web Sockets for Unauthenticated Remote Code Execution</a>
-  
-<a href="https://radianid.medium.com/chainingopenredirectwithxsstoaccounttakeover36acf218a6d5">Chaining Open Redirect with XSS to Account Takeover</a>
+| Chained |<a href="https://rdnzx.medium.com/chaining-open-redirect-with-xss-to-account-takeover-36acf218a6d5">Chaining Open Redirect with XSS to Account Takeover</a>
 
 <a href="https://twitter.com/OAcybersecurity#bugbounty">FORD Session token URL lead to Reflected XSS</a>
   
