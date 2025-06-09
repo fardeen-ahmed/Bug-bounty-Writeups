@@ -766,8 +766,7 @@
 | Chained |<a href="https://gosecure.ai/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/">A Scientific Notation Bug in MySQL left AWS WAF Clients Vulnerable to SQL Injection</a>
 | Chained |<a href="https://notifybugme.medium.com/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba">Chaining an Blind SSRF bug to Get an RCE</a>
 | Chained |<a href="https://infosecwriteups.com/how-i-escalated-a-time-based-sql-injection-to-rce-bbf0d68cb398">How I Escalated a TimeBased SQL Injection to RCE</a>
-
-<a href="https://infosecwriteups.com/exploitingpasswordresetpoisoningb748797f0661">Exploiting Password Reset Poisoning for account takeover and max bounty!</a>
+| Chained |<a href="https://infosecwriteups.com/exploiting-password-reset-poisoning-b748797f0661">Exploiting Password Reset Poisoning for account takeover and max bounty!</a>
   
 <a href="https://github.com/httpvoid/writeups/blob/main/ConfluenceRCE.md">CVE202126084 Remote Code Execution on Confluence Servers</a>
 
