@@ -762,8 +762,7 @@
 | Chained |<a href="https://www.rcesecurity.com/2022/11/from-zero-to-hero-part-1-bypassing-intel-dcms-authentication-cve-2022-33942/">Bypassing Intel DCM’s Authentication by Spoofing Kerberos and LDAP Responses (CVE-2022-33942)</a>
 | Chained |<a href="https://hackerone.com/reports/584603">RCE on CS:GO client using unsanitized entity ID in EntityMsg message</a>
 | Chained |<a href="https://github.com/TommyTeaVee/ios_15_rce">Remote Code Execution V1 For iOS 15 sent through airdrop after the device was connected to a trusted host</a>
-  
-<a href="https://medium.com/@kojodaprogrammer/fullaccounttakeoveratoataleoftwobugsd1b3765ff1de">Full Account takeover (ATO) — a tale of two bugs</a>
+| Chained |<a href="https://medium.com/@kojodaprogrammer/full-account-takeover-ato-a-tale-of-two-bugs-d1b3765ff1de">Full Account takeover (ATO) — a tale of two bugs</a>
 
 <a href="https://www.gosecure.net/blog/2021/10/19/ascientificnotationbuginmysqlleftawswafclientsvulnerabletosqlinjection/">A Scientific Notation Bug in MySQL left AWS WAF Clients Vulnerable to SQL Injection</a>
 
