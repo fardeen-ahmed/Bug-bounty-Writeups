@@ -768,8 +768,7 @@
 | Chained |<a href="https://infosecwriteups.com/how-i-escalated-a-time-based-sql-injection-to-rce-bbf0d68cb398">How I Escalated a TimeBased SQL Injection to RCE</a>
 | Chained |<a href="https://infosecwriteups.com/exploiting-password-reset-poisoning-b748797f0661">Exploiting Password Reset Poisoning for account takeover and max bounty!</a>
 | Chained |<a href="https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md">CVE202126084 Remote Code Execution on Confluence Servers</a>
-
-<a href="https://labs.nettitude.com/blog/exploitingonlyofficewebsocketsforunauthenticatedremotecodeexecution/">CVE202143444 to 43449: Exploiting ONLYOFFICE Web Sockets for Unauthenticated Remote Code Execution</a>
+| Chained |<a href="https://www.lrqa.com/en/cyber-labs/exploiting-onlyoffice-web-sockets-for-unauthenticated-remote-code-execution/">CVE-2021-43444 to 43449: Exploiting ONLYOFFICE Web Sockets for Unauthenticated Remote Code Execution</a>
   
 <a href="https://radianid.medium.com/chainingopenredirectwithxsstoaccounttakeover36acf218a6d5">Chaining Open Redirect with XSS to Account Takeover</a>
 
