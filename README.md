@@ -798,10 +798,8 @@
 | Methodology |<a href="https://www.hackingarticles.in/android-penetration-testing-frida/">Android Penetration Testing: Frida </a>
 | Tool |<a href="https://github.com/Cyber-Buddy/APKHunt">APKHunt  static code analysis tool for Android apps that is based on the OWASP MASVS framework</a>
 | Script |<a href="https://gist.github.com/incogbyte/1e0e2f38b5602e72b1380f21ba04b15e">Frida script to bypass common methods of sslpining Android</a>
-
-<a href="https://medium.com/@yoshimlutfi/bypasssslpinningwithipforwardingiptables568171b52b62">ByPass SSL Pinning with IP Forwarding | iptables</a>
-  
-<a href="https://kishorbalan.medium.com/itsallaboutandroidsslpinningbypassandinterceptingproxyunawareapplications91689c0763d8">It's all about Bypassing Android SSL Pinning and Intercepting Proxy Unaware applications.</a>
+| SSL Pinning Bypass |<a href="https://infosecwriteups.com/bypass-ssl-pinning-with-ip-forwarding-iptables-568171b52b62">ByPass SSL Pinning with IP Forwarding | iptables</a>
+| SSL Pinning Bypass |<a href="https://kishorbalan.medium.com/its-all-about-android-ssl-pinning-bypass-and-intercepting-proxy-unaware-applications-91689c0763d8">It's all about Bypassing Android SSL Pinning and Intercepting Proxy Unaware applications.</a>
 
 <a href="https://bugs.chromium.org/p/chromium/issues/detail?id=1368230">SameSite cookie bypass on Android by redirecting to to intentpicker with PoC code ($5,000 bounty)</a>
   
