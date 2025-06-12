@@ -796,8 +796,7 @@
 | Methodology |<a href="https://zerodayhacker.com/using-an-android-emulator-for-api-hacking/">Using an Android emulator for API hacking</a>
 | Cheetsheet |<a href="https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet">Android Penetration Testing Cheat Sheet </a>
 | Methodology |<a href="https://www.hackingarticles.in/android-penetration-testing-frida/">Android Penetration Testing: Frida </a>
-
-<a href="https://github.com/CyberBuddy/APKHunt">APKHunt  static code analysis tool for Android apps that is based on the OWASP MASVS framework</a>
+| Tool |<a href="https://github.com/Cyber-Buddy/APKHunt">APKHunt  static code analysis tool for Android apps that is based on the OWASP MASVS framework</a>
 
 <a href="https://gist.github.com/incogbyte/1e0e2f38b5602e72b1380f21ba04b15e">Frida script to bypass common methods of sslpining Android</a>
 
