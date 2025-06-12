@@ -775,8 +775,7 @@
 | GraphQL |<a href="https://blog.cybervelia.com/p/graphql-exploitation-all-you-need-to-know">GraphQL exploitation – All you need to know</a>
 | GraphQL |<a href="https://forcesunseen.com/blog/graphql-security-testing-without-a-schema">GraphQL Security Testing Without a Schema</a>
 | GraphQL |<a href="https://blog.cyberadvisors.com/technical-blog/blog/graphql-batching-attacks-turbo-intruder">GraphQL Batching Attacks: Turbo Intruder</a>
-  
-<a href="https://rashahacks.com/idoringraphqlqueryleakingprivatephotosofamillionapp2c12c7e9dea7">IDOR in GraphQL Query Leaking Private Photos of a Million $ App</a>
+| GraphQL |<a href="https://osintteam.blog/25000-idor-how-a-simple-id-enumeration-exposed-private-data-7de2f60c46fd">IDOR in GraphQL Query Leaking Private Photos of a Million $ App</a>
 
 <a href="https://feed.bugs.xdavidhu.me/bugs/0017">Header spoofing via a hidden parameter in Facebook Batch GraphQL APIs</a>
 
