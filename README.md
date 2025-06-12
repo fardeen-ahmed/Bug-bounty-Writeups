@@ -792,12 +792,10 @@
 # Android Application Testing (Methods + Tools)
 | Category | Writeup |
 |-----------|-----|
-| Roadmap |<a href="https://www.cobalt.io/blog/getting-started-with-android-application-security">Getting started with Android Application Security</a>
-| Roadmap |<a href="https://zerodayhacker.com/using-an-android-emulator-for-api-hacking/">Using an Android emulator for API hacking</a>
+| Methodology |<a href="https://www.cobalt.io/blog/getting-started-with-android-application-security">Getting started with Android Application Security</a>
+| Methodology |<a href="https://zerodayhacker.com/using-an-android-emulator-for-api-hacking/">Using an Android emulator for API hacking</a>
 | Cheetsheet |<a href="https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet">Android Penetration Testing Cheat Sheet </a>
-
-
-<a href="https://www.hackingarticles.in/androidpenetrationtestingfrida/">Android Penetration Testing: Frida </a>
+| Methodology |<a href="https://www.hackingarticles.in/android-penetration-testing-frida/">Android Penetration Testing: Frida </a>
 
 <a href="https://github.com/CyberBuddy/APKHunt">APKHunt  static code analysis tool for Android apps that is based on the OWASP MASVS framework</a>
 
