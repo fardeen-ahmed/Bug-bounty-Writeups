@@ -797,8 +797,7 @@
 | Cheetsheet |<a href="https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet">Android Penetration Testing Cheat Sheet </a>
 | Methodology |<a href="https://www.hackingarticles.in/android-penetration-testing-frida/">Android Penetration Testing: Frida </a>
 | Tool |<a href="https://github.com/Cyber-Buddy/APKHunt">APKHunt  static code analysis tool for Android apps that is based on the OWASP MASVS framework</a>
-
-<a href="https://gist.github.com/incogbyte/1e0e2f38b5602e72b1380f21ba04b15e">Frida script to bypass common methods of sslpining Android</a>
+| Script |<a href="https://gist.github.com/incogbyte/1e0e2f38b5602e72b1380f21ba04b15e">Frida script to bypass common methods of sslpining Android</a>
 
 <a href="https://medium.com/@yoshimlutfi/bypasssslpinningwithipforwardingiptables568171b52b62">ByPass SSL Pinning with IP Forwarding | iptables</a>
   
