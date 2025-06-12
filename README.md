@@ -773,8 +773,7 @@
 | Chained |<a href="https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e">Escalating SSRF to Accessing all user PII information by aws metadata</a>
 | Chained |<a href="https://medium.com/@shakti.gtp/an-out-of-scope-domain-leads-to-a-critical-bug-1500-f228d2c7db4b">An Out Of Scope domain Leads To a Critical Bug[$1500] </a>
 | GraphQL |<a href="https://blog.cybervelia.com/p/graphql-exploitation-all-you-need-to-know">GraphQL exploitation – All you need to know</a>
-  
-<a href="https://blog.forcesunseen.com/graphqlsecuritytestingwithoutaschema">GraphQL Security Testing Without a Schema</a>
+| GraphQL |<a href="https://forcesunseen.com/blog/graphql-security-testing-without-a-schema">GraphQL Security Testing Without a Schema</a>
   
 <a href="https://www.whiteoaksecurity.com/blog/graphqlbatchingattacksturbointruder/">GraphQL Batching Attacks: Turbo Intruder</a>
   
