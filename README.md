@@ -774,8 +774,7 @@
 | Chained |<a href="https://medium.com/@shakti.gtp/an-out-of-scope-domain-leads-to-a-critical-bug-1500-f228d2c7db4b">An Out Of Scope domain Leads To a Critical Bug[$1500] </a>
 | GraphQL |<a href="https://blog.cybervelia.com/p/graphql-exploitation-all-you-need-to-know">GraphQL exploitation – All you need to know</a>
 | GraphQL |<a href="https://forcesunseen.com/blog/graphql-security-testing-without-a-schema">GraphQL Security Testing Without a Schema</a>
-  
-<a href="https://www.whiteoaksecurity.com/blog/graphqlbatchingattacksturbointruder/">GraphQL Batching Attacks: Turbo Intruder</a>
+| GraphQL |<a href="https://blog.cyberadvisors.com/technical-blog/blog/graphql-batching-attacks-turbo-intruder">GraphQL Batching Attacks: Turbo Intruder</a>
   
 <a href="https://rashahacks.com/idoringraphqlqueryleakingprivatephotosofamillionapp2c12c7e9dea7">IDOR in GraphQL Query Leaking Private Photos of a Million $ App</a>
 
