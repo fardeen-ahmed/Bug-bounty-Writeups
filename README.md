@@ -790,10 +790,10 @@
 
 
 # Android Application Testing (Methods + Tools)
-
-<a href="https://blog.cobalt.io/gettingstartedwithandroidapplicationsecurity6f20b76d795b">Getting started with Android Application Security</a>
-  
-<a href="https://zerodayhacker.com/usinganandroidemulatorforapihacking">Using an Android emulator for API hacking</a>
+| Category | Writeup |
+|-----------|-----|
+| Roadmap |<a href="https://www.cobalt.io/blog/getting-started-with-android-application-security">Getting started with Android Application Security</a>
+| Roadmap |<a href="https://zerodayhacker.com/using-an-android-emulator-for-api-hacking/">Using an Android emulator for API hacking</a>
 
 <a href="https://github.com/ivansincek/androidpenetrationtestingcheatsheet">Android Penetration Testing Cheat Sheet </a>
 
