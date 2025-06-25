@@ -808,8 +808,7 @@
 | App |<a href="https://www.oliviaohara.com/keybase">Keybase App Vulnerability: Incomplete Cleanup of Messages In Keybase for Android/iOS - CVE-2021-34421</a>
 | Interesting Bug |<a href="https://dphoeniixx.medium.com/exploiting-request-forgery-on-mobile-applications-e1d196d187b3">Exploiting Request forgery on Mobile Applications</a>
 | RE |<a href="https://blog.lexfo.fr/dexguard.html">Step-by-step guide to reverse an APK protected with DexGuard using Jadx</a>
-  
-<a href="https://github.com/Ralireza/AndroidSecurityTeryaagh">Android security guides, roadmap, docs, courses, writeups, and teryaagh</a>
+| Repo |<a href="https://github.com/Ralireza/Android-Security-Teryaagh">Android security guides, roadmap, docs, courses, writeups, and teryaagh</a>
   
 <a href="https://medium.com/@dPhoeniixx/tiktokforandroid1clickrce240266e78105">TikTok for Android 1Click RCE</a>
   
