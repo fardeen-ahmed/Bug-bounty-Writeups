@@ -805,10 +805,7 @@
 | Tool |<a href="https://github.com/cyberheartmi9/Frida-Guide/blob/main/Frida%20Guide/Frida%20Guide.md">How to Write Frida Hook For Android</a>
 | Basic |<a href="https://www.hebunilhanli.com/wonderland/mobile-security/android-component-security/">Android Component Security</a>
 | Tool |<a href="https://github.com/gokulapap/Reconator">Reconator - Automated Recon for Pentesting & Bug Bounty</a>
-
-<a href="https://servicenger.com/blog/mobile/android/facebookmessengerforandroidindirectthreaddeletion/">Facebook Messenger for Android indirect thread deletion vulnerability</a>
-
-<a href="https://www.oliviaohara.com/keybase">Keybase App Vulnerability: Incomplete Cleanup of Messages In Keybase for Android/iOS  CVE202134421</a>
+| App |<a href="https://www.oliviaohara.com/keybase">Keybase App Vulnerability: Incomplete Cleanup of Messages In Keybase for Android/iOS - CVE-2021-34421</a>
   
 <a href="https://dphoeniixx.medium.com/exploitingrequestforgeryonmobileapplicationse1d196d187b3">Exploiting Request forgery on Mobile Applications</a>
 
