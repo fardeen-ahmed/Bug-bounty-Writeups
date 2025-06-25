@@ -803,10 +803,7 @@
 | Chained |<a href="https://bugs.chromium.org/p/chromium/issues/detail?id=1368230">SameSite cookie bypass on Android by redirecting to to intentpicker with PoC code ($5,000 bounty)</a>
 | IOS |<a href="https://hackerone.com/reports/401793">Insecure deeplink leads to sensitive information disclosure</a>
 | Tool |<a href="https://github.com/cyberheartmi9/Frida-Guide/blob/main/Frida%20Guide/Frida%20Guide.md">How to Write Frida Hook For Android</a>
-
-<a href="https://servicenger.com/mobile/facebookandroidwebviewvulnerability/">Facebook android webview vulnerability : Execute arbitrary javascript (xss) and load arbitrary website </a>
-
-<a href="https://www.hebunilhanli.com/wonderland/mobilesecurity/androidcomponentsecurity/">Android Component Security</a>
+| Basic |<a href="https://www.hebunilhanli.com/wonderland/mobile-security/android-component-security/">Android Component Security</a>
 
 <a href="https://github.com/gokulapap/Reconator">Reconator  Automated Recon for Pentesting & Bug Bounty</a>
 
