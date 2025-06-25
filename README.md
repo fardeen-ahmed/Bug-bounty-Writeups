@@ -809,12 +809,8 @@
 | Interesting Bug |<a href="https://dphoeniixx.medium.com/exploiting-request-forgery-on-mobile-applications-e1d196d187b3">Exploiting Request forgery on Mobile Applications</a>
 | RE |<a href="https://blog.lexfo.fr/dexguard.html">Step-by-step guide to reverse an APK protected with DexGuard using Jadx</a>
 | Repo |<a href="https://github.com/Ralireza/Android-Security-Teryaagh">Android security guides, roadmap, docs, courses, writeups, and teryaagh</a>
-  
-<a href="https://medium.com/@dPhoeniixx/tiktokforandroid1clickrce240266e78105">TikTok for Android 1Click RCE</a>
-  
-<a href="https://twitter.com/cyph3r_asr/status/1413438299545296902">10 Vulnerable Android Applications for beginners to learn Android  hacking</a>
-  
-<a href="https://blog.oversecured.com/Androidsecuritychecklistwebview/">Android security checklist: WebView</a>
+| Tweet |<a href="https://twitter.com/cyph3r_asr/status/1413438299545296902">10 Vulnerable Android Applications for beginners to learn Android  hacking</a>
+| Webview |<a href="https://blog.oversecured.com/Android-security-checklist-webview/">Android security checklist: WebView</a>
   
 <a href="https://www.eff.org/deeplinks/2022/04/mobilemitminterceptingyourandroidapptrafficgo">Mobile MitM: Intercepting your Android App Traffic On the Go</a>
 
