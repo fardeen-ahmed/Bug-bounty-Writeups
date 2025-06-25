@@ -804,8 +804,7 @@
 | IOS |<a href="https://hackerone.com/reports/401793">Insecure deeplink leads to sensitive information disclosure</a>
 | Tool |<a href="https://github.com/cyberheartmi9/Frida-Guide/blob/main/Frida%20Guide/Frida%20Guide.md">How to Write Frida Hook For Android</a>
 | Basic |<a href="https://www.hebunilhanli.com/wonderland/mobile-security/android-component-security/">Android Component Security</a>
-
-<a href="https://github.com/gokulapap/Reconator">Reconator  Automated Recon for Pentesting & Bug Bounty</a>
+| Tool |<a href="https://github.com/gokulapap/Reconator">Reconator - Automated Recon for Pentesting & Bug Bounty</a>
 
 <a href="https://servicenger.com/blog/mobile/android/facebookmessengerforandroidindirectthreaddeletion/">Facebook Messenger for Android indirect thread deletion vulnerability</a>
 
