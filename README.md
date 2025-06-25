@@ -806,8 +806,7 @@
 | Basic |<a href="https://www.hebunilhanli.com/wonderland/mobile-security/android-component-security/">Android Component Security</a>
 | Tool |<a href="https://github.com/gokulapap/Reconator">Reconator - Automated Recon for Pentesting & Bug Bounty</a>
 | App |<a href="https://www.oliviaohara.com/keybase">Keybase App Vulnerability: Incomplete Cleanup of Messages In Keybase for Android/iOS - CVE-2021-34421</a>
-  
-<a href="https://dphoeniixx.medium.com/exploitingrequestforgeryonmobileapplicationse1d196d187b3">Exploiting Request forgery on Mobile Applications</a>
+| Interesting Bug |<a href="https://dphoeniixx.medium.com/exploiting-request-forgery-on-mobile-applications-e1d196d187b3">Exploiting Request forgery on Mobile Applications</a>
 
 <a href="https://blog.lexfo.fr/dexguard.html">Stepbystep guide to reverse an APK protected with DexGuard using Jadx</a>
   
