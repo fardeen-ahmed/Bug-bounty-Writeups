@@ -815,8 +815,7 @@
 | BLE |<a href="https://cybervelia.com/?p=733">Mobile Bug Bounty Hunting? Enter BLE</a>
 | Lab |<a href="https://trustedsec.com/blog/set-up-an-android-hacking-lab-for-0">Set Up an Android Hacking Lab for $0 </a>
 | Biometric Bypass |<a href="https://securitycafe.ro/2022/09/05/mobile-pentesting-101-bypassing-biometric-authentication/">MOBILE PENTESTING 101 – BYPASSING BIOMETRIC AUTHENTICATION</a>
-  
-<a href="https://dphoeniixx.medium.com/chainingtelegrambugstostealsessionrelatedfilesc90eac4749bd">Chaining bugs in Telegram for Android app to steal sessionrelated files</a>  
+| Session straling |<a href="https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd">Chaining bugs in Telegram for Android app to steal sessionrelated files</a>  
   
 <a href="https://blog.nviso.eu/2022/08/18/interceptfluttertrafficoniosandandroidhttphttpsdiopinning/">Intercept Flutter traffic on iOS and Android (HTTP/HTTPS/Dio Pinning)</a>
 
