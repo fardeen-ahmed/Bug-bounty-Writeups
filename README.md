@@ -817,8 +817,7 @@
 | Biometric Bypass |<a href="https://securitycafe.ro/2022/09/05/mobile-pentesting-101-bypassing-biometric-authentication/">MOBILE PENTESTING 101 – BYPASSING BIOMETRIC AUTHENTICATION</a>
 | Session straling |<a href="https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd">Chaining bugs in Telegram for Android app to steal sessionrelated files</a>  
 | Pinning Bypass |<a href="https://blog.nviso.eu/2022/08/18/intercept-flutter-traffic-on-ios-and-android-http-https-dio-pinning/">Intercept Flutter traffic on iOS and Android (HTTP/HTTPS/Dio Pinning)</a>
-
-<a href="https://blog.oversecured.com/Androidsecuritychecklisttheftofarbitraryfiles/">Android security checklist: theft of arbitrary files</a>
+| File Theft Android |<a href="https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files/">Android security checklist: theft of arbitrary files</a>
   
 <a href="https://github.com/randorisec/MobileHackingCheatSheet">Basics on commands/tools/info on how to assess the security of mobile applications</a>
   
