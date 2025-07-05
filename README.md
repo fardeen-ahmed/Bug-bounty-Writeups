@@ -813,8 +813,7 @@
 | Webview |<a href="https://blog.oversecured.com/Android-security-checklist-webview/">Android security checklist: WebView</a>
 | Android MITM |<a href="https://www.eff.org/deeplinks/2022/04/mobile-mitm-intercepting-your-android-app-traffic-go">Mobile MitM: Intercepting your Android App Traffic On the Go</a>
 | BLE |<a href="https://cybervelia.com/?p=733">Mobile Bug Bounty Hunting? Enter BLE</a>
-
-<a href="https://www.trustedsec.com/blog/setupanandroidhackinglabfor0/">Set Up an Android Hacking Lab for $0 </a>
+| Lab |<a href="https://trustedsec.com/blog/set-up-an-android-hacking-lab-for-0">Set Up an Android Hacking Lab for $0 </a>
   
 <a href="https://securitycafe.ro/2022/09/05/mobilepentesting101bypassingbiometricauthentication/">MOBILE PENTESTING 101 – BYPASSING BIOMETRIC AUTHENTICATION</a>
   
