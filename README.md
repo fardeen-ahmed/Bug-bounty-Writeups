@@ -818,8 +818,7 @@
 | Session straling |<a href="https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd">Chaining bugs in Telegram for Android app to steal sessionrelated files</a>  
 | Pinning Bypass |<a href="https://blog.nviso.eu/2022/08/18/intercept-flutter-traffic-on-ios-and-android-http-https-dio-pinning/">Intercept Flutter traffic on iOS and Android (HTTP/HTTPS/Dio Pinning)</a>
 | File Theft Android |<a href="https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files/">Android security checklist: theft of arbitrary files</a>
-  
-<a href="https://github.com/randorisec/MobileHackingCheatSheet">Basics on commands/tools/info on how to assess the security of mobile applications</a>
+| Cheetsheet |<a href="https://github.com/randorisec/MobileHackingCheatSheet">Basics on commands/tools/info on how to assess the security of mobile applications</a>
   
 <a href="https://github.com/kleiton0x00/AdvancedSQLInjectionCheatsheet">Advanced SQL Injection Cheatsheet : A cheat sheet that contains advanced queries for SQL Injection of all types.</a>
   
