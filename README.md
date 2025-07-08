@@ -831,8 +831,9 @@
 
 
 # IOS Application Testing (Methods + Tools)
-
-<a href="https://github.com/ivansincek/iospenetrationtestingcheatsheet">iOS Penetration Testing Cheat Sheet </a>
+| Category | Writeup |
+|-----------|-----|
+| Cheetsheet |<a href="https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet">iOS Penetration Testing Cheat Sheet </a>
 
 <a href="https://martabyte.github.io/ios/hacking/2022/03/13/ioshackingen.html">iOS Hacking  A Beginner's Guide to Hacking iOS Apps [2022 Edition]</a>
 
