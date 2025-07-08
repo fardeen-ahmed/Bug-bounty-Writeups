@@ -823,13 +823,7 @@
 | Android Vulnerabilities |<a href="https://blog.oversecured.com/Discovering-vendor-specific-vulnerabilities-in-Android/">Discovering vendorspecific vulnerabilities in Android</a>
 | Bypass |<a href="https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/">Accidental $70k Google Pixel Lock Screen Bypass </a>
 | Tool |<a href="https://kd-200.medium.com/mobile-app-scanner-to-find-security-vulnerabilities-6989cf552058">Mobile App Scanner to Find Security Vulnerabilities</a>
-| Series |<a href="https://eshard.com/posts/pixel6_bootloader">Pixel6: Booting up (part 1)</a>
-  
-<a href="https://eshard.com/posts/pixel6bootloader2">Pixel 6 bootloader: Emulation, ROP (part 2)</a>
-  
-<a href="https://eshard.com/posts/pixel6_bootloader_3">Pixel 6 Bootloader: Exploitation (part 3)</a>
-  
-<a href="https://servicenger.com/mobile/instagramvulnerabilityturnoffmessagerequestsdeeplink/">Instagram vulnerability : Turn off all type of message requests using deeplink (Android)</a>
+| Deeplink |<a href="https://www.studocu.com/row/document/jamaa%D8%A9-tshryn/nthm-alatsalat/instagram-vulnerability-turn-off-all-type-of-message-requests-using-deeplink-android-servicenger/101221082">Instagram vulnerability : Turn off all type of message requests using deeplink (Android)</a>
 
 
 
