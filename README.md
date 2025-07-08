@@ -823,8 +823,7 @@
 | Android Vulnerabilities |<a href="https://blog.oversecured.com/Discovering-vendor-specific-vulnerabilities-in-Android/">Discovering vendorspecific vulnerabilities in Android</a>
 | Bypass |<a href="https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/">Accidental $70k Google Pixel Lock Screen Bypass </a>
 | Tool |<a href="https://kd-200.medium.com/mobile-app-scanner-to-find-security-vulnerabilities-6989cf552058">Mobile App Scanner to Find Security Vulnerabilities</a>
-  
-<a href="https://eshard.com/posts/pixel6_bootloader">Pixel6: Booting up (part 1)</a>
+| Series |<a href="https://eshard.com/posts/pixel6_bootloader">Pixel6: Booting up (part 1)</a>
   
 <a href="https://eshard.com/posts/pixel6bootloader2">Pixel 6 bootloader: Emulation, ROP (part 2)</a>
   
