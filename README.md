@@ -836,8 +836,7 @@
 | Cheetsheet |<a href="https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet">iOS Penetration Testing Cheat Sheet </a>
 | Guide |<a href="https://martabyte.github.io/ios/hacking/2022/03/13/ios-hacking-en.html">iOS Hacking  A Beginner's Guide to Hacking iOS Apps [2022 Edition]</a>
 | Jailbreak |<a href="https://thebittimes.com/ios-jailbreak-dev-wins-2m-bounty-for-finding-critical-optimism-bug-tbt11643.html">iOS jailbreak dev wins $2M bounty for finding critical Optimism bug</a>
-
-<a href="https://www.ryanpickren.com/safariuxss">Hacking the Apple Webcam (again)</a>
+| Webcam |<a href="https://www.ryanpickren.com/safari-uxss">Hacking the Apple Webcam (again)</a>
 
 <a href="https://medium.com/@mk2011sharma/exploringiosapplicationswithfridaandobjectionbasiccommandsforpentesting4c637dbeb9fd">Exploring iOS Applications with Frida and Objection: Basic Commands for Pentesting</a>
   
