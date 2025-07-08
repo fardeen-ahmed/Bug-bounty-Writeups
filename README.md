@@ -838,8 +838,7 @@
 | Jailbreak |<a href="https://thebittimes.com/ios-jailbreak-dev-wins-2m-bounty-for-finding-critical-optimism-bug-tbt11643.html">iOS jailbreak dev wins $2M bounty for finding critical Optimism bug</a>
 | Webcam |<a href="https://www.ryanpickren.com/safari-uxss">Hacking the Apple Webcam (again)</a>
 | Frida / Objection |<a href="https://medium.com/@SecureWithMohit/exploring-ios-applications-with-frida-and-objection-basic-commands-for-pentesting-4c637dbeb9fd">Exploring iOS Applications with Frida and Objection: Basic Commands for Pentesting</a>
-  
-<a href="https://hackerone.com/reports/401793">Insecure deeplink leads to sensitive information disclosure</a>
+| S.I.D |<a href="https://hackerone.com/reports/401793">Insecure deeplink leads to sensitive information disclosure</a>
   
 <a href="https://www.inversecos.com/2022/06/howtoreverseengineerandpatchios.html">How to Reverse Engineer and Patch an iOS Application for Beginners:</a>
   
