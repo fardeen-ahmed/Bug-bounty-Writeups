@@ -843,9 +843,8 @@
 | R.E |<a href="https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/index.html">Reverse Engineering the Apple MultiPeer Connectivity Framework </a>
 | Bypass |<a href="https://theevilbit.github.io/posts/cve-2022-32929/">CVE202232929  Bypass iOS backup's TCC protection</a>
 | R.E |<a href="https://blog.impalabs.com/2211_hyperpom.html">Hyperpom: An Apple Silicon Fuzzer for 64bit ARM Binarie</a>
-| S.I.D |<a href="https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/">CVE202241622 and CVE202241800 (FIXED): F5 BIGIP and iControl REST Vulnerabilities and Exposures</a>  
-  
-<a href="https://theevilbit.github.io/posts/cve202232929/">CVE202232929  Bypass iOS backup's TCC protection</a>
+| S.I.D |<a href="https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/">CVE-2022-41622 and CVE-2022-41800 (FIXED): F5 BIGIP and iControl REST Vulnerabilities and Exposures</a>  
+| TCC Protection |<a href="https://theevilbit.github.io/posts/cve-2022-32929/">CVE-2022-32929 - Bypass iOS backup's TCC protection</a>
   
 <a href="https://canmustdie.medium.com/bypassapplesredirectionprocesswiththedotcharacterc47d40537202">Bypass Apple’s redirection process with the dot (“.”) character</a>
 
