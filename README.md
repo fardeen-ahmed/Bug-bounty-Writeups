@@ -856,8 +856,7 @@
 | Category | Writeup |
 |-----------|-----|
 | OWASP |<a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">Top 10 Tips for Burp Suite</a>
-
-<a href="https://medium.com/miicybersec/burpsuiteextensionsrarelyutilizedbutquiteuseful8d57c5a3a06b">Burp Suite Extensions: Rarely Utilized but Quite Useful</a>
+| Extensions |<a href="https://medium.com/fmisec/burp-suite-extensions-rarely-utilized-but-quite-useful-8d57c5a3a06b">Burp Suite Extensions: Rarely Utilized but Quite Useful</a>
 
 
 <a href="https://www.pentagrid.ch/en/blog/burpsuitehackvertorcustomtagsemailsmstanmultifactorauthentication/">Burp Suite  solving Email and SMS TAN multifactor authentication with Hackvertor custom tags</a>
