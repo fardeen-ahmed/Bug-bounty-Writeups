@@ -841,8 +841,7 @@
 | S.I.D |<a href="https://hackerone.com/reports/401793">Insecure deeplink leads to sensitive information disclosure</a>
 | R.E |<a href="https://www.inversecos.com/2022/06/how-to-reverse-engineer-and-patch-ios.html">How to Reverse Engineer and Patch an iOS Application for Beginners:</a>
 | R.E |<a href="https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/index.html">Reverse Engineering the Apple MultiPeer Connectivity Framework </a>
-  
-<a href="https://theevilbit.github.io/posts/cve202232929/">CVE202232929  Bypass iOS backup's TCC protection</a>
+| Bypass |<a href="https://theevilbit.github.io/posts/cve-2022-32929/">CVE202232929  Bypass iOS backup's TCC protection</a>
   
 <a href="https://blog.impalabs.com/2211_hyperpom.html">Hyperpom: An Apple Silicon Fuzzer for 64bit ARM Binarie</a>
   
