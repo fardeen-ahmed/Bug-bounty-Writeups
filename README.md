@@ -853,7 +853,9 @@
 
 # Guide To Penetration Testing tools (Beginner + Intermediate + Advanced tools and techniques)
 
-<a href="https://medium.com/r3dbuck3t/top10tipsforburpsuite72212d22328f">Top 10 Tips for Burp Suite</a>
+| Category | Writeup |
+|-----------|-----|
+| OWASP |<a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">Top 10 Tips for Burp Suite</a>
 
 <a href="https://medium.com/miicybersec/burpsuiteextensionsrarelyutilizedbutquiteuseful8d57c5a3a06b">Burp Suite Extensions: Rarely Utilized but Quite Useful</a>
 
