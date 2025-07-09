@@ -6,7 +6,7 @@
 
 | Basic Tools | Description |
 |-----------|-----|
-| <a href="https://github.com/RenwaX23/XSSTRON"> XSSTRON </a>  | Electron JS Browser To Find XSS Vulnerabilities Automatically  |
+| <a href="https://github.com/RenwaX23/XSSTRON" target="_blank"> XSSTRON </a>  | Electron JS Browser To Find XSS Vulnerabilities Automatically  |
 | <a href="https://github.com/mdsecresearch/BurpSuiteSharpener"> Burpsuite Sharpener </a> | Extension should add a number of UI and functional features to Burp Suite to make working with it easie |
 | <a href="https://medium.com/@calfcrusher/automate-and-finds-the-ip-address-of-a-website-behind-cloudflare-45db99510b4b"> Automate to find IP address | Automate and finds the IP address of a website behind Cloudflare  |
 | <a href="https://github.com/m8r0wn/taser"> Taser </a> | Python3 resource library for creating security related tooling</a> |
