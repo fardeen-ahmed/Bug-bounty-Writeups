@@ -858,8 +858,7 @@
 | OWASP |<a href="https://medium.com/r3d-buck3t/top-10-tips-for-burp-suite-72212d22328f">Top 10 Tips for Burp Suite</a>
 | Extensions |<a href="https://medium.com/fmisec/burp-suite-extensions-rarely-utilized-but-quite-useful-8d57c5a3a06b">Burp Suite Extensions: Rarely Utilized but Quite Useful</a>
 | MFA |<a href="https://www.pentagrid.ch/en/blog/burp-suite-hackvertor-custom-tags-email-sms-tan-multi-factor-authentication/">Burp Suite  solving Email and SMS TAN multifactor authentication with Hackvertor custom tags</a>
-
-<a href="https://medium.com/@kaorrosi/findingcsrfvulnerabilitieswithburpsuitea0a37b87eb85?source">Finding CSRF Vulnerabilities with BurpSuite</a>
+| CSRF |<a href="https://medium.com/@kaorrosi/finding-csrf-vulnerabilities-with-burpsuite-a0a37b87eb85">Finding CSRF Vulnerabilities with BurpSuite</a>
 
 <a href="https://research.nccgroup.com/2020/12/08/toolreleasehttpsignaturesaburpsuiteextensionimplementinghttpsignatures/">HTTP Signatures: A Burp Suite Extension Implementing HTTP Signatures</a>
 
