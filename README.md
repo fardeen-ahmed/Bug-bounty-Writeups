@@ -861,8 +861,7 @@
 | CSRF |<a href="https://medium.com/@kaorrosi/finding-csrf-vulnerabilities-with-burpsuite-a0a37b87eb85">Finding CSRF Vulnerabilities with BurpSuite</a>
 | Extension |<a href="https://www.nccgroup.com/us/research-blog/tool-release-httpsignatures-a-burp-suite-extension-implementing-http-signatures/">HTTP Signatures: A Burp Suite Extension Implementing HTTP Signatures</a>
 | Roadmap |<a href="https://portswigger.net/blog/burp-suite-roadmap-for-2021">Burp Suite roadmap for 2021</a>
-
-<a href="https://portswigger.net/blog/browserpoweredscanninginburpsuite">Browser powered scanning in Burp Suite</a>
+| Scanner |<a href="https://portswigger.net/blog/browser-powered-scanning-in-burp-suite">Browser powered scanning in Burp Suite</a>
 
 <a href="https://blog.yeswehack.com/yeswerhackers/tutorial/howtolearnwriteburpsuiteextensionkotlinsettingup/">Learn how to write a Burp Suite extension in Kotlin – Setting up</a>
 
