@@ -860,8 +860,7 @@
 | MFA |<a href="https://www.pentagrid.ch/en/blog/burp-suite-hackvertor-custom-tags-email-sms-tan-multi-factor-authentication/">Burp Suite  solving Email and SMS TAN multifactor authentication with Hackvertor custom tags</a>
 | CSRF |<a href="https://medium.com/@kaorrosi/finding-csrf-vulnerabilities-with-burpsuite-a0a37b87eb85">Finding CSRF Vulnerabilities with BurpSuite</a>
 | Extension |<a href="https://www.nccgroup.com/us/research-blog/tool-release-httpsignatures-a-burp-suite-extension-implementing-http-signatures/">HTTP Signatures: A Burp Suite Extension Implementing HTTP Signatures</a>
-
-<a href="https://portswigger.net/blog/burpsuiteroadmapfor2021">Burp Suite roadmap for 2021</a>
+| Roadmap |<a href="https://portswigger.net/blog/burp-suite-roadmap-for-2021">Burp Suite roadmap for 2021</a>
 
 <a href="https://portswigger.net/blog/browserpoweredscanninginburpsuite">Browser powered scanning in Burp Suite</a>
 
