@@ -882,10 +882,7 @@
 | Category | Writeup |
 |-----------|-----|
 | BOLA |<a href="https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64">What is BOLA? 3digit bounty from Topcoder ($$$)</a>
-
-<a href="https://g.livejournal.com/16735.html">New Cosmos Blockchain API DoS</a>
-
-<a href="https://frichetten.com/blog/undocumentedamplifyapileakaccountid/">Using an Undocumented Amplify API to Leak AWS Account IDs</a>
+| Chain |<a href="https://frichetten.com/blog/undocumented-amplify-api-leak-account-id/">Using an Undocumented Amplify API to Leak AWS Account IDs</a>
 
 <a href="https://medium.com/@Mrcyberwarrior/exploitingactivityinmediumandroidappe2e6f3553eef">Trigger custom URL in Medium Android app</a>
   
