@@ -869,8 +869,7 @@
 | Tool |<a href="https://medium.com/geekculture/params-discovering-hidden-treasure-in-webapps-b4a78509290f">Params — Discovering Hidden Treasure in WebApps</a>
 | Tool |<a href="https://github.com/Ge0rg3/requests-ip-rotator">A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudoinfinite IPs for web scraping and brute forcing.</a>
 | Tool |<a href="https://github.com/tomnomnom/gron">Make JSON greppable! gron transforms JSON into discrete assignments to make it easier to grep for what you want and see the absolute 'path' to it.</a>
-
-<a href="https://medium.com/csggovtech/lifesapeachfuzzerhowtobuildandusegitlabsopensourceprotocolfuzzerfd78c9caf05e">Life’s a Peach (Fuzzer) How to Build and Use GitLab’s OpenSource Protocol Fuzzer</a>
+| Tool |<a href="https://medium.com/csg-govtech/lifes-a-peach-fuzzer-how-to-build-and-use-gitlab-s-open-source-protocol-fuzzer-fd78c9caf05e">Life’s a Peach (Fuzzer) How to Build and Use GitLab’s OpenSource Protocol Fuzzer</a>
 
 
 # Jenkins Vulnerabilities
