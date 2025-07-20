@@ -879,9 +879,9 @@
 
 
 # API Security Testing 
-<a href="https://monke.ie/apivulnscasestudy/">A Case Study of API Vulnerabilities</a>
-
-<a href="https://infosecwriteups.com/whatisbola3digitbountyfromtopcodera25e7fae0d64">What is BOLA? 3digit bounty from Topcoder ($$$)</a>
+| Category | Writeup |
+|-----------|-----|
+| BOLA |<a href="https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64">What is BOLA? 3digit bounty from Topcoder ($$$)</a>
 
 <a href="https://g.livejournal.com/16735.html">New Cosmos Blockchain API DoS</a>
 
