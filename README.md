@@ -873,8 +873,9 @@
 
 
 # Jenkins Vulnerabilities
-
-<a href="https://github.com/gquere/pwn_jenkins">Notes about attacking Jenkins servers</a>
+| Category | Writeup |
+|-----------|-----|
+| Jenkins |<a href="https://github.com/gquere/pwn_jenkins">Notes about attacking Jenkins servers</a>
 
 
 # API Security Testing 
