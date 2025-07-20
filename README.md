@@ -863,13 +863,8 @@
 | Roadmap |<a href="https://portswigger.net/blog/burp-suite-roadmap-for-2021">Burp Suite roadmap for 2021</a>
 | Scanner |<a href="https://portswigger.net/blog/browser-powered-scanning-in-burp-suite">Browser powered scanning in Burp Suite</a>
 | Writing Extensions |<a href="https://www.yeswehack.com/learn-bug-bounty/how-to-learn-write-burp-suite-extension-kotlin-setting-up">Learn how to write a Burp Suite extension in Kotlin – Setting up</a>
-
-
-
-
-
-<a href="https://hogarth45.medium.com/usingintrudertoauthorizationheaders161fd873824a">Using Intruder to Brute Force Authorization Header</a>
-
+| Burpsuite |<a href="https://hogarth45.medium.com/using-intruder-to-authorization-headers-161fd873824a">Using Intruder to Brute Force Authorization Header</a>
+ 
 <a href="https://github.com/gh0stkey/CaA">CaA  BurpSuite Collector and Analyzer </a>
 
 <a href="https://github.com/sh1yo/x8">x8 Hidden parameters discovery suite</a>
