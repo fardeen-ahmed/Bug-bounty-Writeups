@@ -883,8 +883,7 @@
 |-----------|-----|
 | BOLA |<a href="https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64">What is BOLA? 3digit bounty from Topcoder ($$$)</a>
 | Chain |<a href="https://frichetten.com/blog/undocumented-amplify-api-leak-account-id/">Using an Undocumented Amplify API to Leak AWS Account IDs</a>
-
-<a href="https://medium.com/@Mrcyberwarrior/exploitingactivityinmediumandroidappe2e6f3553eef">Trigger custom URL in Medium Android app</a>
+| Redirection |<a href="https://infosecwriteups.com/exploiting-activity-in-medium-android-app-e2e6f3553eef">Trigger custom URL in Medium Android app</a>
   
 <a href="https://masturf.medium.com/howtoexploitfirebaserealtimedatabaseusingrestapi34885160fa55">How to Exploit Public Firebase Realtime Database using REST API</a>
   
