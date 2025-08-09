@@ -896,8 +896,7 @@
 |-----------|-----|
 | Web3 |<a href="https://samcurry.net/universal-xss-on-netlifys-next-js-library/">Exploiting Web3’s Hidden Attack Surface: Universal XSS on Netlify’s Next.js Library</a>
 | Web3 |<a href="https://shifacyclewala.medium.com/the-rise-of-web-3-0-security-d90373b64714">The Rise of Web 3.0 Security</a>
-  
-<a href="https://medium.com/@vamshivaran110/rceonadminpanelofweb3website2d0acf34d6ea">RCE on admin panel of web3 website</a>
+| Web3 |<a href="https://medium.com/@vamshivaran110/rce-on-admin-panel-of-web3-website-2d0acf34d6ea">RCE on admin panel of web3 website</a>
   
   
   
