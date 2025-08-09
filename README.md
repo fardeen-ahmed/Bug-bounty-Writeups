@@ -885,8 +885,7 @@
 | Chain |<a href="https://frichetten.com/blog/undocumented-amplify-api-leak-account-id/">Using an Undocumented Amplify API to Leak AWS Account IDs</a>
 | Redirection |<a href="https://infosecwriteups.com/exploiting-activity-in-medium-android-app-e2e6f3553eef">Trigger custom URL in Medium Android app</a>
 | API |<a href="https://masturf.medium.com/how-to-exploit-firebase-realtime-database-using-rest-api-34885160fa55">How to Exploit Public Firebase Realtime Database using REST API</a>
-  
-<a href="https://hencohen10.medium.com/microsoftdynamicscontainersandboxrceviaunauthenticateddockerremoteapi20000bounty7f726340a93b">Microsoft Dynamics Container Sandbox RCE via Unauthenticated Docker Remote API 20,000$ Bounty </a>
+| RCE |<a href="https://hencohen10.medium.com/microsoft-dynamics-container-sandbox-rce-via-unauthenticated-docker-remote-api-20-000-bounty-7f726340a93b">Microsoft Dynamics Container Sandbox RCE via Unauthenticated Docker Remote API 20,000$ Bounty </a>
   
 <a href="https://fortbridge.co.uk/research/compromisingpleskviaitsrestapi/">Compromising Plesk via its REST API</a>
 
