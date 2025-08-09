@@ -905,8 +905,7 @@
 |-----------|-----|
 | Smart Contractor Crawler|<a href="https://github.com/0xsha/ChainWalker">ChainWalker is a smart contract scraper which uses RCP/IPC calls to extract the information</a>
 | Mass Assignment |<a href="https://blog.includesecurity.com/2022/07/hunting-for-mass-assignment-vulnerabilities-using-github-codesearch-and-grep-app/">Hunting For Mass Assignment Vulnerabilities Using GitHub CodeSearch and grep.app</a>
-  
-<a href="https://mirror.xyz/orenyomtov.eth/RbV_WYYTPCAObp3VsNlkgx6iQBElwulGQf586lVK7dE">Velas Infinite Mint Vulnerability Writeup</a>
+| Velas |<a href="https://mirror.xyz/orenyomtov.eth/RbV_WYYTPCAObp3VsNlkgx6iQBElwulGQf586lVK7dE">Velas Infinite Mint Vulnerability Writeup</a>
   
   
   
