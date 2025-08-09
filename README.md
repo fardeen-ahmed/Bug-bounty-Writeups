@@ -901,7 +901,9 @@
   
   
 # BlockChain Security
-<a href="https://github.com/0xsha/ChainWalker">ChainWalker is a smart contract scraper which uses RCP/IPC calls to extract the information</a>
+| Category | Writeup |
+|-----------|-----|
+| Smart Contractor Crawler|<a href="https://github.com/0xsha/ChainWalker">ChainWalker is a smart contract scraper which uses RCP/IPC calls to extract the information</a>
 
 <a href="https://github.com/blockthreat/blocksecctfs">Blocksec CTFs  A curated list of blockchain security Wargames, Challenges, and Capture the Flag (CTF) competitions and solution writeups</a>
   
