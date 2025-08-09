@@ -887,8 +887,7 @@
 | API |<a href="https://masturf.medium.com/how-to-exploit-firebase-realtime-database-using-rest-api-34885160fa55">How to Exploit Public Firebase Realtime Database using REST API</a>
 | RCE |<a href="https://hencohen10.medium.com/microsoft-dynamics-container-sandbox-rce-via-unauthenticated-docker-remote-api-20-000-bounty-7f726340a93b">Microsoft Dynamics Container Sandbox RCE via Unauthenticated Docker Remote API 20,000$ Bounty </a>
 | API |<a href="https://fortbridge.co.uk/research/compromising-plesk-via-its-rest-api/">Compromising Plesk via its REST API</a>
-
-<a href="https://salt.security/blog/missingbricksfindingsecurityholesinlegoapis">Missing Bricks: Finding Security Holes in LEGO APIs</a>
+| API |<a href="https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis">Missing Bricks: Finding Security Holes in LEGO APIs</a>
   
   
   
