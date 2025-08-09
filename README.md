@@ -892,7 +892,9 @@
   
   
 # Web 3.0 Writeups 
-<a href="https://samcurry.net/universalxssonnetlifysnextjslibrary/">Exploiting Web3’s Hidden Attack Surface: Universal XSS on Netlify’s Next.js Library</a>
+| Category | Writeup |
+|-----------|-----|
+| Web3 |<a href="https://samcurry.net/universal-xss-on-netlifys-next-js-library/">Exploiting Web3’s Hidden Attack Surface: Universal XSS on Netlify’s Next.js Library</a>
   
 <a href="https://shifacyclewala.medium.com/theriseofweb30securityd90373b64714">The Rise of Web 3.0 Security</a>
   
