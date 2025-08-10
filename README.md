@@ -913,7 +913,7 @@
 | Category | Writeup |
 |-----------|-----|
 | IOT |<a href="https://www.vulncheck.com/blog/xiongmai-iot-exploitation">Xiongmai IoT Exploitation</a>
-<a href="https://downrightnifty.me/blog/2022/12/26/hackinggooglehome.html">Turning Google smart speakers into wiretaps for $100k</a>
+| IOT |<a href="https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html">Turning Google smart speakers into wiretaps for $100k</a>
 
 
 # CheatSheets for Cybersecurity 
