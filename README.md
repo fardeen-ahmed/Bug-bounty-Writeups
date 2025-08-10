@@ -917,7 +917,9 @@
 
 
 # CheatSheets for Cybersecurity 
-<a href="https://ozguralp.medium.com/bigquerysqlinjectioncheatsheet65ad70e11eac">BigQuery SQL Injection Cheat Sheet</a>
+| Category | Writeup |
+|-----------|-----|
+| SQLI Cheetsheet |<a href="https://ozguralp.medium.com/bigquery-sql-injection-cheat-sheet-65ad70e11eac">BigQuery SQL Injection Cheat Sheet</a>
 
 
   
