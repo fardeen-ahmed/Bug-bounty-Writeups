@@ -923,36 +923,40 @@
 
 
   
-# Famous Checklists 
-  <a href="https://github.com/0xmaximus/GalaxyBugbountyChecklist">Galaxy Bug Bounty : Tips and Tutorials for Bug Bounty and also Penetration Tests</a>
+# Famous Checklists
+| Category | Writeup |
+|-----------|-----|
+| Checklist |<a href="https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist">Galaxy Bug Bounty : Tips and Tutorials for Bug Bounty and also Penetration Tests</a>
   
   
 
 # Extra Practicing Labs (Critical Vulnerabilities) :
-<a href="https://github.com/fengguangbin/springrcewar">Spring RCE vulnerability reproduction environment </a>
+| Category | Writeup |
+|-----------|-----|
+| RCE |<a href="https://github.com/fengguangbin/spring-rce-war">Spring RCE vulnerability reproduction environment </a>
 
-<a href="https://github.com/mcdulltii/SpringShell_0day">PoC  Spring Core RCE 0day Vulnerability </a>
+
   
 # Car Hacking Writeups 
-  <a href="https://programmingwithstyle.com/posts/howihackedmycar/">How I hacked my car (2021 Hyundai Ioniq SEL) : Part 1</a>
-  
-  <a href="https://programmingwithstyle.com/posts/howihackedmycarpart2/">How I hacked my car (2021 Hyundai Ioniq SEL) : Part 2</a>
-  
-  <a href="https://programmingwithstyle.com/posts/howihackedmycarpart3/">How I hacked my car (2021 Hyundai Ioniq SEL) : Part 3</a>
-  
-  <a href="https://www.mnemonic.io/resources/blog/reverseengineeringanevcharger/">Reverse engineering an EV charger</a>
-  
-  <a href="https://twitter.com/samwcyo/status/1597695281881296897">We recently found a vulnerability affecting Hyundai and Genesis vehicles where we could remotely control the locks, engine, horn, headlights, and trunk of vehicles made after 2012.</a>
-  
-  <a href="https://samcurry.net/webhackersvstheautoindustry/">Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More</a>
-  
-  <a href="https://twitter.com/samwcyo/status/1597792097175674880">More Car Hacking</a>
+| Category | Writeup |
+|-----------|-----|
+| Car Hacking |<a href="https://programmingwithstyle.com/posts/howihackedmycar/">How I hacked my car (2021 Hyundai Ioniq SEL) : Part 1</a>
+| Car Hacking |<a href="https://programmingwithstyle.com/posts/howihackedmycarpart2/">How I hacked my car (2021 Hyundai Ioniq SEL) : Part 2</a>
+| Car Hacking |<a href="https://programmingwithstyle.com/posts/howihackedmycarpart3/">How I hacked my car (2021 Hyundai Ioniq SEL) : Part 3</a>
+| Car Hacking |<a href="https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/">Reverse engineering an EV charger</a>
+| Car Hacking |<a href="https://x.com/samwcyo/status/1597695281881296897">We recently found a vulnerability affecting Hyundai and Genesis vehicles where we could remotely control the locks, engine, horn, headlights, and trunk of vehicles made after 2012.</a>
+| Car Hacking |<a href="https://samcurry.net/web-hackers-vs-the-auto-industry">Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More</a>
+| Car Hacking |<a href="https://twitter.com/samwcyo/status/1597792097175674880">More Car Hacking</a>
   
 # A.I Based Security research writeups :
-  <a href="https://medium.com/@nkrohitkumar2002/chatgptbugbountyreconautomationbd18291953cb">ChatGPT — Bug Bounty Recon Automation</a>
+| Category | Writeup |
+|-----------|-----|
+| AI Hacking |<a href="https://thegrayarea.tech/chatgpt-bug-bounty-recon-automation-bd18291953cb">ChatGPT — Bug Bounty Recon Automation</a>
 
 # Security Podcast :
-  <a href="https://dayzerosec.com/podcast/214.html">Exploiting VMware Workstation and the Return of CSG0Days</a>
+| Category | Writeup |
+|-----------|-----|
+| Podcast |<a href="https://dayzerosec.com/podcast/214.html">Exploiting VMware Workstation and the Return of CSG0Days</a>
 
 
 
