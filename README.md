@@ -956,6 +956,7 @@
 | Category | Writeup |
 |-----------|-----|
 | AI Hacking |<a href="https://thegrayarea.tech/chatgpt-bug-bounty-recon-automation-bd18291953cb">ChatGPT — Bug Bounty Recon Automation</a>
+| AI Hacking |<a href="https://blog.trailofbits.com/2025/04/29/deceiving-users-with-ansi-terminal-codes-in-mcp/">Deceiving users with ANSI terminal codes in MCP</a>
 
 # Security Podcast :
 | Category | Writeup |
