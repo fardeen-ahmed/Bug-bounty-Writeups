@@ -678,6 +678,7 @@
 | Race Condition |<a href="https://medium.com/@bababounty99/race-condition-resulted-in-using-the-feature-which-was-supposed-to-be-obtained-after-subscription-2bfe968d358c">Race Condition — Resulted in using the feature which was supposed to be obtained after subscription.</a>
 | RCE |<a href="https://shabarkin.medium.com/1-click-rce-in-electron-applications-79b52e1fe8b8">1click RCE in Electron Applications</a>
 | RCE |<a href="https://www.oligo.security/blog/airborne">Airborne: Wormable Zero-Click RCE in Apple AirPlay Puts Billions of Devices at Risk | Oligo Security | Oligo Security</a>
+| RCE |<a href="https://blog.huntr.com/inside-cve-2025-1550-remote-code-execution-via-keras-models">Inside CVE-2025-1550: Remote Code Execution via Keras Models</a>
 | SSCP |<a href="https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b">Worldwide Serverside Cache Poisoning on All Akamai Edge Nodes ($50K+ Bounty Earned)</a> 
 | AWS |<a href="https://securitylabs.datadoghq.com/articles/appsync-vulnerability-disclosure/">A Confused Deputy Vulnerability in AWS AppSync</a>
 | AWS |<a href="https://portswigger.net/daily-swig/vulnerability-in-aws-appsync-allowed-unauthorized-access-to-cloud-resources">Vulnerability in AWS AppSync allowed unauthorized access to cloud resources</a>
