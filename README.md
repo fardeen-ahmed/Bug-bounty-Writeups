@@ -526,6 +526,7 @@
 | Shift-Left failure |<a href="https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-i-submitting-i-d-da78142f032d">Bypassing default visibility for newlyadded email in Facebook(Part I  Submitting I.D)</a>
 | Shift-Left failure |<a href="https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-ii-trusted-contacts-36176eeb103">Bypassing default visibility for newly-added email in Facebook(Part II - Trusted Contacts)</a>
 | Chained |<a href="https://portswigger.net/daily-swig/deserialized-web-security-roundup-twitter-2fa-backlash-godaddy-suffers-years-long-attack-campaign-and-xss-hunter-adds-e2e-encryption">Deserialized web security roundup: Twitter 2FA backlash, GoDaddy suffers yearslong attack campaign, and XSS Hunter adds e2e encryption</a>
+| VS Code |<a href="https://portswigger.net/research/drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code">Drag and Pwnd: Leverage ASCII characters to exploit VS Code</a>
 | Shift-Left Abuse |<a href="https://hackerone.com/reports/170552">Slack integration setup lacks CSRF protection</a>
 | RCE |<a href="https://hackerone.com/reports/1065500">Multiple bugs leads to RCE on TikTok for Android</a>
 | SID |<a href="http://ysamm.com/?p=627">Leaking Facebook user information to external websites ($2000)</a>
